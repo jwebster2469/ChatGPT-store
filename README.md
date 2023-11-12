@@ -1,6 +1,6 @@
 ### ChatGPT
 
-🤖 General information about ChatGPT and the GPT Store.
+🤖 General information about ChatGPT, the Plugin Store and the GPT Store.
 
 #
 
