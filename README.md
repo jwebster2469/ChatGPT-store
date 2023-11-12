@@ -16,3 +16,5 @@
 [Creative Mind](https://chat.openai.com/g/g-bMDHS90Nw-creative-mind)
 
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
+
+[Birthday Cake](https://chat.openai.com/g/g-5rS8KMjJn-birthday-cake)
