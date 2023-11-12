@@ -9,6 +9,6 @@
 #
 ### My GPTs
 
-[Python Helper](https://chat.openai.com/g/g-NLUSBfccY-python-helper) 
-
 [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
+
+[Python Helper](https://chat.openai.com/g/g-NLUSBfccY-python-helper) 
