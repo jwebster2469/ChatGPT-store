@@ -12,3 +12,5 @@
 [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
 
 [Python Helper](https://chat.openai.com/g/g-NLUSBfccY-python-helper) 
+
+[Creative Mind](https://chat.openai.com/g/g-bMDHS90Nw-creative-mind)
