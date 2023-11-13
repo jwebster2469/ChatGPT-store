@@ -13,10 +13,6 @@
 
 Helpful and informative.
 
-[GPT Configure](https://chat.openai.com/g/g-vxj5xWL8O-gpt-configure)
-
-GPT configuration helper.
-
 [Python Helper](https://chat.openai.com/g/g-NLUSBfccY-python-helper) 
 
 Simple Python code helper.
