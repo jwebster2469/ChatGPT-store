@@ -40,3 +40,7 @@ Visual design tool.
 [Meme Maker](https://chat.openai.com/g/g-wKvvGfCdE-meme-maker)
 
 Memes.
+
+[Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
+
+Find and analyze branded website and social account data.
