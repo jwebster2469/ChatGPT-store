@@ -44,3 +44,7 @@ Memes.
 [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
 
 Find and analyze branded website and social account data.
+
+[Fanatic Creator](https://chat.openai.com/g/g-4jZ8rABSo-fanatic-creator)
+
+Fan artist tool.
