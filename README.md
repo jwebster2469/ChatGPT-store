@@ -51,7 +51,7 @@ Fan artist tool.
 
 [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
 
-Marketplace listing helper.
+Used marketplace listing helper.
 
 #
 ### COPYRIGHT
