@@ -56,27 +56,4 @@ Copyright (C) 2023, Sourceduty - All Rights Reserved.
 
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 
-#
-
-![ChatGPT Copyright Theft](https://github.com/sourceduty/ChatGPT/assets/123030236/d7f2d32b-a17d-4472-b2ef-c00c202e0ed2)
-
-#
-
-![Copyright Email](https://github.com/sourceduty/ChatGPT/assets/123030236/cbc7a14e-2fa9-458d-a0d9-f7884095da27)
-
-#
-
-![CIPO](https://github.com/sourceduty/ChatGPT/assets/123030236/a06c3066-883b-4851-ab4a-d22796725172)
-
-#
-
-![United States Copyright Office](https://github.com/sourceduty/ChatGPT/assets/123030236/659e2f45-dbca-43af-8aba-c65fb831c8a7)
-
-#
-
-![OneDrive Folder](https://github.com/sourceduty/ChatGPT/assets/123030236/c8ded617-dbb0-4c8b-911e-a1b64108fde9)
-[OneDrive Folder](https://1drv.ms/f/s!AumZxqj6wFkfhq1ApSUlYtH4yo0U0Q?e=H4hNmP)
-
-#
-
-![CAFC](https://github.com/sourceduty/ChatGPT/assets/123030236/d9298008-8bb2-4948-a301-f463b40ab436)
+[OpenAI Terms of Use](https://openai.com/policies/terms-of-use)
