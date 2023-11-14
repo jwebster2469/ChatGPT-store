@@ -31,7 +31,7 @@ Concept GPT for birthday cake creation.
 
 [Marty Mcfly](https://chat.openai.com/g/g-CILAcZbb8-marty-mcfly)
 
-If you put your mind to it, you can accomplish anything.
+Fan-made and movie inspired.
 
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
 
