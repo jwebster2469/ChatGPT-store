@@ -60,4 +60,8 @@ THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 
 ![ChatGPT Copyright Theft](https://github.com/sourceduty/ChatGPT/assets/123030236/d7f2d32b-a17d-4472-b2ef-c00c202e0ed2)
 
+#
 
+![Copyright Email](https://github.com/sourceduty/ChatGPT/assets/123030236/cbc7a14e-2fa9-458d-a0d9-f7884095da27)
+
+#
