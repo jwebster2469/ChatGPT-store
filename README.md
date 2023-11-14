@@ -53,6 +53,10 @@ Fan artist tool.
 
 Used marketplace listing helper.
 
+[Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
+
+Create conceptual rebranded product images.
+
 #
 ### COPYRIGHT
 
