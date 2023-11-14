@@ -49,6 +49,10 @@ Find and analyze branded website and social account data.
 
 Fan artist tool.
 
+[Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
+
+Determine the price of used products.
+
 #
 ### COPYRIGHT
 
