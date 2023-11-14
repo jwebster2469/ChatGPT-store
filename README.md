@@ -76,3 +76,7 @@ THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 
 ![OneDrive Folder](https://github.com/sourceduty/ChatGPT/assets/123030236/c8ded617-dbb0-4c8b-911e-a1b64108fde9)
 [OneDrive Folder](https://1drv.ms/f/s!AumZxqj6wFkfhq1ApSUlYtH4yo0U0Q?e=H4hNmP)
+
+#
+
+![CAFC](https://github.com/sourceduty/ChatGPT/assets/123030236/d9298008-8bb2-4948-a301-f463b40ab436)
