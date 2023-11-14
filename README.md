@@ -65,3 +65,5 @@ THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 ![Copyright Email](https://github.com/sourceduty/ChatGPT/assets/123030236/cbc7a14e-2fa9-458d-a0d9-f7884095da27)
 
 #
+
+![CIPO](https://github.com/sourceduty/ChatGPT/assets/123030236/a06c3066-883b-4851-ab4a-d22796725172)
