@@ -48,3 +48,10 @@ Find and analyze branded website and social account data.
 [Fanatic Creator](https://chat.openai.com/g/g-4jZ8rABSo-fanatic-creator)
 
 Fan artist tool.
+
+#
+### COPYRIGHT
+
+Copyright (C) 2023, Sourceduty - All Rights Reserved.
+
+THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
