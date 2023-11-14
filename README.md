@@ -57,3 +57,5 @@ Copyright (C) 2023, Sourceduty - All Rights Reserved.
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 
 OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
+
+Sourceduty won't use ChatGPT without also using GitHub.
