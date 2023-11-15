@@ -53,6 +53,10 @@ Create conceptual rebranded product images.
 
 Upload and compare two image files.
 
+[Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark)
+
+Upload and watermark your image files.
+
 #
 ### COPYRIGHT
 
