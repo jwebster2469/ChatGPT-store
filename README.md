@@ -25,10 +25,6 @@ Concept GPT for organizing creative thoughts.
 
 A challenge for artificial intelligence.
 
-[Birthday Cake](https://chat.openai.com/g/g-5rS8KMjJn-birthday-cake)
-
-Concept GPT for birthday cake creation.
-
 [Marty Mcfly](https://chat.openai.com/g/g-CILAcZbb8-marty-mcfly)
 
 Fan-made and movie inspired.
@@ -36,10 +32,6 @@ Fan-made and movie inspired.
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
 
 Visual design tool.
-
-[Meme Maker](https://chat.openai.com/g/g-wKvvGfCdE-meme-maker)
-
-Memes.
 
 [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
 
