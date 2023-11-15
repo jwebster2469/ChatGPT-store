@@ -17,10 +17,6 @@ Helpful and informative.
 
 Simple Python code helper.
 
-[Creative Mind](https://chat.openai.com/g/g-bMDHS90Nw-creative-mind)
-
-Concept GPT for organizing creative thoughts.
-
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
 
 A challenge for artificial intelligence.
