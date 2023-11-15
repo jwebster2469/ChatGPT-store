@@ -49,6 +49,10 @@ Upload and compare two image files.
 
 Upload and watermark your image files.
 
+[File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
+
+Upload and generate metadata for image and text files.
+
 #
 ### COPYRIGHT
 
