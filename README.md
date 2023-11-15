@@ -13,10 +13,6 @@
 
 Helpful and informative.
 
-[Python Helper](https://chat.openai.com/g/g-NLUSBfccY-python-helper) 
-
-Simple Python code helper.
-
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
 
 A challenge for artificial intelligence.
