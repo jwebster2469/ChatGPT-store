@@ -57,6 +57,10 @@ Used marketplace listing helper.
 
 Create conceptual rebranded product images.
 
+[Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images)
+
+Upload and compare two image files.
+
 #
 ### COPYRIGHT
 
