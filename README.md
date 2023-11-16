@@ -7,6 +7,10 @@
 ![ChatGPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/e2be7f0a-8114-4edd-9647-e8ef8e2b8c56)
 
 #
+
+As reported by **DemandSage**, as of November 8, 2023, there are <ins>100 million</ins> weekly active ChatGPT users. There are <ins>2 million</ins> developers that use ChatGPT and more than <ins>92% of Fortune 500 companies</ins> are using ChatGPT.
+
+#
 ### Sourceduty GPTs
 
 On November 6, 2023, OpenAI announced that ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are custom GPTs built by Sourceduty:
