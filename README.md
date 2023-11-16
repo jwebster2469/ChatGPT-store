@@ -8,7 +8,7 @@
 
 #
 
-As reported by **DemandSage**, as of November 8, 2023, there are <ins>100 million</ins> weekly active ChatGPT users. There are <ins>2 million</ins> developers that use ChatGPT and more than <ins>92% of Fortune 500 companies</ins> are using ChatGPT.
+As reported by **DemandSage** on November 8, 2023, there are <ins>100 million</ins> weekly active ChatGPT users. There are <ins>2 million</ins> developers that use ChatGPT and more than <ins>92% of Fortune 500 companies</ins> are using ChatGPT.
 
 #
 ### Sourceduty GPTs
