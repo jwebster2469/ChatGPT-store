@@ -53,6 +53,10 @@ Upload and watermark your image files.
 
 Upload and generate metadata for image and text files.
 
+[Image Collage](https://chat.openai.com/g/g-UaXXt6DdU-image-collage)
+
+Upload your images and create a collage.
+
 #
 ### COPYRIGHT
 
