@@ -9,7 +9,7 @@
 #
 ### Sourceduty GPTs
 
-Starting November 6, 2023, ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are custom GPTs developed by Sourceduty:
+On November 6, 2023, OpenAI announced that ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are custom GPTs built by Sourceduty:
 
 [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
 
