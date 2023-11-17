@@ -23,10 +23,6 @@ Helpful and informative.
 
 A challenge for artificial intelligence.
 
-[Marty Mcfly](https://chat.openai.com/g/g-CILAcZbb8-marty-mcfly)
-
-Fan-made and movie inspired.
-
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
 
 Visual design tool.
