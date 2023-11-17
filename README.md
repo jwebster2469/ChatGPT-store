@@ -1,4 +1,4 @@
-### ChatGPT
+![image](https://github.com/sourceduty/ChatGPT/assets/123030236/a90dc6e9-9e6e-4ea7-80b3-3f0cfe297b1f)### ChatGPT
 
 🤖 General information about ChatGPT, the Plugin Store and the GPT Store.
 
@@ -70,6 +70,10 @@ Parodize song lyrics.
 [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
 
 Single player charades with ChatGPT.
+
+[Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
+
+Intelligent note recording assistant.
 
 #
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty competively exerts a strong effort to build original copyright-protected custom GPTs. 
