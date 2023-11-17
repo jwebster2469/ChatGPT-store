@@ -63,6 +63,10 @@ Upload your images and create a collage.
 
 The original Connect 4 game.
 
+[Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
+
+Parodize song lyrics.
+
 #
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty competively exerts a strong effort to build original copyright-protected custom GPTs. 
 #
