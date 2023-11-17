@@ -72,6 +72,15 @@ Single player charades with ChatGPT.
 Intelligent note recording assistant.
 
 #
+### CHAT LINKS
+
+[ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
+
+[3D STL Files](https://chat.openai.com/share/8ba9c27f-8c86-4ace-8514-4abab31525bf)
+
+[Custom GPT Knowledge](https://chat.openai.com/share/c746b4a5-ead9-4dce-be92-03fdffe9a6e7)
+
+#
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty competively exerts a strong effort to build original copyright-protected custom GPTs. 
 #
 ### COPYRIGHT
