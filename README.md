@@ -1,5 +1,3 @@
-![image](https://github.com/sourceduty/ChatGPT/assets/123030236/a90dc6e9-9e6e-4ea7-80b3-3f0cfe297b1f)### ChatGPT
-
 🤖 General information about ChatGPT, the Plugin Store and the GPT Store.
 
 #
