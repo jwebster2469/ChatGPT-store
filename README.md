@@ -63,7 +63,7 @@ Parodize song lyrics.
 
 [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
 
-Single player charades with ChatGPT.
+Single player charades game.
 
 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
 
