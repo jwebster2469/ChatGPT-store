@@ -1,4 +1,4 @@
-
+![image](https://github.com/sourceduty/ChatGPT/assets/123030236/24fbfa61-ea3f-4108-87cc-9bd5cea93562)
 
 ![ChatGPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/e2be7f0a-8114-4edd-9647-e8ef8e2b8c56)
 
@@ -74,6 +74,10 @@ Intelligent note recording assistant.
 [Meeting Place](https://chat.openai.com/g/g-h91vaXdbQ-meeting-place)
 
 Find the optimal location for your meeting.
+
+[Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
+
+Quick-response random character game.
 
 #
 ### CHAT LINKS
