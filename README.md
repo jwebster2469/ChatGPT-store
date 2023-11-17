@@ -67,6 +67,10 @@ The original Connect 4 game.
 
 Parodize song lyrics.
 
+[Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
+
+Single player charades with ChatGPT.
+
 #
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty competively exerts a strong effort to build original copyright-protected custom GPTs. 
 #
