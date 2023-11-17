@@ -71,6 +71,10 @@ Single player charades with ChatGPT.
 
 Intelligent note recording assistant.
 
+[Meeting Place](https://chat.openai.com/g/g-h91vaXdbQ-meeting-place)
+
+Find the optimal location for your meeting.
+
 #
 ### CHAT LINKS
 
