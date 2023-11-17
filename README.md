@@ -59,6 +59,10 @@ Upload and generate metadata for image and text files.
 
 Upload your images and create a collage.
 
+[Connect 4](https://chat.openai.com/g/g-th53SwFkS-connect-4)
+
+The original Connect 4 game.
+
 #
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty competively exerts a strong effort to build original copyright-protected custom GPTs. 
 #
