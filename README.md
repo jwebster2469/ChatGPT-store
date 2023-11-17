@@ -77,6 +77,10 @@ Find the optimal location for your meeting.
 
 Quick-response random character game.
 
+[Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
+
+Collaborative storytelling across different genres.
+
 #
 ### CHAT LINKS
 
