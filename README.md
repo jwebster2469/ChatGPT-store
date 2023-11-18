@@ -85,6 +85,10 @@ Collaborative storytelling across different genres.
 
 Solve science problems and questions.
 
+[Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
+
+Summarize GitHub repository README files.
+
 #
 ### CHAT LINKS
 
