@@ -89,6 +89,10 @@ Solve science problems and questions.
 
 Summarize GitHub repository README files.
 
+[Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator)
+
+Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
+
 #
 ### CHAT LINKS
 
