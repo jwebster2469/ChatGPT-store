@@ -93,6 +93,10 @@ Summarize GitHub repository README files.
 
 Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
 
+[Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
+
+Estimate the current price of custom desktop computers and hardware.
+
 #
 ### CHAT LINKS
 
