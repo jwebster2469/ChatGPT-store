@@ -81,6 +81,10 @@ Quick-response random character game.
 
 Collaborative storytelling across different genres.
 
+[Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
+
+Solve science problems and questions.
+
 #
 ### CHAT LINKS
 
