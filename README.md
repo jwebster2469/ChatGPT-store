@@ -119,6 +119,3 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 ![Repo Summary ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/122a191c-6e79-461c-a15a-1602cc92a164)
 
-#
-
-![ChatGPT Replaced Google](https://github.com/sourceduty/ChatGPT/assets/123030236/ad7f64f0-dfe2-44a9-88d1-fc532b577696)
