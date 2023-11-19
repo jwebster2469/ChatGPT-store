@@ -110,6 +110,8 @@ Estimate the current price of custom desktop computers and hardware.
 
 [Why GPTs aren’t (yet) the new App Store](https://medium.com/barnacle-labs/why-gpts-arent-yet-the-new-app-store-daaf760392cc)
 
+[Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
+
 #
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty competively exerts a strong effort to build original copyright-protected custom GPTs. 
 #
