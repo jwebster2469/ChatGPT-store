@@ -103,7 +103,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [ACSII Text Art](https://chat.openai.com/g/g-G7eF51owY-acsii-text-art)
 
-Convert text into creative ASCII art.
+Convert text into creative ACSII art.
 
 [Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
 
