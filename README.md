@@ -97,6 +97,10 @@ Create dictionaries in various order types, such as Alphabetical, Prioritized, H
 
 Estimate the current price of custom desktop computers and hardware.
 
+[Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game)
+
+Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
+
 #
 ### LINKS
 
