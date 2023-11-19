@@ -105,6 +105,10 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 Convert text into creative ASCII art.
 
+[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
+
+Promotional business shoutouts for x.com.
+
 #
 ### LINKS
 
