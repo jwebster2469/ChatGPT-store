@@ -117,6 +117,10 @@ Automated teller machine (ATM) simulator.
 
 How to create a Power Time Logger.
 
+[Sourceduty GPT](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
+
+Creative digital business.
+
 #
 ### LINKS
 
