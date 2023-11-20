@@ -124,6 +124,8 @@ Promotional business shoutouts for x.com.
 
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
 
+[ChatGPT: Extract Text from MS-DOS Goldfinger 1986 Game?](https://www.reddit.com/r/ChatGPTPro/comments/17zc8g1/chatgpt_extract_text_from_msdos_goldfinger_1986/)
+
 #
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty competively exerts a strong effort to build original copyright-protected custom GPTs. 
 #
