@@ -121,6 +121,10 @@ How to create a Power Time Logger.
 
 Creative digital business.
 
+[ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso)
+
+International Organization for Standardization (ISO) guide. 
+
 #
 ### LINKS
 
