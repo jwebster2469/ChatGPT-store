@@ -113,6 +113,10 @@ Promotional business shoutouts for x.com.
 
 Automated teller machine (ATM) simulator.
 
+[Power Time Logger](https://chat.openai.com/g/g-mc2GgN5bL-power-time-logger)
+
+How to create a Power Time Logger.
+
 #
 ### LINKS
 
