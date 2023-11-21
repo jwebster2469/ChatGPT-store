@@ -10,123 +10,123 @@ As reported by **DemandSage** on November 8, 2023, there are <ins>100 million</i
 On November 6, 2023, OpenAI announced that ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are custom GPTs built by Sourceduty:
 
 [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
-
+<br>
 Helpful and informative.
 
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
-
+<br>
 A challenge for artificial intelligence.
 
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
-
+<br>
 Visual design tool.
 
 [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
-
+<br>
 Find and analyze branded website and social account data.
 
 [Fanatic Creator](https://chat.openai.com/g/g-4jZ8rABSo-fanatic-creator)
-
+<br>
 Fan artist tool.
 
 [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
-
+<br>
 Used marketplace listing helper.
 
 [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
-
+<br>
 Create conceptual rebranded product images.
 
 [Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images)
-
+<br>
 Upload and compare two image files.
 
 [Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark)
-
+<br>
 Upload and watermark your image files.
 
 [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
-
+<br>
 Upload and generate metadata for image and text files.
 
 [Image Collage](https://chat.openai.com/g/g-UaXXt6DdU-image-collage)
-
+<br>
 Upload your images and create a collage.
 
 [Connect 4](https://chat.openai.com/g/g-th53SwFkS-connect-4)
-
+<br>
 The original Connect 4 game.
 
 [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
-
+<br>
 Parodize song lyrics.
 
 [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
-
+<br>
 Single player charades game.
 
 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
-
+<br>
 Intelligent note recording assistant.
 
 [Meeting Place](https://chat.openai.com/g/g-h91vaXdbQ-meeting-place)
-
+<br>
 Find the optimal location for your meeting.
 
 [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
-
+<br>
 Quick-response random character game.
 
 [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
-
+<br>
 Collaborative storytelling across different genres.
 
 [Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
-
+<br>
 Solve science problems and questions.
 
 [Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
-
+<br>
 Summarize GitHub repository README files.
 
 [Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator)
-
+<br>
 Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
 
 [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
-
+<br>
 Estimate the current price of custom desktop computers and hardware.
 
 [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game)
-
+<br>
 Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
 
 [ACSII Text Art](https://chat.openai.com/g/g-G7eF51owY-acsii-text-art)
-
+<br>
 Convert text into creative ACSII art.
 
 [Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
-
+<br>
 Promotional business shoutouts for x.com.
 
 [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
-
+<br>
 Automated teller machine (ATM) simulator.
 
 [Power Time Logger](https://chat.openai.com/g/g-mc2GgN5bL-power-time-logger)
-
+<br>
 How to create a Power Time Logger.
 
 [Sourceduty](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
-
+<br>
 Creative digital business.
 
 [ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso)
-
+<br>
 International Organization for Standardization (ISO) guide.
 
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
-
+<br>
 Expand simple text searches with multiple related search options. 
 
 #
@@ -152,11 +152,11 @@ This repository will be used to prove and dispute the originality of Sourceduty 
 ### COPYRIGHT
 
 Copyright (C) 2023, Sourceduty - All Rights Reserved.
-
+<br>
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
-
+<br>
 OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
-
+<br>
 Sourceduty won't use ChatGPT without also using GitHub.
 
 #
