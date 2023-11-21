@@ -147,6 +147,10 @@ Convert text into creative ACSII art.
 
 </summary>
 
+[Travel Receptionist](https://chat.openai.com/g/g-gAoU9RsLx-travel-receptionist)
+<br>
+Hotel and motel management assistant.
+
 [Meeting Place](https://chat.openai.com/g/g-h91vaXdbQ-meeting-place)
 <br>
 Find the optimal location for your meeting.
