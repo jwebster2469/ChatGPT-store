@@ -66,6 +66,10 @@ SpaceX's Starship rocket information.
 
 </summary>
 
+[Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker)
+<br>
+Unbiased newspaper creator and recreator.
+
 [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
 <br>
 Collaborative storytelling across different genres.
