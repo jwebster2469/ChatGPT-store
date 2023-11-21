@@ -23,21 +23,9 @@ Helpful and informative.
 <br>
 A challenge for artificial intelligence.
 
-[Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
-<br>
-Find and analyze branded website and social account data.
-
-[Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
-<br>
-Used marketplace listing helper.
-
 [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
 <br>
 Upload and generate metadata for image and text files.
-
-[ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso)
-<br>
-International Organization for Standardization (ISO) guide.
 
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
@@ -51,10 +39,6 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 <br>
 How to create a Power Time Logger.
 
-[Sourceduty](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
-<br>
-Creative digital business.
-
 [Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
 <br>
 Solve science problems and questions.
@@ -66,14 +50,6 @@ Summarize GitHub repository README files.
 [Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator)
 <br>
 Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
-
-[Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
-<br>
-Estimate the current price of custom desktop computers and hardware.
-
-[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
-<br>
-Promotional business shoutouts for x.com.
 
 [Mechazilla](https://chat.openai.com/g/g-MROVtYV1F-mechazilla)
 <br>
@@ -97,6 +73,37 @@ Collaborative storytelling across different genres.
 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
 <br>
 Intelligent note recording assistant.
+
+</details>
+<details><summary>
+  
+### Business
+
+</summary>
+
+[Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
+<br>
+Estimate the current price of custom desktop computers and hardware.
+
+[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
+<br>
+Promotional business shoutouts for x.com.
+
+[Sourceduty](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
+<br>
+Creative digital business.
+
+[ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso)
+<br>
+International Organization for Standardization (ISO) guide.
+
+[Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
+<br>
+Find and analyze branded website and social account data.
+
+[Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
+<br>
+Used marketplace listing helper.
 
 </details>
 <details><summary>
