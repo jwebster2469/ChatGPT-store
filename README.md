@@ -47,10 +47,6 @@ Expand simple text searches with multiple related search options.
 <br>
 Exclusive tools built to utilize ChatGPT's sharable chat links.
 
-[Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
-<br>
-Intelligent note recording assistant.
-
 [Power Time Logger](https://chat.openai.com/g/g-mc2GgN5bL-power-time-logger)
 <br>
 How to create a Power Time Logger.
@@ -89,6 +85,10 @@ Promotional business shoutouts for x.com.
 [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
 <br>
 Collaborative storytelling across different genres.
+
+[Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
+<br>
+Intelligent note recording assistant.
 
 </details>
 <details><summary>
