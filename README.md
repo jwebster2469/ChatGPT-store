@@ -45,7 +45,7 @@ Expand simple text searches with multiple related search options.
 
 [ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities)
 <br>
-Exclusive tools built to utilize ChatGPT's sharable chat links.
+Exclusive tools built to utilize ChatGPT's exported chat records.
 
 [Power Time Logger](https://chat.openai.com/g/g-mc2GgN5bL-power-time-logger)
 <br>
