@@ -123,7 +123,11 @@ Creative digital business.
 
 [ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso)
 
-International Organization for Standardization (ISO) guide. 
+International Organization for Standardization (ISO) guide.
+
+[Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
+
+Expand simple text searches with multiple related search options. 
 
 #
 ### LINKS
