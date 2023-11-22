@@ -19,6 +19,10 @@ On November 6, 2023, OpenAI announced that ChatGPT users can create customized G
 <br>
 Helpful and informative.
 
+[Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts)
+<br>
+Custom GPT instruction creation guide.
+
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
 <br>
 A challenge for artificial intelligence.
