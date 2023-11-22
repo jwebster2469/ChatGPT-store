@@ -66,6 +66,10 @@ SpaceX's Starship rocket information.
 
 </summary>
 
+[Quotes & Clips](https://chat.openai.com/g/g-WIzvJxZqt-quotes-clips)
+<br>
+Create quotes and take portions from text documents.
+
 [Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker)
 <br>
 Unbiased newspaper creator and recreator.
