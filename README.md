@@ -213,18 +213,20 @@ Automated teller machine (ATM) simulator.
 </summary>
 
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
-<br>
+
 [3D STL Files](https://chat.openai.com/share/8ba9c27f-8c86-4ace-8514-4abab31525bf)
-<br>
+
 [Custom GPT Knowledge](https://chat.openai.com/share/c746b4a5-ead9-4dce-be92-03fdffe9a6e7)
-<br>
+
 [GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/)
-<br>
+
 [Why GPTs aren’t (yet) the new App Store](https://medium.com/barnacle-labs/why-gpts-arent-yet-the-new-app-store-daaf760392cc)
-<br>
+
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
-<br>
+
 [ChatGPT: Extract Text from MS-DOS Goldfinger 1986 Game?](https://www.reddit.com/r/ChatGPTPro/comments/17zc8g1/chatgpt_extract_text_from_msdos_goldfinger_1986/)
+
+[Awesome GPT Store](https://github.com/Anil-matcha/Awesome-GPT-Store)
 
 </details>
 
