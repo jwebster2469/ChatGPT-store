@@ -214,19 +214,19 @@ Automated teller machine (ATM) simulator.
 
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
 
-[3D STL Files](https://chat.openai.com/share/8ba9c27f-8c86-4ace-8514-4abab31525bf)
+[3D STL Files](https://chat.openai.com/share/8ba9c27f-8c86-4ace-8514-4abab31525bf) 
 
-[Custom GPT Knowledge](https://chat.openai.com/share/c746b4a5-ead9-4dce-be92-03fdffe9a6e7)
+[Custom GPT Knowledge](https://chat.openai.com/share/c746b4a5-ead9-4dce-be92-03fdffe9a6e7) 
 
-[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/)
+[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/) 
 
-[Why GPTs aren’t (yet) the new App Store](https://medium.com/barnacle-labs/why-gpts-arent-yet-the-new-app-store-daaf760392cc)
+[Why GPTs aren’t (yet) the new App Store](https://medium.com/barnacle-labs/why-gpts-arent-yet-the-new-app-store-daaf760392cc) 
 
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
 
-[ChatGPT: Extract Text from MS-DOS Goldfinger 1986 Game?](https://www.reddit.com/r/ChatGPTPro/comments/17zc8g1/chatgpt_extract_text_from_msdos_goldfinger_1986/)
+[ChatGPT: Extract Text from MS-DOS Goldfinger 1986 Game?](https://www.reddit.com/r/ChatGPTPro/comments/17zc8g1/chatgpt_extract_text_from_msdos_goldfinger_1986/) 
 
-[Awesome GPT Store](https://github.com/Anil-matcha/Awesome-GPT-Store) 
+[Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
 
 </details>
 
@@ -240,7 +240,7 @@ Copyright (C) 2023, Sourceduty - All Rights Reserved.
 THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
 <br>
 OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
-<br>
+
 Sourceduty won't use ChatGPT without also using GitHub.
 
 #
@@ -249,5 +249,6 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 #
 
+![My GPTs](https://github.com/sourceduty/ChatGPT/assets/123030236/ba2b9224-a4c5-4284-a183-4f3be90f8647)
 
 
