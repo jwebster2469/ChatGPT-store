@@ -270,9 +270,9 @@ Rough ideas and concepts for ChatGPT.
 
 ### To-Do Checklist
 
-[ ] Improve 'Starship Launch' game
+[ ] Improve 'Starship Launch'
 <br>
-[ ] Expand 'Word Searcher' game
+[ ] Expand 'Word Searcher'
 <br>
 [ ] Expand 'Instructions for Custom GPTs'
 <br>
@@ -287,5 +287,7 @@ Rough ideas and concepts for ChatGPT.
 [ ] Improve 'Marketplace Value'
 <br>
 [ ] Expand 'GPT Guide'
+<br.
+[ ] Improve 'Sourceduty'
 
 #
