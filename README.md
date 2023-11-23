@@ -182,6 +182,10 @@ Organize essential travel guest info.
 
 </summary>
 
+[Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
+<br>
+SpaceX rocket mission simulator game.
+
 [Word Searcher](https://chat.openai.com/g/g-VGhdL47D9-word-searcher)
 <br>
 Word search game.
