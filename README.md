@@ -253,10 +253,13 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 #
 
-![Repo Summary ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/122a191c-6e79-461c-a15a-1602cc92a164)
+### Concept Ideas:
+
+Rough ideas and concepts for ChatGPT.
+
+- ChatGPT Multiuser
+- ChatGPT Chat Link Extractor
+- ChatGPT Chat Link Video Mockup
+- ChatGPT Account Statistics
 
 #
-
-https://github.com/sourceduty/ChatGPT/assets/123030236/fc507249-89ae-4bf4-9dfc-9e7b8559a27f
-
-
