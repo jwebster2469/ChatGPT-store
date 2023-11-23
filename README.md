@@ -182,6 +182,10 @@ Organize essential travel guest info.
 
 </summary>
 
+[Word Searcher](https://chat.openai.com/g/g-VGhdL47D9-word-searcher)
+<br>
+Word search game.
+
 [Connect 4](https://chat.openai.com/g/g-th53SwFkS-connect-4)
 <br>
 The original Connect 4 game.
