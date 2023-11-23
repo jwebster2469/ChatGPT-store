@@ -267,3 +267,17 @@ Rough ideas and concepts for ChatGPT.
 - ChatGPT Account Statistics
 
 #
+
+### To-Do List Checklist
+
+[ ] Improve 'Starship Launch' game
+[ ] Expand 'Word Searcher' game
+[ ] Expand 'Instructions for Custom GPTs'
+[ ] Improve 'Newspaper Maker'
+[ ] Improve 'Search Multiplier'
+[ ] Expand 'ATM Simulator'
+[ ] Improve 'Desktop Value'
+[ ] Improve 'Marketplace Value'
+[ ] Expand 'GPT Guide'
+
+#
