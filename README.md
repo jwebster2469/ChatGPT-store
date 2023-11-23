@@ -66,6 +66,10 @@ SpaceX's Starship rocket information.
 
 </summary>
 
+[Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
+<br>
+Plain text organization guide.
+
 [Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator)
 <br>
 Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
