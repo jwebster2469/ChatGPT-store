@@ -51,10 +51,6 @@ Solve science problems and questions.
 <br>
 Summarize GitHub repository README files.
 
-[Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator)
-<br>
-Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
-
 [Mechazilla](https://chat.openai.com/g/g-MROVtYV1F-mechazilla)
 <br>
 SpaceX launch tower information.
@@ -69,6 +65,10 @@ SpaceX's Starship rocket information.
 ### Writing
 
 </summary>
+
+[Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator)
+<br>
+Create dictionaries in various order types, such as Alphabetical, Prioritized, Hierarchical, and more.
 
 [Quotes & Clips](https://chat.openai.com/g/g-WIzvJxZqt-quotes-clips)
 <br>
@@ -226,7 +226,7 @@ Automated teller machine (ATM) simulator.
 
 [ChatGPT: Extract Text from MS-DOS Goldfinger 1986 Game?](https://www.reddit.com/r/ChatGPTPro/comments/17zc8g1/chatgpt_extract_text_from_msdos_goldfinger_1986/)
 
-[Awesome GPT Store](https://github.com/Anil-matcha/Awesome-GPT-Store)
+[Awesome GPT Store](https://github.com/Anil-matcha/Awesome-GPT-Store) 
 
 </details>
 
