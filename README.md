@@ -257,4 +257,6 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 #
 
+https://github.com/sourceduty/ChatGPT/assets/123030236/fc507249-89ae-4bf4-9dfc-9e7b8559a27f
+
 
