@@ -253,7 +253,7 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 #
 
-### Concept Ideas:
+### Concept Ideas
 
 Rough ideas and concepts for ChatGPT.
 
