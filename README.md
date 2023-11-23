@@ -271,13 +271,21 @@ Rough ideas and concepts for ChatGPT.
 ### To-Do List Checklist
 
 [ ] Improve 'Starship Launch' game
+<br>
 [ ] Expand 'Word Searcher' game
+<br>
 [ ] Expand 'Instructions for Custom GPTs'
+<br>
 [ ] Improve 'Newspaper Maker'
+<br>
 [ ] Improve 'Search Multiplier'
+<br>
 [ ] Expand 'ATM Simulator'
+<br>
 [ ] Improve 'Desktop Value'
+<br>
 [ ] Improve 'Marketplace Value'
+<br>
 [ ] Expand 'GPT Guide'
 
 #
