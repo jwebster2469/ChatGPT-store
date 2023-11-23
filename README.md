@@ -253,6 +253,4 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 #
 
-![My GPTs](https://github.com/sourceduty/ChatGPT/assets/123030236/ba2b9224-a4c5-4284-a183-4f3be90f8647)
-
 
