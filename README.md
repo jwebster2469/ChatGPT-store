@@ -287,7 +287,7 @@ Rough ideas and concepts for ChatGPT.
 [ ] Improve 'Marketplace Value'
 <br>
 [ ] Expand 'GPT Guide'
-<br.
+<br>
 [ ] Improve 'Sourceduty'
 
 #
