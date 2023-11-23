@@ -268,7 +268,7 @@ Rough ideas and concepts for ChatGPT.
 
 #
 
-### To-Do List Checklist
+### To-Do Checklist
 
 [ ] Improve 'Starship Launch' game
 <br>
