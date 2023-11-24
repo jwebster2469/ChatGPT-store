@@ -300,7 +300,7 @@ Sourceduty won't use ChatGPT without also using GitHub.
 <br>
 [X] Improve 'Marketplace Value'
 <br>
-[ ] Expand 'GPT Guide'
+[X] Expand 'GPT Guide'
 <br>
 [ ] Improve 'Sourceduty'
 
