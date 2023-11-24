@@ -325,4 +325,8 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 >- ChatGPT could add more detailed account statistics like a total count of GPTs in My GPTs and a total count of chats created.
 
+**ChatGPT Vintage Software**
+
+> While building custom GPTs in 2023, I searched back into the 1970's and 1980's to find old computer user manuals and design documents. I like being a 90's kid who grew up using Windows but I also enjoy the terminal style interface that early vintage computers used. Simulating the Apple II computer wasn't very hard using ChatGPT because artificial intelligence is 46 years ahead of 1977 Apple computer technology. 
+
 #
