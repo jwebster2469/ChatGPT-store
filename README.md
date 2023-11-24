@@ -300,6 +300,6 @@ Rough ideas and concepts for ChatGPT.
 
 **ChatGPT** 
 
-> I like working with ChatGPT because it's really smart, easy to use, and I get to be creative. I'm very happy that I built customized GPTs for ChatGPT and Sourceduty. I started using ChatGPT under 1 month ago, and this was just in time for the launch of custom GPTs. For myself and my business, using ChatGPT right now is near perfectly timed. I'm very intersted in ChatGPT and AI, and I also studied a lot of Python earlier this year.
+> I like working with ChatGPT because it's really smart, easy to use, and I get to be creative. I'm very happy that I built customized GPTs for ChatGPT and Sourceduty. I started using ChatGPT under 1 month ago, and this was just in time for the launch of custom GPTs. For myself and my business, using ChatGPT right now is near perfectly timed. I'm very intersted in ChatGPT and AI. I also studied a lot of Python earlier this year.
 
 #
