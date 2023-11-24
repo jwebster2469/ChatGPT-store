@@ -227,9 +227,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 Automated teller machine (ATM) simulator.
 
 </details>
-
-#
-
 <details><summary>
   
 ### Links
