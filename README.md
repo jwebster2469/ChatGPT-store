@@ -250,7 +250,7 @@ Automated teller machine (ATM) simulator.
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
 
 </details>
-#
+
 
 ### Facorite Prompts
 
