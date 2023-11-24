@@ -296,7 +296,7 @@ Sourceduty won't use ChatGPT without also using GitHub.
 >- A multiuser version of ChatGPT could be developed in the future.
 
 
->- I tried to build 'ChatGPT Utilites' so that it could extract text from shared chat links. Building this ChatGPT for this purpose was unsuccessful so I modified the GPT to extract text from exported chat records instead.
+>- I tried to build 'ChatGPT Utilites' so that it could extract text from shared chat links. Building this GPT for this purpose was unsuccessful so I modified this GPT to extract text from exported chat records instead.
 
 
 >- I wanted to use extracted text from shared chat links again to replay ChatGPT prompts and record prompts as a video file.
