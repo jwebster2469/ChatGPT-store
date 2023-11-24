@@ -66,10 +66,6 @@ SpaceX's Starship rocket information.
 
 </summary>
 
-[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
-<br>
-Basic notepad emulator.
-
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
 <br>
 Plain text organization guide.
@@ -185,6 +181,10 @@ Organize essential travel guest info.
 ### Fun & Games
 
 </summary>
+
+[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
+<br>
+Basic notepad emulator.
 
 [Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
 <br>
