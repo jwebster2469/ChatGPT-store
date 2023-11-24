@@ -299,7 +299,7 @@ Sourceduty won't use ChatGPT without also using GitHub.
 >- I tried to build 'ChatGPT Utilites' so that it could extract text from shared chat links. Building this GPT for this purpose was unsuccessful so I modified this GPT to extract text from exported chat records instead.
 
 
->- I wanted to use extracted text from shared chat links again to replay ChatGPT prompts and record prompts as a video file.
+>- I wanted to use extracted text from shared chat links to replay ChatGPT prompts and then record these prompts as a video file.
 
 
 >- ChatGPT could add more detailed account statistics like a total count of GPTs in My GPTs and a total count of chats created.
