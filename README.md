@@ -290,7 +290,7 @@ Sourceduty won't use ChatGPT without also using GitHub.
 <br>
 [X] Expand 'Instructions for Custom GPTs'
 <br>
-[ ] Improve 'Newspaper Maker'
+[X] Improve 'Newspaper Maker'
 <br>
 [X] Improve 'Search Multiplier'
 <br>
