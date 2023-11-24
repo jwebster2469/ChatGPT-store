@@ -278,7 +278,7 @@ Rough ideas and concepts for ChatGPT.
 <br>
 [ ] Improve 'Newspaper Maker'
 <br>
-[ ] Improve 'Search Multiplier'
+[X] Improve 'Search Multiplier'
 <br>
 [ ] Expand 'ATM Simulator'
 <br>
