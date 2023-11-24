@@ -182,6 +182,10 @@ Organize essential travel guest info.
 
 </summary>
 
+[Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
+<br>
+James Bond inspired code cracking game.
+
 [Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
 <br>
 SpaceX rocket mission simulator game.
