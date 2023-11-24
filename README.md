@@ -66,6 +66,10 @@ SpaceX's Starship rocket information.
 
 </summary>
 
+[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
+<br>
+Basic notepad emulator.
+
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
 <br>
 Plain text organization guide.
