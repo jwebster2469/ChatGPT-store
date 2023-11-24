@@ -270,7 +270,7 @@ Rough ideas and concepts for ChatGPT.
 
 ### To-Do Checklist
 
-[ ] Improve 'Starship Launch'
+[X] Improve 'Starship Launch'
 <br>
 [ ] Expand 'Word Searcher'
 <br>
