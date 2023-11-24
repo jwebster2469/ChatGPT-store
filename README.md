@@ -261,17 +261,6 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 #
 
-### Concept Ideas
-
-Rough ideas and concepts for ChatGPT.
-
-- ChatGPT Multiuser
-- ChatGPT Chat Link Extractor
-- ChatGPT Chat Link Video Mockup
-- ChatGPT Account Statistics
-
-#
-
 ### To-Do Checklist
 
 [X] Improve 'Starship Launch'
@@ -301,5 +290,18 @@ Rough ideas and concepts for ChatGPT.
 **ChatGPT** 
 
 > I like working with ChatGPT because it's really smart, easy to use, and I get to be creative. I'm very happy that I built customized GPTs for ChatGPT and Sourceduty. I started using ChatGPT under 1 month ago, and this was just in time for the launch of custom GPTs. For myself and my business, using ChatGPT right now is near perfectly timed. I'm very intersted in ChatGPT and AI. Also, I studied a lot of Python earlier this year.
+
+**ChatGPT Concept Ideas**
+
+>- A multiuser version of ChatGPT could be developed in the future.
+
+
+>- I tried to build 'ChatGPT Utilites' so that it could extract text from shared chat links. Building this ChatGPT for this purpose was unsuccessful so I modified the GPT to extract text from exported chat records instead.
+
+
+>- I wanted to use extracted text from shared chat links again to replay ChatGPT prompts and record prompts as a video file.
+
+
+>- ChatGPT could add more detailed account statistics like a total count of GPTs in My GPTs and a total count of chats created.
 
 #
