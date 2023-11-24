@@ -182,6 +182,10 @@ Organize essential travel guest info.
 
 </summary>
 
+[Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
+<br>
+Apple II home computer from 1977 with ProDOS.
+
 [Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
 <br>
 James Bond inspired code cracking game.
