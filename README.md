@@ -228,7 +228,8 @@ Automated teller machine (ATM) simulator.
 
 </details>
 <details><summary>
-  
+
+#  
 ### Links
 
 </summary>
@@ -251,7 +252,7 @@ Automated teller machine (ATM) simulator.
 
 </details>
 
-
+#
 ### Facorite Prompts
 
 ```
