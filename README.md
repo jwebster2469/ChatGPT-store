@@ -227,9 +227,24 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 Automated teller machine (ATM) simulator.
 
 </details>
+
+#
+### Facorite Prompts
+
+```
+Create large antique images of...
+Create large images for the...
+Create a modern logo for...
+Design an advertisement poster for...
+Design clear product packaging for...
+A logo for "Your Name", featuring a modern font and a graphic of...
+Suggest GPT expansion options.
+```
+
+#
+
 <details><summary>
 
-#  
 ### Links
 
 </summary>
@@ -251,19 +266,6 @@ Automated teller machine (ATM) simulator.
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
 
 </details>
-
-#
-### Facorite Prompts
-
-```
-Create large antique images of...
-Create large images for the...
-Create a modern logo for...
-Design an advertisement poster for...
-Design clear product packaging for...
-A logo for "Your Name", featuring a modern font and a graphic of...
-Suggest GPT expansion options.
-```
 
 #
 This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build original copyright-protected custom GPTs. 
