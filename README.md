@@ -229,7 +229,7 @@ Automated teller machine (ATM) simulator.
 </details>
 
 #
-### Facorite Prompts
+### Favorite Prompts
 
 ```
 Create large antique images of...
