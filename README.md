@@ -331,6 +331,6 @@ Sourceduty won't use ChatGPT without also using GitHub.
 
 **ChatGPT Rough GPTs**
 
-> Some of my custom GPTs are concepts that were created as experiments with ai. GPTs such as 'Emergency Kit' and 'Treasure Hunt Game' are rough concept GPTs. I might improve 'Treasure Hunt Game' but I won't improve 'Emergency Kit'. There are also two private concepts, '3D Model Imaging' and 'YouTube Data Image'. With these rough concepts I wanted to visualize 3D model files by capturing images from six distinct views, and compile YouTube data into image files.
+> Some of my custom GPTs are concepts that were created as experiments with AI. GPTs such as 'Emergency Kit' and 'Treasure Hunt Game' are rough concept GPTs. I might improve 'Treasure Hunt Game' but I won't improve 'Emergency Kit'. There are also two private concepts, '3D Model Imaging' and 'YouTube Data Image'. With these rough concepts I wanted to visualize 3D model files by capturing images from six distinct views, and compile YouTube data into image files.
 
 #
