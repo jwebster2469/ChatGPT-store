@@ -282,17 +282,6 @@ Automated teller machine (ATM) simulator.
 
 #
 
-> [!CAUTION]
-> Copyright (C) 2023, Sourceduty - All Rights Reserved.
-> <br>
-> THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
-> <br>
-> OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
-> 
-> Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build original copyright-protected custom GPTs.
-
-#
-
 ### 📝 Alex's Notes
 
 **ChatGPT** 
@@ -319,5 +308,16 @@ Automated teller machine (ATM) simulator.
 **ChatGPT Rough GPTs**
 
 > Some of my custom GPTs are concepts that were created as experiments with AI. GPTs such as 'Emergency Kit' and 'Treasure Hunt Game' are rough concept GPTs. I might improve 'Treasure Hunt Game' but I won't improve 'Emergency Kit'. There are also two private concepts, '3D Model Imaging' and 'YouTube Data Image'. With these rough concepts I wanted to visualize 3D model files by capturing images from six distinct views, and compile YouTube data into image files.
+
+#
+
+> [!CAUTION]
+> Copyright (C) 2023, Sourceduty - All Rights Reserved.
+> <br>
+> THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
+> <br>
+> OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
+> 
+> Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build original copyright-protected custom GPTs.
 
 #
