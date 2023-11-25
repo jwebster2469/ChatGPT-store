@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `47` custom GPTs built by Sourceduty:
+Listed below are `48` custom GPTs built by Sourceduty:
 
 <details><summary>
 
@@ -144,6 +144,10 @@ Fan artist tool.
 [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
 <br>
 Create conceptual rebranded product images.
+
+[Military Prompt](https://chat.openai.com/g/g-VLePEN7ZK-military-prompt)
+<br>
+Terminal interface design guide.
 
 [Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images)
 <br>
