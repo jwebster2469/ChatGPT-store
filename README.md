@@ -15,6 +15,10 @@ On November 6, 2023, OpenAI announced that ChatGPT users can create customized G
 
 </summary>
 
+[Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
+<br>
+Instructional video creation assistant.
+
 [GPT Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
 <br>
 Helpful and informative.
