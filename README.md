@@ -258,7 +258,7 @@ Automated teller machine (ATM) simulator.
 
 <details><summary>
 
-### Links
+### Related Links
 
 </summary>
 
