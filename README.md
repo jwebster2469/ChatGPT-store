@@ -1,6 +1,7 @@
 ![ChatGPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/e2be7f0a-8114-4edd-9647-e8ef8e2b8c56)
 
 ***
+***
 ### Sourceduty GPTs
 
 On November 6, 2023, OpenAI announced that ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are `47` custom GPTs built by Sourceduty:
@@ -237,6 +238,7 @@ Automated teller machine (ATM) simulator.
 </details>
 
 ***
+***
 
 > [!TIP]
 > Favorite Prompts
@@ -250,7 +252,7 @@ Automated teller machine (ATM) simulator.
 > Suggest GPT expansion options.
 > ```
 
-#
+***
 
 <details><summary>
 
@@ -276,7 +278,7 @@ Automated teller machine (ATM) simulator.
 
 </details>
 
-#
+***
 
 ### 📝 Alex's Notes
 
