@@ -118,10 +118,6 @@ Promotional business shoutouts for x.com.
 <br>
 Creative digital business.
 
-[ISO](https://chat.openai.com/g/g-kPQjsGEA5-iso)
-<br>
-International Organization for Standardization (ISO) guide.
-
 [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
 <br>
 Find and analyze branded website and social account data.
