@@ -302,6 +302,8 @@ Sourceduty won't use ChatGPT without also using GitHub.
 <br>
 [X] Improve 'Search Multiplier'
 <br>
+[ ] Update & Exmpand 'Brand Footprint'
+<br>
 [X] Expand 'ATM Simulator'
 <br>
 [X] Improve 'Desktop Value'
