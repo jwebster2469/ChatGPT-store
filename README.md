@@ -7,7 +7,7 @@ According to the latest available data from **Exploding Topics**, ChatGPT curren
 #
 ### Sourceduty GPTs
 
-On November 6, 2023, OpenAI announced that ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are **45** custom GPTs built by Sourceduty:
+On November 6, 2023, OpenAI announced that ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are **46** custom GPTs built by Sourceduty:
 
 <details><summary>
 
@@ -185,6 +185,10 @@ Organize essential travel guest info.
 ### Fun & Games
 
 </summary>
+
+[Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
+<br>
+Old computer terminal simulator.
 
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 <br>
