@@ -4,7 +4,7 @@
 
 According to the latest available data from **Exploding Topics**, ChatGPT currently has around 180.5 million users and their website generated 1.5 billion visits in September 2023.
 
-#
+***
 ### Sourceduty GPTs
 
 On November 6, 2023, OpenAI announced that ChatGPT users can create customized GPTs and share them publicly. Later in November, OpenAI is launching the GPT Store which features creations by verified builders. Listed below are **47** custom GPTs built by Sourceduty:
@@ -240,7 +240,7 @@ Automated teller machine (ATM) simulator.
 
 </details>
 
-#
+***
 ### Favorite Prompts
 
 ```
