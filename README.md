@@ -48,6 +48,10 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 <br>
 How to create a Power Time Logger.
 
+[Symbol Diagram](https://chat.openai.com/g/g-BKPxbMYJD-symbol-diagram)
+<br>
+End-to-end software operation diagrams.
+
 [Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
 <br>
 Solve science problems and questions.
