@@ -241,17 +241,18 @@ Automated teller machine (ATM) simulator.
 </details>
 
 ***
-### Favorite Prompts
 
-```
-Create large antique images of...
-Create large images for the...
-Create a modern logo for...
-Design an advertisement poster for...
-Design clear product packaging for...
-A logo for "Your Name", featuring a modern font and a graphic of...
-Suggest GPT expansion options.
-```
+> [!TIP]
+> Favorite Prompts
+> ```
+> Create large antique images of...
+> Create large images for the...
+> Create a modern logo for...
+> Design an advertisement poster for...
+> Design clear product packaging for...
+> A logo for "Your Name", featuring a modern font and a graphic of...
+> Suggest GPT expansion options.
+> ```
 
 #
 
@@ -280,50 +281,19 @@ Suggest GPT expansion options.
 </details>
 
 #
-This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build original copyright-protected custom GPTs. 
-#
-### Copyright
 
-Copyright (C) 2023, Sourceduty - All Rights Reserved.
-<br>
-THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
-<br>
-OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
-
-Sourceduty won't use ChatGPT without also using GitHub.
+> [!CAUTION]
+> Copyright (C) 2023, Sourceduty - All Rights Reserved.
+> <br>
+> THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
+> <br>
+> OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
+> 
+> Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build original copyright-protected custom GPTs.
 
 #
 
-### To-Do Checklist
-
-[X] Improve 'Starship Launch'
-<br>
-[ ] Expand 'Word Searcher'
-<br>
-[X] Expand 'Instructions for Custom GPTs'
-<br>
-[X] Improve 'Newspaper Maker'
-<br>
-[X] Improve 'Search Multiplier'
-<br>
-[ ] Update & Expand 'Brand Footprint'
-<br>
-[X] Expand 'ATM Simulator'
-<br>
-[X] Improve 'Desktop Value'
-<br>
-[X] Improve 'Marketplace Value'
-<br>
-[X] Expand 'GPT Guide'
-<br>
-[ ] Improve 'Sourceduty'
-<br>
-[ ] Update 'GPT-Five'
-<br>
-
-#
-
-### Alex's Notes
+### 📝 Alex's Notes
 
 **ChatGPT** 
 
