@@ -1,5 +1,5 @@
 
-![ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/b1222080-c122-4ce4-ac7a-926a3caa00f7)
+![ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/55f3d6da-43fb-45a8-8a61-0668f27a6db4)
 
 ***
 ***
@@ -282,7 +282,6 @@ Automated teller machine (ATM) simulator.
 
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
 
-[Banner Spacing](https://1drv.ms/v/s!AumZxqj6wFkfhrh-5akxeipgg8oH-Q?e=drLBso)
 
 </details>
 
