@@ -317,6 +317,8 @@ Automated teller machine (ATM) simulator.
 
 > Some of my custom GPTs are concepts that were created as experiments with AI. GPTs such as 'Emergency Kit' and 'Treasure Hunt Game' are rough concept GPTs. I might improve 'Treasure Hunt Game' but I won't improve 'Emergency Kit'. There are also two private concepts, '3D Model Imaging' and 'YouTube Data Image'. With these rough concepts I wanted to visualize 3D model files by capturing images from six distinct views, and compile YouTube data into image files.
 
+**ChatGPT Copyright**
+> It's hard to be unique so some of my GPTs are basic like 'Repo Summary' and 'Dictionary Creator'. Some of my GPTs like 'Desktop Value', 'Rebrand' and 'Compare Images' are very unique to ChatGPT. These very unique GPTs were built to be copyright-protected. There are additional GPTs noted by myself such as '3D Model Imaging' and 'YouTube Data Image' which are concepts but could also be copyright-protected.
 
 ***
 ***
