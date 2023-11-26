@@ -1,4 +1,5 @@
-![ChatGPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/e2be7f0a-8114-4edd-9647-e8ef8e2b8c56)
+
+![ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/b1222080-c122-4ce4-ac7a-926a3caa00f7)
 
 ***
 ![ChatGPT](https://img.shields.io/badge/chatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white) 
