@@ -9,7 +9,7 @@ Listed below are `51` custom GPTs built by Sourceduty:
 
 <details><summary>
   
-### ChatGPT Tools
+### ChatGPT
 
 </summary>
 
@@ -36,7 +36,7 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 </details>
 <details><summary>
 
-### Tools
+### Utilities
 
 </summary>
 
