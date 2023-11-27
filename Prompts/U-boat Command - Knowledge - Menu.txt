@@ -30,7 +30,7 @@ MAIN INTERFACE:
 | 8. System Diagnostics                  |          (S)          |
 | 9. Exit Control Panel                  |                       |
 |----------------------------------------+-----------------------+
-| Enter Command Number:                  | Nose Direction: NW    |
+| Enter Command Number:                  |                       |
 +----------------------------------------+-----------------------+
 ```
 SECONDARY INTRFACES:
@@ -140,7 +140,7 @@ SECONDARY INTRFACES:
 |                                        |          (S)          |
 |                                        |                       |
 |----------------------------------------+-----------------------+
-| Enter Depth: [______] FT               | Nose Direction: NW    |
+| Enter Depth: [______] FT               |                       |
 +----------------------------------------+-----------------------+
 ```
 ```
