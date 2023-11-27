@@ -260,6 +260,7 @@ Automated teller machine (ATM) simulator.
 > Design clear product packaging for...
 > A logo for "Your Name", featuring a modern font and a graphic of...
 > Suggest GPT expansion options.
+> Try again.
 > ```
 
 ***
