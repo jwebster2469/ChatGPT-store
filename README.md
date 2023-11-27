@@ -8,8 +8,8 @@
 Listed below are `51` custom GPTs built by Sourceduty:
 
 <details><summary>
-
-### Tools
+  
+### ChatGPT Tools
 
 </summary>
 
@@ -17,17 +17,9 @@ Listed below are `51` custom GPTs built by Sourceduty:
 <br>
 User training quizzes for ChatGPT. 
 
-[Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
-<br>
-Word-for-word GIF image generator.
-
 [GPT-Five](https://chat.openai.com/g/g-ntdzmhh6s-gpt-five)
 <br>
 Informative guide for GPT-5.
-
-[Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
-<br>
-Instructional video creation assistant.
 
 [GPT Creation Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
 <br>
@@ -36,6 +28,25 @@ Helpful and informative.
 [Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts)
 <br>
 Custom GPT instruction creation guide.
+
+[ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities)
+<br>
+Exclusive tools built to utilize ChatGPT's exported chat records.
+
+</details>
+<details><summary>
+
+### Tools
+
+</summary>
+
+[Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
+<br>
+Word-for-word GIF image generator.
+
+[Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
+<br>
+Instructional video creation assistant.
 
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
 <br>
@@ -48,10 +59,6 @@ Upload and generate metadata for image and text files.
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
 Expand simple text searches with multiple related search options. 
-
-[ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities)
-<br>
-Exclusive tools built to utilize ChatGPT's exported chat records.
 
 [Power Time Logger](https://chat.openai.com/g/g-mc2GgN5bL-power-time-logger)
 <br>
