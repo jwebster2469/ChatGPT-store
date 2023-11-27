@@ -196,6 +196,10 @@ Organize essential travel guest info.
 
 </summary>
 
+[U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
+<br>
+Military submarine terminal simulator.
+
 [Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
 <br>
 Old computer terminal simulator.
