@@ -13,6 +13,10 @@ Listed below are `48` custom GPTs built by Sourceduty:
 
 </summary>
 
+[Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
+<br>
+Word-for-word GIF image generator.
+
 [GPT-Five](https://chat.openai.com/g/g-ntdzmhh6s-gpt-five)
 <br>
 Informative guide for GPT-5.
