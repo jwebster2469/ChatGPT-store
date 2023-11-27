@@ -277,9 +277,11 @@ Automated teller machine (ATM) simulator.
 > Suggest GPT expansion options.
 > Try again.
 > Print example.txt from knowledge as codeblock.
-> Right-clicking on a GPT's profile picture will download the picture.
 > ```
 
+Favorite Tricks: 
+- Right-clicking on a GPT's profile picture will download the picture.
+  
 ***
 
 <details><summary>
