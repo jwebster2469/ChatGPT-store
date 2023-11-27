@@ -280,7 +280,7 @@ Automated teller machine (ATM) simulator.
 > ```
 
 Favorite Tricks: 
-- Right-clicking on a GPT's profile picture will download the picture.
+- Right-clicking on a GPT's profile picture in the editor will download the picture.
   
 ***
 
