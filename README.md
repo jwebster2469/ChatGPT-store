@@ -266,7 +266,7 @@ Automated teller machine (ATM) simulator.
 ***
 
 > [!TIP]
-> Favorite Prompts
+> Favorite Prompts:
 > ```
 > Create large antique images of...
 > Create large images for the...
