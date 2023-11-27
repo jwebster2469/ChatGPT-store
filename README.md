@@ -331,6 +331,8 @@ Favorite Tricks:
 
 >- GPTs could retain user-editable knowledge base files that are updated or modified on a user-by-user basis.
 
+>- Right-clicking on a GPT's profile picture will only download a preview of the picture. GPT profile pictures generated with DALL-E should be downloadedable.
+
 
 **ChatGPT - Vintage Software**
 
