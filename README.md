@@ -320,16 +320,16 @@ Automated teller machine (ATM) simulator.
 
 >- A multiuser version of ChatGPT could be developed in the future.
 
-
 >- I tried to build 'ChatGPT Utilites' so that it could extract text from shared chat links. Building this GPT for this purpose was unsuccessful so I modified this GPT to extract text from exported chat records instead.
 
-
 >- I wanted to use extracted text from shared chat links to replay ChatGPT prompts and then record these prompts as a video file.
-
 
 >- ChatGPT could add more detailed account statistics like a total count of GPTs in My GPTs and a total count of chats created.
 
 >- GPTs could retain user-editable knowledge base files that are updated or modified on a user-by-user basis.
+
+>- Right-clicking on a GPT's profile picture will only download a preview of the picture. GPT profile pictures generated with DALL-E should be downloadedable.
+
 
 **ChatGPT - Vintage Software**
 
