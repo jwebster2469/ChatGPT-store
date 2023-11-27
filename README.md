@@ -13,6 +13,10 @@ Listed below are `50` custom GPTs built by Sourceduty:
 
 </summary>
 
+[User Training Quiz](https://chat.openai.com/g/g-j0Orf127K-user-training-quiz)
+<br>
+User training quizzes for ChatGPT. 
+
 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
 Word-for-word GIF image generator.
