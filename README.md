@@ -15,7 +15,7 @@ Listed below are `51` custom GPTs built by Sourceduty:
 
 [User Training Quiz](https://chat.openai.com/g/g-j0Orf127K-user-training-quiz)
 <br>
-User training quizzes for ChatGPT. 
+User training and tests for ChatGPT. 
 
 [GPT-Five](https://chat.openai.com/g/g-ntdzmhh6s-gpt-five)
 <br>
