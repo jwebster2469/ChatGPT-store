@@ -277,6 +277,7 @@ Automated teller machine (ATM) simulator.
 > Suggest GPT expansion options.
 > Try again.
 > Print example.txt from knowledge as codeblock.
+> Right-clicking on a GPT's profile picture will download the picture.
 > ```
 
 ***
@@ -327,8 +328,6 @@ Automated teller machine (ATM) simulator.
 >- ChatGPT could add more detailed account statistics like a total count of GPTs in My GPTs and a total count of chats created.
 
 >- GPTs could retain user-editable knowledge base files that are updated or modified on a user-by-user basis.
-
->- Right-clicking on a GPT's profile picture will only download a preview of the picture. GPT profile pictures generated with DALL-E should be downloadedable.
 
 
 **ChatGPT - Vintage Software**
