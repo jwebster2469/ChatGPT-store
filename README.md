@@ -40,7 +40,7 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 
 </summary>
 
-[Text Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
+[Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
 Create a collage image using words. 
 
