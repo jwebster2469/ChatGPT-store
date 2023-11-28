@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `53` custom GPTs built by Sourceduty:
+Listed below are `54` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -39,6 +39,10 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 ### Utilities
 
 </summary>
+
+[Text Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
+<br>
+Create a collage image using words. 
 
 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
