@@ -159,7 +159,7 @@ Used marketplace listing helper.
 
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
-Create collage images from song lyrics. 
+Visualize song lyrics in a collage image.
 
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
