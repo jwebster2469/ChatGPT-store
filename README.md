@@ -72,6 +72,10 @@ End-to-end software operation diagrams.
 <br>
 Solve science problems and questions.
 
+[War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
+<br>
+Global conflict metrics.
+
 [Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
 Summarize GitHub repository README files.
