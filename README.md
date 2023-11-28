@@ -40,10 +40,6 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 
 </summary>
 
-[Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
-<br>
-Create a collage image using words. 
-
 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
 Word-for-word GIF image generator.
@@ -160,6 +156,10 @@ Used marketplace listing helper.
 ### Art & Design
 
 </summary>
+
+[Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
+<br>
+Create a collage image using words.
 
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
 <br>
