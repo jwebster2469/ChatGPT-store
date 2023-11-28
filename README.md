@@ -52,6 +52,10 @@ Instructional video creation assistant.
 <br>
 A challenge for artificial intelligence.
 
+[Alex Aldridge](https://chat.openai.com/g/g-69Azdf4CN-alex-aldridge)
+<br>
+Self-taught designer, fan artist and programmer.
+
 [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
 <br>
 Upload and generate metadata for image and text files.
