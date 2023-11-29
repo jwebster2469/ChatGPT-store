@@ -311,6 +311,8 @@ Automated teller machine (ATM) simulator.
 
 </summary>
 
+[Predicting the Future of Tech](https://chat.openai.com/share/2ff4096b-0ab2-430f-a7b7-bbafd2461141)
+
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
 
 [3D STL Files](https://chat.openai.com/share/8ba9c27f-8c86-4ace-8514-4abab31525bf) 
