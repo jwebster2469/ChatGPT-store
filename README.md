@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `57` custom GPTs built by Sourceduty:
+Listed below are `58` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -168,6 +168,10 @@ Visualize song lyrics in a collage image.
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
 Create a collage image using words.
+
+[Recipe Kitchen](https://chat.openai.com/g/g-YzeT6O6jD-recipe-kitchen)
+<br>
+Create and test cook custom food recipes. 
 
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
 <br>
