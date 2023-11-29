@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `56` custom GPTs built by Sourceduty:
+Listed below are `57` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -39,6 +39,10 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 ### Utilities
 
 </summary>
+
+[Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
+<br>
+Create a GitHub repo card banner image.
 
 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
