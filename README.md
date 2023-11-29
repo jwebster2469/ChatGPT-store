@@ -332,7 +332,6 @@ Automated teller machine (ATM) simulator.
 
 
 ***
-![GPT_Store](https://github.com/sourceduty/ChatGPT/assets/123030236/28785916-5f8c-405a-b965-52ffc7e6cd0f)
 ***
 
 ### 📝 Alex's Notes
