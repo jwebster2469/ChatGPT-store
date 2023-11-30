@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `59` custom GPTs built by Sourceduty:
+Listed below are `60` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -51,6 +51,10 @@ Word-for-word GIF image generator.
 [Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
 <br>
 Instructional video creation assistant.
+
+[Image Shredder](https://chat.openai.com/g/g-Z7kOpqjss-image-shredder)
+<br>
+Create a new image from sliced and randomized image pieces.
 
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
 <br>
