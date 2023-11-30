@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `58` custom GPTs built by Sourceduty:
+Listed below are `59` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -234,6 +234,10 @@ Organize essential travel guest info.
 ### Fun & Games
 
 </summary>
+
+[Silly Food](https://chat.openai.com/g/g-hqsfNoC9o-silly-food)
+<br>
+Create funny food recipes using consumer products.
 
 [U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
 <br>
