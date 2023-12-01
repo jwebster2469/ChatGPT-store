@@ -396,10 +396,3 @@ Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhx
 
 ***
 
-### Example OpenAI DMCA Takedown Request
-
-The copyrighted work that Sourceduty claimed has been infringed upon: [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand) by Sourceduty
-
-The material that Sourceduty claimed is infringing located on OpenAI's platform: [Faux Product](https://chat.openai.com/g/g-KWsfZ8yxo-faux-products) by Dan Ruse
-
-#
