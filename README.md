@@ -354,11 +354,11 @@ Automated teller machine (ATM) simulator.
 
 ### 📝 Alex's Notes
 
-**I like ChatGPT** 
+**I like using ChatGPT** 
 
 > I like working with ChatGPT because it's really smart, easy to use, and I get to be creative. I'm very happy that I built customized GPTs for ChatGPT and Sourceduty. I started using ChatGPT under 1 month ago, and this was just in time for the launch of custom GPTs. For myself and my business, using ChatGPT right now is near perfectly timed. I'm very intersted in ChatGPT and AI. Also, I studied a lot of Python earlier this year.
 
-**ChatGPT - Concept Ideas**
+**Concept ChatGPT Ideas**
 
 >- A multiuser version of ChatGPT could be developed in the future.
 
@@ -372,17 +372,19 @@ Automated teller machine (ATM) simulator.
 
 >- GPT profile pictures generated with DALL-E should be downloadedable.
 
+>- OpenAI should ensure the uniqueness of custom GPT titles used in the ChatGPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching GPTs in the Store.
 
-**ChatGPT - Vintage Software**
+**Vintage Software**
 
 > While building custom GPTs in 2023, I searched back into the 1970's and 1980's to find old computer user manuals and design documents. I like being a 90's kid who grew up using Windows but I also enjoy the terminal style interface that early vintage computers used. Simulating the Apple II computer wasn't very hard using ChatGPT because artificial intelligence is 46 years ahead of 1977 Apple computer technology. 
 
-**ChatGPT - Rough GPTs**
+**Rough GPTs**
 
 > Some of my custom GPTs are concepts that were created as experiments with AI. GPTs such as 'Emergency Kit' and 'Treasure Hunt Game' are rough concept GPTs. I might improve 'Treasure Hunt Game' but I won't improve 'Emergency Kit'. There are also two private concepts, '3D Model Imaging' and 'YouTube Data Image'. With these rough concepts I wanted to visualize 3D model files by capturing images from six distinct views, and compile YouTube data into image files.
 
-**ChatGPT - Copyright**
+**Copyright**
 > It's hard to be unique so some of my GPTs are basic like 'Repo Summary' and 'Dictionary Creator'. Some of my GPTs like 'Desktop Value', 'Rebrand' and 'Compare Images' are very unique to ChatGPT. These very unique GPTs were built to be copyright-protected. There are additional GPTs noted by myself such as '3D Model Imaging' and 'YouTube Data Image' which are concepts but could also be copyright-protected.
+
 
 ***
 ***
