@@ -404,6 +404,9 @@ Account data image creator for Facebook, Instagram and X.
 
 > *Do the oldest created GPTs get analyzed and listed first?* 
 
+**Twenty Twofer**
+> I received the latest GPT Store announcement emailed from OpenAI today and I'm not very happy about being misled by OpenAI throughout November of 2023. I hope that changing the GPT Store launch date by moving it forwards into 2024 will increase the effectiveness, scale and quality of this newly created marketplace. I'm excited to continue building GPTs while also preparing for the GPT Store launch planned for early 2024. I'm hoping that each custom GPT that I competitively built will remain protected for originality after the GPT Store launches.
+
 ***
 ***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
