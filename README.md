@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `60` custom GPTs built by Sourceduty:
+Listed below are `61` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -164,6 +164,10 @@ Used marketplace listing helper.
 ### Art & Design
 
 </summary>
+
+[Pixel Squares](https://chat.openai.com/g/g-FuiPiyk3n-pixel-squares)
+<br>
+Create pixel art images.
 
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
