@@ -372,7 +372,7 @@ Automated teller machine (ATM) simulator.
 
 >- GPT profile pictures generated with DALL-E should be downloadedable.
 
->- OpenAI should ensure the uniqueness of custom GPT titles used in the ChatGPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching GPTs in the Store.
+>- OpenAI should ensure the uniqueness of custom GPT titles used in the ChatGPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching for GPTs in the ChatGPT Store.
 
 **Vintage Software**
 
