@@ -386,9 +386,9 @@ Automated teller machine (ATM) simulator.
 **GPT Store**
 > OpenAI should ensure the uniqueness of custom GPT titles used in the ChatGPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching for GPTs in the ChatGPT Store.
 
-*How do new GPTs get analyzed and listed when the ChatGPT Store opens?*
+> *How do new GPTs get analyzed and listed when the ChatGPT Store opens?*
 
-*Do the oldest created GPTs go first?* 
+> *Do the oldest created GPTs go first?* 
 
 ***
 ***
