@@ -384,9 +384,9 @@ Automated teller machine (ATM) simulator.
 > It's hard to be unique so some of my GPTs are basic like 'Repo Summary' and 'Dictionary Creator'. Some of my GPTs like 'Desktop Value', 'Rebrand' and 'Compare Images' are very unique to ChatGPT. These very unique GPTs were built to be copyright-protected. There are additional GPTs noted by myself such as '3D Model Imaging' and 'YouTube Data Image' which are concepts but could also be copyright-protected.
 
 **GPT Store**
-> OpenAI should ensure the uniqueness of custom GPT titles used in the ChatGPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching for GPTs in the ChatGPT Store.
+> OpenAI should ensure the uniqueness of custom GPT titles used in the GPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching for GPTs in the GPT Store.
 
-> *How do new GPTs get analyzed and listed when the ChatGPT Store opens?*
+> *How do new GPTs get analyzed and listed when the GPT Store opens?*
 
 > *Do the oldest created GPTs get analyzed and listed first?* 
 
