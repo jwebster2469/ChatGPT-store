@@ -300,7 +300,17 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 Automated teller machine (ATM) simulator.
 
 </details>
+<details><summary>
+  
+### Concepts
 
+</summary>
+
+[Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
+<br>
+Account data image creator for Facebook, Instagram and X. 
+
+</details>
 
 ***
 ***
