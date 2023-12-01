@@ -316,7 +316,7 @@ Automated teller machine (ATM) simulator.
 > A logo for "Your Name", featuring a modern font and a graphic of...
 > Suggest GPT expansion options.
 > Try again.
-> Print example.txt from knowledge as codeblock.
+> Print example.txt from knowledge as code block.
 > ```
   
 ***
