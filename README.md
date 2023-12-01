@@ -372,8 +372,6 @@ Automated teller machine (ATM) simulator.
 
 >- GPT profile pictures generated with DALL-E should be downloadedable.
 
->- OpenAI should ensure the uniqueness of custom GPT titles used in the ChatGPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching for GPTs in the ChatGPT Store.
-
 **Vintage Software**
 
 > While building custom GPTs in 2023, I searched back into the 1970's and 1980's to find old computer user manuals and design documents. I like being a 90's kid who grew up using Windows but I also enjoy the terminal style interface that early vintage computers used. Simulating the Apple II computer wasn't very hard using ChatGPT because artificial intelligence is 46 years ahead of 1977 Apple computer technology. 
@@ -385,6 +383,12 @@ Automated teller machine (ATM) simulator.
 **Copyright**
 > It's hard to be unique so some of my GPTs are basic like 'Repo Summary' and 'Dictionary Creator'. Some of my GPTs like 'Desktop Value', 'Rebrand' and 'Compare Images' are very unique to ChatGPT. These very unique GPTs were built to be copyright-protected. There are additional GPTs noted by myself such as '3D Model Imaging' and 'YouTube Data Image' which are concepts but could also be copyright-protected.
 
+**GPT Store**
+> OpenAI should ensure the uniqueness of custom GPT titles used in the ChatGPT Store. Google Play and Apple's App Store use automated checks and guidelines to prevent duplication in app titles. Similar titles will cause confusion for users and issues during searching for GPTs in the ChatGPT Store.
+
+*How do new GPTs get analyzed and listed when the ChatGPT Store opens?*
+
+*Do the oldest created GPTs go first?* 
 
 ***
 ***
