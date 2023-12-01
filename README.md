@@ -388,7 +388,7 @@ Automated teller machine (ATM) simulator.
 
 > *How do new GPTs get analyzed and listed when the ChatGPT Store opens?*
 
-> *Do the oldest created GPTs go first?* 
+> *Do the oldest created GPTs get analyzed and listed first?* 
 
 ***
 ***
