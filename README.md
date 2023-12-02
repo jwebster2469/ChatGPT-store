@@ -410,6 +410,9 @@ Account data image creator for Facebook, Instagram and X.
 **Capabilities**
 > I expected a lot more than what I learned ChatGPT was capable of while using GPT-4. Some of my custom GPTs push the current limits of ChatGPT such as '3D Model Imaging' and 'YouTube Data Image'. The current limitations of ChatGPT restrict my creativity and the capabilities of my GPTs. I expected ChatGPT to have standard built-in features like audio transcription, facial recognition, object recognition, text to audio, video editing and much more. The custom GPTs that I built are mostly tools that feature various different and original methods of utilizing ChatGPT. 
 
+**Actions**
+>I found it very difficult to understand and learn about OpenAI specification for API actions in custom GPTs. I would've struggled a lot more without the help of ChatGPT to provide me with detailed explanations that clarified questions I had about the OpenAI specification, schema and much more. Integrating custom GPT action APIs and services using JSON format is much more complex than creating plain text instructions. I might integrate a custom API or service into one of my upcoming custom GPTs using the Twitter API, Google Vision API or PayPal API. 
+
 ***
 ***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
