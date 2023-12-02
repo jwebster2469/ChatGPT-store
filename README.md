@@ -1,5 +1,5 @@
 
-![ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/55f3d6da-43fb-45a8-8a61-0668f27a6db4)
+![Repo_Card_Black](https://github.com/sourceduty/ChatGPT/assets/123030236/531c29db-4146-466d-a94a-333937c3529d)
 
 ***
 ***
