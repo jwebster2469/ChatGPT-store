@@ -407,6 +407,9 @@ Account data image creator for Facebook, Instagram and X.
 **Twenty Twofer**
 > I received the latest GPT Store announcement emailed from OpenAI today and I'm not very happy about being misled by OpenAI throughout November of 2023. I hope that changing the GPT Store launch date by moving it forwards into 2024 will increase the effectiveness, scale and quality of this newly created marketplace. I'm excited to continue building GPTs while also preparing for the GPT Store launch planned for early 2024. I'm hoping that each custom GPT that I competitively built will remain protected for originality after the GPT Store launches.
 
+**Capabilities**
+> I expected a lot more than what I learned ChatGPT was capable while using GPT-4. Some of my custom GPTs push the current limits of ChatGPT such as '3D Model Imaging' and 'YouTube Data Image'. The current limitations of ChatGPT restrict my creativity and the capabilities of my GPTs. I expected ChatGPT to have standard built-in features like audio transcription, facial recognition, object recognition, text to audio, video editing and much more. The custom GPTs that I built are mostly tools that feature various different and original methods of utilizing ChatGPT. 
+
 ***
 ***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
