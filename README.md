@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `63` custom GPTs built by Sourceduty:
+Listed below are `64` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -262,6 +262,10 @@ Old computer terminal simulator.
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 <br>
 Basic notepad emulator.
+
+[Speech Parody](https://chat.openai.com/g/g-agA6X5NqC-speech-parody)
+<br>
+Create speech transcript parodies.
 
 [Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
 <br>
