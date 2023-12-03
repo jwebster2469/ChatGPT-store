@@ -285,7 +285,7 @@ The original Connect 4 game.
 
 [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
 <br>
-Parodize song lyrics.
+Create song lyric parodies.
 
 [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
 <br>
