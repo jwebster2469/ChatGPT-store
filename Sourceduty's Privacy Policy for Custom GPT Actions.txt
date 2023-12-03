@@ -1,0 +1,66 @@
+Sourceduty's Privacy Policy for Custom GPT Actions
+
+Last Updated: [December, 2023]
+
+Thank you for using our custom GPT actions. This Privacy Policy is designed to help you understand how we collect, use, disclose, and safeguard your personal information when you interact with our custom GPT actions ("Service").
+
+By using the Service, you consent to the practices described in this Privacy Policy. Please read this Privacy Policy carefully to understand our policies and practices regarding your information.
+
+1. Information We Collect
+
+1.1 Information You Provide
+
+We may collect information that you voluntarily provide when using our Service, including but not limited to:
+
+Personal Information: Your name, email address, and other contact information when you register or contact us for support.
+
+1.2 Information Collected Automatically
+
+We may automatically collect certain information when you interact with the Service, including:
+
+Usage Data: Information about your use of the Service, such as the actions you request and the date and time of your interactions.
+
+2. How We Use Your Information
+
+We may use the information we collect for various purposes, including:
+
+- Providing and improving the Service.
+- Responding to your requests, comments, or questions.
+- Analyzing usage patterns and trends to enhance the user experience.
+- Complying with legal obligations.
+
+3. Data Sharing and Disclosure
+
+We may share your information with third parties under the following circumstances:
+
+With your consent.
+
+- To comply with legal obligations.
+- To protect our rights and interests or those of third parties.
+- In connection with a merger, acquisition, or sale of all or part of our assets.
+
+4. Data Security
+
+We take reasonable measures to protect your personal information from unauthorized access, disclosure, alteration, or destruction. However, no data transmission or storage system is completely secure, and we cannot guarantee the security of your information.
+
+5. Your Choices
+
+You have certain rights regarding your personal information, including the right to:
+
+- Access, correct, or delete your personal information.
+- Object to the processing of your personal information.
+- Withdraw your consent at any time, where applicable.
+
+6. Children's Privacy
+
+The Service is not intended for individuals under the age of 13. We do not knowingly collect or maintain information from children under the age of 13 without parental consent.
+
+7. Changes to this Privacy Policy
+
+We may update this Privacy Policy from time to time to reflect changes in our practices or for other operational, legal, or regulatory reasons. We will notify you of any material changes through the Service or by other means.
+
+8. Contact Us
+
+If you have any questions or concerns about this Privacy Policy or our data practices, please contact us by email at sourceduty@gmail.com.
+
+By using the Service, you agree to the terms and conditions of this Privacy Policy. If you do not agree with any terms or practices described herein, please do not use the Service.
