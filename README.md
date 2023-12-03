@@ -318,6 +318,10 @@ Automated teller machine (ATM) simulator.
 <br>
 Account data image creator for Facebook, Instagram and X. 
 
+[Maps Guide](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
+<br>
+Google Maps API queries and usage.
+
 </details>
 
 ***
