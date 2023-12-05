@@ -435,8 +435,11 @@ Google Maps API queries and usage.
 > I found it very difficult to understand and learn about OpenAI specification for API actions in custom GPTs. I would've struggled a lot more without the help of ChatGPT to provide me with detailed explanations that clarified questions I had about the OpenAI specification, schema and much more. Integrating custom GPT action APIs and services using JSON format is much more complex than creating plain text instructions. I might integrate a custom API or service into one of my upcoming custom GPTs using the Twitter API, Google Vision API or PayPal API. 
 
 **APIs**
-> I successfully developed one JSON format in OpenAPI specification for the Google Maps API. This single JSON format is utilized by my 'Maps Guide' custom GPT. I also tried to integrate Google Cloud Vision API, GPT-4 with Vision and the Twitter API into several custom GPTs but I was unsuccessful. I built and used 'OpenAPI Spec JSON Actions' while I was trying to integrate APIs with custom GPTs. This custom GPT is instructed to guide JSON format creation in custom GPT actions. I extensively optimized, expanded and improved 'OpenAPI Spec JSON Actions' to try and help me integrate APIs. 
+> I successfully developed one JSON format in OpenAPI specification for the Google Maps API. This single JSON format is utilized by my 'Maps Guide' custom GPT. I also tried to integrate Google Cloud Vision API, GPT-4 with Vision and the Twitter API into several custom GPTs but I was unsuccessful. I built and used 'OpenAPI Spec JSON Actions' while I was trying to integrate APIs with custom GPTs. This custom GPT is instructed to guide JSON format creation in custom GPT actions. I extensively optimized, expanded and improved 'OpenAPI Spec JSON Actions' to try and help me integrate APIs.
 
+**Expanding**
+
+> I'm researching, learning and working very hard to compile a list that contains over 100 custom GPTs built by Sourceduty. I have a lot of planned updates and expansions for my GPTs that will be developed in the future. The next decade of artificial intelligence will be very exciting, and the deep future of Sourceduty will be very smart. I expect that the first three to five years of work on Sourceduty will establish this company's reputation.
 
 ***
 ***
