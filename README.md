@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `68` custom GPTs built by Sourceduty:
+Listed below are `69` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -184,6 +184,10 @@ Create pixel art images.
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
 Visualize song lyrics in a collage image.
+
+[Emulated Image](https://chat.openai.com/g/g-RF3VlAjnL-emulated-image)
+<br>
+Replicate images with style using DALL-E 3.
 
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
