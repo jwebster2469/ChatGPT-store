@@ -29,9 +29,9 @@ Helpful and informative.
 <br>
 Custom GPT instruction creation guide.
 
-[OpenAPI Spec JSON Actions](https://chat.openai.com/g/g-fpPDafJds-openapi-spec-json-actions)
+[OpenAPI Spec JSON/YAML Actions](https://chat.openai.com/g/g-fpPDafJds-openapi-spec-json-actions)
 <br>
-JSON format schema actions in OpenAPI specification. 
+JSON and YAML format schema actions in OpenAPI specification. 
 
 [ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities)
 <br>
