@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `69` custom GPTs built by Sourceduty:
+Listed below are `70` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -24,6 +24,10 @@ Informative guide for GPT-5.
 [GPT Creation Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
 <br>
 Helpful and informative.
+
+[Easy APIs](https://chat.openai.com/g/g-DwGmTAUTB-easy-apis)
+<br>
+Easily integrate APIs without authentication.
 
 [Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts)
 <br>
