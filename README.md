@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `71` custom GPTs built by Sourceduty:
+Listed below are `72` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -270,6 +270,10 @@ Organize essential travel guest info.
 ### Fun & Games
 
 </summary>
+
+[Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
+<br>
+Three-way conversation between one person and two chatbots, Eric and Sasha.
 
 [Silly Food](https://chat.openai.com/g/g-hqsfNoC9o-silly-food)
 <br>
