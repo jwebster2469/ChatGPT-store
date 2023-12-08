@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `75` custom GPTs built by Sourceduty:
+Listed below are `76` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -79,6 +79,10 @@ Locate and participate in current academic research efforts.
 [Alex Aldridge](https://chat.openai.com/g/g-69Azdf4CN-alex-aldridge)
 <br>
 Self-taught designer, fan artist and programmer.
+
+[Social Spoof](https://chat.openai.com/g/g-8jTcYs6Pu-social-spoof)
+<br>
+Fake social profile creation using random user data. 
 
 [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
 <br>
