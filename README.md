@@ -465,7 +465,7 @@ Google Maps API queries and usage.
 
 **AI Group Chat**
 
-> I don't think that anyone else has built a three-way conversation between one person and two chatbots before today. I'm excited to see the future of "Artificial Group Chat" as I expand this custom GPT with deeper opinions and personalities.
+> I don't think that anyone else has built a three-way conversation between one person and two chatbots before today. I'm excited to see the future of 'Artificial Group Chat' as I expand this custom GPT with deeper opinions and personalities.
 
 ***
 ***
