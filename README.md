@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `76` custom GPTs built by Sourceduty:
+Listed below are `77` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -59,6 +59,10 @@ Create a GitHub repo card banner image.
 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
 Word-for-word GIF image generator.
+
+[Good Commenter](https://chat.openai.com/g/g-I5DgUS675-good-commenter)
+<br>
+Create comments and comment replies for Facebook, Instagram, X and more.
 
 [Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
 <br>
