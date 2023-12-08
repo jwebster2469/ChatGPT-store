@@ -449,6 +449,12 @@ Google Maps API queries and usage.
 
 > I'm researching, learning and working very hard to compile a list that contains over 100 custom GPTs built by Sourceduty. I have a lot of planned updates and expansions for my GPTs that will be developed in the future. The next decade of artificial intelligence will be very exciting, and the deep future of Sourceduty will be very smart. I expect that the first three to five years of work on Sourceduty will establish this company's reputation.
 
+**Easy APIs**
+
+> I built custom GPTs that could utilize image recognition APIs but these APIs are complicated. I was hoping that image recognition APIs would be easier to integrate with custom GPTs. I think that Vertex AI Vision is easy to manage and use but it's very custom. I might use image recognition in the future if there an easier and standard way of using it that doesn't require me to customize my own model.
+
+> Authenticating APIs for custom GPTs is a hastle, so I built a custom GPT to access APIs that don't require authentication. APIs that don't require authentication provide access to various topics like weather, public data, news, transit, currency exchange, sports and astronomy. I also used the Public APIs Directory to help me build 'Easy APIs'.
+
 ***
 ***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
