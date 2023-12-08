@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `72` custom GPTs built by Sourceduty:
+Listed below are `73` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -208,6 +208,10 @@ Create and test cook custom food recipes.
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
 <br>
 Visual design tool.
+
+[Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
+<br>
+Calls for entry, contests and competitions for creatives.
 
 [Hacked Image](https://chat.openai.com/g/g-7oqEqo4gD-hacked-image)
 <br>
