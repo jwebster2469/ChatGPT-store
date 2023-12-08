@@ -453,7 +453,7 @@ Google Maps API queries and usage.
 
 > I built custom GPTs that could utilize image recognition APIs but these APIs are complicated. I was hoping that image recognition APIs would be easier to integrate with custom GPTs. I think that Vertex AI Vision is easy to manage and use but it's very custom. I might use image recognition in the future if there an easier and standard way of using it that doesn't require me to customize my own model.
 
-> Authenticating APIs for custom GPTs is a hastle, so I built a custom GPT to access APIs that don't require authentication. APIs that don't require authentication provide access to various topics like weather, public data, news, transit, currency exchange, sports and astronomy. I also used the Public APIs Directory to help me build 'Easy APIs'.
+> Authenticating APIs for custom GPTs is a hastle, so I built a custom GPT to access the Public APIs Directory in order to access APIs that don't require authentication. APIs that don't require authentication provide access to various topics like weather, public data, news, transit, currency exchange, sports and astronomy. I also integrated the Public APIs Directory into 'Easy APIs'.
 
 ***
 ***
