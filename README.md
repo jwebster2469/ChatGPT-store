@@ -401,7 +401,6 @@ Google Maps API queries and usage.
 
 
 ***
-***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 ***
 
