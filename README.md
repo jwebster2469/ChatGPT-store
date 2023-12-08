@@ -463,6 +463,10 @@ Google Maps API queries and usage.
 
 > Authenticating APIs for custom GPTs is a hastle, so I built a custom GPT to access the Public APIs Directory in order to access APIs that don't require authentication. APIs that don't require authentication provide access to various topics like weather, public data, news, transit, currency exchange, sports and astronomy. I also integrated the Public APIs Directory into 'Easy APIs'.
 
+**AI Group Chat**
+
+> I don't think that anyone else has built a three-way conversation between one person and two chatbots before today. I'm excited to see the future of "Artificial Group Chat" as I expand this custom GPT with deeper opinions and personalities.
+
 ***
 ***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
