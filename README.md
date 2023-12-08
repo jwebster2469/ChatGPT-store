@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `77` custom GPTs built by Sourceduty:
+Listed below are `78` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -252,6 +252,10 @@ Upload and compare two image files.
 [Image Palette](https://chat.openai.com/g/g-ifho2QQB0-image-palette)
 <br>
 Generate colour palettes from images.
+
+[Design Collab](https://chat.openai.com/g/g-lwdIgFWps-design-collab)
+<br>
+Extensive design collaboration guide. 
 
 [Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark)
 <br>
