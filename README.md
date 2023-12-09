@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `78` custom GPTs built by Sourceduty:
+Listed below are `79` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -142,6 +142,10 @@ Create parody comic strip images using a book or short story.
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
 <br>
 Plain text organization guide.
+
+[Open Library Expert](https://chat.openai.com/g/g-dhqKoecAp-open-library-expert)
+<br>
+Search for books in the Open Library. 
 
 [Dictionary Creator](https://chat.openai.com/g/g-eFLhLRqRy-dictionary-creator)
 <br>
