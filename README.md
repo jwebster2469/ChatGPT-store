@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `83` custom GPTs built by Sourceduty:
+Listed below are `84` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -350,6 +350,10 @@ James Bond inspired code cracking game.
 [Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
 <br>
 SpaceX rocket mission simulator game.
+
+[Trivia Showdown](https://chat.openai.com/g/g-zkcmBhM5B-trivia-showdown)
+<br>
+Competitive trivia game with automated players.
 
 [Word Searcher](https://chat.openai.com/g/g-VGhdL47D9-word-searcher)
 <br>
