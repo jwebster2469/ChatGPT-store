@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `81` custom GPTs built by Sourceduty:
+Listed below are `82` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -158,6 +158,10 @@ Create dictionaries in various order types, such as Alphabetical, Prioritized, H
 [Quotes & Clips](https://chat.openai.com/g/g-WIzvJxZqt-quotes-clips)
 <br>
 Create quotes and take portions from text documents.
+
+[Truth Purifier](https://chat.openai.com/g/g-ra1lMjzN8-truth-purifier)
+<br>
+Unbiased disinformation analyzer.
 
 [Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker)
 <br>
