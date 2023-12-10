@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `82` custom GPTs built by Sourceduty:
+Listed below are `83` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -181,6 +181,10 @@ Intelligent note recording assistant.
 ### Business
 
 </summary>
+
+[Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
+<br>
+Compare a business to it's industry competitors and leaders.
 
 [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
 <br>
