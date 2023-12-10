@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `80` custom GPTs built by Sourceduty:
+Listed below are `81` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -86,7 +86,11 @@ Self-taught designer, fan artist and programmer.
 
 [Social Spoof](https://chat.openai.com/g/g-8jTcYs6Pu-social-spoof)
 <br>
-Fake social profile creation using random user data. 
+Fake social profile creation using random user data.
+
+[Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
+<br>
+Assistive plain text mind map creator.
 
 [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
 <br>
