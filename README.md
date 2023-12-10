@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `79` custom GPTs built by Sourceduty:
+Listed below are `80` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -314,6 +314,10 @@ Military submarine terminal simulator.
 [Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
 <br>
 Old computer terminal simulator.
+
+[Game Value](https://chat.openai.com/g/g-lR3BxufXF-game-value)
+<br>
+Video game price finder.
 
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 <br>
