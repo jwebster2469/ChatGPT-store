@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `84` custom GPTs built by Sourceduty:
+Listed below are `85` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -75,6 +75,10 @@ Create a new image from sliced and randomized image pieces.
 [Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
 <br>
 A challenge for artificial intelligence.
+
+[Barcode Scout](https://chat.openai.com/g/g-C84hcy9eU-barcode-scout)
+<br>
+Identify over 700,000 different products using UPC and EAN barcodes.
 
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
