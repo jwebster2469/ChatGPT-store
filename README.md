@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `85` custom GPTs built by Sourceduty:
+Listed below are `86` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -83,6 +83,10 @@ Identify over 700,000 different products using UPC and EAN barcodes.
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
 Locate and participate in current academic research efforts.
+
+[Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
+<br>
+Generate hashtags using images and text.
 
 [Alex Aldridge](https://chat.openai.com/g/g-69Azdf4CN-alex-aldridge)
 <br>
