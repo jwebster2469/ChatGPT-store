@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `88` custom GPTs built by Sourceduty:
+Listed below are `89` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -248,6 +248,10 @@ Create a collage image using words.
 [Recipe Kitchen](https://chat.openai.com/g/g-YzeT6O6jD-recipe-kitchen)
 <br>
 Create and test cook custom food recipes. 
+
+[Generated Art](https://chat.openai.com/g/g-yM88gxV4t-generated-art)
+<br>
+Generative art image creator.
 
 [Design Analysis](https://chat.openai.com/g/g-AtO8UJfQV-design-analysis)
 <br>
