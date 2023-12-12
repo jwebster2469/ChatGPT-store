@@ -289,9 +289,9 @@ Upload and watermark your image files.
 <br>
 Upload your images and create a collage.
 
-[ACSII Text Art](https://chat.openai.com/g/g-G7eF51owY-acsii-text-art)
+[ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-acsii-text-art)
 <br>
-Convert text into creative ACSII art.
+Convert text into creative ASCII art.
 
 </details>
 <details><summary>
