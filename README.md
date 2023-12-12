@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `87` custom GPTs built by Sourceduty:
+Listed below are `88` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -87,6 +87,10 @@ Locate and participate in current academic research efforts.
 [Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
 <br>
 Generate hashtags using images and text.
+
+[Gift Radar](https://chat.openai.com/g/g-DEy4xd8xr-gift-radar)
+<br>
+Search and find the perfect gifts. 
 
 [Alex Aldridge](https://chat.openai.com/g/g-69Azdf4CN-alex-aldridge)
 <br>
