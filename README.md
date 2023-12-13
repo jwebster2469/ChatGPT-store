@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `92` custom GPTs built by Sourceduty:
+Listed below are `93` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -51,6 +51,10 @@ Exclusive tools built to utilize ChatGPT's exported chat records.
 [Python Interface Builder](https://chat.openai.com/g/g-2a5BMlXE9-python-interface-builder)
 <br>
 Assistive GUI application creator for Python.
+
+[Python Art Builder](https://chat.openai.com/g/g-uxNhtCN0u-python-art-builder)
+<br>
+Assistive art image program creator using Python.
 
 [Python Game Builder](https://chat.openai.com/g/g-4hbrahdr4-python-game-builder)
 <br>
