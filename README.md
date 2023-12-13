@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `89` custom GPTs built by Sourceduty:
+Listed below are `90` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -417,6 +417,10 @@ Account data image creator for Facebook, Instagram and X.
 [Maps Guide](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
 Google Maps API queries and usage.
+
+[Artificial Group Chat + Starship](https://chat.openai.com/g/g-5Bn3uabPT-artificial-group-chat-starship)
+<br>
+Three-way conversation between one person and two chatbots, focused on SpaceX's Starship.
 
 </details>
 
