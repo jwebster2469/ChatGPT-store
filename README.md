@@ -29,7 +29,7 @@ Helpful and informative.
 <br>
 Easily integrate APIs without authentication.
 
-[Custom GPT Actions Expertt](https://chat.openai.com/g/g-xyr2NrOeq-custom-gpt-actions-expert)
+[Custom GPT Actions Expert](https://chat.openai.com/g/g-xyr2NrOeq-custom-gpt-actions-expert)
 <br>
 Guidance for Actions, Schema and Authentication.
 
