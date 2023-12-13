@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `90` custom GPTs built by Sourceduty:
+Listed below are `92` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -40,6 +40,21 @@ JSON and YAML format schema actions in OpenAPI specification.
 [ChatGPT Utilities](https://chat.openai.com/g/g-97CBY2PEq-chatgpt-utilities)
 <br>
 Exclusive tools built to utilize ChatGPT's exported chat records.
+
+</details>
+<details><summary>
+  
+### Python
+
+</summary>
+
+[Python Interface Builder](https://chat.openai.com/g/g-2a5BMlXE9-python-interface-builder)
+<br>
+Assistive GUI application creator for Python.
+
+[Python Game Builder](https://chat.openai.com/g/g-4hbrahdr4-python-game-builder)
+<br>
+Assistive game creator using Pygame, Tkinter and Python.
 
 </details>
 <details><summary>
