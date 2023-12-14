@@ -514,6 +514,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [ChatGPT: Extract Text from MS-DOS Goldfinger 1986 Game?](https://www.reddit.com/r/ChatGPTPro/comments/17zc8g1/chatgpt_extract_text_from_msdos_goldfinger_1986/) 
 
+[ChatGPT sparks AI investment bonanza](https://www.nationalheraldindia.com/science-and-tech/chatgpt-sparks-ai-investment)
+
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
 
 
