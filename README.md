@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `96` custom GPTs built by Sourceduty:
+Listed below are `97` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -263,6 +263,10 @@ Create unique mosaics using your images.
 [Pixel Squares](https://chat.openai.com/g/g-FuiPiyk3n-pixel-squares)
 <br>
 Create pixel art images.
+
+[Camo Maker](https://chat.openai.com/g/g-l7Qe53aAL-camo-maker)
+<br>
+Digital camouflage pattern image creator. 
 
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
