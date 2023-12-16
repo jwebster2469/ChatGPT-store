@@ -526,6 +526,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Awesome GPT Store](https://github.com/sourceduty/Awesome-GPT-Store)
 
+[OpenAI Discord](https://discord.com/invite/openai)
 
 </details>
 
