@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `99` custom GPTs built by Sourceduty:
+Listed below are `98` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -118,10 +118,6 @@ Identify over 700,000 different products using UPC and EAN barcodes.
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
 Locate and participate in current academic research efforts.
-
-[Truck Fuel Weight](https://chat.openai.com/g/g-uyLhbMxcw-truck-fuel-weight)
-<br>
-Calculate the amount of diesel fuel burned to transport the total amount of diesel fuel. 
 
 [Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
 <br>
