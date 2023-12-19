@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `99` custom GPTs built by Sourceduty:
+Listed below are `100` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -102,6 +102,10 @@ Instructional video creation assistant.
 [Snow Load](https://chat.openai.com/g/g-4ZK2PHvVE-snow-load)
 <br>
 Estimate the weight of snow on building roofs.
+
+[Predict Futures](https://chat.openai.com/g/g-L2gua0rf7-predict-futures)
+<br>
+Predict future scenarios based on internet research. 
 
 [Image Shredder](https://chat.openai.com/g/g-Z7kOpqjss-image-shredder)
 <br>
