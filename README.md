@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `101` custom GPTs built by Sourceduty:
+Listed below are `102` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -70,6 +70,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 ### Utilities
 
 </summary>
+
+[Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
+<br>
+Narrate document or image files and search for related information.
 
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
