@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `100` custom GPTs built by Sourceduty:
+Listed below are `101` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -130,6 +130,10 @@ Generate hashtags using images and text.
 [Gift Radar](https://chat.openai.com/g/g-DEy4xd8xr-gift-radar)
 <br>
 Search and find the perfect gifts. 
+
+[Discord Finder](https://chat.openai.com/g/g-enxhriqRt-discord-finder)
+<br>
+Search and find the best Discord channels for your content.
 
 [Alex Aldridge](https://chat.openai.com/g/g-69Azdf4CN-alex-aldridge)
 <br>
