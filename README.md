@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `98` custom GPTs built by Sourceduty:
+Listed below are `99` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -189,6 +189,10 @@ Analyze documents, lyrics, scripts and conversations with multiple opinions.
 [Parody Comic](https://chat.openai.com/g/g-BJXVWYlNc-parody-comic)
 <br>
 Create parody comic strip images using a book or short story. 
+
+[Narrated Images](https://chat.openai.com/g/g-rI4XBdeNB-narrated-images)
+<br>
+Narrate images and create short visual stories.
 
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
 <br>
