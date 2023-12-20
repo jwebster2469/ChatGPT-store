@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `104` custom GPTs built by Sourceduty:
+Listed below are `103` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -146,10 +146,6 @@ Search and find the best Discord channels for your content.
 [Alex Aldridge](https://chat.openai.com/g/g-69Azdf4CN-alex-aldridge)
 <br>
 Self-taught designer, fan artist and programmer.
-
-[Social Spoof](https://chat.openai.com/g/g-8jTcYs6Pu-social-spoof)
-<br>
-Fake social profile creation using random user data.
 
 [Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
 <br>
