@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `103` custom GPTs built by Sourceduty:
+Listed below are `104` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -279,6 +279,10 @@ Used marketplace listing helper.
 ### Art & Design
 
 </summary>
+
+[Headline Picture](https://chat.openai.com/g/g-oq9hValNL-headline-picture)
+<br>
+Create images inspired by up-to-date news using DALL-E 3.
 
 [Image Mosaic](https://chat.openai.com/g/g-AeEPpdIcT-image-mosaic)
 <br>
