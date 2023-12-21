@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `102` custom GPTs built by Sourceduty:
+Listed below are `103` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -271,6 +271,10 @@ Used marketplace listing helper.
 ### Art & Design
 
 </summary>
+
+[Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
+<br>
+Popular artistic painting style guessing game.
 
 [Headline Picture](https://chat.openai.com/g/g-oq9hValNL-headline-picture)
 <br>
