@@ -522,7 +522,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 > - ChatGPT will output up to around 2000 words of English text.
 > - Knowledge can contain up to 10 files limited to 20 MB per file.
 > - Using the DALL-E tool, users can input up to 400 characters or 60 words of English text.
-> - The maximum uploaded file size for GPT-4 is 100 MB.
+> - The maximum uploaded file size for GPT-4 is 512 MB.
 > - There isn't a specified limit on the number of files you can upload to GPT-4 as long as each individual file does not exceed the 100 MB size limit. 
 > ```
   
