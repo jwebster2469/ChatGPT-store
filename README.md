@@ -556,6 +556,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [OpenAI Discord](https://discord.com/invite/openai)
 
+[File Uploads FAQ](https://help.openai.com/en/articles/8555545-file-uploads-faq)
+
 </details>
 
 
