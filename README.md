@@ -424,7 +424,7 @@ Apple II home computer from 1977 with ProDOS.
 
 [Fighter Pilot](https://chat.openai.com/g/g-R5CztLFY5-fighter-pilot)
 <br>
-Interactive fighter jet airplane pilot game using DALLE-3.
+Interactive fighter jet airplane pilot game.
 
 [Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
 <br>
