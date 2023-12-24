@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `105` custom GPTs built by Sourceduty:
+Listed below are `106` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -397,6 +397,10 @@ Three-way conversation between one person and two chatbots, Eric and Sasha.
 [Silly Food](https://chat.openai.com/g/g-hqsfNoC9o-silly-food)
 <br>
 Create funny food recipes using consumer products.
+
+[Image Puzzle](https://chat.openai.com/g/g-SAtwMdcWa-image-puzzle)
+<br>
+Square image puzzle game using DALL-E 3. 
 
 [U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
 <br>
