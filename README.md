@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `104` custom GPTs built by Sourceduty:
+Listed below are `105` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -421,6 +421,10 @@ Create speech transcript parodies.
 [Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
 <br>
 Apple II home computer from 1977 with ProDOS.
+
+[Fighter Pilot](https://chat.openai.com/g/g-R5CztLFY5-fighter-pilot)
+<br>
+Interactive fighter jet airplane pilot game using DALLE-3.
 
 [Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
 <br>
