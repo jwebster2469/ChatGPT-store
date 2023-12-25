@@ -240,7 +240,7 @@ Unbiased newspaper creator and recreator.
 
 [Chain Story](https://chat.openai.com/g/g-azMoj9cY6-chain-story)
 <br>
-Collaborative storytelling across different genres.
+Collaborative sentence-by-sentence story creator.
 
 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
 <br>
