@@ -400,7 +400,7 @@ Organize essential travel guest info.
 
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
-Assistive step-by-step road travel planner game.
+Assistive step-by-step road travel planning game.
 
 [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
 <br>
