@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `108` custom GPTs built by Sourceduty:
+Listed below are `109` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -397,6 +397,10 @@ Organize essential travel guest info.
 ### Fun & Games
 
 </summary>
+
+[Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
+<br>
+Assistive step-by-step road travel planner game.
 
 [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
 <br>
