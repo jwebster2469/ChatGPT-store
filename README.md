@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `109` custom GPTs built by Sourceduty:
+Listed below are `110` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -90,6 +90,10 @@ Custom text-entry images.
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
 Create a GitHub repo card banner image.
+
+[The Daily Prompt](https://chat.openai.com/g/g-8KpztE5dz-the-daily-prompt)
+<br>
+Combined daily reporting for local, national and international news.
 
 [GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
 <br>
