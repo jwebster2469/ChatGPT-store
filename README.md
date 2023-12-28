@@ -81,7 +81,7 @@ Assistive step-by-step computer building planner.
 
 [Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
 <br>
-Find and track the best prices for products.
+Find and track the lowest prices for products.
 
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
