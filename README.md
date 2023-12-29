@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `112` custom GPTs built by Sourceduty:
+Listed below are `113` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -485,6 +485,10 @@ Create song lyric parodies.
 [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
 <br>
 Single player charades game.
+
+[PC Game Radar](https://chat.openai.com/g/g-Er7chyOmE-pc-game-radar)
+<br>
+Find similar PC games on Steam based on your preferences.
 
 [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
 <br>
