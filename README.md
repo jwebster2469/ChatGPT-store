@@ -529,6 +529,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 > A logo for "Your Name", featuring a modern font and a graphic of...
 > Suggest GPT expansion options.
 > Try again.
+> Edit the instructions but don't change the title, description or conversation starters.
 > ```
 > Favorite Instructions:
 > ```
