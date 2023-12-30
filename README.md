@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `115` custom GPTs built by Sourceduty:
+Listed below are `116` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -237,6 +237,10 @@ Collaborative sentence-by-sentence song lyric compiler.
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
 <br>
 Plain text organization guide.
+
+[Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents)
+<br>
+Compare paragraphs and documents to find the differences.
 
 [Open Library Expert](https://chat.openai.com/g/g-dhqKoecAp-open-library-expert)
 <br>
