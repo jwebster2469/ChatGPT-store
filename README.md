@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `113` custom GPTs built by Sourceduty:
+Listed below are `114` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -221,6 +221,10 @@ Create parody comic strip images using a book or short story.
 [Narrated Images](https://chat.openai.com/g/g-rI4XBdeNB-narrated-images)
 <br>
 Narrate images and create short visual stories.
+
+[Sloppy Type](https://chat.openai.com/g/g-6FfBIBVtw-sloppy-type)
+<br>
+Retype your words and sentences with incorrect spelling, emojis and symbols.
 
 [Chain Lyrics](https://chat.openai.com/g/g-seiWveVey-chain-lyrics)
 <br>
