@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `118` custom GPTs built by Sourceduty:
+Listed below are `119` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -205,6 +205,10 @@ SpaceX's Starship rocket information.
 ### Writing
 
 </summary>
+
+[Document Fusion](https://chat.openai.com/g/g-KfDrCWbYq-document-fusion)
+<br>
+Paragraph-by-paragraph document merging and mixing assistant.
 
 [Text Templates](https://chat.openai.com/g/g-GsTxQDRxX-text-templates)
 <br>
