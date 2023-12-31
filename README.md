@@ -93,7 +93,7 @@ Custom text-entry images.
 
 [TAZ SideKick 747](https://chat.openai.com/g/g-BzXdiy3gx-taz-sidekick-747)
 <br>
-Assistive open-source LulzBot 3D Printer guide.
+Assistive open-source LulzBot 3D printer guide.
 
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
