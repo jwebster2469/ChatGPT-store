@@ -1,5 +1,5 @@
 
-![Repo_Card_Black](https://github.com/sourceduty/ChatGPT/assets/123030236/531c29db-4146-466d-a94a-333937c3529d)
+![DALL·E 2023-12-31 04 57 19 - A visualization of a data weather storm, showing swirling clouds of binary numbers and digital data, with lightning bolts of electricity and neon colo](https://github.com/sourceduty/ChatGPT/assets/123030236/d1a41ec4-17f6-43b1-b666-f8f97a8c193a)
 
 ***
 ***
