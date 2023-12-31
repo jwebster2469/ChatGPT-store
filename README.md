@@ -615,6 +615,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [File Uploads FAQ](https://help.openai.com/en/articles/8555545-file-uploads-faq)
 
+[Narrative Search](https://github.com/sourceduty/Narrative_Search)
+
 </details>
 
 
