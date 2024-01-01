@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `120` custom GPTs built by Sourceduty:
+Listed below are `121` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -74,6 +74,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 ### Utilities
 
 </summary>
+
+[Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
+<br>
+Convert plain English to slang, including Canada, America, Britain, and Australia.
 
 [Computer Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-computer-build-plan)
 <br>
