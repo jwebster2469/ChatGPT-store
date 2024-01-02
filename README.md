@@ -91,7 +91,7 @@ Assistive step-by-step computer building planner.
 <br>
 Find and track the lowest prices for products.
 
-[Slang Generation](https://chat.openai.com/g/g-exS7cTaFJ-slang-generation)
+[Slang Generation](https://chat.openai.com/g/g-SLF7hyMYR-slang-generation)
 <br>
 Translate between Gen X, Y, Z slang and plain English.
 
