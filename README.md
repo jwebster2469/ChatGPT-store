@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `124` custom GPTs built by Sourceduty:
+Listed below are `125` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -90,6 +90,10 @@ Assistive step-by-step computer building planner.
 [Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
 <br>
 Find and track the lowest prices for products.
+
+[Slang Generation](https://chat.openai.com/g/g-exS7cTaFJ-slang-generation)
+<br>
+Translate between Gen X, Y, Z slang and plain English.
 
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
