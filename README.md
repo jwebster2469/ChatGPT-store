@@ -5,13 +5,17 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `123` custom GPTs built by Sourceduty:
+Listed below are `124` custom GPTs built by Sourceduty:
 
 <details><summary>
   
 ### ChatGPT
 
 </summary>
+
+[Custom GPT Locator](https://chat.openai.com/g/g-JGF19g1Dk-custom-gpt-locator)
+<br>
+Expert in finding custom GPTs from various directories.
 
 [User Training Quiz](https://chat.openai.com/g/g-j0Orf127K-user-training-quiz)
 <br>
