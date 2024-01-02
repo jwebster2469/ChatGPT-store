@@ -641,6 +641,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Narrative Search](https://github.com/sourceduty/Narrative_Search)
 
+[Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
+
 </details>
 
 
