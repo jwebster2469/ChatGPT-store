@@ -3,7 +3,7 @@
 
 ***
 ***
-### ◇ Sourceduty GPTs
+### Sourceduty GPTs
 
 Listed below are `125` custom GPTs built by Sourceduty:
 
@@ -651,7 +651,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 
 ***
-Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+◇ Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 ***
 
 > [!CAUTION]
