@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `128` custom GPTs built by Sourceduty:
+Listed below are `132` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -217,6 +217,22 @@ SpaceX's Starship rocket information.
 ### Chatting
 
 </summary>
+
+[James Bond Chat](https://chat.openai.com/g/g-JekL5ijcl-james-bond-chat)
+<br>
+Conversational James Bond impersonation chatbot.
+
+[Harry Potter Chat](https://chat.openai.com/g/g-MjWVZt1QA-harry-potter-chat)
+<br>
+Conversational Harry Potter impersonation chatbot.
+
+[Willy Wonka Chat](https://chat.openai.com/g/g-ylnA02Asj-willy-wonka-chat)
+<br>
+Conversational Willy Wonka impersonation chatbot.
+
+[Marty McFly Chat](https://chat.openai.com/g/g-I2BqI2pZl-marty-mcfly-chat)
+<br>
+Conversational Marty McFly impersonation chatbot.
 
 [American Chat](https://chat.openai.com/g/g-6EezxmQVj-american-chat)
 <br>
