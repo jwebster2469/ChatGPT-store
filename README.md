@@ -79,10 +79,6 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 </summary>
 
-[Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
-<br>
-Convert plain English to slang, including Canada, America, Britain, and Australia.
-
 [Computer Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-computer-build-plan)
 <br>
 Assistive step-by-step computer building planner.
@@ -90,10 +86,6 @@ Assistive step-by-step computer building planner.
 [Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
 <br>
 Find and track the lowest prices for products.
-
-[Slang Generation](https://chat.openai.com/g/g-SLF7hyMYR-slang-generation)
-<br>
-Translate between Gen X, Y, Z slang and plain English.
 
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
@@ -237,6 +229,14 @@ Conversational chatbot using British slang.
 [Canadian Chat](https://chat.openai.com/g/g-B9DKEl4Qr-canadian-chat)
 <br>
 Conversational chatbot using Canadian slang.
+
+[Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
+<br>
+Convert plain English to slang, including Canada, America, Britain, and Australia.
+
+[Slang Generation](https://chat.openai.com/g/g-SLF7hyMYR-slang-generation)
+<br>
+Translate between Gen X, Y, Z slang and plain English.
 
 </details>
 <details><summary>
