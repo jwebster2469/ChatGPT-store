@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `125` custom GPTs built by Sourceduty:
+Listed below are `128` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -218,6 +218,25 @@ SpaceX launch tower information.
 [Starship](https://chat.openai.com/g/g-C2JrN7qBV-starship)
 <br>
 SpaceX's Starship rocket information.
+
+</details>
+<details><summary>
+  
+### Chatting
+
+</summary>
+
+[American Chat](https://chat.openai.com/g/g-6EezxmQVj-american-chat)
+<br>
+Conversational chatbot using American slang.
+
+[British Chat](https://chat.openai.com/g/g-LCRkK9E23-british-chat)
+<br>
+Conversational chatbot using British slang.
+
+[Canadian Chat](https://chat.openai.com/g/g-B9DKEl4Qr-canadian-chat)
+<br>
+Conversational chatbot using Canadian slang.
 
 </details>
 <details><summary>
