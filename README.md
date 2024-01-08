@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `132` custom GPTs built by Sourceduty:
+Listed below are `134` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -94,6 +94,14 @@ Narrate document or image files and search for related information.
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
 Custom text-entry images.
+
+[World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
+<br>
+https://chat.openai.com/g/g-lQO1uTiUv-world-currency
+
+[Currency Insight](https://chat.openai.com/g/g-eGhUZlmUs-currency-insight)
+<br>
+Assistive currency trading with market insights and suggestions.
 
 [TAZ SideKick 747](https://chat.openai.com/g/g-BzXdiy3gx-taz-sidekick-747)
 <br>
