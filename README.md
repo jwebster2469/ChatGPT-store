@@ -208,7 +208,7 @@ SpaceX's Starship rocket information.
 
 [World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
 <br>
-https://chat.openai.com/g/g-lQO1uTiUv-world-currency
+Assistive currency exchange research and strength testing.
 
 [Currency Insight](https://chat.openai.com/g/g-eGhUZlmUs-currency-insight)
 <br>
