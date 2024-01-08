@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `134` custom GPTs built by Sourceduty:
+Listed below are `133` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -79,14 +79,6 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 </summary>
 
-[Computer Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-computer-build-plan)
-<br>
-Assistive step-by-step computer building planner.
-
-[Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
-<br>
-Find and track the lowest prices for products.
-
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
 Narrate document or image files and search for related information.
@@ -94,14 +86,6 @@ Narrate document or image files and search for related information.
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
 Custom text-entry images.
-
-[World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
-<br>
-https://chat.openai.com/g/g-lQO1uTiUv-world-currency
-
-[Currency Insight](https://chat.openai.com/g/g-eGhUZlmUs-currency-insight)
-<br>
-Assistive currency trading with market insights and suggestions.
 
 [TAZ SideKick 747](https://chat.openai.com/g/g-BzXdiy3gx-taz-sidekick-747)
 <br>
@@ -211,13 +195,40 @@ Global conflict metrics.
 <br>
 Summarize GitHub repository README files.
 
-[Mechazilla](https://chat.openai.com/g/g-MROVtYV1F-mechazilla)
-<br>
-SpaceX launch tower information.
-
 [Starship](https://chat.openai.com/g/g-C2JrN7qBV-starship)
 <br>
 SpaceX's Starship rocket information.
+
+</details>
+<details><summary>
+  
+### Money
+
+</summary>
+
+[World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
+<br>
+https://chat.openai.com/g/g-lQO1uTiUv-world-currency
+
+[Currency Insight](https://chat.openai.com/g/g-eGhUZlmUs-currency-insight)
+<br>
+Assistive currency trading with market insights and suggestions.
+
+[Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
+<br>
+Estimate the current price of custom desktop computers and hardware.
+
+[Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
+<br>
+Used marketplace listing helper.
+
+[Computer Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-computer-build-plan)
+<br>
+Assistive step-by-step computer building planner.
+
+[Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
+<br>
+Find and track the lowest prices for products.
 
 </details>
 <details><summary>
@@ -352,10 +363,6 @@ Intelligent note recording assistant.
 <br>
 Compare a business to it's industry competitors and leaders.
 
-[Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
-<br>
-Estimate the current price of custom desktop computers and hardware.
-
 [Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
 <br>
 Promotional business shoutouts for x.com.
@@ -367,10 +374,6 @@ Creative digital business.
 [Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
 <br>
 Find and analyze branded website and social account data.
-
-[Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
-<br>
-Used marketplace listing helper.
 
 </details>
 <details><summary>
