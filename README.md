@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `135` custom GPTs built by Sourceduty:
+Listed below are `136` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -98,6 +98,10 @@ Assistive open-source LulzBot 3D printer guide.
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
 Create a GitHub repo card banner image.
+
+[Mickey D's](https://chat.openai.com/g/g-mRgZFUvcD-mickey-d-s)
+<br>
+McDonald's locations and fast food expert.
 
 [Windows Registry Expert](https://chat.openai.com/g/g-vGNiWQSoA-windows-registry-expert)
 <br>
