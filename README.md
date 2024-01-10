@@ -1,5 +1,4 @@
-
-![DALL·E 2023-12-31 04 57 19 - A visualization of a data weather storm, showing swirling clouds of binary numbers and digital data, with lightning bolts of electricity and neon colo](https://github.com/sourceduty/ChatGPT/assets/123030236/d1a41ec4-17f6-43b1-b666-f8f97a8c193a)
+![GPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/70fefc45-044e-447d-9616-f4a946a3614d)
 
 ***
 ***
