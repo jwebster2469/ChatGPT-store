@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `137` custom GPTs built by Sourceduty:
+Listed below are `135` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -35,10 +35,6 @@ Easily integrate APIs without authentication.
 [Custom GPT Actions Expert](https://chat.openai.com/g/g-xyr2NrOeq-custom-gpt-actions-expert)
 <br>
 Guidance for Actions, Schema and Authentication.
-
-[Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts)
-<br>
-Custom GPT instruction creation guide.
 
 [OpenAPI Spec JSON/YAML Actions](https://chat.openai.com/g/g-fpPDafJds-openapi-spec-json-actions)
 <br>
@@ -440,10 +436,6 @@ Visual design tool.
 [Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
 <br>
 Calls for entry, contests and competitions for creatives.
-
-[Hacked Image](https://chat.openai.com/g/g-7oqEqo4gD-hacked-image)
-<br>
-Unique image effect processing.
 
 [Fanatic Creator](https://chat.openai.com/g/g-4jZ8rABSo-fanatic-creator)
 <br>
