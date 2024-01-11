@@ -6,6 +6,8 @@
 
 Listed below are `138` custom GPTs built by Sourceduty:
 
+The 🌠 indicates the **most popular** GPTs.
+
 <details><summary>
   
 ### ChatGPT
