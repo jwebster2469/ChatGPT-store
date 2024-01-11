@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `138` custom GPTs built by Sourceduty:
+Listed below are `139` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -85,6 +85,10 @@ Narrate document or image files and search for related information.
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
 Custom text-entry images.
+
+[International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
+<br>
+Assistive international cuisine guide, offering insights into popular dishes worldwide.
 
 [AI-Powered](https://chat.openai.com/g/g-7cvn180Mm-ai-powered)
 <br>
