@@ -114,11 +114,11 @@ Spatial building and property data comparisons.
 <br>
 Combined daily reporting for local, national and international news.
 
-[GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
+🌠 [GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
 <br>
 Create animated GIF images using DALL-E 3.
 
-[Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
+🌠 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
 Word-for-word GIF image generator.
 
@@ -311,7 +311,7 @@ Analyze documents, lyrics, scripts and conversations with multiple opinions.
 <br>
 Create parody comic strip images using a book or short story. 
 
-[Narrated Images](https://chat.openai.com/g/g-rI4XBdeNB-narrated-images)
+🌠 [Narrated Images](https://chat.openai.com/g/g-rI4XBdeNB-narrated-images)
 <br>
 Narrate images and create short visual stories.
 
@@ -421,7 +421,7 @@ Digital camouflage pattern image creator.
 <br>
 Visualize song lyrics in a collage image.
 
-[Emulated Image](https://chat.openai.com/g/g-RF3VlAjnL-emulated-image)
+🌠 [Emulated Image](https://chat.openai.com/g/g-RF3VlAjnL-emulated-image)
 <br>
 Replicate images with style using DALL-E 3.
 
@@ -477,7 +477,7 @@ Upload and watermark your image files.
 <br>
 Upload your images and create a collage.
 
-[ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
+🌠 [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
 <br>
 Convert text into creative ASCII art.
 
@@ -571,7 +571,7 @@ James Bond inspired code cracking game.
 <br>
 SpaceX rocket mission simulator game.
 
-[Visual Mystery](https://chat.openai.com/g/g-LEUbOVHbR-visual-mystery)
+🌠 [Visual Mystery](https://chat.openai.com/g/g-LEUbOVHbR-visual-mystery)
 <br>
 Object image guessing game using DALL-E 3.
 
