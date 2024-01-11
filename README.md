@@ -6,8 +6,6 @@
 
 Listed below are `138` custom GPTs built by Sourceduty:
 
-The 🌠 indicates the **most popular** GPTs.
-
 <details><summary>
   
 ### ChatGPT
@@ -637,6 +635,8 @@ Create and expand an image mosaic using DALL-E 3.
 Three-way conversation between one person and two chatbots, focused on SpaceX's Starship.
 
 </details>
+
+The 🌠 indicates the **most popular** GPTs.
 
 ***
 ***
