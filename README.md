@@ -246,7 +246,7 @@ Find and track the lowest prices for products.
 
 [English Language Accents](https://chat.openai.com/g/g-P82MtaVgv-english-language-accents)
 <br>
-Learn various English language accents.
+Explore and learn English accents from around the globe.
 
 [James Bond Chat](https://chat.openai.com/g/g-JekL5ijcl-james-bond-chat)
 <br>
