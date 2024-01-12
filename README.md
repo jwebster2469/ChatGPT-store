@@ -288,14 +288,6 @@ Conversational chatbot using British slang.
 <br>
 Conversational chatbot using Canadian slang.
 
-[Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
-<br>
-Convert plain English to slang, including Canada, America, Britain, and Australia.
-
-[Slang Generation](https://chat.openai.com/g/g-SLF7hyMYR-slang-generation)
-<br>
-Translate between Gen X, Y, Z slang and plain English.
-
 </details>
 <details><summary>
   
@@ -408,6 +400,14 @@ Promotional business shoutouts for x.com.
 [Formal](https://chat.openai.com/g/g-cEoMR3lVm-formal)
 <br>
 Assistive formal etiquette guide.
+
+[Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
+<br>
+Convert plain English to slang, including Canada, America, Britain, and Australia.
+
+[Slang Generation](https://chat.openai.com/g/g-SLF7hyMYR-slang-generation)
+<br>
+Translate between Gen X, Y, Z slang and plain English.
 
 </details>
 <details><summary>  
