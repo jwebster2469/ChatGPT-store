@@ -4,13 +4,17 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `146` custom GPTs built by Sourceduty:
+Listed below are `147` custom GPTs built by Sourceduty:
 
 <details><summary>
   
 ### ChatGPT
 
 </summary>
+
+[Custom GPT Collab](https://chat.openai.com/g/g-IluPscax8-custom-gpt-collab)
+<br>
+Guides in combining custom GPTs for collaborations.
 
 [Custom GPT Locator](https://chat.openai.com/g/g-JGF19g1Dk-custom-gpt-locator)
 <br>
