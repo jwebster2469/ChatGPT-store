@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `148` custom GPTs built by Sourceduty:
+Listed below are `149` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -310,6 +310,10 @@ Paragraph-by-paragraph document merging and mixing assistant.
 [Text Templates](https://chat.openai.com/g/g-GsTxQDRxX-text-templates)
 <br>
 Editable premade .txt templates.
+
+[Onomatopoeia](https://chat.openai.com/g/g-JEHdIpJiN-onomatopoeia)
+<br>
+Create and explain sound words.
 
 [✦⊱𝒟𝑒𝒸𝑜𝓇𝒶𝓉𝒾𝓋𝑒 𝒯𝑒𝓍𝓉⊰✦](https://chat.openai.com/g/g-Q71P7xcOG-)
 <br>
