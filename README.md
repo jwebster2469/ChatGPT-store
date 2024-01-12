@@ -556,7 +556,7 @@ Assistive go-to guide for everything Toronto, from local tips to cultural insigh
 
 [Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
 <br>
-Helps locate EV charging stations with tailored, accurate info.
+Locate electric vehicle charging stations.
 
 [English Traveller](https://chat.openai.com/g/g-Zpi4RMfze-english-traveller)
 <br>
