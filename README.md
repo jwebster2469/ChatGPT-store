@@ -702,8 +702,6 @@ The 🌠 indicates the **most popular** GPTs.
 
 [Custom GPT Knowledge](https://chat.openai.com/share/c746b4a5-ead9-4dce-be92-03fdffe9a6e7) 
 
-[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/) 
-
 [Why GPTs aren’t (yet) the new App Store](https://medium.com/barnacle-labs/why-gpts-arent-yet-the-new-app-store-daaf760392cc) 
 
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
@@ -722,7 +720,7 @@ The 🌠 indicates the **most popular** GPTs.
 
 [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 
-[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)
+[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/) 
 
 [First impressions of the GPT store?](https://www.reddit.com/r/OpenAI/comments/193wbhv/first_impressions_of_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)
 
