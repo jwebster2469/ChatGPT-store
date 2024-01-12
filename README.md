@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `147` custom GPTs built by Sourceduty:
+Listed below are `148` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -439,6 +439,10 @@ Create images inspired by up-to-date news using DALL-E 3.
 [Image Mosaic](https://chat.openai.com/g/g-AeEPpdIcT-image-mosaic)
 <br>
 Create unique mosaics using your images.
+
+[Image Psychology](https://chat.openai.com/g/g-iTZm6rqFR-image-psychology)
+<br>
+Analyze any image using visual psychology.
 
 [Fan-Made](https://chat.openai.com/g/g-0FkXecpoY-fan-made)
 <br>
