@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `140` custom GPTs built by Sourceduty:
+Listed below are `141` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -97,6 +97,10 @@ Detailed advice and information for AI-powered personal computers.
 [TAZ SideKick 747](https://chat.openai.com/g/g-BzXdiy3gx-taz-sidekick-747)
 <br>
 Assistive open-source LulzBot 3D printer guide.
+
+[Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
+<br>
+Assistive internet culture expert, explaining trends and memes.
 
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
