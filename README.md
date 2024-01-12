@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `149` custom GPTs built by Sourceduty:
+Listed below are `150` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -397,6 +397,20 @@ Assistive contrafact creation for songs and melodies.
 </details>
 <details><summary>
   
+### Social
+
+</summary>
+
+[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
+<br>
+Promotional business shoutouts for x.com.
+
+[Formal](https://chat.openai.com/g/g-cEoMR3lVm-formal)
+<br>
+Assistive formal etiquette guide.
+
+</details>
+<details><summary>  
 ### Business
 
 </summary>
@@ -404,10 +418,6 @@ Assistive contrafact creation for songs and melodies.
 [Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
 <br>
 Compare a business to it's industry competitors and leaders.
-
-[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
-<br>
-Promotional business shoutouts for x.com.
 
 [Sourceduty](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
 <br>
