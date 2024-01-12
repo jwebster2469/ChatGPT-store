@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `147` custom GPTs built by Sourceduty:
+Listed below are `148` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -557,6 +557,10 @@ Organize essential travel guest info.
 ### Fun & Games
 
 </summary>
+
+[Tube Assistant](https://chat.openai.com/g/g-xKPZsnnWZ-tube-assistant)
+<br>
+Expert in navigating YouTube, creating playlists, and categorizing videos.
 
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
