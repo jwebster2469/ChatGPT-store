@@ -76,7 +76,7 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
-Identify everyday aches and pains and find OTC treatment products.
+Identify everyday aches and find OTC treatment products.
 
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 <br>
