@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `142` custom GPTs built by Sourceduty:
+Listed below are `143` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -499,6 +499,10 @@ Convert text into creative ASCII art.
 ### Travel
 
 </summary>
+
+[Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
+<br>
+Assistive go-to guide for everything Canada, from local tips to cultural insights.
 
 [Torontonian](https://chat.openai.com/g/g-MLyFYs8LH-torontonian)
 <br>
