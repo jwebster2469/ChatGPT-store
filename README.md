@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `150` custom GPTs built by Sourceduty:
+Listed below are `151` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -73,6 +73,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 ### Utilities
 
 </summary>
+
+[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
+<br>
+Identify everyday aches and pains and find OTC treatment products.
 
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 <br>
