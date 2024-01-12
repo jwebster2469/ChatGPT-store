@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `139` custom GPTs built by Sourceduty:
+Listed below are `140` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -247,6 +247,10 @@ Find and track the lowest prices for products.
 ### Chatting
 
 </summary>
+
+[Convo Planner](https://chat.openai.com/g/g-LTSeH89l1-convo-planner)
+<br>
+Plan and strategize conversations.
 
 [English Language Accents](https://chat.openai.com/g/g-P82MtaVgv-english-language-accents)
 <br>
