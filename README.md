@@ -722,6 +722,10 @@ The 🌠 indicates the **most popular** GPTs.
 
 [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 
+[GPT Store Predictions](https://www.reddit.com/r/OpenAI/comments/17upjcm/interesting_predictions_about_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)
+
+[First impressions of the GPT store?](https://www.reddit.com/r/OpenAI/comments/193wbhv/first_impressions_of_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)
+
 </details>
 
 
