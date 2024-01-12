@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `144` custom GPTs built by Sourceduty:
+Listed below are `145` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -335,10 +335,6 @@ Personal and professional journal assistant.
 <br>
 Retype your words and sentences with incorrect spelling, emojis and symbols.
 
-[Chain Lyrics](https://chat.openai.com/g/g-seiWveVey-chain-lyrics)
-<br>
-Collaborative sentence-by-sentence song lyric compiler.
-
 [Plain Text Guide](https://chat.openai.com/g/g-63ldbtCMe-plain-text-guide)
 <br>
 Plain text organization guide.
@@ -374,6 +370,25 @@ Collaborative sentence-by-sentence story creator.
 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
 <br>
 Intelligent note recording assistant.
+
+</details>
+<details><summary>
+  
+### Music
+
+</summary>
+
+[Music Insider](https://chat.openai.com/g/g-2UGNKmxVj-music-insider)
+<br>
+Learn about popular music artists, lore, and culture.
+
+[Chain Lyrics](https://chat.openai.com/g/g-seiWveVey-chain-lyrics)
+<br>
+Collaborative sentence-by-sentence song lyric compiler.
+
+[Contrafact Creator](https://chat.openai.com/g/g-J9PaVZaO0-contrafact-creator)
+<br>
+Assistive contrafact creation for songs and melodies.
 
 </details>
 <details><summary>
@@ -534,10 +549,6 @@ Organize essential travel guest info.
 ### Fun & Games
 
 </summary>
-
-[Contrafact Creator](https://chat.openai.com/g/g-J9PaVZaO0-contrafact-creator)
-<br>
-Assistive contrafact creation for songs and melodies.
 
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
