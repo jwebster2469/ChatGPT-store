@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `151` custom GPTs built by Sourceduty:
+Listed below are `152` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -553,6 +553,10 @@ Assistive go-to guide for everything Canada, from local tips to cultural insight
 [Torontonian](https://chat.openai.com/g/g-MLyFYs8LH-torontonian)
 <br>
 Assistive go-to guide for everything Toronto, from local tips to cultural insights.
+
+[Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
+<br>
+Helps locate EV charging stations with tailored, accurate info.
 
 [English Traveller](https://chat.openai.com/g/g-Zpi4RMfze-english-traveller)
 <br>
