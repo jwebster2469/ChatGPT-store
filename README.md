@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `143` custom GPTs built by Sourceduty:
+Listed below are `144` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -404,6 +404,10 @@ Find and analyze branded website and social account data.
 ### Art & Design
 
 </summary>
+
+[Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
+<br>
+Learn about Hollywood movies, lore, and culture.
 
 [Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
 <br>
