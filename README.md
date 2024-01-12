@@ -724,6 +724,8 @@ The 🌠 indicates the **most popular** GPTs.
 
 [First impressions of the GPT store?](https://www.reddit.com/r/OpenAI/comments/193wbhv/first_impressions_of_the_gpt_store/?utm_source=share&utm_medium=web2x&context=3)
 
+[Prices for custom GPTs in the GPT Store](https://chat.openai.com/share/5b573da5-4ecf-493e-8e47-9cfed7c98fa9)
+
 </details>
 
 
