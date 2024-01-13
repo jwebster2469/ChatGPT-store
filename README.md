@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `153` custom GPTs built by Sourceduty:
+Listed below are `154` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -298,6 +298,10 @@ Conversational chatbot using Canadian slang.
 ### Writing
 
 </summary>
+
+[Law Simple](https://chat.openai.com/g/g-nGrf808nn-law-simple)
+<br>
+Simplify legal documents for easy reading.
 
 [Document Fusion](https://chat.openai.com/g/g-KfDrCWbYq-document-fusion)
 <br>
