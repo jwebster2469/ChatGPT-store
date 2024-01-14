@@ -1,5 +1,6 @@
 
-![GPT Store GIF](https://github.com/sourceduty/ChatGPT/assets/123030236/264fdd39-c962-462f-bf16-bd3b197c9193)
+https://github.com/sourceduty/ChatGPT/assets/123030236/eb70f182-d829-4fce-9b66-8ba73dbf2758
+Uploading GPT Store.mp4…
 
 ***
 ***
