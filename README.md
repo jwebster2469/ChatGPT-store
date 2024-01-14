@@ -1,4 +1,5 @@
-![GPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/70fefc45-044e-447d-9616-f4a946a3614d)
+
+![GPT Store GIF](https://github.com/sourceduty/ChatGPT/assets/123030236/264fdd39-c962-462f-bf16-bd3b197c9193)
 
 ***
 ***
