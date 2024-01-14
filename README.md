@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `155` custom GPTs built by Sourceduty:
+Listed below are `156` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -600,6 +600,10 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
 Assistive road-by-road travel planning game.
+
+[Landmark Guess](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
+<br>
+Landmark image guessing game using DALL-E 3. 
 
 [Personal Quest](https://chat.openai.com/g/g-aahk4IOIC-personal-quest)
 <br>
