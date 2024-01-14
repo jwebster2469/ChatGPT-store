@@ -601,9 +601,8 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 <br>
 Instructional video creation assistant.
 
-
-<details><summary>
 </details>
+<details><summary>
   
 ### Fun & Games
 
