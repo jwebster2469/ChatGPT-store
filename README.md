@@ -1,6 +1,4 @@
-
-https://github.com/sourceduty/ChatGPT/assets/123030236/eb70f182-d829-4fce-9b66-8ba73dbf2758
-Uploading GPT Store.mp4…
+https://github.com/sourceduty/ChatGPT/assets/123030236/955850a0-ef2b-42f5-80f9-24a829b0dc75
 
 ***
 ***
