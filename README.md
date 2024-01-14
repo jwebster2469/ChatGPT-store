@@ -1,10 +1,11 @@
-https://github.com/sourceduty/ChatGPT/assets/123030236/955850a0-ef2b-42f5-80f9-24a829b0dc75
+
+![Waterfall House](https://github.com/sourceduty/ChatGPT/assets/123030236/021c66b5-a243-44af-8979-80c6c4d4b8db)
 
 ***
 ***
 ### Sourceduty GPTs
 
-Listed below are `157` custom GPTs built by Sourceduty:
+Listed below are `158` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -442,6 +443,10 @@ Find and analyze branded website and social account data.
 ### Art & Design
 
 </summary>
+
+[Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
+<br>
+Locate ultra-rich luxury items and insights on top-tier products. 
 
 [Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
 <br>
