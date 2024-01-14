@@ -4,7 +4,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `156` custom GPTs built by Sourceduty:
+Listed below are `157` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -145,10 +145,6 @@ Search and find the best subreddits for your content.
 [Good Commenter](https://chat.openai.com/g/g-I5DgUS675-good-commenter)
 <br>
 Create comments and comment replies for Facebook, Instagram, X and more.
-
-[Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
-<br>
-Instructional video creation assistant.
 
 [Snow Load](https://chat.openai.com/g/g-4ZK2PHvVE-snow-load)
 <br>
@@ -589,13 +585,29 @@ Organize essential travel guest info.
 </details>
 <details><summary>
   
-### Fun & Games
+### YouTube
 
 </summary>
+
+[Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
+<br>
+Creative YouTube video planner and idea generator, adhering to policies and terms of service.
 
 [Tube Assistant](https://chat.openai.com/g/g-xKPZsnnWZ-tube-assistant)
 <br>
 Expert in navigating YouTube, creating playlists, and categorizing videos.
+
+[Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
+<br>
+Instructional video creation assistant.
+
+
+<details><summary>
+</details>
+  
+### Fun & Games
+
+</summary>
 
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
