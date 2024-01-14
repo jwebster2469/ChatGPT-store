@@ -601,7 +601,7 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 <br>
 Assistive road-by-road travel planning game.
 
-[Landmark Guess](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
+[Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
 <br>
 Landmark image guessing game using DALL-E 3. 
 
