@@ -226,6 +226,10 @@ SpaceX's Starship rocket information.
 
 </summary>
 
+[Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
+<br>
+Locate ultra-rich luxury items and insights on top-tier products. 
+
 [World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
 <br>
 Assistive currency exchange research and strength testing.
@@ -443,10 +447,6 @@ Find and analyze branded website and social account data.
 ### Art & Design
 
 </summary>
-
-[Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
-<br>
-Locate ultra-rich luxury items and insights on top-tier products. 
 
 [Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
 <br>
