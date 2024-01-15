@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `158` custom GPTs built by Sourceduty:
+Listed below are `159` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -114,6 +114,10 @@ Create a GitHub repo card banner image.
 [Mickey D's](https://chat.openai.com/g/g-mRgZFUvcD-mickey-d-s)
 <br>
 McDonald's locations and fast food expert.
+
+[Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
+<br>
+Practice computational chemistry, particularly in the area of creating new chemicals. 
 
 [Grocery List](https://chat.openai.com/g/g-PbSdbwbnd-grocery-list)
 <br>
