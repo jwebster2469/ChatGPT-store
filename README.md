@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `161` custom GPTs built by Sourceduty:
+Listed below are `163` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -114,6 +114,14 @@ Assistive open-source LulzBot 3D printer guide.
 [Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
 <br>
 Assistive internet culture expert, explaining trends and memes.
+
+[Canadian Government](https://chat.openai.com/g/g-578CEKmsA-canadian-government)
+<br>
+Politics in Canada, with balanced and factual insights.
+
+[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
+<br>
+Provides info on government types, laws, and legislatures, maintaining neutrality.
 
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
