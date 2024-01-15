@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `159` custom GPTs built by Sourceduty:
+Listed below are `160` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -98,6 +98,10 @@ Assistive international cuisine guide, offering insights into popular dishes wor
 [AI-Powered](https://chat.openai.com/g/g-7cvn180Mm-ai-powered)
 <br>
 Detailed advice and information for AI-powered personal computers.
+
+[Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
+<br>
+Learn and troubleshoot electricity, with clear explanations and examples.
 
 [TAZ SideKick 747](https://chat.openai.com/g/g-BzXdiy3gx-taz-sidekick-747)
 <br>
