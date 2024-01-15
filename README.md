@@ -115,14 +115,6 @@ Assistive open-source LulzBot 3D printer guide.
 <br>
 Assistive internet culture expert, explaining trends and memes.
 
-[Canadian Government](https://chat.openai.com/g/g-578CEKmsA-canadian-government)
-<br>
-Politics in Canada, with balanced and factual insights.
-
-[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
-<br>
-Provides info on government types, laws, and legislatures, maintaining neutrality.
-
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
 Create a GitHub repo card banner image.
@@ -320,10 +312,6 @@ Conversational chatbot using Canadian slang.
 
 </summary>
 
-[Law Simple](https://chat.openai.com/g/g-nGrf808nn-law-simple)
-<br>
-Simplify legal documents for easy reading.
-
 [Document Fusion](https://chat.openai.com/g/g-KfDrCWbYq-document-fusion)
 <br>
 Paragraph-by-paragraph document merging and mixing assistant.
@@ -395,6 +383,25 @@ Collaborative sentence-by-sentence story creator.
 🌠 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
 <br>
 Intelligent note recording assistant.
+
+</details>
+<details><summary>
+  
+### Law
+
+</summary>
+
+[Law Simple](https://chat.openai.com/g/g-nGrf808nn-law-simple)
+<br>
+Simplify legal documents for easy reading.
+
+[Canadian Government](https://chat.openai.com/g/g-578CEKmsA-canadian-government)
+<br>
+Politics in Canada, with balanced and factual insights.
+
+[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
+<br>
+Provides info on government types, laws, and legislatures, maintaining neutrality.
 
 </details>
 <details><summary>
