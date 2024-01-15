@@ -401,7 +401,7 @@ Politics in Canada, with balanced and factual insights.
 
 [Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
 <br>
-Government types, laws, and legislatures, maintaining neutrality.
+Government types, laws, and legislatures. 
 
 </details>
 <details><summary>
