@@ -376,7 +376,7 @@ Unbiased newspaper creator and recreator.
 <br>
 Collaborative sentence-by-sentence story creator.
 
-[Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
+🌠 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
 <br>
 Intelligent note recording assistant.
 
