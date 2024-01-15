@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `160` custom GPTs built by Sourceduty:
+Listed below are `161` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -67,6 +67,10 @@ Assistive art image program creator using Python.
 [Python Game Builder](https://chat.openai.com/g/g-4hbrahdr4-python-game-builder)
 <br>
 Assistive game creator using Pygame, Tkinter and Python.
+
+[Pyduino](https://chat.openai.com/g/g-eMUj1Y3os-pyduino)
+<br>
+Arduino-Python projects, solutions and advice.
 
 </details>
 <details><summary>
