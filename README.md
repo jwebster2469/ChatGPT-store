@@ -125,7 +125,7 @@ McDonald's locations and fast food expert.
 
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
 <br>
-Practice computational chemistry, particularly in the area of creating new chemicals. 
+Practice computational chemistry and create new chemicals.
 
 [Grocery List](https://chat.openai.com/g/g-PbSdbwbnd-grocery-list)
 <br>
