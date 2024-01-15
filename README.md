@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `163` custom GPTs built by Sourceduty:
+Listed below are `164` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -459,6 +459,10 @@ Translate between Gen X, Y, Z slang and plain English.
 [Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
 <br>
 Compare a business to it's industry competitors and leaders.
+
+[Compliance](https://chat.openai.com/g/g-6cAukbjV9-compliance)
+<br>
+Comply with legal business requirements in Canada, US, Australia, EU, and UK. 
 
 [Sourceduty](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
 <br>
