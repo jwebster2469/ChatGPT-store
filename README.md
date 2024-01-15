@@ -155,10 +155,6 @@ Word-for-word GIF image generator.
 <br>
 Search and find the best subreddits for your content.
 
-[Good Commenter](https://chat.openai.com/g/g-I5DgUS675-good-commenter)
-<br>
-Create comments and comment replies for Facebook, Instagram, X and more.
-
 [Snow Load](https://chat.openai.com/g/g-4ZK2PHvVE-snow-load)
 <br>
 Estimate the weight of snow on building roofs.
@@ -425,6 +421,10 @@ Promotional business shoutouts for x.com.
 [Formal](https://chat.openai.com/g/g-cEoMR3lVm-formal)
 <br>
 Assistive formal etiquette guide.
+
+[Good Commenter](https://chat.openai.com/g/g-I5DgUS675-good-commenter)
+<br>
+Create comments and comment replies for Facebook, Instagram, X and more.
 
 [Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
 <br>
