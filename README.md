@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `164` custom GPTs built by Sourceduty:
+Listed below are `165` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -94,6 +94,10 @@ Narrate document or image files and search for related information.
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
 Custom text-entry images.
+
+[Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
+<br>
+Cannabis planting, growing, and harvesting guide, tailored to your location.
 
 [International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
 <br>
