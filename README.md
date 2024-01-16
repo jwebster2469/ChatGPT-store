@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `171` custom built GPTs sorted into `16` different categories:
+Listed below are `172` custom built GPTs sorted into `16` different categories:
 
 <details><summary>
   
@@ -249,6 +249,10 @@ Net worth statistics for individuals and businesses.
 [Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
 <br>
 Locate ultra-rich luxury items and insights on top-tier products. 
+
+[Laundering](https://chat.openai.com/g/g-xJ1q6DlE6-laundering)
+<br>
+Financial crime investigator, focused money laundering.
 
 [World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
 <br>
