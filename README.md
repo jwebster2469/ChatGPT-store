@@ -851,6 +851,8 @@ The 🌠 indicates the **most popular** GPTs.
 
 [Prices for custom GPTs in the GPT Store](https://chat.openai.com/share/5b573da5-4ecf-493e-8e47-9cfed7c98fa9)
 
+[AI Takeover](https://en.wikipedia.org/wiki/AI_takeover)
+
 </details>
 
 
