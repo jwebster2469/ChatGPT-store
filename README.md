@@ -586,7 +586,7 @@ Calls for entry, contests and competitions for creatives.
 <br>
 Fan artist tool.
 
-[Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
+🌠 [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
 <br>
 Create conceptual rebranded product images.
 
