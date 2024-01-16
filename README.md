@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `170` custom built GPTs sorted into `16` different categories:
+Listed below are `171` custom built GPTs sorted into `16` different categories:
 
 <details><summary>
   
@@ -237,6 +237,10 @@ SpaceX's Starship rocket information.
 ### Money
 
 </summary>
+
+[Cash](https://chat.openai.com/g/g-RmcIsOs3w-cash)
+<br>
+Expert in banknote sizes and transportation.
 
 [Fortune](https://chat.openai.com/g/g-2NkyUDxCx-fortune)
 <br>
