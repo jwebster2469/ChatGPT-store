@@ -95,7 +95,7 @@ Narrate document or image files and search for related information.
 <br>
 Custom text-entry images.
 
-[House Designer](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
+[House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
 <br>
 Creative house designer using DALL-E 3.
 
