@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `169` custom built GPTs sorted into `16` different categories:
+Listed below are `170` custom built GPTs sorted into `16` different categories:
 
 <details><summary>
   
@@ -98,6 +98,10 @@ Custom text-entry images.
 [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
 <br>
 Creative house designer using DALL-E 3.
+
+[Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
+<br>
+Find platforms for artists and creators to share work.
 
 [Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
 <br>
