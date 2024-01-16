@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `168` custom built GPTs sorted into `16` different categories:
+Listed below are `169` custom built GPTs sorted into `16` different categories:
 
 <details><summary>
   
@@ -494,6 +494,10 @@ Compare a business to it's industry competitors and leaders.
 [Compliance](https://chat.openai.com/g/g-6cAukbjV9-compliance)
 <br>
 Comply with legal business requirements in Canada, US, Australia, EU, and UK. 
+
+[Digital Stars](https://chat.openai.com/g/g-dRyZ53slj-digital-stars)
+<br>
+Rank the most popular social media accounts across various platforms.
 
 [Sourceduty](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
 <br>
