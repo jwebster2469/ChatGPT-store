@@ -240,7 +240,7 @@ SpaceX's Starship rocket information.
 
 [Cash](https://chat.openai.com/g/g-RmcIsOs3w-cash)
 <br>
-Expert in banknote sizes and transportation.
+Banknote sizes, storage and transportation.
 
 [Fortune](https://chat.openai.com/g/g-2NkyUDxCx-fortune)
 <br>
