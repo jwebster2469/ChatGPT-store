@@ -25,9 +25,9 @@ Expert in finding custom GPTs from various directories.
 <br>
 ChatGPT user training. 
 
-[GPT-Five](https://chat.openai.com/g/g-ntdzmhh6s-gpt-five)
+[GPT-Info](https://chat.openai.com/g/g-ntdzmhh6s-gpt-info)
 <br>
-Informative guide for GPT-5.
+Extensive guide for ChatGPT models. 
 
 [GPT Creation Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
 <br>
