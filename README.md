@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `166` custom GPTs built by Sourceduty:
+Listed below are `166` custom built GPTs sorted into `16` different categories:
 
 <details><summary>
   
