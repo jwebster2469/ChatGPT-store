@@ -95,17 +95,9 @@ Narrate document or image files and search for related information.
 <br>
 Custom text-entry images.
 
-[Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
-<br>
-Make alcohol, specifically focusing on beer and wine. 
-
 [Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
 <br>
 Cannabis planting, growing, and harvesting guide, tailored to your location.
-
-[International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
-<br>
-Assistive international cuisine guide, offering insights into popular dishes worldwide.
 
 [AI-Powered](https://chat.openai.com/g/g-7cvn180Mm-ai-powered)
 <br>
@@ -126,10 +118,6 @@ Assistive internet culture expert, explaining trends and memes.
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
 Create a GitHub repo card banner image.
-
-[Mickey D's](https://chat.openai.com/g/g-mRgZFUvcD-mickey-d-s)
-<br>
-McDonald's locations and fast food expert.
 
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
 <br>
@@ -414,9 +402,36 @@ Government types, laws, and legislatures.
 </details>
 <details><summary>
   
+### Food
+
+</summary>
+
+[Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
+<br>
+Make alcohol, specifically focusing on beer and wine. 
+
+[Mickey D's](https://chat.openai.com/g/g-mRgZFUvcD-mickey-d-s)
+<br>
+McDonald's locations and fast food expert.
+
+[International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
+<br>
+Assistive international cuisine guide, offering insights into popular dishes worldwide.
+
+[Recipe Kitchen](https://chat.openai.com/g/g-YzeT6O6jD-recipe-kitchen)
+<br>
+Create and test cook custom food recipes. 
+
+</details>
+<details><summary>
+  
 ### Music
 
 </summary>
+
+[Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
+<br>
+Create song lyric parodies.
 
 [Music Insider](https://chat.openai.com/g/g-2UGNKmxVj-music-insider)
 <br>
@@ -530,10 +545,6 @@ Replicate images with style using DALL-E 3.
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
 Create a collage image using words.
-
-[Recipe Kitchen](https://chat.openai.com/g/g-YzeT6O6jD-recipe-kitchen)
-<br>
-Create and test cook custom food recipes. 
 
 [Generated Art](https://chat.openai.com/g/g-yM88gxV4t-generated-art)
 <br>
@@ -727,10 +738,6 @@ Word search game.
 [Connect 4](https://chat.openai.com/g/g-th53SwFkS-connect-4)
 <br>
 The original Connect 4 game.
-
-[Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
-<br>
-Create song lyric parodies.
 
 [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
 <br>
