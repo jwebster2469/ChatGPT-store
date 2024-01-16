@@ -1,5 +1,5 @@
 
-![Waterfall House](https://github.com/sourceduty/ChatGPT/assets/123030236/021c66b5-a243-44af-8979-80c6c4d4b8db)
+![ChatGPT Banner](https://github.com/sourceduty/ChatGPT/assets/123030236/030caf0b-fa9e-43c5-8453-e0b2ac788caf)
 
 ***
 ***
