@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `165` custom GPTs built by Sourceduty:
+Listed below are `166` custom GPTs built by Sourceduty:
 
 <details><summary>
   
@@ -94,6 +94,10 @@ Narrate document or image files and search for related information.
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
 Custom text-entry images.
+
+[Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
+<br>
+Make alcohol, specifically focusing on beer and wine. 
 
 [Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
 <br>
