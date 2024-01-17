@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `172` custom built GPTs sorted into `16` different categories:
+Listed below are `173` custom built GPTs sorted into `16` different categories:
 
 <details><summary>
   
@@ -147,14 +147,6 @@ Spatial building and property data comparisons.
 <br>
 Combined daily reporting for local, national and international news.
 
-🌠 [GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
-<br>
-Create animated GIF images using DALL-E 3.
-
-🌠 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
-<br>
-Word-for-word GIF image generator.
-
 [Subreddit Finder](https://chat.openai.com/g/g-dytZgmo1P-subreddit-finder)
 <br>
 Search and find the best subreddits for your content.
@@ -230,6 +222,25 @@ Summarize GitHub repository README files.
 [Starship](https://chat.openai.com/g/g-C2JrN7qBV-starship)
 <br>
 SpaceX's Starship rocket information.
+
+</details>
+<details><summary>
+  
+### Video and GIF
+
+</summary>
+
+🌠 [GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
+<br>
+Create animated GIF images using DALL-E 3.
+
+🌠 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
+<br>
+Word-for-word GIF image generator.
+
+[Emulated Video](https://chat.openai.com/g/g-NPtn9zP1V-emulated-video)
+<br>
+Create new videos inspired by uploaded videos. Created in preparation for GPT-5.
 
 </details>
 <details><summary>
