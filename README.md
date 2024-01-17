@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `173` custom built GPTs sorted into `17` different categories:
+Listed below are `174` custom built GPTs sorted into `17` different categories:
 
 <details><summary>
   
@@ -237,6 +237,10 @@ Create animated GIF images using DALL-E 3.
 🌠 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
 Word-for-word GIF image generator.
+
+[Emulated GIF](https://chat.openai.com/g/g-rwTKxjxiU-emulated-gif)
+<br>
+Emulate GIF files.
 
 [Emulated Video](https://chat.openai.com/g/g-NPtn9zP1V-emulated-video)
 <br>
