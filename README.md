@@ -240,7 +240,7 @@ Word-for-word GIF image generator.
 
 [Emulated GIF](https://chat.openai.com/g/g-rwTKxjxiU-emulated-gif)
 <br>
-Emulate GIF files.
+Create new GIFs inspired by uploaded GIFs.
 
 [Emulated Video](https://chat.openai.com/g/g-NPtn9zP1V-emulated-video)
 <br>
