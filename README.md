@@ -5,13 +5,17 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `174` custom built GPTs sorted into `17` different categories:
+Listed below are `175` custom built GPTs sorted into `17` different categories:
 
 <details><summary>
   
 ### ChatGPT
 
 </summary>
+
+[Custom Response](https://chat.openai.com/g/g-hQUalsSXM-custom-response)
+<br>
+Create instructions for customizing ChatGPT's responses.
 
 [Custom GPT Collab](https://chat.openai.com/g/g-IluPscax8-custom-gpt-collab)
 <br>
