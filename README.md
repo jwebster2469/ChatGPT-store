@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `175` custom built GPTs sorted into `17` different categories:
+Listed below are `176` custom built GPTs sorted into `17` different categories:
 
 <details><summary>
   
@@ -544,6 +544,10 @@ Find and analyze branded website and social account data.
 ### Art & Design
 
 </summary>
+
+[3D Visual](https://chat.openai.com/g/g-JAsawu1Lv-3d-visual)
+<br>
+3D model concept image creator using DALL-E 3.
 
 [Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
 <br>
