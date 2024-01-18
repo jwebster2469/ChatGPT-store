@@ -1,5 +1,5 @@
 
-![ChatGPT Banner](https://github.com/sourceduty/ChatGPT/assets/123030236/75826bcb-1567-4755-9892-3270f0cd430a)
+![Magnetic Levitating Stainless Steel Sphere Design](https://github.com/sourceduty/ChatGPT/assets/123030236/ec554242-180a-445a-ad8a-df8b924839f3)
 
 ***
 ***
