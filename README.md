@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `177` custom built GPTs sorted into `17` different categories:
+Listed below are `178` custom built GPTs sorted into `17` different categories:
 
 <details><summary>
   
@@ -651,6 +651,10 @@ Convert text into creative ASCII art.
 ### Travel
 
 </summary>
+
+[Vacation](https://chat.openai.com/g/g-8h9OXTiMr-vacation)
+<br>
+Assistive vacation travel and destination planner, providing travel tips and suggestions.
 
 [Multicultural](https://chat.openai.com/g/g-PVfNlm9y5-multicultural)
 <br>
