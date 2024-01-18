@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `178` custom built GPTs sorted into `17` different categories:
+Listed below are `179` custom built GPTs sorted into `17` different categories:
 
 <details><summary>
   
@@ -502,6 +502,10 @@ Promotional business shoutouts for x.com.
 [Formal](https://chat.openai.com/g/g-cEoMR3lVm-formal)
 <br>
 Assistive formal etiquette guide.
+
+[Personal Template](https://chat.openai.com/g/g-SjVEuD3eZ-personal-template)
+<br>
+Determine and define your personal identity.
 
 [Good Commenter](https://chat.openai.com/g/g-I5DgUS675-good-commenter)
 <br>
