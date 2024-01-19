@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `179` custom built GPTs sorted into `17` different categories:
+Listed below are `180` custom built GPTs sorted into `17` different categories:
 
 <details><summary>
   
@@ -494,6 +494,10 @@ Assistive contrafact creation for songs and melodies.
 ### Social
 
 </summary>
+
+[Street Drug](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
+<br>
+In-depth insights into illegal drug production and chemical investigations. 
 
 [Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
 <br>
