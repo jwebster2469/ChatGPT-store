@@ -1,5 +1,5 @@
 
-![Magnetic Levitating Stainless Steel Sphere Design](https://github.com/sourceduty/ChatGPT/assets/123030236/ec554242-180a-445a-ad8a-df8b924839f3)
+![3D Model](https://github.com/sourceduty/ChatGPT/assets/123030236/c4bc9d0f-255a-43cb-a064-695aac4267aa)
 
 ***
 ***
@@ -567,6 +567,10 @@ Find and analyze branded website and social account data.
 ### Art & Design
 
 </summary>
+
+[3D Model](https://chat.openai.com/g/g-MWvIJIJbt-3d-model)
+<br>
+Analyze 3D .stl files for strength, weak points, errors, and correction, alongside optimization tips and custom modification ideas. 
 
 [3D Visual](https://chat.openai.com/g/g-JAsawu1Lv-3d-visual)
 <br>
