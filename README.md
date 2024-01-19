@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `180` custom built GPTs sorted into `17` different categories:
+Listed below are `181` custom built GPTs sorted into `17` different categories:
 
 <details><summary>
   
@@ -98,10 +98,6 @@ Narrate document or image files and search for related information.
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
 Custom text-entry images.
-
-[House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
-<br>
-Creative house designer using DALL-E 3.
 
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 <br>
@@ -264,6 +260,10 @@ Banknote sizes, storage and transportation.
 [Fortune](https://chat.openai.com/g/g-2NkyUDxCx-fortune)
 <br>
 Net worth statistics for individuals and businesses.
+
+[Properties](https://chat.openai.com/g/g-VPxnvz7m1-properties)
+<br>
+Assistive real-estate advisor. 
 
 [Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
 <br>
@@ -604,6 +604,10 @@ Replicate images with style using DALL-E 3.
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
 Create a collage image using words.
+
+[House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
+<br>
+Creative house designer using DALL-E 3.
 
 [Generated Art](https://chat.openai.com/g/g-yM88gxV4t-generated-art)
 <br>
