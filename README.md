@@ -568,10 +568,6 @@ Find and analyze branded website and social account data.
 
 </summary>
 
-[3D Model](https://chat.openai.com/g/g-MWvIJIJbt-3d-model)
-<br>
-Analyze 3D files for strength, errors, alongside optimization tips and custom modification ideas. 
-
 [3D Visual](https://chat.openai.com/g/g-JAsawu1Lv-3d-visual)
 <br>
 3D model concept image creator using DALL-E 3.
@@ -847,6 +843,10 @@ Automated teller machine (ATM) simulator.
 ### Concepts
 
 </summary>
+
+[3D Model](https://chat.openai.com/g/g-MWvIJIJbt-3d-model)
+<br>
+Analyze 3D files for strength, errors, alongside optimization tips and custom modification ideas. 
 
 [Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
 <br>
