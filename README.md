@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `181` custom built GPTs sorted into `17` different categories:
+Listed below are `182` custom built GPTs sorted into `18` different categories:
 
 <details><summary>
   
@@ -123,10 +123,6 @@ Assistive open-source LulzBot 3D printer guide.
 <br>
 Assistive internet culture expert, explaining trends and memes.
 
-[Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
-<br>
-Create a GitHub repo card banner image.
-
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
 <br>
 Practice computational chemistry and create new chemicals.
@@ -214,10 +210,6 @@ Solve science problems and questions.
 [War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
 <br>
 Global conflict metrics.
-
-[Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
-<br>
-Summarize GitHub repository README files.
 
 [Starship](https://chat.openai.com/g/g-C2JrN7qBV-starship)
 <br>
@@ -343,6 +335,25 @@ Conversational chatbot using British slang.
 [Canadian Chat](https://chat.openai.com/g/g-B9DKEl4Qr-canadian-chat)
 <br>
 Conversational chatbot using Canadian slang.
+
+</details>
+<details><summary>
+  
+### GitHub
+
+</summary>
+
+[Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
+<br>
+Create a GitHub repo card banner image.
+
+[Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
+<br>
+Summarize GitHub repository README files.
+
+[README](https://chat.openai.com/g/g-rA63DaENC-readme)
+<br>
+Assistive GitHub readme file creator.
 
 </details>
 <details><summary>
