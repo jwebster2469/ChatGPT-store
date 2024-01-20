@@ -83,10 +83,6 @@ Arduino-Python projects, solutions and advice.
 
 </summary>
 
-[Faultfinder](https://chat.openai.com/g/g-q9J2a3125-faultfinder)
-<br>
-Tailored criticism for professional advice.
-
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
 Identify everyday aches and find over-the-counter treatment products.
@@ -544,6 +540,10 @@ Translate between Gen X, Y, Z slang and plain English.
 ### Business
 
 </summary>
+
+[Faultfinder](https://chat.openai.com/g/g-q9J2a3125-faultfinder)
+<br>
+Tailored criticism for professional advice.
 
 [Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
 <br>
