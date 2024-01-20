@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `184` custom built GPTs sorted into `18` different categories:
+Listed below are `185` custom built GPTs sorted into `18` different categories:
 
 <details><summary>
   
@@ -98,6 +98,10 @@ Narrate document or image files and search for related information.
 [Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
 <br>
 Custom text-entry images.
+
+[Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
+<br>
+Compare multiple and bulk images to each other. 
 
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 <br>
