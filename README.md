@@ -1,11 +1,11 @@
 
-![3D Model](https://github.com/sourceduty/ChatGPT/assets/123030236/c4bc9d0f-255a-43cb-a064-695aac4267aa)
+![Rusty Modern Mansion](https://github.com/sourceduty/ChatGPT/assets/123030236/97482cec-9e69-430f-aa07-98d651224c00)
 
 ***
 ***
 ### Sourceduty GPTs
 
-Listed below are `183` custom built GPTs sorted into `18` different categories:
+Listed below are `184` custom built GPTs sorted into `18` different categories:
 
 <details><summary>
   
@@ -82,6 +82,10 @@ Arduino-Python projects, solutions and advice.
 ### Utilities
 
 </summary>
+
+[Faultfinder](https://chat.openai.com/g/g-q9J2a3125-faultfinder)
+<br>
+Tailored criticism for professional advice.
 
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
