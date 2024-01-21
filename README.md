@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `185` custom built GPTs sorted into `18` different categories:
+Listed below are `186` custom built GPTs sorted into `18` different categories:
 
 <details><summary>
   
@@ -373,6 +373,10 @@ Paragraph-by-paragraph document merging and mixing assistant.
 [Text Templates](https://chat.openai.com/g/g-GsTxQDRxX-text-templates)
 <br>
 Editable premade .txt templates.
+
+[Movie Developer](https://chat.openai.com/g/g-GKuoUegIF-movie-developer)
+<br>
+Assistive movie idea creator, script writer and screenplay planner.
 
 [Onomatopoeia](https://chat.openai.com/g/g-JEHdIpJiN-onomatopoeia)
 <br>
