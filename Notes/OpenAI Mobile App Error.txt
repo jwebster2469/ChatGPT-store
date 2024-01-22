@@ -57,4 +57,6 @@ Best,
 
 ========================================================================================
 
-I didn't reply to this email or the next email sent on Jan 17, 2024, 4:40 PM by the same person. The initial error was reported on Nov 28, 2023 at 7:22 PM has yet to be resolved.
+I didn't reply to this email or the next email sent on Jan 17, 2024, 4:40 PM by the same person. 
+
+The initial error was reported on Nov 28, 2023 at 7:22 PM and has yet to be resolved.
