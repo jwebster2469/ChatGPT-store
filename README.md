@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `186` custom built GPTs sorted into `18` different categories:
+Listed below are `187` custom built GPTs sorted into `18` different categories:
 
 <details><summary>
   
@@ -82,6 +82,10 @@ Arduino-Python projects, solutions and advice.
 ### Utilities
 
 </summary>
+
+[Pediatric](https://chat.openai.com/g/g-tToxYxaOu-pediatric)
+<br>
+Assistive child development and parenting psychology.
 
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
