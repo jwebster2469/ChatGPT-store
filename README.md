@@ -1,5 +1,5 @@
 
-![Retro Gullwing Car Design](https://github.com/sourceduty/ChatGPT/assets/123030236/a7f534d0-42a4-4b4b-a7c0-4d29f30a78c7)
+![90's BMW Truck Concept](https://github.com/sourceduty/ChatGPT/assets/123030236/2d0e47ca-49b5-46a5-991f-879bac7ee5b5)
 
 ***
 ***
