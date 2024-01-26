@@ -640,7 +640,7 @@ Replicate images with style using DALL-E 3.
 <br>
 Create a collage image using words.
 
-[House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
+🌠 [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
 <br>
 Creative house designer using DALL-E 3.
 
