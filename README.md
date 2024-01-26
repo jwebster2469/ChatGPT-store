@@ -7,6 +7,8 @@
 
 Listed below are `189` custom built GPTs sorted into `18` different categories:
 
+The 🌠 indicates one of the `9` very popular GPTs.
+
 <details><summary>
   
 ### ChatGPT
@@ -889,8 +891,6 @@ Create and expand an image mosaic using DALL-E 3.
 Three-way conversation between one person and two chatbots, focused on SpaceX's Starship.
 
 </details>
-
-The 🌠 indicates the **most popular** GPTs.
 
 ***
 ***
