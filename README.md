@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `191` custom built GPTs sorted into `18` different categories:
+Listed below are `192` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `9` very popular GPTs.
 
@@ -385,6 +385,10 @@ Assistive GitHub readme file creator.
 ### Writing
 
 </summary>
+
+[Rewrite History](https://chat.openai.com/g/g-PKc9JScH2-rewrite-history)
+<br>
+Rewrite human history with predictive outcomes.
 
 [Text Picker](https://chat.openai.com/g/g-mmF6dbBeb-text-picker)
 <br>
