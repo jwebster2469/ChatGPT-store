@@ -902,10 +902,12 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 </details>
 
-***
-***
+#
 
 *The 84 most popular GPTs are sorted into 7 categories and listed in the [GPT Store](https://chat.openai.com/gpts).*
+
+***
+***
 
 > [!TIP]
 > Favorite Prompts:
