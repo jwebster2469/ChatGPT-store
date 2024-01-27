@@ -9,6 +9,8 @@ Listed below are `191` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `9` very popular GPTs.
 
+#
+
 <details><summary>
   
 ### ChatGPT
@@ -902,6 +904,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 ***
 ***
+
+*The 84 most popular GPTs are sorted into 7 categories and listed in the [GPT Store](https://chat.openai.com/gpts).*
 
 > [!TIP]
 > Favorite Prompts:
