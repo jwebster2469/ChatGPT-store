@@ -238,7 +238,7 @@ SpaceX's Starship rocket information.
 
 [Video Edit](https://chat.openai.com/g/g-3WU0tMQmV-video-edit)
 <br>
-Video titles, effects, and speed changes. Created in preparation for GPT-5. 
+Video titles, credits, effects, and speed changes. Created in preparation for GPT-5. 
 
 [Video Image](https://chat.openai.com/g/g-LNtncGSSz-video-image)
 <br>
