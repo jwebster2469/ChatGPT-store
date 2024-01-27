@@ -630,7 +630,7 @@ Expert in the realm of fanatic culture.
 <br>
 Create pixel art images.
 
-[Camo Maker](https://chat.openai.com/g/g-l7Qe53aAL-camo-maker)
+[Camo](https://chat.openai.com/g/g-l7Qe53aAL-camo)
 <br>
 Digital camouflage pattern image creator. 
 
