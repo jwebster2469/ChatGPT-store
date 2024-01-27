@@ -904,7 +904,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 #
 
-*The 84 most popular GPTs, according to OpenAI, are sorted into 7 categories and listed in the [GPT Store](https://chat.openai.com/gpts).*
+*The 84 most popular GPTs, according to OpenAI, are sorted into 7 categories and are listed in the [GPT Store](https://chat.openai.com/gpts).*
 
 ***
 ***
