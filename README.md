@@ -1,5 +1,5 @@
 
-![90's BMW Truck Concept](https://github.com/sourceduty/ChatGPT/assets/123030236/2d0e47ca-49b5-46a5-991f-879bac7ee5b5)
+![Stealth Military Speedboat](https://github.com/sourceduty/ChatGPT/assets/123030236/1ad672d3-e219-4dce-b3ed-0e8fb0990c9c)
 
 ***
 ***
