@@ -1,5 +1,5 @@
 
-![Stealth Military Speedboat](https://github.com/sourceduty/ChatGPT/assets/123030236/1ad672d3-e219-4dce-b3ed-0e8fb0990c9c)
+![Retro Radio Typewriter](https://github.com/sourceduty/ChatGPT/assets/123030236/d146e318-51c8-43fe-b975-60eabd57e55b)
 
 ***
 ***
