@@ -1,5 +1,5 @@
 
-![Spiral Suburban Concept](https://github.com/sourceduty/ChatGPT/assets/123030236/f3f67211-9e3f-4592-84ca-e252f72c1e18)
+![Drilling - Earth's Core](https://github.com/sourceduty/ChatGPT/assets/123030236/cc5630e8-efd1-47db-8e6c-c5c628ffa970)
 
 ***
 ***
