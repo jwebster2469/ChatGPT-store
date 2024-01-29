@@ -1,5 +1,5 @@
 
-![Abandoned Tesla Cybertruck](https://github.com/sourceduty/ChatGPT/assets/123030236/d5ab4765-6007-4710-a845-23a5f84e2639)
+![Spiral Suburban Concept](https://github.com/sourceduty/ChatGPT/assets/123030236/f3f67211-9e3f-4592-84ca-e252f72c1e18)
 
 ***
 ***
