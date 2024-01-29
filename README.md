@@ -1,5 +1,5 @@
 
-![Retro Radio Typewriter](https://github.com/sourceduty/ChatGPT/assets/123030236/d146e318-51c8-43fe-b975-60eabd57e55b)
+![Abandoned Tesla Cybertruck](https://github.com/sourceduty/ChatGPT/assets/123030236/d5ab4765-6007-4710-a845-23a5f84e2639)
 
 ***
 ***
