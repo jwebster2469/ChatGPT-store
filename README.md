@@ -87,7 +87,7 @@ Arduino-Python projects, solutions and advice.
 
 </summary>
 
-[Titles](https://chat.openai.com/g/g-C7Wqfx4P0-titles)
+[Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Rename bulk uploaded files with descriptive titles. 
 
