@@ -1,11 +1,11 @@
 
-![Drilling - Earth's Core](https://github.com/sourceduty/ChatGPT/assets/123030236/cc5630e8-efd1-47db-8e6c-c5c628ffa970)
+![Underwater Humanoids Running](https://github.com/sourceduty/ChatGPT/assets/123030236/a3babdb0-aa88-443c-9828-05f03278f329)
 
 ***
 ***
 ### Sourceduty GPTs
 
-Listed below are `192` custom built GPTs sorted into `18` different categories:
+Listed below are `193` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `9` very popular GPTs.
 
@@ -86,6 +86,10 @@ Arduino-Python projects, solutions and advice.
 ### Utilities
 
 </summary>
+
+[Image Title](https://chat.openai.com/g/g-C7Wqfx4P0-image-title)
+<br>
+Rename bulk uploaded images with descriptive titles. 
 
 [Windows](https://chat.openai.com/g/g-tMe145ZqU-windows)
 <br>
