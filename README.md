@@ -7,7 +7,7 @@
 
 Listed below are `194` custom built GPTs sorted into `18` different categories:
 
-The 🌠 indicates one of the `9` very popular GPTs.
+The 🌠 indicates one of the `10` very popular GPTs.
 
 #
 
