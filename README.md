@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `193` custom built GPTs sorted into `18` different categories:
+Listed below are `194` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `9` very popular GPTs.
 
@@ -623,6 +623,10 @@ Learn about Hollywood movies, lore, and culture.
 [Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
 <br>
 Popular artistic painting style guessing game.
+
+[Game Design](https://chat.openai.com/g/g-97Cxc8yL6-game-design)
+<br>
+Design new games and concept images.
 
 [Headline Picture](https://chat.openai.com/g/g-oq9hValNL-headline-picture)
 <br>
