@@ -442,7 +442,7 @@ Retype your words and sentences with incorrect spelling, emojis and symbols.
 <br>
 Plain text organization guide.
 
-[Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents)
+🌠 [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents)
 <br>
 Compare paragraphs and documents to find the differences.
 
