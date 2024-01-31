@@ -1,5 +1,5 @@
 
-![Freejumping Parachute Cave](https://github.com/sourceduty/ChatGPT/assets/123030236/9960c993-f3d6-4545-b23b-7f123f02bcf5)
+![Sleek Modern Keyboard Projector Concept](https://github.com/sourceduty/ChatGPT/assets/123030236/21086d0d-01fe-40bc-87ed-c272d7639313)
 
 ***
 ***
