@@ -1,5 +1,5 @@
 
-![Graffiti](https://github.com/sourceduty/ChatGPT/assets/123030236/3f9c4e74-7623-4fe3-8067-b55a14ff0f83)
+![Graffiti](https://github.com/sourceduty/ChatGPT/assets/123030236/460119d3-c623-4f56-bde9-4523b5662a28)
 
 ***
 ***
