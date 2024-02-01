@@ -533,7 +533,7 @@ Create and test cook custom food recipes.
 
 [Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration)
 <br>
-Line-by-line lyrical music collaborator.
+Line-by-line music lyric collaborator.
 
 [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
 <br>
