@@ -1008,6 +1008,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [AI Takeover](https://en.wikipedia.org/wiki/AI_takeover)
 
+[AI Tools](https://www.kaggle.com/datasets/anonim89/ai-tools)
+
 </details>
 
 
