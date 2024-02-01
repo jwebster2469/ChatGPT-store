@@ -1,11 +1,12 @@
 
-![Banksy](https://github.com/sourceduty/ChatGPT/assets/123030236/05cfc461-efd3-4b19-9c8a-44ef08917b56)
+![Bot](https://github.com/sourceduty/ChatGPT/assets/123030236/e0259176-9d33-40e3-ab72-3a85b2bd2d09)
 
 ***
 ***
+
 ### Sourceduty GPTs
 
-Listed below are `199` custom built GPTs sorted into `18` different categories:
+Listed below are `200` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `10` very popular GPTs.
 
@@ -269,6 +270,10 @@ Create animated GIF images using DALL-E 3.
 🌠 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
 Word-for-word GIF image generator.
+
+[Music Video](https://chat.openai.com/g/g-mrDyWbY3i-music-video)
+<br>
+Create visualization videos for audio files. Created in preparation for GPT-5. 
 
 [Emulated GIF](https://chat.openai.com/g/g-rwTKxjxiU-emulated-gif)
 <br>
