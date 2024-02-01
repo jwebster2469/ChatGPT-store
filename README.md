@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `196` custom built GPTs sorted into `18` different categories:
+Listed below are `197` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `10` very popular GPTs.
 
@@ -643,6 +643,10 @@ Create images inspired by up-to-date news using DALL-E 3.
 [Image Mosaic](https://chat.openai.com/g/g-AeEPpdIcT-image-mosaic)
 <br>
 Create unique mosaics using your images.
+
+[Graffiti](https://chat.openai.com/g/g-XvlTo9th1-graffiti)
+<br>
+Create graffiti images using DALL-E 3.
 
 [Image Psychology](https://chat.openai.com/g/g-iTZm6rqFR-image-psychology)
 <br>
