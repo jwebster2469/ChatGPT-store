@@ -566,7 +566,7 @@ Promotional business shoutouts for x.com.
 <br>
 Assistive formal etiquette guide.
 
-[Personal Template](https://chat.openai.com/g/g-SjVEuD3eZ-personal-template)
+[Personality](https://chat.openai.com/g/g-SjVEuD3eZ-personality)
 <br>
 Determine and define your personal identity.
 
