@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `198` custom built GPTs sorted into `18` different categories:
+Listed below are `199` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `10` very popular GPTs.
 
@@ -86,6 +86,10 @@ Arduino-Python projects, solutions and advice.
 ### Utilities
 
 </summary>
+
+[Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
+<br>
+Daily work schedule and progress tracker.
 
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
