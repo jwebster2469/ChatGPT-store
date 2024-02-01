@@ -89,7 +89,7 @@ Arduino-Python projects, solutions and advice.
 
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
-Daily work schedule and progress tracker.
+Assistive work schedule and progress tracker. 
 
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
