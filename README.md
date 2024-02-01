@@ -1,5 +1,5 @@
 
-![Sleek Modern Keyboard Projector Concept](https://github.com/sourceduty/ChatGPT/assets/123030236/21086d0d-01fe-40bc-87ed-c272d7639313)
+![Single-Seater Quadricycle](https://github.com/sourceduty/ChatGPT/assets/123030236/e23b6e02-b06c-4bd8-9022-9ee3cee37d5c)
 
 ***
 ***
