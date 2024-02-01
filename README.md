@@ -5,7 +5,7 @@
 ***
 ### Sourceduty GPTs
 
-Listed below are `197` custom built GPTs sorted into `18` different categories:
+Listed below are `198` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `10` very popular GPTs.
 
@@ -530,6 +530,10 @@ Create and test cook custom food recipes.
 ### Music
 
 </summary>
+
+[Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration)
+<br>
+Line-by-line lyrical music collaborator.
 
 [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
 <br>
