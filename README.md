@@ -1,5 +1,5 @@
 
-![Single-Seater Quadricycle](https://github.com/sourceduty/ChatGPT/assets/123030236/e23b6e02-b06c-4bd8-9022-9ee3cee37d5c)
+![Graffiti](https://github.com/sourceduty/ChatGPT/assets/123030236/3f9c4e74-7623-4fe3-8067-b55a14ff0f83)
 
 ***
 ***
