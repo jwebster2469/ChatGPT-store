@@ -639,7 +639,7 @@ Learn graphic design, web design, product design, and more.
 
 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
 <br>
-Create custom car images.
+Create custom vehicle images.
 
 [3D Visual](https://chat.openai.com/g/g-JAsawu1Lv-3d-visual)
 <br>
