@@ -1,5 +1,5 @@
 
-![Xbox Soldier](https://github.com/sourceduty/ChatGPT/assets/123030236/2abff56f-27ab-4a9b-a70f-7b0a67888725)
+![Abandoned Tesla](https://github.com/sourceduty/ChatGPT/assets/123030236/b3a83bd3-effa-40a4-8282-5ace71a2a053)
 
 ***
 ***
