@@ -635,7 +635,7 @@ Find and analyze branded website and social account data.
 
 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
 <br>
-Create custom car images tailored to your preferences.
+Create custom car images.
 
 [3D Visual](https://chat.openai.com/g/g-JAsawu1Lv-3d-visual)
 <br>
