@@ -1,5 +1,5 @@
 
-![Concept Pickup Truck LED Rims](https://github.com/sourceduty/ChatGPT/assets/123030236/9970a979-b8c7-472b-aa31-10c952246e64)
+![1989 Riveted Panel Lowrider Suburban](https://github.com/sourceduty/ChatGPT/assets/123030236/6792c012-f408-4621-893a-42477e228d1e)
 
 ***
 ***
