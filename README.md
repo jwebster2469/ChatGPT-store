@@ -1,5 +1,5 @@
 
-![1989 Riveted Panel Lowrider Suburban](https://github.com/sourceduty/ChatGPT/assets/123030236/6792c012-f408-4621-893a-42477e228d1e)
+![1989 Chrome Riveted Panel Lowrider Suburban](https://github.com/sourceduty/ChatGPT/assets/123030236/7dc1617d-f636-4cc2-846f-af99f70b4600)
 
 ***
 ***
