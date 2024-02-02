@@ -1,5 +1,5 @@
 
-![Bot](https://github.com/sourceduty/ChatGPT/assets/123030236/e0259176-9d33-40e3-ab72-3a85b2bd2d09)
+![Knowing](https://github.com/sourceduty/ChatGPT/assets/123030236/989c3acc-fc11-469e-8146-06b4687a913e)
 
 ***
 ***
