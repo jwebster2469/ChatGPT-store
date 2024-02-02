@@ -1,5 +1,5 @@
 
-![1950's Concept Glass Roof and Hood](https://github.com/sourceduty/ChatGPT/assets/123030236/1db3fe36-ebd4-4cd6-a26c-24327c4d9b31)
+![Concept Pickup Truck LED Rims](https://github.com/sourceduty/ChatGPT/assets/123030236/9970a979-b8c7-472b-aa31-10c952246e64)
 
 ***
 ***
