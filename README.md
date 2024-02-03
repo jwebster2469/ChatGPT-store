@@ -8,7 +8,7 @@
 
 Listed below are `202` custom built GPTs sorted into `18` different categories:
 
-The 🌠 indicates one of the `10` very popular GPTs.
+The 🌠 indicates one of the `11` very popular GPTs.
 
 #
 
@@ -637,7 +637,7 @@ Find and analyze branded website and social account data.
 <br>
 Learn graphic design, web design, product design, and more.
 
-[Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
+🌠 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
 <br>
 Create custom vehicle images.
 
