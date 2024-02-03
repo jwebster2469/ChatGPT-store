@@ -1,5 +1,5 @@
 
-![ChatGPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/9c56c501-08e0-47c7-8a05-2517dfb61f5f)
+![Wood Chip Truck](https://github.com/sourceduty/ChatGPT/assets/123030236/5d8008aa-ba7b-4613-9064-fde29a2d5ea4)
 
 ***
 ***
