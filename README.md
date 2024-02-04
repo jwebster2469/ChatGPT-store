@@ -1,5 +1,5 @@
 
-![Wood Chip Truck](https://github.com/sourceduty/ChatGPT/assets/123030236/5d8008aa-ba7b-4613-9064-fde29a2d5ea4)
+![1989 Chrome Riveted Panel Lowrider Suburban](https://github.com/sourceduty/ChatGPT/assets/123030236/ec7659fb-f378-4102-b839-25c70e728811)
 
 ***
 ***
