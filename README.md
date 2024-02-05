@@ -591,7 +591,7 @@ Assistive formal etiquette guide.
 <br>
 Determine and define your personal identity.
 
-[Good Commenter](https://chat.openai.com/g/g-I5DgUS675-good-commenter)
+[Commenter](https://chat.openai.com/g/g-I5DgUS675-commenter)
 <br>
 Create comments and comment replies for Facebook, Instagram, X and more.
 
