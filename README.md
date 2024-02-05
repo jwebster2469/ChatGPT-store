@@ -88,6 +88,10 @@ Arduino-Python projects, solutions and advice.
 
 </summary>
 
+[Maps Guide](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
+<br>
+Google Maps travel planning and route optimization.
+
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
 Assistive work schedule and progress tracker. 
@@ -932,10 +936,6 @@ Analyze 3D files for strength, errors, alongside optimization tips and custom mo
 [Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
 <br>
 Account data image creator for Facebook, Instagram and X. 
-
-[Maps Guide](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
-<br>
-Google Maps API queries and usage.
 
 [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 <br>
