@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `205` custom built GPTs sorted into `18` different categories:
+Listed below are `206` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -648,6 +648,10 @@ Find and analyze branded website and social account data.
 ### Art & Design
 
 </summary>
+
+[Scrap](https://chat.openai.com/g/g-KArXHkqyx-scrap)
+<br>
+Create artistic vehicle designs using old scrap metal parts. 
 
 [Design](https://chat.openai.com/g/g-t0pnzqIVW-design)
 <br>
