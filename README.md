@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `206` custom built GPTs sorted into `18` different categories:
+Listed below are `205` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -219,10 +219,6 @@ Search and find the perfect gifts.
 [Discord Finder](https://chat.openai.com/g/g-enxhriqRt-discord-finder)
 <br>
 Search and find the best Discord channels for your content.
-
-[Alex Aldridge](https://chat.openai.com/g/g-leap9qyUI-alex-aldridge)
-<br>
-Write new documents authored by Alex Aldridge.
 
 [Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
 <br>
