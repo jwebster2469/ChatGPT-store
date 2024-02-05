@@ -649,7 +649,7 @@ Learn graphic design, web design, product design, and more.
 <br>
 Create custom vehicle images.
 
-[3D Visual](https://chat.openai.com/g/g-JAsawu1Lv-3d-visual)
+[Concept Design](https://chat.openai.com/g/g-JAsawu1Lv-concept-design)
 <br>
 3D model concept image creator using DALL-E 3.
 
