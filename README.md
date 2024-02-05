@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `204` custom built GPTs sorted into `18` different categories:
+Listed below are `205` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -262,6 +262,10 @@ SpaceX's Starship rocket information.
 ### Video and GIF
 
 </summary>
+
+[Parody Video](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
+<br>
+Create parody videos from uploaded files. Created in preparation for GPT-5.
 
 [Video Edit](https://chat.openai.com/g/g-3WU0tMQmV-video-edit)
 <br>
