@@ -220,9 +220,9 @@ Search and find the perfect gifts.
 <br>
 Search and find the best Discord channels for your content.
 
-[Alex Aldridge](https://chat.openai.com/g/g-69Azdf4CN-alex-aldridge)
+[Alex Aldridge](https://chat.openai.com/g/g-leap9qyUI-alex-aldridge)
 <br>
-Self-taught designer, fan artist and programmer.
+Write new documents authored by Alex Aldridge.
 
 [Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
 <br>
