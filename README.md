@@ -263,7 +263,7 @@ SpaceX's Starship rocket information.
 
 </summary>
 
-[Parody Video](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
+[Video Parody](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
 <br>
 Create parody videos from uploaded files. Created in preparation for GPT-5.
 
