@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `203` custom built GPTs sorted into `18` different categories:
+Listed below are `204` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -87,6 +87,10 @@ Arduino-Python projects, solutions and advice.
 ### Utilities
 
 </summary>
+
+[Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
+<br>
+Create mathematical simulations and models.
 
 [Maps Guide](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
