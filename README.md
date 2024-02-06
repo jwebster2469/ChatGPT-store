@@ -255,7 +255,7 @@ SpaceX's Starship rocket information.
 </details>
 <details><summary>
   
-### Video and GIF
+### Video & GIF
 
 </summary>
 
