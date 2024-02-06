@@ -146,7 +146,7 @@ Find platforms for artists and creators to share work.
 
 [Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
 <br>
-Semiconductor engineering technology, processes, materials, and design
+Semiconductor engineering technology, processes, materials, and design.
 
 [Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
 <br>
