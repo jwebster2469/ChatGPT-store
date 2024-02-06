@@ -429,7 +429,7 @@ Compare multiple and bulk text files to each other.
 
 [Dynamic Reader](https://chat.openai.com/g/g-5eEt9fB02-dynamic-reader)
 <br>
-Customize the story you reading as you read.
+Customize the story you're reading as you read.
 
 [Document Fusion](https://chat.openai.com/g/g-KfDrCWbYq-document-fusion)
 <br>
