@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `207` custom built GPTs sorted into `18` different categories:
+Listed below are `208` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -143,6 +143,10 @@ Compare multiple and bulk images to each other.
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 <br>
 Find platforms for artists and creators to share work.
+
+[Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
+<br>
+Semiconductor engineering technology, processes, materials, and design
 
 [Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
 <br>
