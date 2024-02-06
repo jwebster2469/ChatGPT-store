@@ -338,7 +338,7 @@ Estimate the current price of custom desktop computers and hardware.
 <br>
 Used marketplace listing helper.
 
-[Computer Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-computer-build-plan)
+[PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
 Assistive step-by-step computer building planner.
 
