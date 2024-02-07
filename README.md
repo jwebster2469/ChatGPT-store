@@ -304,7 +304,7 @@ Create new videos inspired by uploaded videos. Created in preparation for GPT-5.
 
 [Financial Predictor](https://chat.openai.com/g/g-Rub2djmNc-financial-predictor)
 <br>
-Predict the price of futures, stocks and currencies using trends, historical data, and current news.
+Forecast the price of futures, stocks and currencies using trends, historical data, and current news.
 
 [Cash](https://chat.openai.com/g/g-RmcIsOs3w-cash)
 <br>
