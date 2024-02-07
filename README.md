@@ -1059,7 +1059,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [AI Tools](https://www.kaggle.com/datasets/anonim89/ai-tools)
 
-[Build a Cyberdeck](https://chat.openai.com/share/e00a975c-7bd0-4b3c-b2d9-8fbfeb3a8e52)
+[Build a Cyberdeck](https://chat.openai.com/share/063a1a57-0598-4268-8346-e5979c06aff8)
 
 </details>
 
