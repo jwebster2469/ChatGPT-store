@@ -112,7 +112,7 @@ Martian rovers, rockets, habitats, and environment.
 <br>
 Learn and relearn any grade school subject.
 
-[Robotics](https://chat.openai.com/g/g-04lZCZ8QG-robotics)
+[Robot Builder](https://chat.openai.com/g/g-04lZCZ8QG-robot-builder)
 <br>
 Assistive robotic design, sensor, and software expert.
 
