@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `210` custom built GPTs sorted into `18` different categories:
+Listed below are `211` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -103,6 +103,10 @@ Assistive work schedule and progress tracker.
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Simply rename bulk uploaded files.
+
+[Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
+<br>
+Martian rovers, rockets, habitats, and environment. 
 
 [Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
 <br>
