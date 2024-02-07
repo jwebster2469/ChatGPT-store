@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `208` custom built GPTs sorted into `18` different categories:
+Listed below are `209` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -301,6 +301,10 @@ Create new videos inspired by uploaded videos. Created in preparation for GPT-5.
 ### Money
 
 </summary>
+
+[Financial Predictor](https://chat.openai.com/g/g-Rub2djmNc-financial-predictor)
+<br>
+Predict the price of futures, stocks and currencies using trends, historical data, and current news.
 
 [Cash](https://chat.openai.com/g/g-RmcIsOs3w-cash)
 <br>
