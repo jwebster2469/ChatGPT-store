@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `219` custom built GPTs sorted into `18` different categories:
+Listed below are `220` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -167,6 +167,10 @@ Assistive mechanical, math, and design expert.
 [Trees](https://chat.openai.com/g/g-jd1xcKJm1-trees)
 <br>
 Identify tree leaves and estimate seasonal growth.
+
+[Vote Simulator](https://chat.openai.com/g/g-qx59p7uKR-vote-simulator)
+<br>
+Simulate and analyze voting trends for any country. 
 
 [Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
 <br>
