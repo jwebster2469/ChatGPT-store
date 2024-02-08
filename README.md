@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `215` custom built GPTs sorted into `18` different categories:
+Listed below are `216` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -98,7 +98,11 @@ Google Maps travel planning and route optimization.
 
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
-Assistive work schedule and progress tracker. 
+Assistive work schedule and progress tracker.
+
+[Mechanical Simulator](https://chat.openai.com/g/g-jQ8ono7S9-mechanical-simulator)
+<br>
+Mechanical simulation assistant with technical explanations.
 
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
