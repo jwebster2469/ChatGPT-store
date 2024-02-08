@@ -1123,8 +1123,6 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Simulate the next election in Canada](https://chat.openai.com/share/0bd8199c-aec0-4e95-861e-27c2141aca13)
 
-[Analyze my audio file](https://chat.openai.com/share/57423b70-1553-4ea6-8235-7c2f159deeb2)
-
 </details>
 
 
