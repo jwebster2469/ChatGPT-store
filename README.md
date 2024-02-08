@@ -110,7 +110,7 @@ Simply rename bulk uploaded files.
 
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
-Simulated urban modernization, design and planning. 
+Simulated urban modernization.
 
 [Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
 <br>
