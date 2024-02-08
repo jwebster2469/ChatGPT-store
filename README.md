@@ -170,7 +170,7 @@ Identify tree leaves and estimate seasonal growth.
 
 [Vote Simulator](https://chat.openai.com/g/g-qx59p7uKR-vote-simulator)
 <br>
-Simulate and analyze voting trends for any country. 
+Predict, simulate and analyze voting trends for any country. 
 
 [Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
 <br>
