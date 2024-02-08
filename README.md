@@ -1097,7 +1097,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Build a Cyberdeck](https://chat.openai.com/share/063a1a57-0598-4268-8346-e5979c06aff8)
 
-[Solving the theory of Evolution](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
+[Solving the theory of Evolution](https://chat.openai.com/share/8734be84-e491-4500-afc9-e8646e0e094f)
 
 </details>
 
