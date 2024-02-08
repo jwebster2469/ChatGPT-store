@@ -1113,6 +1113,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Upgrade my computer](https://chat.openai.com/share/1bf60023-85de-4bc6-8d99-0efe579cb7cf)
 
+[Simulate the next election in Canada](https://chat.openai.com/share/0bd8199c-aec0-4e95-861e-27c2141aca13)
+
 </details>
 
 
