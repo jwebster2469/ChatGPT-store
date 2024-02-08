@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `217` custom built GPTs sorted into `18` different categories:
+Listed below are `218` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -107,6 +107,10 @@ Mechanical simulation assistant with technical explanations.
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Simply rename bulk uploaded files.
+
+[Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
+<br>
+Simulated urban modernization, design and planning. 
 
 [Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
 <br>
