@@ -168,10 +168,6 @@ Assistive mechanical, math, and design expert.
 <br>
 Identify tree leaves and estimate seasonal growth.
 
-[Vote Simulator](https://chat.openai.com/g/g-qx59p7uKR-vote-simulator)
-<br>
-Predict, simulate and analyze voting trends for any country. 
-
 [Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
 <br>
 Compare multiple and bulk images to each other. 
@@ -634,6 +630,10 @@ Assistive contrafact creation for songs and melodies.
 ### Social
 
 </summary>
+
+[Vote Simulator](https://chat.openai.com/g/g-qx59p7uKR-vote-simulator)
+<br>
+Predict, simulate and analyze voting trends for any country. 
 
 [Street Drug](https://chat.openai.com/g/g-Q2DJKoMxM-street-drug)
 <br>
