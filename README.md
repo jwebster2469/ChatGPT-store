@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `220` custom built GPTs sorted into `18` different categories:
+Listed below are `222` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -1000,6 +1000,14 @@ Automated teller machine (ATM) simulator.
 ### Concepts
 
 </summary>
+
+[Audio Analyzer](https://chat.openai.com/g/g-g0Ob3Qbue-audio-analyzer)
+<br>
+Analyze music and audio files.
+
+[Aduio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
+<br>
+Transform and emulate audio and song files.
 
 [3D Model](https://chat.openai.com/g/g-MWvIJIJbt-3d-model)
 <br>
