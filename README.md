@@ -90,7 +90,7 @@ Arduino-Python projects, solutions and advice.
 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
-Desktop and laptop computer upgrade assistant. 
+Desktop and laptop computer hardware upgrade assistant. 
 
 [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
 <br>
