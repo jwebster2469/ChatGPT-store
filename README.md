@@ -1107,6 +1107,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Solving the theory of Evolution](https://chat.openai.com/share/8734be84-e491-4500-afc9-e8646e0e094f)
 
+[Upgrade my computer](https://chat.openai.com/share/1bf60023-85de-4bc6-8d99-0efe579cb7cf)
+
 </details>
 
 
