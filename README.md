@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `216` custom built GPTs sorted into `18` different categories:
+Listed below are `217` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -139,6 +139,10 @@ Identify everyday aches and find over-the-counter treatment products.
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 <br>
 English pronunciation help, phonetic advice and spoken examples.
+
+[Theory Solver](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
+<br>
+Solve any type of theory, including mathematical, social, and economic theories.
 
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
