@@ -1005,7 +1005,7 @@ Automated teller machine (ATM) simulator.
 <br>
 Analyze music and audio files.
 
-[Aduio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
+[Audio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
 <br>
 Transform and emulate audio and song files.
 
