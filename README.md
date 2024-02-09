@@ -612,7 +612,7 @@ Create and test cook custom food recipes.
 
 </summary>
 
-[Guitar Tab Creator](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
+[Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
 Assistive guitar tablature creator.
 
