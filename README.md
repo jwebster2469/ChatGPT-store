@@ -1135,7 +1135,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Simulate the next election in Canada](https://chat.openai.com/share/0bd8199c-aec0-4e95-861e-27c2141aca13)
 
-[3D Printable Guitar Pedal Box Sales Pitch](https://chat.openai.com/share/717fe228-49d4-41d6-a118-c6ebde3115b9)
+[Guitar Pedal Box Sales Pitch](https://chat.openai.com/share/717fe228-49d4-41d6-a118-c6ebde3115b9)
 
 </details>
 
