@@ -608,6 +608,10 @@ Create and test cook custom food recipes.
 
 </summary>
 
+[Audio Analyzer](https://chat.openai.com/g/g-g0Ob3Qbue-audio-analyzer)
+<br>
+Analyze music and audio files.
+
 [Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration)
 <br>
 Line-by-line music lyric collaborator.
@@ -1004,10 +1008,6 @@ Automated teller machine (ATM) simulator.
 ### Concepts
 
 </summary>
-
-[Audio Analyzer](https://chat.openai.com/g/g-g0Ob3Qbue-audio-analyzer)
-<br>
-Analyze music and audio files.
 
 [Audio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
 <br>
