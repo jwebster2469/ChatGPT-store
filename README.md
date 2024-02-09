@@ -727,7 +727,7 @@ Find and analyze branded website and social account data.
 
 [Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
 <br>
-Identify fabrics from images and find optimal fabric for projects and products.
+Identify fabrics from images and find optimal fabric for projects or products.
 
 [Scrap](https://chat.openai.com/g/g-KArXHkqyx-scrap)
 <br>
