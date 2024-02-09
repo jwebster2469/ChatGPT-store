@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `227` custom built GPTs sorted into `18` different categories:
+Listed below are `228` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -91,6 +91,10 @@ Arduino-Python projects, solutions and advice.
 ### Utilities
 
 </summary>
+
+[Insect Identity](https://chat.openai.com/g/g-0SMTWVDrp-insect-identity)
+<br>
+Identify insects from images.
 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
