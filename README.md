@@ -793,7 +793,7 @@ Digital camouflage pattern image creator.
 <br>
 Visualize song lyrics in a collage image.
 
-🌠 [Emulated Image](https://chat.openai.com/g/g-RF3VlAjnL-emulated-image)
+🌠 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
 Replicate images with style using DALL-E 3.
 
