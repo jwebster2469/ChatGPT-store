@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `225` custom built GPTs sorted into `18` different categories:
+Listed below are `226` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -638,6 +638,10 @@ Assistive contrafact creation for songs and melodies.
 ### Social
 
 </summary>
+
+[Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
+<br>
+Assistive activist, coalition, and grassroot movement guide.
 
 [Vote Simulator](https://chat.openai.com/g/g-qx59p7uKR-vote-simulator)
 <br>
