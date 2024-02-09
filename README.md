@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `222` custom built GPTs sorted into `18` different categories:
+Listed below are `223` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -17,6 +17,10 @@ The 🌠 indicates one of the `11` very popular GPTs.
 ### ChatGPT
 
 </summary>
+
+[Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts)
+<br>
+Custom GPT instruction creation guide.
 
 [Custom Response](https://chat.openai.com/g/g-hQUalsSXM-custom-response)
 <br>
