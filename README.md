@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `224` custom built GPTs sorted into `18` different categories:
+Listed below are `225` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -677,6 +677,10 @@ Translate between Gen X, Y, Z slang and plain English.
 ### Business
 
 </summary>
+
+[Sales Pitch](https://chat.openai.com/g/g-JyOxAFTUE-sales-pitch)
+<br>
+Develop and sell professional sales pitches.
 
 [Business Builder](https://chat.openai.com/g/g-cSUIqfHm9-business-builder)
 <br>
