@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `228` custom built GPTs sorted into `18` different categories:
+Listed below are `229` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -611,6 +611,10 @@ Create and test cook custom food recipes.
 ### Audio & Music
 
 </summary>
+
+[Guitar Tab Creator](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
+<br>
+Assistive guitar tablature creator.
 
 [Audio Analyzer](https://chat.openai.com/g/g-g0Ob3Qbue-audio-analyzer)
 <br>
