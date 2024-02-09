@@ -1149,6 +1149,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Guitar Pedal Box Sales Pitch](https://chat.openai.com/share/717fe228-49d4-41d6-a118-c6ebde3115b9)
 
+[How many custom GPTs are currently in the GPT Store?](https://chat.openai.com/share/cef152a8-f703-4ad2-96b4-b7fbae7b5ac3)
+
 </details>
 
 
