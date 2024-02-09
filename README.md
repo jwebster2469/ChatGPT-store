@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `227` custom built GPTs sorted into `18` different categories:
+Listed below are `228` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -127,6 +127,10 @@ Martian rovers, rockets, habitats, and environment.
 [Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
 <br>
 Learn and relearn any grade school subject.
+
+[Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
+<br>
+Assistive terminology expert in various fields such as medicine, law, technology, finance, and more.
 
 [Robot Builder](https://chat.openai.com/g/g-04lZCZ8QG-robot-builder)
 <br>
