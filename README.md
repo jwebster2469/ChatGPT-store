@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `230` custom built GPTs sorted into `18` different categories:
+Listed below are `231` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -88,10 +88,6 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 </summary>
 
-[Insect Identity](https://chat.openai.com/g/g-0SMTWVDrp-insect-identity)
-<br>
-Identify insects from images.
-
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant. 
@@ -108,10 +104,6 @@ Google Maps travel planning and route optimization.
 <br>
 Assistive work schedule and progress tracker.
 
-[Mechanical Simulator](https://chat.openai.com/g/g-jQ8ono7S9-mechanical-simulator)
-<br>
-Mechanical simulation assistant with technical explanations.
-
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Simply rename bulk uploaded files.
@@ -119,10 +111,6 @@ Simply rename bulk uploaded files.
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
 Simulated urban modernization.
-
-[Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
-<br>
-Martian rovers, rockets, habitats, and environment. 
 
 [Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
 <br>
@@ -192,17 +180,9 @@ Semiconductor engineering technology, processes, materials, and design.
 <br>
 Cannabis planting, growing, and harvesting guide, tailored to your location.
 
-[Physics](https://chat.openai.com/g/g-duSjyyG2o-physics)
-<br>
-Experimental physics assistant and problem solver.
-
 [AI-Powered](https://chat.openai.com/g/g-7cvn180Mm-ai-powered)
 <br>
 Detailed advice and information for AI-powered personal computers.
-
-[Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
-<br>
-Learn and troubleshoot electricity, with clear explanations and examples.
 
 [TAZ SideKick 747](https://chat.openai.com/g/g-BzXdiy3gx-taz-sidekick-747)
 <br>
@@ -235,10 +215,6 @@ Combined daily reporting for local, national and international news.
 [Subreddit Finder](https://chat.openai.com/g/g-dytZgmo1P-subreddit-finder)
 <br>
 Search and find the best subreddits for your content.
-
-[Snow Load](https://chat.openai.com/g/g-4ZK2PHvVE-snow-load)
-<br>
-Estimate the weight of snow on building roofs.
 
 [Predict Futures](https://chat.openai.com/g/g-L2gua0rf7-predict-futures)
 <br>
@@ -288,17 +264,52 @@ How to create a Power Time Logger.
 <br>
 End-to-end software operation diagrams.
 
-[Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
-<br>
-Solve science problems and questions.
-
 [War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
 <br>
 Global conflict metrics.
 
+</details>
+<details><summary>
+  
+### Science
+
+</summary>
+
+[Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
+<br>
+Solve science problems and questions.
+
+[Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
+<br>
+Simulate various aspects of NASA missions, including mission planning, problem-solving during unforeseen events, and post-mission analysis.
+
+[Insect Identity](https://chat.openai.com/g/g-0SMTWVDrp-insect-identity)
+<br>
+Identify insects from images.
+
 [Starship](https://chat.openai.com/g/g-C2JrN7qBV-starship)
 <br>
 SpaceX's Starship rocket information.
+
+[Physics](https://chat.openai.com/g/g-duSjyyG2o-physics)
+<br>
+Experimental physics assistant and problem solver.
+
+[Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
+<br>
+Learn and troubleshoot electricity, with clear explanations and examples.
+
+[Mechanical Simulator](https://chat.openai.com/g/g-jQ8ono7S9-mechanical-simulator)
+<br>
+Mechanical simulation assistant with technical explanations.
+
+[Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
+<br>
+Martian rovers, rockets, habitats, and environment. 
+
+[Snow Load](https://chat.openai.com/g/g-4ZK2PHvVE-snow-load)
+<br>
+Estimate the weight of snow on building roofs.
 
 </details>
 <details><summary>
@@ -306,6 +317,7 @@ SpaceX's Starship rocket information.
 ### Video & GIF
 
 </summary>
+
 
 [Video Parody](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
 <br>
