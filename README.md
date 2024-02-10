@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `229` custom built GPTs sorted into `18` different categories:
+Listed below are `230` custom built GPTs sorted into `18` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -646,6 +646,10 @@ Assistive contrafact creation for songs and melodies.
 ### Social
 
 </summary>
+
+[Speech Psychology](https://chat.openai.com/g/g-HgyyjcNJ2-speech-psychology)
+<br>
+Expert in lisps, rhotacism, and speech patterns.
 
 [Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
 <br>
