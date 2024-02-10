@@ -30,9 +30,9 @@ Create instructions for customizing ChatGPT's responses.
 <br>
 Combine custom GPTs for collaborations.
 
-[Custom GPT Locator](https://chat.openai.com/g/g-JGF19g1Dk-custom-gpt-locator)
+[Custom GPT Actions Expert](https://chat.openai.com/g/g-xyr2NrOeq-custom-gpt-actions-expert)
 <br>
-Expert in finding custom GPTs from various directories.
+Guidance for actions, schema and authentication. 
 
 [User Training Quiz](https://chat.openai.com/g/g-j0Orf127K-user-training-quiz)
 <br>
