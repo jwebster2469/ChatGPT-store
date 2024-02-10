@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `233` custom built GPTs sorted into `19` different categories:
+Listed below are `234` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -274,6 +274,10 @@ Global conflict metrics.
 ### Science
 
 </summary>
+
+[Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
+<br>
+Assistive physics simulation expert.
 
 [Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
 <br>
