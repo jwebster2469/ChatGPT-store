@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `236` custom built GPTs sorted into `19` different categories:
+Listed below are `235` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -49,10 +49,6 @@ Helpful and informative.
 [Easy APIs](https://chat.openai.com/g/g-DwGmTAUTB-easy-apis)
 <br>
 Easily integrate APIs without authentication.
-
-[Custom GPT Actions Expert](https://chat.openai.com/g/g-xyr2NrOeq-custom-gpt-actions-expert)
-<br>
-Guidance for actions, schema and authentication. 
 
 [OpenAPI Spec JSON/YAML Actions](https://chat.openai.com/g/g-fpPDafJds-openapi-spec-json-actions)
 <br>
