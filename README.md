@@ -1042,10 +1042,6 @@ Single player charades game.
 <br>
 Find similar PC games on Steam based on your preferences.
 
-[Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
-<br>
-Quick-response random character game.
-
 [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game)
 <br>
 Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
@@ -1075,7 +1071,11 @@ Analyze 3D files for strength, errors, alongside optimization tips and custom mo
 
 [Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
 <br>
-Account data image creator for Facebook, Instagram and X. 
+Account data image creator for Facebook, Instagram and X.
+
+[Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
+<br>
+Quick-response random character game.
 
 [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 <br>
