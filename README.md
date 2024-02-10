@@ -1173,6 +1173,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [List the ChatGPT accounts who have published the most custom GPTs](https://chat.openai.com/share/930c6a8d-351c-4025-9355-60f2d4ece377)
 
+[Plan and simulate a future mission to Mars](https://chat.openai.com/share/1e4d253f-0959-4201-ab06-44850a56e549)
+
 </details>
 
 
