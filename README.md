@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `234` custom built GPTs sorted into `19` different categories:
+Listed below are `235` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -884,9 +884,13 @@ Convert text into creative ASCII art.
 </details>
 <details><summary>
   
-### Travel
+### Travel & Lifestyle
 
 </summary>
+
+[Fishing Expert](https://chat.openai.com/g/g-LghRwjwYY-fishing-expert)
+<br>
+Assistive fishing location finder with weather and bait advice.
 
 [Vacation](https://chat.openai.com/g/g-8h9OXTiMr-vacation)
 <br>
