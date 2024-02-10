@@ -18,7 +18,7 @@ The 🌠 indicates one of the `11` very popular GPTs.
 
 </summary>
 
-[Instructions for Custom GPTs](https://chat.openai.com/g/g-yAwEVaLkf-instructions-for-custom-gpts)
+[Custom GPT Instructions](https://chat.openai.com/g/g-yAwEVaLkf-custom-gpt-instructions)
 <br>
 Custom GPT instruction creation guide.
 
