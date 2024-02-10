@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `235` custom built GPTs sorted into `19` different categories:
+Listed below are `236` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -384,7 +384,11 @@ Assistive real-estate advisor.
 
 [Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
 <br>
-Locate ultra-rich luxury items and insights on top-tier products. 
+Locate ultra-rich luxury items and insights on top-tier products.
+
+[Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
+<br>
+Simulate spending money on luxury items.
 
 [Laundering](https://chat.openai.com/g/g-xJ1q6DlE6-laundering)
 <br>
