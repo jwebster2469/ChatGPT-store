@@ -1191,6 +1191,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Plan and simulate a future mission to Mars](https://chat.openai.com/share/1e4d253f-0959-4201-ab06-44850a56e549)
 
+[Locate a fishing spot](https://chat.openai.com/share/089153a1-9f08-458c-b71d-5333125635fd)
+
 </details>
 
 
