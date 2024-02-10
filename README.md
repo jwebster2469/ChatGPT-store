@@ -628,10 +628,6 @@ Create and test cook custom food recipes.
 
 </summary>
 
-[Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
-<br>
-Enhance the bass frequencies of uploaded audio files.
-
 [Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
 Assistive guitar tablature creator.
@@ -1056,6 +1052,10 @@ Automated teller machine (ATM) simulator.
 ### Concepts
 
 </summary>
+
+[Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
+<br>
+Enhance the bass frequencies of uploaded audio files.
 
 [Audio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
 <br>
