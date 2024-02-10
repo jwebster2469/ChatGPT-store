@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `232` custom built GPTs sorted into `19` different categories:
+Listed below are `233` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -627,6 +627,10 @@ Create and test cook custom food recipes.
 ### Audio & Music
 
 </summary>
+
+[Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
+<br>
+Enhance the bass frequencies of uploaded audio files.
 
 [Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
