@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `231` custom built GPTs sorted into `18` different categories:
+Listed below are `231` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
