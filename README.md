@@ -160,10 +160,6 @@ Custom text-entry images.
 <br>
 Assistive mechanical, math, and design expert.
 
-[Trees](https://chat.openai.com/g/g-jd1xcKJm1-trees)
-<br>
-Identify tree leaves and estimate seasonal growth.
-
 [Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
 <br>
 Compare multiple and bulk images to each other. 
@@ -310,6 +306,10 @@ Martian rovers, rockets, habitats, and environment.
 [Snow Load](https://chat.openai.com/g/g-4ZK2PHvVE-snow-load)
 <br>
 Estimate the weight of snow on building roofs.
+
+[Trees](https://chat.openai.com/g/g-jd1xcKJm1-trees)
+<br>
+Identify tree leaves and estimate seasonal growth.
 
 </details>
 <details><summary>
