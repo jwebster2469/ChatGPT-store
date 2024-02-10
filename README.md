@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `231` custom built GPTs sorted into `19` different categories:
+Listed below are `232` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -115,6 +115,10 @@ Simulated urban modernization.
 [Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
 <br>
 Learn and relearn any grade school subject.
+
+[Terminal Simulator](https://chat.openai.com/g/g-9MywumX92-terminal-simulator)
+<br>
+Simulate the command-line interfaces (CLI) for Windows PowerShell, Linux terminal, and macOS terminal.
 
 [Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
 <br>
