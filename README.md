@@ -52,7 +52,7 @@ Easily integrate APIs without authentication.
 
 [Custom GPT Actions Expert](https://chat.openai.com/g/g-xyr2NrOeq-custom-gpt-actions-expert)
 <br>
-Guidance for Actions, Schema and Authentication.
+Guidance for actions, schema and authentication. 
 
 [OpenAPI Spec JSON/YAML Actions](https://chat.openai.com/g/g-fpPDafJds-openapi-spec-json-actions)
 <br>
