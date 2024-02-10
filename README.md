@@ -388,7 +388,7 @@ Locate ultra-rich luxury items and insights on top-tier products.
 
 [Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
 <br>
-Simulate spending money on luxury items.
+Simulate spending money on ultra-rich luxury items.
 
 [Laundering](https://chat.openai.com/g/g-xJ1q6DlE6-laundering)
 <br>
