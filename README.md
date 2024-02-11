@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `237` custom built GPTs sorted into `19` different categories:
+Listed below are `235` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -1056,14 +1056,6 @@ Automated teller machine (ATM) simulator.
 ### Concepts
 
 </summary>
-
-[Emergency Simulator](https://chat.openai.com/g/g-mn28bwTPD-emergency-simulator)
-<br>
-Assistive emergency simulation expert.
-
-[Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
-<br>
-Assists with guidance in emergency situations.
 
 [Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
 <br>
