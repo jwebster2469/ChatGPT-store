@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `236` custom built GPTs sorted into `19` different categories:
+Listed below are `237` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -219,10 +219,6 @@ Predict future scenarios based on internet research.
 [Image Shredder](https://chat.openai.com/g/g-Z7kOpqjss-image-shredder)
 <br>
 Create a new image from sliced and randomized image pieces.
-
-[Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
-<br>
-A challenge for artificial intelligence.
 
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
@@ -1060,6 +1056,14 @@ Automated teller machine (ATM) simulator.
 ### Concepts
 
 </summary>
+
+[Emergency Simulator](https://chat.openai.com/g/g-mn28bwTPD-emergency-simulator)
+<br>
+Assistive emergency simulation expert.
+
+[Emergency Kit](https://chat.openai.com/g/g-yADUAYibx-emergency-kit)
+<br>
+Assists with guidance in emergency situations.
 
 [Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
 <br>
