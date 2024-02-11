@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `235` custom built GPTs sorted into `19` different categories:
+Listed below are `236` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -131,6 +131,10 @@ Manufacturing process machines, line design and systems.
 [Windows](https://chat.openai.com/g/g-tMe145ZqU-windows)
 <br>
 Master in Windows OS, providing support and information.
+
+[Arduino Simulator](https://chat.openai.com/g/g-409Bg1hAQ-arduino-simulator)
+<br>
+Arduino project manager and simulator.
 
 [Pediatric](https://chat.openai.com/g/g-tToxYxaOu-pediatric)
 <br>
