@@ -172,10 +172,6 @@ Compare multiple and bulk images to each other.
 <br>
 Find platforms for artists and creators to share work.
 
-[Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
-<br>
-Semiconductor engineering technology, processes, materials, and design.
-
 [Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
 <br>
 Cannabis planting, growing, and harvesting guide, tailored to your location.
@@ -191,10 +187,6 @@ Assistive open-source LulzBot 3D printer guide.
 [Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
 <br>
 Assistive internet culture expert, explaining trends and memes.
-
-[Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
-<br>
-Practice computational chemistry and create new chemicals.
 
 [Grocery List](https://chat.openai.com/g/g-PbSdbwbnd-grocery-list)
 <br>
@@ -271,6 +263,10 @@ Global conflict metrics.
 
 </summary>
 
+[Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
+<br>
+Semiconductor engineering technology, processes, materials, and design.
+
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
 <br>
 Assistive physics simulation expert.
@@ -290,6 +286,10 @@ Identify insects from images.
 [Starship](https://chat.openai.com/g/g-C2JrN7qBV-starship)
 <br>
 SpaceX's Starship rocket information.
+
+[Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
+<br>
+Practice computational chemistry and create new chemicals.
 
 [Physics](https://chat.openai.com/g/g-duSjyyG2o-physics)
 <br>
