@@ -786,7 +786,7 @@ Rank the most popular social media accounts across various platforms.
 <br>
 Creative digital business.
 
-[Brand Footprint](https://chat.openai.com/g/g-iQbBVJzIf-brand-footprint)
+[Business Footprint](https://chat.openai.com/g/g-iQbBVJzIf-business-footprint)
 <br>
 Find and analyze branded website and social account data.
 
