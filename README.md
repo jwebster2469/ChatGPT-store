@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `243` custom built GPTs sorted into `20` different categories:
+Listed below are `244` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -753,6 +753,10 @@ Translate between Gen X, Y, Z slang and plain English.
 ### Business
 
 </summary>
+
+[Custom GPT Business](https://chat.openai.com/g/g-k8Ghxlj6V-custom-gpt-business)
+<br>
+Assistive custom GPT business communication guide.
 
 [Sales Pitch](https://chat.openai.com/g/g-JyOxAFTUE-sales-pitch)
 <br>
