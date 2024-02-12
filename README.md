@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `240` custom built GPTs sorted into `20` different categories:
+Listed below are `241` custom built GPTs sorted into `20` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -266,6 +266,10 @@ Global conflict metrics.
 [Friend Crisis](https://chat.openai.com/g/g-4YeyehUlH-friend-crisis)
 <br>
 Personal friendship crisis planning and simulation.
+
+[Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-fincancial-crisis)
+<br>
+International financial crisis planning and simulation.
 
 [Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
 <br>
