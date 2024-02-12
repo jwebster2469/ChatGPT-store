@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `236` custom built GPTs sorted into `19` different categories:
+Listed below are `237` custom built GPTs sorted into `19` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -670,6 +670,10 @@ Assistive contrafact creation for songs and melodies.
 ### Social
 
 </summary>
+
+[Religion Chooser](https://chat.openai.com/g/g-86uXRyFVq-religion-chooser)
+<br>
+Assistive religious belief preference chooser.
 
 [Speech Psychology](https://chat.openai.com/g/g-HgyyjcNJ2-speech-psychology)
 <br>
