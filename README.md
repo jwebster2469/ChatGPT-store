@@ -267,7 +267,7 @@ Global conflict metrics.
 <br>
 Personal friendship crisis planning and simulation.
 
-[Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-fincancial-crisis)
+[Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-financial-crisis)
 <br>
 International financial crisis planning and simulation.
 
