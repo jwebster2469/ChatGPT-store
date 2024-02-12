@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `242` custom built GPTs sorted into `20` different categories:
+Listed below are `243` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -296,6 +296,10 @@ Semiconductor engineering technology, processes, materials, and design.
 <br>
 Assistive physics simulation expert.
 
+[Society Simulator](https://chat.openai.com/g/g-6JmbafNlt-society-simulator)
+<br>
+Predictive social future simulator.
+
 [Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
 <br>
 Solve science problems and questions.
@@ -346,7 +350,6 @@ Identify tree leaves and estimate seasonal growth.
 ### Video & GIF
 
 </summary>
-
 
 [Video Parody](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
 <br>
