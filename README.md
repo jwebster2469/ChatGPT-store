@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `241` custom built GPTs sorted into `20` different categories:
+Listed below are `242` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -257,9 +257,13 @@ Global conflict metrics.
 </details>
 <details><summary>
   
-### Crisis & Emergency
+### Emergency & Security
 
 </summary>
+
+[Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
+<br>
+Plan, evaluate, and optimize security systems for various settings.
 
 [Friend Crisis](https://chat.openai.com/g/g-4YeyehUlH-friend-crisis)
 <br>
