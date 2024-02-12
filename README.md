@@ -1235,6 +1235,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Marketplace Value: Example](https://chat.openai.com/share/d6cb6bde-4e68-4bc5-b009-62f97df8cad6)
 
+[Buy custom GPTs from Sourceduty](https://chat.openai.com/share/489d37c8-36e5-4e33-b1fa-01bd6fd83466)
+
 </details>
 
 
