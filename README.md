@@ -84,7 +84,11 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
-Desktop and laptop computer hardware upgrade assistant. 
+Desktop and laptop computer hardware upgrade assistant.
+
+[Image Comparison](https://chat.openai.com/g/g-4eQMR7Npu-image-comparison)
+<br>
+Upload and compare two image files.
 
 [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
 <br>
@@ -888,10 +892,6 @@ Create conceptual rebranded product images.
 [Military Prompt](https://chat.openai.com/g/g-VLePEN7ZK-military-prompt)
 <br>
 Terminal interface design guide.
-
-[Compare Images](https://chat.openai.com/g/g-4eQMR7Npu-compare-images)
-<br>
-Upload and compare two image files.
 
 [Image Palette](https://chat.openai.com/g/g-ifho2QQB0-image-palette)
 <br>
