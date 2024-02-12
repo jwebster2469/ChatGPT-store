@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `237` custom built GPTs sorted into `19` different categories:
+Listed below are `239` custom built GPTs sorted into `20` different categories:
 
 The 🌠 indicates one of the `11` very popular GPTs.
 
@@ -255,6 +255,21 @@ End-to-end software operation diagrams.
 [War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
 <br>
 Global conflict metrics.
+
+</details>
+<details><summary>
+  
+### Crisis & Emergency
+
+</summary>
+
+[Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
+<br>
+National electrical power outage planning and simulation.
+
+[Disaster Crisis](https://chat.openai.com/g/g-QQUg3dzIf-disaster-crisis)
+<br>
+National environmental disaster emergency planning and simulation.
 
 </details>
 <details><summary>
