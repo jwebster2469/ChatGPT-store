@@ -440,7 +440,7 @@ Estimate the current price of custom desktop computers and hardware.
 
 [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
 <br>
-Used marketplace listing helper.
+Estimate prices for used items in any currency.
 
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
