@@ -8,8 +8,6 @@
 
 Listed below are `241` custom built GPTs sorted into `20` different categories:
 
-The 🌠 indicates one of the `11` very popular GPTs.
-
 #
 
 <details><summary>
@@ -358,11 +356,11 @@ Video titles, credits, effects, and speed changes. Created in preparation for GP
 <br>
 Create collage images from video files using DALL-E 3. Created in preparation for GPT-5.
 
-🌠 [GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
+[GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
 <br>
 Create animated GIF images using DALL-E 3.
 
-🌠 [Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
+[Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
 <br>
 Word-for-word GIF image generator.
 
@@ -558,7 +556,7 @@ Analyze documents, lyrics, scripts and conversations with multiple opinions.
 <br>
 Create parody comic strip images using a book or short story. 
 
-🌠 [Narrated Images](https://chat.openai.com/g/g-rI4XBdeNB-narrated-images)
+[Narrated Images](https://chat.openai.com/g/g-rI4XBdeNB-narrated-images)
 <br>
 Narrate images and create short visual stories.
 
@@ -574,7 +572,7 @@ Retype your words and sentences with incorrect spelling, emojis and symbols.
 <br>
 Plain text organization guide.
 
-🌠 [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents)
+[Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents)
 <br>
 Compare paragraphs and documents to find the differences.
 
@@ -602,7 +600,7 @@ Unbiased newspaper creator and recreator.
 <br>
 Collaborative sentence-by-sentence story creator.
 
-🌠 [Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
+[Smart Notes](https://chat.openai.com/g/g-VBafvJ21q-smart-notes)
 <br>
 Intelligent note recording assistant.
 
@@ -796,7 +794,7 @@ Identify fabrics from images and find optimal fabric for projects or products.
 <br>
 Learn graphic design, web design, product design, and more.
 
-🌠 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
+[Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
 <br>
 Create custom vehicle images.
 
@@ -848,7 +846,7 @@ Digital camouflage pattern image creator.
 <br>
 Visualize song lyrics in a collage image.
 
-🌠 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
 Replicate images with style using DALL-E 3.
 
@@ -856,7 +854,7 @@ Replicate images with style using DALL-E 3.
 <br>
 Create a collage image using words.
 
-🌠 [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
+[House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
 <br>
 Creative house designer using DALL-E 3.
 
@@ -876,7 +874,7 @@ Calls for entry, contests and competitions for creatives.
 <br>
 Fan artist tool.
 
-🌠 [Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
+[Rebrand](https://chat.openai.com/g/g-GrLJN0Kqu-rebrand)
 <br>
 Create conceptual rebranded product images.
 
@@ -904,7 +902,7 @@ Upload and watermark your image files.
 <br>
 Upload your images and create a collage.
 
-🌠 [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
+[ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
 <br>
 Convert text into creative ASCII art.
 
@@ -1049,7 +1047,7 @@ James Bond inspired code cracking game.
 <br>
 SpaceX rocket mission simulator game.
 
-🌠 [Visual Mystery](https://chat.openai.com/g/g-LEUbOVHbR-visual-mystery)
+[Visual Mystery](https://chat.openai.com/g/g-LEUbOVHbR-visual-mystery)
 <br>
 Object image guessing game using DALL-E 3.
 
