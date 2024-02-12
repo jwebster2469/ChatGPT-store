@@ -1229,6 +1229,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Locate a fishing spot](https://chat.openai.com/share/089153a1-9f08-458c-b71d-5333125635fd)
 
+[Marketplace Value: Example](https://chat.openai.com/share/d6cb6bde-4e68-4bc5-b009-62f97df8cad6)
+
 </details>
 
 
