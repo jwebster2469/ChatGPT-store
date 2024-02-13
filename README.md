@@ -286,7 +286,7 @@ National environmental disaster emergency planning and simulation.
 
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
-Arduino and Raspberry Pi project manager and simulator.
+Arduino and Raspberry Pi project manager, planner and simulator. 
 
 [Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
 <br>
