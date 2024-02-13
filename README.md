@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `245` custom built GPTs sorted into `20` different categories:
+Listed below are `246` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -291,6 +291,10 @@ National environmental disaster emergency planning and simulation.
 ### Science
 
 </summary>
+
+[Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
+<br>
+Repurpose old electronics for new projects, focusing on Arduino and Raspberry Pi.
 
 [Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
 <br>
