@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `245` custom built GPTs sorted into `20` different categories:
+Listed below are `244` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -43,10 +43,6 @@ Extensive guide for ChatGPT models.
 [GPT Creation Guide](https://chat.openai.com/g/g-GoLkguGSc-gpt-guide)
 <br>
 Helpful and informative.
-
-[OpenAPI Spec JSON/YAML Actions](https://chat.openai.com/g/g-fpPDafJds-openapi-spec-json-actions)
-<br>
-JSON and YAML format schema actions in OpenAPI specification. 
 
 </details>
 <details><summary>
