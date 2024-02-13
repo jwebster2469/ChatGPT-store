@@ -94,10 +94,6 @@ Upload and compare two image files.
 <br>
 Create mathematical simulations and models.
 
-[Maps Guide](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
-<br>
-Google Maps travel planning and route optimization.
-
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
 Assistive work schedule and progress tracker.
@@ -931,6 +927,10 @@ Convert text into creative ASCII art.
 ### Travel & Lifestyle
 
 </summary>
+
+[Maps Guide](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
+<br>
+Road travel planning and route optimization.
 
 [Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
 <br>
