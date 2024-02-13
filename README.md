@@ -493,6 +493,10 @@ Conversational chatbot using British slang.
 <br>
 Conversational chatbot using Canadian slang.
 
+[Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
+<br>
+Three-way conversation between one person and two chatbots, Eric and Sasha.
+
 </details>
 <details><summary>
   
@@ -1017,10 +1021,6 @@ Landmark image guessing game using DALL-E 3.
 [Personal Quest](https://chat.openai.com/g/g-aahk4IOIC-personal-quest)
 <br>
 Personalized trivia game focused on player's interests.
-
-[Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
-<br>
-Three-way conversation between one person and two chatbots, Eric and Sasha.
 
 [Silly Food](https://chat.openai.com/g/g-hqsfNoC9o-silly-food)
 <br>
