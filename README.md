@@ -130,10 +130,6 @@ Manufacturing process machines, line design and systems.
 <br>
 Master in Windows OS, providing support and information.
 
-[Arduino Simulator](https://chat.openai.com/g/g-409Bg1hAQ-arduino-simulator)
-<br>
-Arduino project manager and simulator.
-
 [Pediatric](https://chat.openai.com/g/g-tToxYxaOu-pediatric)
 <br>
 Assistive child development and parenting psychology.
@@ -287,6 +283,10 @@ National environmental disaster emergency planning and simulation.
 ### Science
 
 </summary>
+
+[Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
+<br>
+Arduino and Raspberry Pi project manager and simulator.
 
 [Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
 <br>
