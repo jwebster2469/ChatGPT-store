@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `247` custom built GPTs sorted into `20` different categories:
+Listed below are `248` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -89,6 +89,10 @@ Upload and compare two image files.
 [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
 <br>
 Create mathematical simulations and models.
+
+[Probability Simulator](https://chat.openai.com/g/g-KLSVMcE6y-probability-simulator)
+<br>
+Simulate probability in uncertain scenarios.
 
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
