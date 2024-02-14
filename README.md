@@ -517,7 +517,7 @@ Assistive GitHub readme file creator.
 
 [Document Design](https://chat.openai.com/g/g-vmvOjWhHm-document-design)
 <br>
-Text document style, type and structure guide.
+Text document style, format and structure guide.
 
 [Document Update](https://chat.openai.com/g/g-Gk3wDoqRU-document-update)
 <br>
