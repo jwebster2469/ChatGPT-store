@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `244` custom built GPTs sorted into `20` different categories:
+Listed below are `245` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -514,6 +514,10 @@ Assistive GitHub readme file creator.
 ### Writing & Reading
 
 </summary>
+
+[Document Design](https://chat.openai.com/g/g-vmvOjWhHm-document-design)
+<br>
+Text document style, type and structure guide.
 
 [Document Update](https://chat.openai.com/g/g-Gk3wDoqRU-document-update)
 <br>
