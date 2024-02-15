@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `249` custom built GPTs sorted into `20` different categories:
+Listed below are `250` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -943,6 +943,10 @@ Convert text into creative ASCII art.
 ### Travel & Lifestyle
 
 </summary>
+
+[Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
+<br>
+Local farm crops, soil, and field optimization specialist. 
 
 [Road Map](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
