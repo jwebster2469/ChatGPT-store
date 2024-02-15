@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `248` custom built GPTs sorted into `20` different categories:
+Listed below are `249` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -73,6 +73,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 ### Utilities
 
 </summary>
+
+[Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
+<br>
+Hardware and firmware modification specialist. 
 
 [Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
 <br>
