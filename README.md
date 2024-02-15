@@ -76,7 +76,7 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
 <br>
-Hardware and firmware modification specialist. 
+Hardware, software and firmware modification specialist.
 
 [Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
 <br>
