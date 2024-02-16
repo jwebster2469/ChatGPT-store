@@ -1261,6 +1261,8 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [Buy custom GPTs from Sourceduty](https://chat.openai.com/share/ee5bd907-13c7-407a-bb38-2c52f68144c0)
 
+[SORA](https://openai.com/research/video-generation-models-as-world-simulators)
+
 </details>
 
 
