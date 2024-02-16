@@ -1209,13 +1209,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [3D STL Files](https://chat.openai.com/share/8ba9c27f-8c86-4ace-8514-4abab31525bf) 
 
-[Custom GPT Knowledge](https://chat.openai.com/share/c746b4a5-ead9-4dce-be92-03fdffe9a6e7) 
-
-[Why GPTs aren’t (yet) the new App Store](https://medium.com/barnacle-labs/why-gpts-arent-yet-the-new-app-store-daaf760392cc) 
-
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
-
-[ChatGPT: Extract Text from MS-DOS Goldfinger 1986 Game?](https://www.reddit.com/r/ChatGPTPro/comments/17zc8g1/chatgpt_extract_text_from_msdos_goldfinger_1986/) 
 
 [ChatGPT sparks AI investment bonanza](https://www.nationalheraldindia.com/science-and-tech/chatgpt-sparks-ai-investment)
 
@@ -1224,8 +1218,6 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 [OpenAI Discord](https://discord.com/invite/openai)
 
 [File Uploads FAQ](https://help.openai.com/en/articles/8555545-file-uploads-faq)
-
-[Narrative Search](https://github.com/sourceduty/Narrative_Search)
 
 [Custom GPT Directories](https://github.com/sourceduty/Custom_GPTs)
 
@@ -1237,29 +1229,9 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
 
 [AI Takeover](https://en.wikipedia.org/wiki/AI_takeover)
 
-[AI Tools](https://www.kaggle.com/datasets/anonim89/ai-tools)
-
-[Build a Cyberdeck](https://chat.openai.com/share/063a1a57-0598-4268-8346-e5979c06aff8)
-
-[Solving the theory of Evolution](https://chat.openai.com/share/8734be84-e491-4500-afc9-e8646e0e094f)
-
-[Upgrade my computer](https://chat.openai.com/share/1bf60023-85de-4bc6-8d99-0efe579cb7cf)
-
-[Simulate the next election in Canada](https://chat.openai.com/share/0bd8199c-aec0-4e95-861e-27c2141aca13)
-
-[Guitar Pedal Box Sales Pitch](https://chat.openai.com/share/717fe228-49d4-41d6-a118-c6ebde3115b9)
-
 [How many custom GPTs are currently in the GPT Store?](https://chat.openai.com/share/cef152a8-f703-4ad2-96b4-b7fbae7b5ac3)
 
 [List the ChatGPT accounts who have published the most custom GPTs](https://chat.openai.com/share/930c6a8d-351c-4025-9355-60f2d4ece377)
-
-[Plan and simulate a future mission to Mars](https://chat.openai.com/share/1e4d253f-0959-4201-ab06-44850a56e549)
-
-[Locate a fishing spot](https://chat.openai.com/share/089153a1-9f08-458c-b71d-5333125635fd)
-
-[Marketplace Value: Example](https://chat.openai.com/share/d6cb6bde-4e68-4bc5-b009-62f97df8cad6)
-
-[Buy custom GPTs from Sourceduty](https://chat.openai.com/share/ee5bd907-13c7-407a-bb38-2c52f68144c0)
 
 [SORA](https://openai.com/research/video-generation-models-as-world-simulators)
 
