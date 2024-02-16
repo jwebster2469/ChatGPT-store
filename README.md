@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `250` custom built GPTs sorted into `20` different categories:
+Listed below are `251` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -365,7 +365,11 @@ Create parody videos from uploaded files. Created in preparation for GPT-5.
 
 [Video Edit](https://chat.openai.com/g/g-3WU0tMQmV-video-edit)
 <br>
-Video titles, credits, effects, and speed changes. Created in preparation for GPT-5. 
+Video titles, credits, effects, and speed changes. Created in preparation for GPT-5.
+
+[Image Spin](https://chat.openai.com/g/g-nomWj9lwj-image-spin)
+<br>
+Rotating GIF image creator.
 
 [Video Image](https://chat.openai.com/g/g-LNtncGSSz-video-image)
 <br>
