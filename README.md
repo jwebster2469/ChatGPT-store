@@ -242,10 +242,6 @@ Upload and generate metadata for image and text files.
 <br>
 Expand simple text searches with multiple related search options. 
 
-[Power Time Logger](https://chat.openai.com/g/g-mc2GgN5bL-power-time-logger)
-<br>
-How to create a Power Time Logger.
-
 [Symbol Diagram](https://chat.openai.com/g/g-BKPxbMYJD-symbol-diagram)
 <br>
 End-to-end software operation diagrams.
