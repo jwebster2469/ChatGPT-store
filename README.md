@@ -322,7 +322,7 @@ SpaceX's Starship rocket information.
 
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
 <br>
-Practice computational chemistry and create new chemicals.
+Create, predict and simulate successful or unsuccessful chemical reactions.
 
 [Physics](https://chat.openai.com/g/g-duSjyyG2o-physics)
 <br>
