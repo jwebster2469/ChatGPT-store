@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `250` custom built GPTs sorted into `20` different categories:
+Listed below are `251` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -409,6 +409,10 @@ Banknote sizes, storage and transportation.
 [Fortune](https://chat.openai.com/g/g-2NkyUDxCx-fortune)
 <br>
 Net worth statistics for individuals and businesses.
+
+[Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
+<br>
+Find and compare the prices of old and current products from the same company or brand. 
 
 [Properties](https://chat.openai.com/g/g-VPxnvz7m1-properties)
 <br>
