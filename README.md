@@ -6,7 +6,9 @@
 
 ### Sourceduty GPTs
 
-Sourceduty currently has `21` GPTs that will be monetized. Listed below are `252` custom built GPTs sorted into `20` different categories:
+Sourceduty currently has `21` GPTs that will be monetized. 
+
+Listed below are `252` custom built GPTs sorted into `20` different categories:
 
 #
 
