@@ -6,7 +6,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `251` custom built GPTs sorted into `20` different categories:
+Listed below are `252` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -97,6 +97,10 @@ Create mathematical simulations and models.
 [Probability Simulator](https://chat.openai.com/g/g-KLSVMcE6y-probability-simulator)
 <br>
 Simulate probability in uncertain scenarios.
+
+[Flipper Zero](https://chat.openai.com/g/g-ClVR48aHo-flipper-zero)
+<br>
+Assistive Flipper Zero guide and firmware simulator.
 
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
