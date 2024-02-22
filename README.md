@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `253` custom built GPTs sorted into `20` different categories:
+Listed below are `254` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -744,6 +744,10 @@ Assistive religious belief preference chooser.
 [Speech Psychology](https://chat.openai.com/g/g-HgyyjcNJ2-speech-psychology)
 <br>
 Expert in lisps, rhotacism, and speech patterns.
+
+[Social Security](https://chat.openai.com/g/g-rP77GIHL9-social-security)
+<br>
+Assistive societal security expert.
 
 [Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
 <br>
