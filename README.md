@@ -363,7 +363,7 @@ Identify tree leaves and estimate seasonal growth.
 
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
-Collaborative scene-by-scene video compiler. Created in preparation for GPT-5.
+Collaborative clip-by-clip video compiler. Created in preparation for GPT-5.
 
 [Video Parody](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
 <br>
