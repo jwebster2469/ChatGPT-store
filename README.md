@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `252` custom built GPTs sorted into `20` different categories:
+Listed below are `253` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -360,6 +360,10 @@ Identify tree leaves and estimate seasonal growth.
 ### Video & GIF
 
 </summary>
+
+[Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
+<br>
+Collaborative scene-by-scene video compiler. Created in preparation for GPT-5.
 
 [Video Parody](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
 <br>
