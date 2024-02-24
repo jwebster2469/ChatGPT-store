@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `253` custom built GPTs sorted into `20` different categories:
+Listed below are `254` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -1039,6 +1039,10 @@ Instructional video creation assistant.
 ### Fun & Games
 
 </summary>
+
+[Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
+<br>
+Walk the Plank word-guessing game, similar to Hangman. 
 
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
