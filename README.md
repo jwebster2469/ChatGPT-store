@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `254` custom built GPTs sorted into `20` different categories:
+Listed below are `255` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -115,6 +115,10 @@ Simply rename bulk uploaded files.
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
 Simulated urban modernization.
+
+[Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
+<br>
+Assistive data simulation expert.
 
 [Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
 <br>
