@@ -412,29 +412,13 @@ Banknote sizes, storage and transportation.
 <br>
 Net worth statistics for individuals and businesses.
 
-[Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
-<br>
-Find and compare the prices of old and current products from the same company or brand. 
-
 [Properties](https://chat.openai.com/g/g-VPxnvz7m1-properties)
 <br>
 Assistive real-estate advisor. 
 
-[Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
-<br>
-Locate ultra-rich luxury items and insights on top-tier products.
-
-[Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
-<br>
-Simulate spending money on ultra-rich luxury items.
-
 [Laundering](https://chat.openai.com/g/g-xJ1q6DlE6-laundering)
 <br>
 Financial crime investigator, focused money laundering.
-
-[Couponer](https://chat.openai.com/g/g-UiFsed8n5-couponer)
-<br>
-Find current coupons for online shopping.
 
 [World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
 <br>
@@ -444,6 +428,13 @@ Assistive currency exchange research and strength testing.
 <br>
 Assistive currency trading with market insights and suggestions.
 
+</details>
+<details><summary>
+  
+### Shopping
+
+</summary>
+
 [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
 <br>
 Estimate the current price of custom desktop computers and hardware.
@@ -452,6 +443,22 @@ Estimate the current price of custom desktop computers and hardware.
 <br>
 Estimate prices for used items in any currency.
 
+[Couponer](https://chat.openai.com/g/g-UiFsed8n5-couponer)
+<br>
+Find current coupons for online shopping.
+
+[Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
+<br>
+Locate ultra-rich luxury items and insights on top-tier products.
+
+[Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
+<br>
+Find and compare the prices of old and current products from the same company or brand. 
+
+[Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
+<br>
+Simulate spending money on ultra-rich luxury items.
+
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
 Assistive step-by-step computer building planner.
@@ -459,13 +466,6 @@ Assistive step-by-step computer building planner.
 [Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
 <br>
 Find and track the lowest prices for products.
-
-</details>
-<details><summary>
-  
-### Shopping
-
-</summary>
 
 [Gift Radar](https://chat.openai.com/g/g-DEy4xd8xr-gift-radar)
 <br>
