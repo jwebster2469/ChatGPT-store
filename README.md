@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `256` custom built GPTs sorted into `20` different categories:
+Listed below are `255` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -144,10 +144,6 @@ Manufacturing process machines, line design and systems.
 <br>
 Master in Windows OS, providing support and information.
 
-[Pediatric](https://chat.openai.com/g/g-tToxYxaOu-pediatric)
-<br>
-Assistive child development and parenting psychology.
-
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
 Identify everyday aches and find over-the-counter treatment products.
@@ -196,10 +192,6 @@ Assistive open-source LulzBot 3D printer guide.
 <br>
 Assistive internet culture expert, explaining trends and memes.
 
-[Grocery List](https://chat.openai.com/g/g-PbSdbwbnd-grocery-list)
-<br>
-Assistive personalized grocery list planner.
-
 [Windows Registry Expert](https://chat.openai.com/g/g-vGNiWQSoA-windows-registry-expert)
 <br>
 Enhance Windows UX with creative registry modifications.
@@ -231,10 +223,6 @@ Locate and participate in current academic research efforts.
 [Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
 <br>
 Generate hashtags using images and text.
-
-[Gift Radar](https://chat.openai.com/g/g-DEy4xd8xr-gift-radar)
-<br>
-Search and find the perfect gifts. 
 
 [Discord Finder](https://chat.openai.com/g/g-enxhriqRt-discord-finder)
 <br>
@@ -471,6 +459,25 @@ Assistive step-by-step computer building planner.
 [Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
 <br>
 Find and track the lowest prices for products.
+
+</details>
+<details><summary>
+  
+### Shopping
+
+</summary>
+
+[Gift Radar](https://chat.openai.com/g/g-DEy4xd8xr-gift-radar)
+<br>
+Search and find the perfect gifts. 
+
+[Grocery List](https://chat.openai.com/g/g-PbSdbwbnd-grocery-list)
+<br>
+Assistive personalized grocery list planner.
+
+[Game Value](https://chat.openai.com/g/g-lR3BxufXF-game-value)
+<br>
+Video game price finder.
 
 </details>
 <details><summary>
@@ -1080,9 +1087,9 @@ Military submarine terminal simulator.
 <br>
 Old computer terminal simulator.
 
-[Game Value](https://chat.openai.com/g/g-lR3BxufXF-game-value)
+[PC Game Radar](https://chat.openai.com/g/g-Er7chyOmE-pc-game-radar)
 <br>
-Video game price finder.
+Find similar PC games on Steam based on your preferences.
 
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 <br>
@@ -1127,10 +1134,6 @@ The original Connect 4 game.
 [Chat Charades](https://chat.openai.com/g/g-G9hVkEnR9-chat-charades)
 <br>
 Single player charades game.
-
-[PC Game Radar](https://chat.openai.com/g/g-Er7chyOmE-pc-game-radar)
-<br>
-Find similar PC games on Steam based on your preferences.
 
 [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game)
 <br>
