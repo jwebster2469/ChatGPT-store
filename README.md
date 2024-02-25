@@ -118,7 +118,7 @@ Simulated urban modernization.
 
 [Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
 <br>
-Assistive data simulation expert.
+Assistive synthetic data generator and simulation expert. 
 
 [Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
 <br>
