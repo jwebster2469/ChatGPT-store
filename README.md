@@ -607,7 +607,7 @@ Create parody comic strip images using a book or short story.
 
 [Image Narrator](https://chat.openai.com/g/g-rI4XBdeNB-image-narrator)
 <br>
-Narrate images and create short visual stories.
+Narrate images and create short visual stories using DALL-E 3.
 
 [Assisted Journal](https://chat.openai.com/g/g-Knuy8ETjw-assisted-journal)
 <br>
