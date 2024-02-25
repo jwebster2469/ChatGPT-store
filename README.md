@@ -401,7 +401,7 @@ Create visualization videos for audio files. Created in preparation for GPT-5.
 <br>
 Create new GIFs inspired by uploaded GIFs.
 
-[Emulated Video](https://chat.openai.com/g/g-NPtn9zP1V-emulated-video)
+[Video Emulator](https://chat.openai.com/g/g-NPtn9zP1V-video-emulator)
 <br>
 Create new videos inspired by uploaded videos. Created in preparation for GPT-5.
 
