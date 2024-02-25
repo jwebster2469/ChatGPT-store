@@ -605,7 +605,7 @@ Analyze documents, lyrics, scripts and conversations with multiple opinions.
 <br>
 Create parody comic strip images using a book or short story. 
 
-[Narrated Images](https://chat.openai.com/g/g-rI4XBdeNB-narrated-images)
+[Image Narrator](https://chat.openai.com/g/g-rI4XBdeNB-image-narrator)
 <br>
 Narrate images and create short visual stories.
 
