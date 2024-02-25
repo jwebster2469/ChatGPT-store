@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `255` custom built GPTs sorted into `20` different categories:
+Listed below are `256` custom built GPTs sorted into `20` different categories:
 
 #
 
@@ -740,6 +740,10 @@ Assistive contrafact creation for songs and melodies.
 ### Social
 
 </summary>
+
+[Social Sync](https://chat.openai.com/g/g-IYpqrCV1F-social-sync)
+<br>
+Synchronize your personal and professional traits with others.
 
 [Religion Chooser](https://chat.openai.com/g/g-86uXRyFVq-religion-chooser)
 <br>
