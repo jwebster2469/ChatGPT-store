@@ -18,7 +18,7 @@ Listed below are `255` custom built GPTs sorted into `20` different categories:
 
 </summary>
 
-[Custom GPT Instructions](https://chat.openai.com/g/g-yAwEVaLkf-custom-gpt-instructions)
+[Instruction Creator](https://chat.openai.com/g/g-yAwEVaLkf-instruction-creator)
 <br>
 Custom GPT instruction creation guide.
 
