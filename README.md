@@ -92,10 +92,6 @@ Desktop and laptop computer hardware upgrade assistant.
 <br>
 Upload and compare two image files.
 
-[Home Builder](https://chat.openai.com/g/g-EFy1XUX9P-home-builder)
-<br>
-Project material planning assistant for Home Depot websites. 
-
 [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
 <br>
 Create mathematical simulations and models.
@@ -1177,6 +1173,10 @@ Account data image creator for Facebook, Instagram and X.
 [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
 <br>
 Quick-response random character game.
+
+[Home Builder](https://chat.openai.com/g/g-EFy1XUX9P-home-builder)
+<br>
+Project material planning assistant for Home Depot websites. 
 
 [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 <br>
