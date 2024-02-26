@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `257` custom built GPTs sorted into `21` different categories:
+Listed below are `256` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -1173,10 +1173,6 @@ Account data image creator for Facebook, Instagram and X.
 [Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
 <br>
 Quick-response random character game.
-
-[Home Builder](https://chat.openai.com/g/g-EFy1XUX9P-home-builder)
-<br>
-Project material planning assistant for Home Depot websites. 
 
 [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 <br>
