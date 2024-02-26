@@ -1147,11 +1147,7 @@ Three-way conversation between one person and two chatbots, focused on SpaceX's 
   
 ***
 
-<details><summary>
-
-### Related Links
-
-</summary>
+<details><summary>Related Links</summary>
 
 [Predicting the Future of Tech](https://chat.openai.com/share/2ff4096b-0ab2-430f-a7b7-bbafd2461141)
 
