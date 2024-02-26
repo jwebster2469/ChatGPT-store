@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `255` custom built GPTs sorted into `21` different categories:
+Listed below are `256` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -551,6 +551,10 @@ Assistive GitHub readme file creator.
 ### Writing & Reading
 
 </summary>
+
+[Text Emulator](https://chat.openai.com/g/g-eeQM2XDch-text-emulator)
+<br>
+Emulate famous authors writing styles or emulate your writing style.
 
 [Document Design](https://chat.openai.com/g/g-vmvOjWhHm-document-design)
 <br>
