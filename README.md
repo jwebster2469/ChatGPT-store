@@ -94,7 +94,7 @@ Upload and compare two image files.
 
 [Home Builder](https://chat.openai.com/g/g-EFy1XUX9P-home-builder)
 <br>
-Project material planning assistant for HomeDepot.com.
+Project material planning assistant for Home Depot websites. 
 
 [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
 <br>
