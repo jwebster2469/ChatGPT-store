@@ -12,11 +12,7 @@ Listed below are `256` custom built GPTs sorted into `21` different categories:
 
 #
 
-<details><summary>
-  
-### ChatGPT
-
-</summary>
+<details><summary>ChatGPT</summary>
 
 [Instruction Creator](https://chat.openai.com/g/g-yAwEVaLkf-instruction-creator)
 <br>
@@ -47,11 +43,7 @@ Extensive guide for ChatGPT models.
 Helpful and informative.
 
 </details>
-<details><summary>
-  
-### Python
-
-</summary>
+<details><summary>Python</summary>
 
 [Python Interface Builder](https://chat.openai.com/g/g-2a5BMlXE9-python-interface-builder)
 <br>
@@ -70,11 +62,7 @@ Assistive art image program creator using Python.
 Assistive game creator using Pygame, Tkinter and Python.
 
 </details>
-<details><summary>
-
-### Utilities
-
-</summary>
+<details><summary>Utilities</summary>
 
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
 <br>
@@ -249,11 +237,7 @@ End-to-end software operation diagrams.
 Global conflict metrics.
 
 </details>
-<details><summary>
-  
-### Emergency & Security
-
-</summary>
+<details><summary>Emergency & Security</summary>
 
 [Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
 <br>
@@ -276,11 +260,7 @@ National electrical power outage planning and simulation.
 National environmental disaster emergency planning and simulation.
 
 </details>
-<details><summary>
-  
-### Science
-
-</summary>
+<details><summary>Science</summary>
 
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
@@ -347,11 +327,7 @@ Estimate the weight of snow on building roofs.
 Identify tree leaves and estimate seasonal growth.
 
 </details>
-<details><summary>
-  
-### Video & GIF
-
-</summary>
+<details><summary>Video & GIF</summary>
 
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
@@ -394,11 +370,7 @@ Create new GIFs inspired by uploaded GIFs.
 Create new videos inspired by uploaded videos. Created in preparation for GPT-5.
 
 </details>
-<details><summary>
-  
-### Money
-
-</summary>
+<details><summary>Money</summary>
 
 [Financial Predictor](https://chat.openai.com/g/g-Rub2djmNc-financial-predictor)
 <br>
@@ -429,11 +401,7 @@ Assistive currency exchange research and strength testing.
 Assistive currency trading with market insights and suggestions.
 
 </details>
-<details><summary>
-  
-### Shopping
-
-</summary>
+<details><summary>Shopping</summary>
 
 [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
 <br>
@@ -480,11 +448,7 @@ Assistive personalized grocery list planner.
 Video game price finder.
 
 </details>
-<details><summary>
-  
-### Chatting
-
-</summary>
+<details><summary>Chatting</summary>
 
 [Convo Planner](https://chat.openai.com/g/g-LTSeH89l1-convo-planner)
 <br>
@@ -527,11 +491,7 @@ Conversational chatbot using Canadian slang.
 Three-way conversation between one person and two chatbots, Eric and Sasha.
 
 </details>
-<details><summary>
-  
-### GitHub
-
-</summary>
+<details><summary>GitHub</summary>
 
 [Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
@@ -546,11 +506,7 @@ Summarize GitHub repository README files.
 Assistive GitHub readme file creator.
 
 </details>
-<details><summary>
-  
-### Writing & Reading
-
-</summary>
+<details><summary>Writing & Reading</summary>
 
 [Text Emulator](https://chat.openai.com/g/g-eeQM2XDch-text-emulator)
 <br>
@@ -665,11 +621,7 @@ Collaborative sentence-by-sentence story creator.
 Intelligent note recording assistant.
 
 </details>
-<details><summary>
-  
-### Law
-
-</summary>
+<details><summary>Law</summary>
 
 [Software Law](https://chat.openai.com/g/g-7w96DmC1S-software-law)
 <br>
@@ -688,11 +640,7 @@ Politics in Canada, with balanced and factual insights.
 Government types, laws, and legislatures. 
 
 </details>
-<details><summary>
-  
-### Food
-
-</summary>
+<details><summary>Food</summary>
 
 [Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
 <br>
@@ -711,11 +659,7 @@ Assistive international cuisine guide, offering insights into popular dishes wor
 Create and test cook custom food recipes. 
 
 </details>
-<details><summary>
-  
-### Audio & Music
-
-</summary>
+<details><summary>Audio & Music</summary>
 
 [Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
@@ -746,11 +690,7 @@ Collaborative sentence-by-sentence song lyric compiler.
 Assistive contrafact creation for songs and melodies.
 
 </details>
-<details><summary>
-  
-### Social
-
-</summary>
+<details><summary>Social</summary>
 
 [Social Sync](https://chat.openai.com/g/g-IYpqrCV1F-social-sync)
 <br>
@@ -801,11 +741,7 @@ Convert plain English to slang, including Canada, America, Britain, and Australi
 Translate between Gen X, Y, Z slang and plain English.
 
 </details>
-<details><summary>  
-  
-### Business
-
-</summary>
+<details><summary>Business</summary>
 
 [Custom GPT Business](https://chat.openai.com/g/g-k8Ghxlj6V-custom-gpt-business)
 <br>
@@ -848,11 +784,7 @@ Creative digital business.
 Find and analyze branded website and social account data.
 
 </details>
-<details><summary>
-  
-### Art & Design
-
-</summary>
+<details><summary>Art & Design</summary>
 
 [Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
 <br>
@@ -971,11 +903,7 @@ Upload your images and create a collage.
 Convert text into creative ASCII art.
 
 </details>
-<details><summary>
-  
-### Travel & Lifestyle
-
-</summary>
+<details><summary>Travel & Lifestyle</summary>
 
 [Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
 <br>
@@ -1034,11 +962,7 @@ Find the optimal location for your meeting.
 Organize essential travel guest info.
 
 </details>
-<details><summary>
-  
-### YouTube
-
-</summary>
+<details><summary>YouTube</summary>
 
 [Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
 <br>
@@ -1053,11 +977,7 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 Instructional video creation assistant.
 
 </details>
-<details><summary>
-  
-### Fun & Games
-
-</summary>
+<details><summary>Fun & Games</summary>
 
 [Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
 <br>
@@ -1148,11 +1068,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 Automated teller machine (ATM) simulator.
 
 </details>
-<details><summary>
-  
-### Concepts
-
-</summary>
+<details><summary>Concepts</summary>
 
 [Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
 <br>
