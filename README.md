@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `256` custom built GPTs sorted into `21` different categories:
+Listed below are `257` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -91,6 +91,10 @@ Desktop and laptop computer hardware upgrade assistant.
 [Image Comparison](https://chat.openai.com/g/g-4eQMR7Npu-image-comparison)
 <br>
 Upload and compare two image files.
+
+[Home Builder](https://chat.openai.com/g/g-EFy1XUX9P-home-builder)
+<br>
+Project material planning assistant for HomeDepot.com.
 
 [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
 <br>
