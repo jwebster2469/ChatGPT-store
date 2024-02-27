@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `256` custom built GPTs sorted into `21` different categories:
+Listed below are `255` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -568,9 +568,9 @@ Convert plain text to artistic ASCII characters.
 <br>
 Analyze documents, lyrics, scripts and conversations with multiple opinions. 
 
-[Parody Comic](https://chat.openai.com/g/g-BJXVWYlNc-parody-comic)
+[Comic Strip](https://chat.openai.com/g/g-BJXVWYlNc-comic-strip)
 <br>
-Create parody comic strip images using a book or short story. 
+Create parody comic strip images using a book or short story and DALL-E 3. 
 
 [Image Narrator](https://chat.openai.com/g/g-rI4XBdeNB-image-narrator)
 <br>
@@ -841,10 +841,6 @@ Expert in the realm of fanatic culture.
 [Pixel Squares](https://chat.openai.com/g/g-FuiPiyk3n-pixel-squares)
 <br>
 Create pixel art images.
-
-[Camo](https://chat.openai.com/g/g-l7Qe53aAL-camo)
-<br>
-Digital camouflage pattern image creator. 
 
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
