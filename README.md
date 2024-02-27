@@ -1039,7 +1039,7 @@ James Bond inspired code cracking game.
 <br>
 SpaceX rocket mission simulator game.
 
-[Visual Mystery](https://chat.openai.com/g/g-LEUbOVHbR-visual-mystery)
+[Image Mystery](https://chat.openai.com/g/g-LEUbOVHbR-image-mystery)
 <br>
 Object image guessing game using DALL-E 3.
 
