@@ -493,15 +493,15 @@ Three-way conversation between one person and two chatbots, Eric and Sasha.
 </details>
 <details><summary>GitHub</summary>
 
-[Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
+[GitHub Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
 Create a GitHub repo card banner image.
 
-[Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
+[GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
 Summarize GitHub repository README files.
 
-[README](https://chat.openai.com/g/g-rA63DaENC-readme)
+[GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
 <br>
 Assistive GitHub readme file creator.
 
