@@ -786,6 +786,10 @@ Find and analyze branded website and social account data.
 </details>
 <details><summary>Art & Design</summary>
 
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+<br>
+Replicate images in different styles using DALL-E 3. 
+
 [Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
 <br>
 Identify fabrics from images and find optimal fabric for projects or products.
@@ -845,10 +849,6 @@ Digital camouflage pattern image creator.
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
 Visualize song lyrics in a collage image.
-
-[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
-<br>
-Replicate images with style using DALL-E 3.
 
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
