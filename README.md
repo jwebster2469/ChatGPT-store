@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `255` custom built GPTs sorted into `21` different categories:
+Listed below are `254` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -1081,10 +1081,6 @@ Analyze 3D files for strength, errors, alongside optimization tips and custom mo
 [Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
 <br>
 Account data image creator for Facebook, Instagram and X.
-
-[Quick Thinker](https://chat.openai.com/g/g-yOjellBNa-quick-thinker)
-<br>
-Quick-response random character game.
 
 [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 <br>
