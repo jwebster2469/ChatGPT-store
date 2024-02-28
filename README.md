@@ -8,7 +8,7 @@
 
 Sourceduty currently has `21` GPTs that will be monetized. 
 
-Listed below are `254` custom built GPTs sorted into `21` different categories:
+Listed below are `255` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -784,7 +784,11 @@ Find and analyze branded website and social account data.
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
-Replicate images in different styles using DALL-E 3. 
+Replicate images in different styles using DALL-E 3.
+
+[Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
+<br>
+Compares designs using image files.
 
 [Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
 <br>
