@@ -786,7 +786,7 @@ Find and analyze branded website and social account data.
 <br>
 Replicate images in different styles using DALL-E 3.
 
-[Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
+[Compare Designs](https://chat.openai.com/g/g-eS15CWBHN-compare-designs)
 <br>
 Compare design images, descriptions and videos.
 
