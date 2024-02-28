@@ -788,7 +788,7 @@ Replicate images in different styles using DALL-E 3.
 
 [Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
 <br>
-Compare designs using words and image files.
+Compare design images, descriptions and videos.
 
 [Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
 <br>
