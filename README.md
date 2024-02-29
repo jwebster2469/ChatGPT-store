@@ -810,10 +810,6 @@ Create custom vehicle images.
 <br>
 Learn about Hollywood movies, lore, and culture.
 
-[Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
-<br>
-Popular artistic painting style guessing game.
-
 [Game Design](https://chat.openai.com/g/g-97Cxc8yL6-game-design)
 <br>
 Design new games and concept images.
@@ -1065,6 +1061,10 @@ Automated teller machine (ATM) simulator.
 
 </details>
 <details><summary>Concepts</summary>
+
+[Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
+<br>
+Popular artistic painting style guessing game.
 
 [Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
 <br>
