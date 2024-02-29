@@ -110,3 +110,11 @@ I filed a DMCA Takedown Form for House Design (https://chat.openai.com/g/g-WgXvQ
 Records
 
 ChatGPT currently doesn't allow its users to export data used for managing and counting custom GPTs. One of the custom built GPTs that I created disappeared from Sourceduty’s account. This custom GPT is the first GPT that Sourceduty ever published. The original link doesn’t work which was shared on GitHub in November of 2023. This can be proven with GitHub upload records and Sourceduty image records.
+
+RSS
+
+I tried to utilize Really Simple Syndication (RSS) within the Python environment of ChatGPT and encountered obstacles due to the absence of necessary libraries. The Python environment, lacks the specific libraries required to implement RSS. This limitation of ChatGPT prevents custom GPTs from fetching and processing live data feeds.
+
+No APIs
+
+In the development process of numerous custom Generative Pre-trained Transformers (GPTs), I tried to integrate Application Programming Interface (API) access to enhance functionality. However, I subsequently revised all of these custom GPTs witha  complete removal of API access and usage from all custom GPTs. 
