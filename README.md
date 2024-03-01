@@ -542,7 +542,7 @@ Modernize uploaded document files.
 <br>
 Analyze and identify fonts using image files.
 
-[Rewrite History](https://chat.openai.com/g/g-PKc9JScH2-rewrite-history)
+[History Simulator](https://chat.openai.com/g/g-PKc9JScH2-history-simulator)
 <br>
 Rewrite human history with predictive outcomes.
 
