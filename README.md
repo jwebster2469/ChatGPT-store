@@ -327,6 +327,26 @@ Identify tree leaves and estimate seasonal growth.
 </details>
 <details><summary>Image & GIF</summary>
 
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+<br>
+Replicate images in different styles using DALL-E 3.
+
+[Image Psychology](https://chat.openai.com/g/g-iTZm6rqFR-image-psychology)
+<br>
+Analyze any image using visual psychology.
+
+[Image Palette](https://chat.openai.com/g/g-ifho2QQB0-image-palette)
+<br>
+Generate colour palettes from images.
+
+[Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark)
+<br>
+Upload and watermark your image files.
+
+[Image Collage](https://chat.openai.com/g/g-UaXXt6DdU-image-collage)
+<br>
+Upload your images and create a collage.
+
 [Image Spin](https://chat.openai.com/g/g-nomWj9lwj-image-spin)
 <br>
 Rotating GIF image creator.
@@ -799,10 +819,6 @@ Find and analyze branded website and social account data.
 </details>
 <details><summary>Art & Design</summary>
 
-[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
-<br>
-Replicate images in different styles using DALL-E 3.
-
 [Compare Designs](https://chat.openai.com/g/g-eS15CWBHN-compare-designs)
 <br>
 Compare design images, descriptions and videos.
@@ -846,10 +862,6 @@ Create unique mosaics using your images.
 [Graffiti](https://chat.openai.com/g/g-XvlTo9th1-graffiti)
 <br>
 Create graffiti images using DALL-E 3.
-
-[Image Psychology](https://chat.openai.com/g/g-iTZm6rqFR-image-psychology)
-<br>
-Analyze any image using visual psychology.
 
 [Fan-Made](https://chat.openai.com/g/g-0FkXecpoY-fan-made)
 <br>
@@ -895,21 +907,9 @@ Create conceptual rebranded product images.
 <br>
 Terminal interface design guide.
 
-[Image Palette](https://chat.openai.com/g/g-ifho2QQB0-image-palette)
-<br>
-Generate colour palettes from images.
-
 [Design Collab](https://chat.openai.com/g/g-lwdIgFWps-design-collab)
 <br>
 Extensive design collaboration guide. 
-
-[Image Watermark](https://chat.openai.com/g/g-Zt0bGbcIB-image-watermark)
-<br>
-Upload and watermark your image files.
-
-[Image Collage](https://chat.openai.com/g/g-UaXXt6DdU-image-collage)
-<br>
-Upload your images and create a collage.
 
 [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
 <br>
