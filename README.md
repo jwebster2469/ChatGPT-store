@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `259` custom built GPTs sorted into `22` different categories:
+Listed below are `260` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -101,6 +101,10 @@ Project material planning assistant for wood projects.
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Simply rename bulk uploaded files.
+
+[Lesson Developer](https://chat.openai.com/g/g-aRxZDrKpl-lesson-developer)
+<br>
+Develop professional education lesson plans.
 
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
