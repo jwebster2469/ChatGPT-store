@@ -345,15 +345,15 @@ Identify tree leaves and estimate seasonal growth.
 
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
-Collaborative clip-by-clip video compiler. Created in preparation for SORA and GPT-5.
+Collaborative clip-by-clip video compiler. Created in preparation for SORA.
 
 [Video Parody](https://chat.openai.com/g/g-WgPM7eiLw-video-parody)
 <br>
-Create parody videos from uploaded files. Created in preparation for SORA and GPT-5.
+Create parody videos from uploaded files. Created in preparation for SORA.
 
 [Video Edit](https://chat.openai.com/g/g-3WU0tMQmV-video-edit)
 <br>
-Video titles, credits, effects, and speed changes. Created in preparation for SORA and GPT-5.
+Video titles, credits, effects, and speed changes. Created in preparation for SORA.
 
 [Image Spin](https://chat.openai.com/g/g-nomWj9lwj-image-spin)
 <br>
@@ -361,7 +361,7 @@ Rotating GIF image creator.
 
 [Video Image](https://chat.openai.com/g/g-LNtncGSSz-video-image)
 <br>
-Create collage images from video files using DALL-E 3. Created in preparation for SORA and GPT-5.
+Create collage images from video files using DALL-E 3. Created in preparation for SORA.
 
 [GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
 <br>
@@ -373,7 +373,7 @@ Word-for-word GIF image generator.
 
 [Music Video](https://chat.openai.com/g/g-mrDyWbY3i-music-video)
 <br>
-Create visualization videos for audio files. Created in preparation for SORA and GPT-5. 
+Create visualization videos for audio files. Created in preparation for SORA.
 
 [GIF Emulator](https://chat.openai.com/g/g-rwTKxjxiU-gif-emulator)
 <br>
@@ -381,7 +381,7 @@ Create new GIFs inspired by uploaded GIFs.
 
 [Video Emulator](https://chat.openai.com/g/g-NPtn9zP1V-video-emulator)
 <br>
-Create new videos inspired by uploaded videos. Created in preparation for SORA and GPT-5.
+Create new videos inspired by uploaded videos. Created in preparation for SORA.
 
 </details>
 <details><summary>Money</summary>
