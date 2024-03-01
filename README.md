@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `258` custom built GPTs sorted into `21` different categories:
+Listed below are `258` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -77,10 +77,6 @@ Develop, plan, and simulate software projects.
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
-
-[Image Comparison](https://chat.openai.com/g/g-4eQMR7Npu-image-comparison)
-<br>
-Upload and compare two image files.
 
 [Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
 <br>
@@ -158,17 +154,9 @@ Solve any type of theory, including mathematical, social, and economic theories.
 <br>
 Narrate document or image files and search for related information.
 
-[Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
-<br>
-Custom text-entry images.
-
 [Mechanical Machine](https://chat.openai.com/g/g-tDh9fIgp2-mechanical-machine)
 <br>
 Assistive mechanical, math, and design expert.
-
-[Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
-<br>
-Compare multiple and bulk images to each other. 
 
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 <br>
@@ -209,10 +197,6 @@ Search and find the best subreddits for your content.
 [Predict Futures](https://chat.openai.com/g/g-L2gua0rf7-predict-futures)
 <br>
 Predict future scenarios based on internet research. 
-
-[Image Shredder](https://chat.openai.com/g/g-Z7kOpqjss-image-shredder)
-<br>
-Create a new image from sliced and randomized image pieces.
 
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
@@ -341,7 +325,46 @@ Estimate the weight of snow on building roofs.
 Identify tree leaves and estimate seasonal growth.
 
 </details>
-<details><summary>Video & GIF</summary>
+<details><summary>Image & GIF</summary>
+
+[Image Spin](https://chat.openai.com/g/g-nomWj9lwj-image-spin)
+<br>
+Rotating GIF image creator.
+
+[Image Shredder](https://chat.openai.com/g/g-Z7kOpqjss-image-shredder)
+<br>
+Create a new image from sliced and randomized image pieces.
+
+[Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
+<br>
+Compare multiple and bulk images to each other. 
+
+[GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
+<br>
+Create animated GIF images using DALL-E 3.
+
+[Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
+<br>
+Word-for-word GIF image generator.
+
+[GIF Emulator](https://chat.openai.com/g/g-rwTKxjxiU-gif-emulator)
+<br>
+Create new GIFs inspired by uploaded GIFs.
+
+[Text-to-Image](https://chat.openai.com/g/g-IVzHM8OIt-text-to-image)
+<br>
+Custom text-entry images.
+
+[Image Comparison](https://chat.openai.com/g/g-4eQMR7Npu-image-comparison)
+<br>
+Upload and compare two image files.
+
+[Image Narrator](https://chat.openai.com/g/g-rI4XBdeNB-image-narrator)
+<br>
+Narrate images and create short visual stories using DALL-E 3.
+
+</details>
+<details><summary>Video</summary>
 
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
@@ -355,29 +378,13 @@ Create parody videos from uploaded files. Created in preparation for SORA.
 <br>
 Video titles, credits, effects, and speed changes. Created in preparation for SORA.
 
-[Image Spin](https://chat.openai.com/g/g-nomWj9lwj-image-spin)
-<br>
-Rotating GIF image creator.
-
 [Video Image](https://chat.openai.com/g/g-LNtncGSSz-video-image)
 <br>
 Create collage images from video files using DALL-E 3. Created in preparation for SORA.
 
-[GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
-<br>
-Create animated GIF images using DALL-E 3.
-
-[Word-to-GIF](https://chat.openai.com/g/g-1GNmLQpwU-word-to-gif)
-<br>
-Word-for-word GIF image generator.
-
 [Music Video](https://chat.openai.com/g/g-mrDyWbY3i-music-video)
 <br>
 Create visualization videos for audio files. Created in preparation for SORA.
-
-[GIF Emulator](https://chat.openai.com/g/g-rwTKxjxiU-gif-emulator)
-<br>
-Create new GIFs inspired by uploaded GIFs.
 
 [Video Emulator](https://chat.openai.com/g/g-NPtn9zP1V-video-emulator)
 <br>
@@ -581,10 +588,6 @@ Convert plain text to artistic ASCII characters.
 [Text Feedback](https://chat.openai.com/g/g-RDhT1E3g9-text-feedback)
 <br>
 Analyze documents, lyrics, scripts and conversations with multiple opinions. 
-
-[Image Narrator](https://chat.openai.com/g/g-rI4XBdeNB-image-narrator)
-<br>
-Narrate images and create short visual stories using DALL-E 3.
 
 [Assisted Journal](https://chat.openai.com/g/g-Knuy8ETjw-assisted-journal)
 <br>
