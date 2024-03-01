@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `254` custom built GPTs sorted into `21` different categories:
+Listed below are `255` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -791,6 +791,10 @@ Replicate images in different styles using DALL-E 3.
 [Compare Designs](https://chat.openai.com/g/g-eS15CWBHN-compare-designs)
 <br>
 Compare design images, descriptions and videos.
+
+[Robot Creator](https://chat.openai.com/g/g-FPwYmfQMx-robot-creator)
+<br>
+Design custom robots and visualize them with DALL-E 3.
 
 [Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
 <br>
