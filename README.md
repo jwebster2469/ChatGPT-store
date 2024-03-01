@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `257` custom built GPTs sorted into `21` different categories:
+Listed below are `258` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -113,6 +113,10 @@ Simulated urban modernization.
 [Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
 <br>
 Assistive synthetic data generator and simulation expert. 
+
+[Database Creator](https://chat.openai.com/g/g-4LMQ2Y4k9-database-creator)
+<br>
+Create database schemas that are aligned with your requirements.
 
 [Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
 <br>
