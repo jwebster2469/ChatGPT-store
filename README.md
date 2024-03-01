@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `256` custom built GPTs sorted into `21` different categories:
+Listed below are `257` custom built GPTs sorted into `21` different categories:
 
 #
 
@@ -97,6 +97,10 @@ Assistive Flipper Zero guide and firmware simulator.
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
 Assistive work schedule and progress tracker.
+
+[Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
+<br>
+Project material planning assistant for wood projects. 
 
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
