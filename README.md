@@ -400,7 +400,7 @@ Video titles, credits, effects, and speed changes. Created in preparation for SO
 
 [Video Image](https://chat.openai.com/g/g-LNtncGSSz-video-image)
 <br>
-Create collage images from video files using DALL-E 3. Created in preparation for SORA.
+Create collage images from video files using DALL-E 3. 
 
 [Music Video](https://chat.openai.com/g/g-mrDyWbY3i-music-video)
 <br>
