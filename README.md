@@ -284,7 +284,7 @@ Assistive physics simulation expert.
 <br>
 Predictive global social future simulator.
 
-[Scientific Method Assistant](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method-assistant)
+[Scientific Method](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method)
 <br>
 Solve science problems and questions.
 
