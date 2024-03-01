@@ -361,7 +361,7 @@ Word-for-word GIF image generator.
 <br>
 Create visualization videos for audio files. Created in preparation for SORA and GPT-5. 
 
-[Emulated GIF](https://chat.openai.com/g/g-rwTKxjxiU-emulated-gif)
+[GIF Emulator](https://chat.openai.com/g/g-rwTKxjxiU-gif-emulator)
 <br>
 Create new GIFs inspired by uploaded GIFs.
 
