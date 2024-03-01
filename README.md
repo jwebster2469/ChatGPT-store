@@ -827,7 +827,7 @@ Find and analyze branded website and social account data.
 </details>
 <details><summary>Art & Design</summary>
 
-[Compare Designs](https://chat.openai.com/g/g-eS15CWBHN-compare-designs)
+[Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
 <br>
 Compare design images, descriptions and videos.
 
