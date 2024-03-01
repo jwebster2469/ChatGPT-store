@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `258` custom built GPTs sorted into `22` different categories:
+Listed below are `259` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -556,6 +556,10 @@ Emulate famous authors writing styles or emulate your writing style.
 [Document Design](https://chat.openai.com/g/g-vmvOjWhHm-document-design)
 <br>
 Text document style, format and structure guide.
+
+[Handwriting](https://chat.openai.com/g/g-uidqnLYiI-handwriting)
+<br>
+Digitize, translate and analyze handwriting in any language.
 
 [Document Emulator](https://chat.openai.com/g/g-HetDP3oxF-document-emulator)
 <br>
