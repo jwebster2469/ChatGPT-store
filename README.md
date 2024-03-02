@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `261` custom built GPTs sorted into `22` different categories:
+Listed below are `260` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -1118,10 +1118,6 @@ Account data image creator for Facebook, Instagram and X.
 [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 <br>
 Create and expand an image mosaic using DALL-E 3.
-
-[Artificial Group Chat + Starship](https://chat.openai.com/g/g-5Bn3uabPT-artificial-group-chat-starship)
-<br>
-Three-way conversation between one person and two chatbots, focused on SpaceX's Starship.
 
 </details>
 
