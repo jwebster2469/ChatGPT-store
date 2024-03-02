@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `262` custom built GPTs sorted into `22` different categories:
+Listed below are `261` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -663,10 +663,6 @@ Intelligent note recording assistant.
 
 </details>
 <details><summary>Law</summary>
-
-[Police Investigator](https://chat.openai.com/g/g-NtYbO6OWh-police-investigator)
-<br>
-Assistive law and police psychology expert.
 
 [Software Law](https://chat.openai.com/g/g-7w96DmC1S-software-law)
 <br>
