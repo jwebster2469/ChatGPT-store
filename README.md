@@ -190,7 +190,7 @@ Enhance Windows UX with creative registry modifications.
 <br>
 Spatial building and property data comparisons.
 
-[The Daily Prompt](https://chat.openai.com/g/g-8KpztE5dz-the-daily-prompt)
+[News Prompt](https://chat.openai.com/g/g-8KpztE5dz-news-prompt)
 <br>
 Combined daily reporting for local, national and international news.
 
