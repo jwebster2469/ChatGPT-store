@@ -1202,8 +1202,6 @@ Create and expand an image mosaic using DALL-E 3.
 
 [SORA](https://openai.com/research/video-generation-models-as-world-simulators)
 
-[GPT Store vs. Musk](https://chat.openai.com/share/88c31fdc-a2b5-4395-9ceb-65e8d1293e2f)
-
 </details>
 
 
