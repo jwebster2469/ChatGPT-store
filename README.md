@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `260` custom built GPTs sorted into `22` different categories:
+Listed below are `261` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -361,7 +361,11 @@ Create a new image from sliced and randomized image pieces.
 
 [Image Picker](https://chat.openai.com/g/g-U1p1YG09h-image-picker)
 <br>
-Compare multiple and bulk images to each other. 
+Compare multiple and bulk images to each other.
+
+[Face Compare](https://chat.openai.com/g/g-DEjaX4w55-face-compare)
+<br>
+Compare and analyze uploaded face images. 
 
 [GIF Builder](https://chat.openai.com/g/g-vkuqgJxjC-gif-builder)
 <br>
