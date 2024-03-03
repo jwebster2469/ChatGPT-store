@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `264` custom built GPTs sorted into `22` different categories:
+Listed below are `265` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -283,6 +283,10 @@ Assistive physics simulation expert.
 [Thermal Science](https://chat.openai.com/g/g-JhRbCZ4k0-thermal-science)
 <br>
 Assistive thermodynamic science expert.
+
+[Oscilloscope Lab](https://chat.openai.com/g/g-nzY4ZwhO3-oscilloscope-lab)
+<br>
+Create and learn oscilloscope operations using Python. 
 
 [Society Simulator](https://chat.openai.com/g/g-6JmbafNlt-society-simulator)
 <br>
