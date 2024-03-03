@@ -10,7 +10,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `262` custom built GPTs sorted into `22` different categories:
+Listed below are `263` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -800,6 +800,14 @@ Expert fame guidance, strategies and management.
 <br>
 Assistive custom GPT business communication guide.
 
+[Crop Analyzer](https://chat.openai.com/g/g-tsl3ADsYf-crop-analyzer)
+<br>
+Analyze agricultural crop images, identify different stages of crop growth and detecting any anomalies.
+
+[Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
+<br>
+Local farm crops, soil, and field optimization specialist. 
+
 [Sales Pitch](https://chat.openai.com/g/g-JyOxAFTUE-sales-pitch)
 <br>
 Develop and sell professional sales pitches.
@@ -937,10 +945,6 @@ Convert text into creative ASCII art.
 
 </details>
 <details><summary>Travel & Lifestyle</summary>
-
-[Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
-<br>
-Local farm crops, soil, and field optimization specialist. 
 
 [Road Map](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
