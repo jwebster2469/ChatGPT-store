@@ -726,6 +726,10 @@ Assistive guitar tablature creator.
 <br>
 Analyze music and audio files.
 
+[Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
+<br>
+Visualize song lyrics in a collage image.
+
 [Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration)
 <br>
 Line-by-line music lyric collaborator.
@@ -898,10 +902,6 @@ Expert in the realm of fanatic culture.
 [Pixel Squares](https://chat.openai.com/g/g-FuiPiyk3n-pixel-squares)
 <br>
 Create pixel art images.
-
-[Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
-<br>
-Visualize song lyrics in a collage image.
 
 [Word Collage](https://chat.openai.com/g/g-l60y3eqGq-text-collage)
 <br>
