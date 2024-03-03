@@ -10,11 +10,15 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `261` custom built GPTs sorted into `22` different categories:
+Listed below are `262` custom built GPTs sorted into `22` different categories:
 
 #
 
 <details><summary>ChatGPT</summary>
+
+[ChatGPT Cheats](https://chat.openai.com/g/g-Zvkwt2Zkr-chatgpt-cheats)
+<br>
+Tips and tricks to unlock ChatGPT's full potential.
 
 [Instruction Creator](https://chat.openai.com/g/g-yAwEVaLkf-instruction-creator)
 <br>
