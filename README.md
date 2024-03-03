@@ -689,7 +689,15 @@ Politics in Canada, with balanced and factual insights.
 Government types, laws, and legislatures. 
 
 </details>
-<details><summary>Food</summary>
+<details><summary>Food & Farming</summary>
+
+[Crop Analyzer](https://chat.openai.com/g/g-tsl3ADsYf-crop-analyzer)
+<br>
+Analyze agricultural crop images, identify different stages of crop growth and detecting any anomalies.
+
+[Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
+<br>
+Local farm crops, soil, and field optimization specialist. 
 
 [Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
 <br>
@@ -799,14 +807,6 @@ Expert fame guidance, strategies and management.
 [Custom GPT Business](https://chat.openai.com/g/g-k8Ghxlj6V-custom-gpt-business)
 <br>
 Assistive custom GPT business communication guide.
-
-[Crop Analyzer](https://chat.openai.com/g/g-tsl3ADsYf-crop-analyzer)
-<br>
-Analyze agricultural crop images, identify different stages of crop growth and detecting any anomalies.
-
-[Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
-<br>
-Local farm crops, soil, and field optimization specialist. 
 
 [Sales Pitch](https://chat.openai.com/g/g-JyOxAFTUE-sales-pitch)
 <br>
