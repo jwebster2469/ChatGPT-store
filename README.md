@@ -806,7 +806,7 @@ Translate between Gen X, Y, Z slang and plain English.
 
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
-Plan, create and simulate comprehensive and insightful business models.
+Plan, create and simulate comprehensive business models.
 
 [Famous](https://chat.openai.com/g/g-O9LfTkCN7-famous)
 <br>
