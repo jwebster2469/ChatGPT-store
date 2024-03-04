@@ -733,7 +733,7 @@ Analyze music and audio files.
 
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
-Visualize song lyrics in a collage image.
+Visualize song lyrics in a collage image using DALL-E 3. 
 
 [Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration)
 <br>
