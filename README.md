@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `272` custom built GPTs sorted into `23` different categories:
+Listed below are `273` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -311,6 +311,10 @@ Predictive global social future simulator.
 [Scientific Method](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method)
 <br>
 Solve science problems and questions.
+
+[Global Problem Solver](https://chat.openai.com/g/g-2sjHPTA5y-global-problem-solver)
+<br>
+Generate innovative and practical solutions for addressing complex global issues.
 
 [Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
 <br>
