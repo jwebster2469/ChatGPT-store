@@ -207,10 +207,6 @@ Expand simple text searches with multiple related search options.
 <br>
 End-to-end software operation diagrams.
 
-[War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
-<br>
-Global conflict metrics.
-
 </details>
 <details><summary>Education</summary>
 
@@ -225,6 +221,10 @@ Learn and relearn any grade school subject.
 [Business Simulator](https://chat.openai.com/g/g-7cv0RgBVm-business-simulator)
 <br>
 Simulate the experience of managing both small and large businesses.
+
+[War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
+<br>
+Global conflict metrics.
 
 [Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
 <br>
