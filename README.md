@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `271` custom built GPTs sorted into `23` different categories:
+Listed below are `272` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -910,6 +910,10 @@ Learn graphic design, web design, product design, and more.
 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
 <br>
 Create custom vehicle images.
+
+[Car Analyst](https://chat.openai.com/g/g-PFjbg13oy-car-analyst)
+<br>
+Compare in-depth analysis and insights on car and truck designs, specifications, and industry trends.
 
 [Concept Design](https://chat.openai.com/g/g-JAsawu1Lv-concept-design)
 <br>
