@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `275` custom built GPTs sorted into `23` different categories:
+Listed below are `276` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -867,6 +867,10 @@ Develop and sell professional sales pitches.
 [Business Builder](https://chat.openai.com/g/g-cSUIqfHm9-business-builder)
 <br>
 Assistive business development, guidance and growth.
+
+[Corporation Planner](https://chat.openai.com/g/g-i960d9ZnH-corporation-planner)
+<br>
+Plan, create and simulate comprehensive corporate business models.
 
 [Professional Upgrade](https://chat.openai.com/g/g-Rgeiqn3Ga-professional-upgrade)
 <br>
