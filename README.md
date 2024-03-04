@@ -222,7 +222,7 @@ Develop professional education lesson plans.
 <br>
 Learn and relearn any grade school subject.
 
-[Business Game](https://chat.openai.com/g/g-7cv0RgBVm-business-game)
+[Business Simulator](https://chat.openai.com/g/g-7cv0RgBVm-business-simulator)
 <br>
 Simulate the experience of managing both small and large businesses.
 
