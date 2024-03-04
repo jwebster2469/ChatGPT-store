@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `267` custom built GPTs sorted into `22` different categories:
+Listed below are `268` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -670,6 +670,10 @@ Create quotes and take portions from text documents.
 <br>
 Unbiased disinformation analyzer.
 
+[Speech Parody](https://chat.openai.com/g/g-agA6X5NqC-speech-parody)
+<br>
+Create speech transcript parodies.
+
 [Newspaper Maker](https://chat.openai.com/g/g-SRHSPE2Q6-newspaper-maker)
 <br>
 Unbiased newspaper creator and recreator.
@@ -1073,10 +1077,6 @@ Find similar PC games on Steam based on your preferences.
 <br>
 Basic notepad emulator.
 
-[Speech Parody](https://chat.openai.com/g/g-agA6X5NqC-speech-parody)
-<br>
-Create speech transcript parodies.
-
 [Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
 <br>
 Apple II home computer from 1977 with ProDOS.
@@ -1092,6 +1092,10 @@ James Bond inspired code cracking game.
 [Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
 <br>
 SpaceX rocket mission simulator game.
+
+[Business Game](https://chat.openai.com/g/g-7cv0RgBVm-business-game)
+<br>
+Simulate the experience of managing both small and large businesses.
 
 [Image Mystery](https://chat.openai.com/g/g-LEUbOVHbR-image-mystery)
 <br>
