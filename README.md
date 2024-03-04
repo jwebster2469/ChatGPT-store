@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `265` custom built GPTs sorted into `22` different categories:
+Listed below are `267` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -438,13 +438,21 @@ Forecast the price of futures, stocks and currencies using trends, historical da
 <br>
 Banknote sizes, storage and transportation.
 
+[ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
+<br>
+Automated teller machine (ATM) simulator.
+
 [Fortune](https://chat.openai.com/g/g-2NkyUDxCx-fortune)
 <br>
 Net worth statistics for individuals and businesses.
 
 [Properties](https://chat.openai.com/g/g-VPxnvz7m1-properties)
 <br>
-Assistive real-estate advisor. 
+Assistive real-estate advisor.
+
+[Bank Account](https://chat.openai.com/g/g-IbjnuM7Q0-bank-account)
+<br>
+Simulate the experience of managing a virtual bank account.
 
 [Laundering](https://chat.openai.com/g/g-xJ1q6DlE6-laundering)
 <br>
@@ -1108,10 +1116,6 @@ Single player charades game.
 [Treasure Hunt Game](https://chat.openai.com/g/g-f0Jxf0Jni-treasure-hunt-game)
 <br>
 Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
-
-[ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
-<br>
-Automated teller machine (ATM) simulator.
 
 </details>
 <details><summary>Concepts</summary>
