@@ -884,6 +884,10 @@ Creative digital business.
 <br>
 Find and analyze branded website and social account data.
 
+[Joint Project](https://chat.openai.com/g/g-EEvHlNpFC-joint-project)
+<br>
+Facilitate seamless collaboration, coordination, and communication among team members across different organizations or departments.
+
 </details>
 <details><summary>Art & Design</summary>
 
