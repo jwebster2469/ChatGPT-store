@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `269` custom built GPTs sorted into `23` different categories:
+Listed below are `270` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -209,6 +209,10 @@ End-to-end software operation diagrams.
 
 </details>
 <details><summary>Education</summary>
+
+[School Selector](https://chat.openai.com/g/g-U1rNmqPa2-school-selector)
+<br>
+Determine your ideal college or university.
 
 [Lesson Developer](https://chat.openai.com/g/g-aRxZDrKpl-lesson-developer)
 <br>
