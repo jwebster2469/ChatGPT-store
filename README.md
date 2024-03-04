@@ -1171,9 +1171,7 @@ Create and expand an image mosaic using DALL-E 3.
 > Python Codes:
 > ```
 > - Python can be used to provide insights, calculate math, processing, analysis, web scraping, algorithms and custom interactions in custom GPTs.
-> - A lot of libraries are supported, but not every Python library is supported in the ChatGPT environment. 
 > - Libraries such as PyQt5, Tkinter and Plotly are not supported. Libraries such as Numpy, PIL and Matplotlib are supported.
-> - Custom GPT codes are protected by copyright law.
 > ```
 > Convo Starters:
 > ```
