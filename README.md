@@ -840,13 +840,13 @@ Translate between Gen X, Y, Z slang and plain English.
 </details>
 <details><summary>Business</summary>
 
-[Management Consulting](https://chat.openai.com/g/g-tLe5xRmMw-management-consulting)
-<br>
-Professional, insightful, and actionable advice to businesses and organizations seeking to improve their performance.
-
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
 Plan, create and simulate comprehensive business models.
+
+[Corporation Planner](https://chat.openai.com/g/g-i960d9ZnH-corporation-planner)
+<br>
+Plan, create and simulate comprehensive corporate business models.
 
 [B2B Logistics](https://chat.openai.com/g/g-sVceJYX4s-b2b-logistics)
 <br>
@@ -868,9 +868,9 @@ Develop and sell professional sales pitches.
 <br>
 Assistive business development, guidance and growth.
 
-[Corporation Planner](https://chat.openai.com/g/g-i960d9ZnH-corporation-planner)
+[Management Consulting](https://chat.openai.com/g/g-tLe5xRmMw-management-consulting)
 <br>
-Plan, create and simulate comprehensive corporate business models.
+Professional, insightful, and actionable advice to businesses and organizations seeking to improve their performance.
 
 [Professional Upgrade](https://chat.openai.com/g/g-Rgeiqn3Ga-professional-upgrade)
 <br>
