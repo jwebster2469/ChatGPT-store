@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `273` custom built GPTs sorted into `23` different categories:
+Listed below are `274` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -843,6 +843,10 @@ Translate between Gen X, Y, Z slang and plain English.
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
 Plan, create and simulate comprehensive business models.
+
+[B2B Logistics](https://chat.openai.com/g/g-sVceJYX4s-b2b-logistics)
+<br>
+Assistive logistics and shipping operation manager. 
 
 [Famous](https://chat.openai.com/g/g-O9LfTkCN7-famous)
 <br>
