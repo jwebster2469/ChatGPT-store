@@ -11,7 +11,7 @@ Sourceduty currently has `21` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated.
 
-Listed below are `268` custom built GPTs sorted into `22` different categories:
+Listed below are `269` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -75,21 +75,9 @@ Assistive game creator using Pygame, Tkinter and Python.
 <br>
 Hardware, software and firmware modification specialist.
 
-[Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
-<br>
-Develop, plan, and simulate software projects.
-
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
-
-[Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
-<br>
-Create mathematical simulations and models.
-
-[Probability Simulator](https://chat.openai.com/g/g-KLSVMcE6y-probability-simulator)
-<br>
-Simulate probability in uncertain scenarios.
 
 [Flipper Zero](https://chat.openai.com/g/g-ClVR48aHo-flipper-zero)
 <br>
@@ -107,10 +95,6 @@ Project material planning assistant for wood projects.
 <br>
 Simply rename bulk uploaded files.
 
-[Lesson Developer](https://chat.openai.com/g/g-aRxZDrKpl-lesson-developer)
-<br>
-Develop professional education lesson plans.
-
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
 Simulated urban modernization.
@@ -123,17 +107,9 @@ Assistive synthetic data generator and simulation expert.
 <br>
 Create database schemas that are aligned with your requirements.
 
-[Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
-<br>
-Learn and relearn any grade school subject.
-
 [Terminal Simulator](https://chat.openai.com/g/g-9MywumX92-terminal-simulator)
 <br>
 Simulate the command-line interfaces (CLI) for Windows PowerShell, Linux terminal, and macOS terminal.
-
-[Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
-<br>
-Assistive terminology expert in various fields such as medicine, law, technology, finance, and more.
 
 [Robot Builder](https://chat.openai.com/g/g-04lZCZ8QG-robot-builder)
 <br>
@@ -207,10 +183,6 @@ Search and find the best subreddits for your content.
 <br>
 Predict future scenarios based on internet research. 
 
-[Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
-<br>
-Locate and participate in current academic research efforts.
-
 [Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
 <br>
 Generate hashtags using images and text.
@@ -238,6 +210,41 @@ End-to-end software operation diagrams.
 [War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
 <br>
 Global conflict metrics.
+
+</details>
+<details><summary>Education</summary>
+
+[Lesson Developer](https://chat.openai.com/g/g-aRxZDrKpl-lesson-developer)
+<br>
+Develop professional education lesson plans.
+
+[Education Instructor](https://chat.openai.com/g/g-QtdKEsr30-education-instructor)
+<br>
+Learn and relearn any grade school subject.
+
+[Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
+<br>
+Assistive terminology expert in various fields such as medicine, law, technology, finance, and more.
+
+[Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
+<br>
+Locate and participate in current academic research efforts.
+
+[Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
+<br>
+Develop, plan, and simulate software projects.
+
+[Math Simulator](https://chat.openai.com/g/g-zTaJwyddy-math-simulator)
+<br>
+Create mathematical simulations and models.
+
+[Probability Simulator](https://chat.openai.com/g/g-KLSVMcE6y-probability-simulator)
+<br>
+Simulate probability in uncertain scenarios.
+
+[Accounting Simulator](https://chat.openai.com/g/g-K2HxhpHuC-accounting-simulator)
+<br>
+Learn accounting principles in simulated business transactions.
 
 </details>
 <details><summary>Emergency & Security</summary>
