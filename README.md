@@ -222,6 +222,10 @@ Develop professional education lesson plans.
 <br>
 Learn and relearn any grade school subject.
 
+[Business Game](https://chat.openai.com/g/g-7cv0RgBVm-business-game)
+<br>
+Simulate the experience of managing both small and large businesses.
+
 [Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
 <br>
 Assistive terminology expert in various fields such as medicine, law, technology, finance, and more.
@@ -1099,10 +1103,6 @@ James Bond inspired code cracking game.
 [Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
 <br>
 SpaceX rocket mission simulator game.
-
-[Business Game](https://chat.openai.com/g/g-7cv0RgBVm-business-game)
-<br>
-Simulate the experience of managing both small and large businesses.
 
 [Image Mystery](https://chat.openai.com/g/g-LEUbOVHbR-image-mystery)
 <br>
