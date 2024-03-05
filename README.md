@@ -11,7 +11,7 @@ Sourceduty currently has `24` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated so far.
 
-Listed below are `280` custom built GPTs sorted into `23` different categories:
+Listed below are `281` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -295,6 +295,10 @@ Semiconductor engineering technology, processes, materials, and design.
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
 <br>
 Assistive physics simulation expert.
+
+[Computer Metrics](https://chat.openai.com/g/g-KvaHG9a9j-computer-metrics)
+<br>
+Measure computer performance metrics using Python.
 
 [Thermal Science](https://chat.openai.com/g/g-JhRbCZ4k0-thermal-science)
 <br>
