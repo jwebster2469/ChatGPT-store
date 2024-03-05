@@ -11,7 +11,7 @@ Sourceduty currently has `23` GPTs that will be monetized.
 <br>
 Approximately `16000` conversations have been generated so far.
 
-Listed below are `277` custom built GPTs sorted into `23` different categories:
+Listed below are `278` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -938,6 +938,10 @@ Compare in-depth analysis and insights on car and truck designs, specifications,
 [Concept Design](https://chat.openai.com/g/g-JAsawu1Lv-concept-design)
 <br>
 3D model concept image creator using DALL-E 3.
+
+[Sci-Fi Artist](https://chat.openai.com/g/g-BdLFk0LxS-sci-fi-artist)
+<br>
+Create imaginative and futuristic sci-fi images using DALL-E 3.
 
 [Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
 <br>
