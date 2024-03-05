@@ -11,7 +11,7 @@ Sourceduty currently has `24` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated so far.
 
-Listed below are `279` custom built GPTs sorted into `23` different categories:
+Listed below are `280` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -487,6 +487,10 @@ Assistive currency trading with market insights and suggestions.
 
 </details>
 <details><summary>Shopping</summary>
+
+[NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)
+<br>
+Make decisions between purchasing new or used products by comparing them.
 
 [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
 <br>
