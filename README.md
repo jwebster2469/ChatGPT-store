@@ -11,7 +11,7 @@ Sourceduty currently has `25` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated so far.
 
-Listed below are `284` custom built GPTs sorted into `23` different categories:
+Listed below are `283` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -488,10 +488,6 @@ Simulate the experience of managing a virtual bank account.
 [Laundering](https://chat.openai.com/g/g-xJ1q6DlE6-laundering)
 <br>
 Financial crime investigator, focused money laundering.
-
-[World Currency](https://chat.openai.com/g/g-lQO1uTiUv-world-currency)
-<br>
-Assistive currency exchange research and strength testing.
 
 [Currency Insight](https://chat.openai.com/g/g-eGhUZlmUs-currency-insight)
 <br>
