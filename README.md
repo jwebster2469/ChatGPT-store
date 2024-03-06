@@ -11,7 +11,7 @@ Sourceduty currently has `24` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated so far.
 
-Listed below are `283` custom built GPTs sorted into `23` different categories:
+Listed below are `284` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -456,6 +456,10 @@ Create new videos inspired by uploaded videos. Created in preparation for SORA.
 
 </details>
 <details><summary>Money</summary>
+
+[Investing Simulator](https://chat.openai.com/g/g-6R6ZAP8yh-investing-simulator)
+<br>
+Create, plan, and simulate various types of investments. 
 
 [Financial Predictor](https://chat.openai.com/g/g-Rub2djmNc-financial-predictor)
 <br>
