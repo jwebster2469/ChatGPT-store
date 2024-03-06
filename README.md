@@ -9,7 +9,7 @@
 
 Sourceduty currently has `25` GPTs that will be monetized.
 
-Approximately `16000` conversations have been generated so far.
+Approximately `16000` chats have been generated so far.
 
 Listed below are `282` custom built GPTs sorted into `23` different categories:
 
