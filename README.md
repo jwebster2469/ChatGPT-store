@@ -1183,6 +1183,10 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 </details>
 <details><summary>Concepts</summary>
 
+[Construction Layout](https://chat.openai.com/g/g-cvlbhvZ0c-construction-layout)
+<br>
+Python construction layout math, particularly focused on walls, stairs, roofs, and floors.
+
 [Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
 <br>
 Popular artistic painting style guessing game.
