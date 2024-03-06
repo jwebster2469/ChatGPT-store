@@ -11,7 +11,7 @@ Sourceduty currently has `25` GPTs that will be monetized.
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `282` custom built GPTs sorted into `23` different categories:
+Listed below are `283` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -354,7 +354,11 @@ Mechanical simulation assistant with technical explanations.
 
 [Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
 <br>
-Martian rovers, rockets, habitats, and environment. 
+Martian rovers, rockets, habitats, and environment.
+
+[Statistic Simulator](https://chat.openai.com/g/g-BuaPnD6NF-statistic-simulator)
+<br>
+Create and control accurate and detailed statistical simulations for various scenarios.
 
 [Snow Load](https://chat.openai.com/g/g-4ZK2PHvVE-snow-load)
 <br>
