@@ -11,7 +11,7 @@ Sourceduty currently has `24` GPTs that will be monetized.
 
 Approximately `16000` conversations have been generated so far.
 
-Listed below are `281` custom built GPTs sorted into `23` different categories:
+Listed below are `282` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -70,6 +70,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 </details>
 <details><summary>Utilities</summary>
+
+[Browser Extension](https://chat.openai.com/g/g-QREsCa45r-browser-extension)
+<br>
+Build new browser extensions for Chrome, Firefox, Safari, and more.
 
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
 <br>
