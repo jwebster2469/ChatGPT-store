@@ -661,9 +661,9 @@ Assistive movie idea creator, script writer and screenplay planner.
 <br>
 Create and explain sound words.
 
-[✦⊱𝒟𝑒𝒸𝑜𝓇𝒶𝓉𝒾𝓋𝑒 𝒯𝑒𝓍𝓉⊰✦](https://chat.openai.com/g/g-Q71P7xcOG-)
+[Decorative Text](https://chat.openai.com/g/g-Q71P7xcOG-decorative-text)
 <br>
-Convert plain text to artistic ASCII characters.
+𝓒𝓸𝓷𝓿𝓮𝓻𝓽 𝓹𝓵𝓪𝓲𝓷 𝓽𝓮𝔁𝓽 𝓽𝓸 𝓪𝓻𝓽𝓲𝓼𝓽𝓲𝓬 𝓐𝓢𝓒𝓘𝓘 𝓬𝓱𝓪𝓻𝓪𝓬𝓽𝓮𝓻𝓼.
 
 [Text Feedback](https://chat.openai.com/g/g-RDhT1E3g9-text-feedback)
 <br>
