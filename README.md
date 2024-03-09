@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `285` custom built GPTs sorted into `23` different categories:
+Listed below are `286` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -1012,6 +1012,10 @@ Generative art image creator.
 [Creative Competitor](https://chat.openai.com/g/g-QrvZzVunC-creative-competitor)
 <br>
 Calls for entry, contests and competitions for creatives.
+
+[Design Optimizer](https://chat.openai.com/g/g-k3zoAhTJZ-design-optimizer)
+<br>
+Enhance and improve designs with optimization. 
 
 [Fanatic Creator](https://chat.openai.com/g/g-4jZ8rABSo-fanatic-creator)
 <br>
