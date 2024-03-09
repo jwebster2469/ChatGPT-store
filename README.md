@@ -11,7 +11,7 @@ Sourceduty currently has `25` GPTs that will be monetized.
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `283` custom built GPTs sorted into `23` different categories:
+Listed below are `284` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -722,7 +722,11 @@ Collaborative sentence-by-sentence story creator.
 Intelligent note recording assistant.
 
 </details>
-<details><summary>Law</summary>
+<details><summary>Government & Law</summary>
+
+[Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
+<br>
+Plan, create and simulate comprehensive government models.
 
 [Software Law](https://chat.openai.com/g/g-7w96DmC1S-software-law)
 <br>
