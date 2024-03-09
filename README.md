@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `287` custom built GPTs sorted into `23` different categories:
+Listed below are `289` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -702,6 +702,10 @@ Create quotes and take portions from text documents.
 [Truth Purifier](https://chat.openai.com/g/g-ra1lMjzN8-truth-purifier)
 <br>
 Unbiased disinformation analyzer.
+
+[Opinion Simulator](https://chat.openai.com/g/g-JKk9E0ePf-opinion-simulator)
+<br>
+Create and simulate different types of opinions.
 
 [Speech Parody](https://chat.openai.com/g/g-agA6X5NqC-speech-parody)
 <br>
