@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `286` custom built GPTs sorted into `23` different categories:
+Listed below are `287` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -872,7 +872,11 @@ Plan, create and simulate comprehensive corporate business models.
 
 [B2B Logistics](https://chat.openai.com/g/g-sVceJYX4s-b2b-logistics)
 <br>
-Assistive logistics and shipping operation manager. 
+Assistive logistics and shipping operation manager.
+
+[B2B Compatible Match](https://chat.openai.com/g/g-YmjyjvVOx-b2b-compatible-match)
+<br>
+Evaluate potential partnerships tailored specifically for business-to-business (B2B) interactions.
 
 [Famous](https://chat.openai.com/g/g-O9LfTkCN7-famous)
 <br>
