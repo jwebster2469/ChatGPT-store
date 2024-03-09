@@ -874,7 +874,7 @@ Plan, create and simulate comprehensive corporate business models.
 <br>
 Assistive logistics and shipping operation manager.
 
-[B2B Compatible Match](https://chat.openai.com/g/g-YmjyjvVOx-b2b-compatible-match)
+[B2B Partnership](https://chat.openai.com/g/g-YmjyjvVOx-b2b-partnership)
 <br>
 Evaluate potential partnerships tailored specifically for business-to-business (B2B) interactions.
 
