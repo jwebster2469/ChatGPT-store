@@ -1262,11 +1262,7 @@ Create and expand an image mosaic using DALL-E 3.
 
 <details><summary>Related Links</summary>
 
-[Predicting the Future of Tech](https://chat.openai.com/share/2ff4096b-0ab2-430f-a7b7-bbafd2461141)
-
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
-
-[3D STL Files](https://chat.openai.com/share/8ba9c27f-8c86-4ace-8514-4abab31525bf) 
 
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
 
@@ -1297,6 +1293,8 @@ Create and expand an image mosaic using DALL-E 3.
 [Elon Musk vs OpenAI](https://chat.openai.com/share/ba103560-67d1-4bfe-9fa2-e6c7123c4d9b)
 
 [Artificial Superintelligence](https://harvardsciencereview.com/artificial-superintelligence-the-coming-revolution/#:~:text=The%20median%20of%20the%20years%20given%20for%2090%25%20confidence%20was,created%20within%20just%2065%20years.)
+
+[ChatGPT Business Model](https://chat.openai.com/share/ff2ea833-156e-4702-af3c-703b32c1b91b)
 
 </details>
 
