@@ -1323,7 +1323,7 @@ Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhx
 ***
 
 
-*"I'm really impressed by the versatility of GPT-4. The AI tools I've been working on are turning out to be quite useful, and I'm excited about what lies ahead. It's clear that AI is poised to have a significant impact on our daily lives, and I can't wait to see how it continues to evolve and make things even better in the future."*
+Alex: *"I'm really impressed by the versatility of GPT-4. The AI tools I've been working on are turning out to be quite useful, and I'm excited about what lies ahead. It's clear that AI is poised to have a significant impact on our daily lives, and I can't wait to see how it continues to evolve and make things even better in the future."*
 #
 In the fiercely competitive GPT store landscape, Sourceduty stands out as a thriving entity, showcasing its ability to develop GPTs and offer compelling value to ChatGPT users.
 #
