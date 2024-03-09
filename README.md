@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `289` custom built GPTs sorted into `23` different categories:
+Listed below are `290` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -67,7 +67,7 @@ Assistive art image program creator using Python.
 Assistive game creator using Pygame, Tkinter and Python.
 
 </details>
-<details><summary>Utilities</summary>
+<details><summary>Utilities & Programming</summary>
 
 [Browser Extension](https://chat.openai.com/g/g-QREsCa45r-browser-extension)
 <br>
@@ -128,6 +128,10 @@ Master in Windows OS, providing support and information.
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
 Identify everyday aches and find over-the-counter treatment products.
+
+[Computer Simulator](https://chat.openai.com/g/g-Rc1vOXWRb-computer-simulator)
+<br>
+Create and simulate conceptual computer software models.
 
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 <br>
