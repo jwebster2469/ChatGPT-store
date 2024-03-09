@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `284` custom built GPTs sorted into `23` different categories:
+Listed below are `285` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -779,6 +779,10 @@ Assistive guitar tablature creator.
 [Audio Analyzer](https://chat.openai.com/g/g-g0Ob3Qbue-audio-analyzer)
 <br>
 Analyze music and audio files.
+
+[Playlist Creator](https://chat.openai.com/g/g-X43tfjMhZ-playlist-creator)
+<br>
+Organize and compile song files into unique playlists.
 
 [Lyrics Collage](https://chat.openai.com/g/g-gyNr91SMP-lyrics-collage)
 <br>
