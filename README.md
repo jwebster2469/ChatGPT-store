@@ -131,7 +131,7 @@ Identify everyday aches and find over-the-counter treatment products.
 
 [Computer Simulator](https://chat.openai.com/g/g-Rc1vOXWRb-computer-simulator)
 <br>
-Create and simulate conceptual computer software models.
+Create and simulate high-level computer architecture models.
 
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 <br>
