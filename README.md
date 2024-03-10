@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `291` custom built GPTs sorted into `23` different categories:
+Listed below are `292` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -297,6 +297,10 @@ Repurpose old electronics for new projects, focusing on Arduino and Raspberry Pi
 [Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
 <br>
 Semiconductor engineering technology, processes, materials, and design.
+
+[Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
+<br>
+Cancer research, challenges and characteristics.
 
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
 <br>
