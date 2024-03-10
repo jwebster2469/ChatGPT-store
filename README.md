@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `290` custom built GPTs sorted into `23` different categories:
+Listed below are `291` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -1144,7 +1144,11 @@ Create funny food recipes using consumer products.
 
 [Image Puzzle](https://chat.openai.com/g/g-SAtwMdcWa-image-puzzle)
 <br>
-Square image puzzle game using DALL-E 3. 
+Square image puzzle game using DALL-E 3.
+
+[Radio Simulator](https://chat.openai.com/g/g-C6JfFmHnG-radio-simulator)
+<br>
+Simulate tuning into a radio frequency on AM/FM bands.
 
 [U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
 <br>
