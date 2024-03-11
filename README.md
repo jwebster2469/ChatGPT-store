@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `294` custom built GPTs sorted into `23` different categories:
+Listed below are `295` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -49,6 +49,10 @@ Helpful and informative.
 
 </details>
 <details><summary>Python</summary>
+
+[Python Diagnostics](https://chat.openai.com/g/g-NnT93PRw6-python-diagnostics)
+<br>
+Assistive tool for analyzing Python code functionality and performance.
 
 [Python Interface Builder](https://chat.openai.com/g/g-2a5BMlXE9-python-interface-builder)
 <br>
