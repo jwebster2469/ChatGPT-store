@@ -9,7 +9,7 @@
 
 Approximately `16000` chats have been generated so far.
 
-Listed below are `293` custom built GPTs sorted into `23` different categories:
+Listed below are `294` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -305,6 +305,10 @@ Create and simulate different cancer characteristics, prevention and treatment.
 [Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
 <br>
 Cancer research, challenges and characteristics.
+
+[Weather Simulator](https://chat.openai.com/g/g-c1JKGF0qm-weather-simulator)
+<br>
+Chart and visualize weather data using Python. 
 
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
 <br>
