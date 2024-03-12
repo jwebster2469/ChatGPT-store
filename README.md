@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `292` custom built GPTs sorted into `22` different categories:
+Listed below are `293` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -1207,6 +1207,10 @@ Interactive fighter jet airplane pilot game.
 [Code Cracker](https://chat.openai.com/g/g-hYgyGpYiq-code-cracker)
 <br>
 James Bond inspired code cracking game.
+
+[Search Randomizer](https://chat.openai.com/g/g-NhTSDBW1d-search-randomizer)
+<br>
+Generate a random list of web search links.
 
 [Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
 <br>
