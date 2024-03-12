@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `292` custom built GPTs sorted into `22` different categories:
+Listed below are `293` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -78,6 +78,10 @@ Create and simulate deep learning methods.
 [Code Calculator](https://chat.openai.com/g/g-dKra1u0xF-code-calculator)
 <br>
 Analyze code files by measuring length, counting functions, characters, blank spaces, and calculating their combined area.
+
+[Calendar Math](https://chat.openai.com/g/g-Tw6MtFNwI-calendar-math)
+<br>
+Calculate up-to-date statistics for each year and 365 days. Print the Calendar Statistics Report.
 
 [Browser Extension](https://chat.openai.com/g/g-QREsCa45r-browser-extension)
 <br>
