@@ -1285,7 +1285,7 @@ Create and expand an image mosaic using DALL-E 3.
 > ```
 > Convo Starters:
 > ```
-> - Convo starters can be left blank to create mystery and inquiry.
+> Convo starters can be left blank to create mystery and inquiry.
 > ```
   
 ***
