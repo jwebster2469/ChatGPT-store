@@ -83,7 +83,7 @@ Analyze code files by measuring length, counting functions, characters, blank sp
 <br>
 Calculate up-to-date statistics for each year and 365 days. Print the Calendar Statistics Report.
 
-[Timeline Math]()
+[Timeline Math](https://chat.openai.com/g/g-o6TBa34am-timeline-math)
 <br>
 Calculate timeline statistics with different year amounts. Print a Timeline Statistics Report.
 
