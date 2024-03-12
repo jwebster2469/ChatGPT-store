@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `293` custom built GPTs sorted into `22` different categories:
+Listed below are `292` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -1208,10 +1208,6 @@ Interactive fighter jet airplane pilot game.
 <br>
 James Bond inspired code cracking game.
 
-[Search Randomizer](https://chat.openai.com/g/g-NhTSDBW1d-search-randomizer)
-<br>
-Generate a random list of web search links.
-
 [Starship Launch](https://chat.openai.com/g/g-NJlbzRfDO-starship-launch)
 <br>
 SpaceX rocket mission simulator game.
@@ -1304,6 +1300,10 @@ Account data image creator for Facebook, Instagram and X.
 [Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
 <br>
 Create and expand an image mosaic using DALL-E 3.
+
+[Search Randomizer](https://chat.openai.com/g/g-NhTSDBW1d-search-randomizer)
+<br>
+Generate a random list of web search links.
 
 </details>
 
