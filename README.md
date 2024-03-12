@@ -1344,7 +1344,7 @@ Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhx
 
 > AI-generated content can be copyrighted by custom GPT users. ChatGPT does not own the content that it generates and neither do it's developers.
 
-> 🛈 Some of Sourceduty GPTs are free and open-source; anyone can redistribute it and/or modify them.
+🛈 Some of Sourceduty GPTs are free and open-source; anyone can redistribute it and/or modify them.
 
 ***
 
