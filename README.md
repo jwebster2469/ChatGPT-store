@@ -7,8 +7,6 @@
 
 ### Sourceduty GPTs
 
-Approximately `16000` chats have been generated so far.
-
 Listed below are `296` custom built GPTs sorted into `23` different categories:
 
 #
