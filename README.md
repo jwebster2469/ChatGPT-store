@@ -1311,6 +1311,8 @@ Generate a random list of web search links.
 
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
 
+[Google's Bard Has Just Become Gemini](https://em360tech.com/tech-article/gemini-vs-bard)
+
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
 
 [ChatGPT sparks AI investment bonanza](https://www.nationalheraldindia.com/science-and-tech/chatgpt-sparks-ai-investment)
