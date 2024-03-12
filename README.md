@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `296` custom built GPTs sorted into `23` different categories:
+Listed below are `297` custom built GPTs sorted into `23` different categories:
 
 #
 
@@ -237,6 +237,10 @@ Learn and relearn any grade school subject.
 [Business Simulator](https://chat.openai.com/g/g-7cv0RgBVm-business-simulator)
 <br>
 Simulate the experience of managing both small and large businesses.
+
+[Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
+<br>
+Find wildlife locations with weather and seasonal insights.
 
 [War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
 <br>
