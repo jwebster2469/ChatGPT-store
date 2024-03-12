@@ -1342,8 +1342,6 @@ Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhx
 
 > Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs.
 
-> AI-generated content can be copyrighted by custom GPT users. ChatGPT does not own the content that it generates and neither do it's developers.
-
 > [!NOTE]
 > Some of Sourceduty GPTs are free and open-source; anyone can redistribute it and/or modify them.
 
