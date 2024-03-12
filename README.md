@@ -1313,6 +1313,10 @@ Generate a random list of web search links.
 
 [Google's Bard Has Just Become Gemini](https://em360tech.com/tech-article/gemini-vs-bard)
 
+[3D models from 2D images](https://console.cloud.google.com/vertex-ai/publishers/google/model-garden/159?_ga=2.117591241.1727710146.1710245888-2142731486.1710245832&pli=1)
+
+[Shap-E: Generating Conditional 3D Implicit Functions](https://arxiv.org/abs/2305.02463)
+
 [Can new GPT store spur generative AI monetization?](https://www.theglobeandmail.com/investing/markets/stocks/MSFT/pressreleases/21994801/)
 
 [ChatGPT sparks AI investment bonanza](https://www.nationalheraldindia.com/science-and-tech/chatgpt-sparks-ai-investment)
