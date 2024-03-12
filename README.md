@@ -1,5 +1,5 @@
 
-![Sourceduty Banner](https://github.com/sourceduty/ChatGPT/assets/123030236/2871a489-acf0-4f86-8756-7d4b14602b14)
+![Sourceduty Newspaper](https://github.com/sourceduty/ChatGPT/assets/123030236/1b29c7fc-806c-4037-a0f9-da764b63c19e)
 
 
 ***
