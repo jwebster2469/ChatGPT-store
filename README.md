@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `291` custom built GPTs sorted into `22` different categories:
+Listed below are `292` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -644,6 +644,10 @@ Emulate famous authors writing styles or emulate your writing style.
 [Document Design](https://chat.openai.com/g/g-vmvOjWhHm-document-design)
 <br>
 Text document style, format and structure guide.
+
+[Alternate Reality](https://chat.openai.com/g/g-dZJvMHoUY-alternate-reality)
+<br>
+Create alternate reality stories and images.
 
 [Handwriting](https://chat.openai.com/g/g-uidqnLYiI-handwriting)
 <br>
