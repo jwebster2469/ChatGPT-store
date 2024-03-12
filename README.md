@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `297` custom built GPTs sorted into `23` different categories:
+Listed below are `290` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -1229,37 +1229,6 @@ Single player charades game.
 Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
 
 </details>
-<details><summary>Concepts</summary>
-
-[Construction Layout](https://chat.openai.com/g/g-cvlbhvZ0c-construction-layout)
-<br>
-Python construction layout math, particularly focused on walls, stairs, roofs, and floors.
-
-[Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
-<br>
-Popular artistic painting style guessing game.
-
-[Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
-<br>
-Enhance the bass frequencies of uploaded audio files.
-
-[Audio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
-<br>
-Transform and emulate audio and song files.
-
-[3D Model](https://chat.openai.com/g/g-MWvIJIJbt-3d-model)
-<br>
-Analyze 3D files for strength, errors, alongside optimization tips and custom modification ideas. 
-
-[Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
-<br>
-Account data image creator for Facebook, Instagram and X.
-
-[Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
-<br>
-Create and expand an image mosaic using DALL-E 3.
-
-</details>
 
 #
 
@@ -1293,6 +1262,38 @@ Create and expand an image mosaic using DALL-E 3.
 > ```
   
 ***
+
+<details><summary>Concepts</summary>
+
+[Construction Layout](https://chat.openai.com/g/g-cvlbhvZ0c-construction-layout)
+<br>
+Python construction layout math, particularly focused on walls, stairs, roofs, and floors.
+
+[Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
+<br>
+Popular artistic painting style guessing game.
+
+[Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
+<br>
+Enhance the bass frequencies of uploaded audio files.
+
+[Audio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
+<br>
+Transform and emulate audio and song files.
+
+[3D Model](https://chat.openai.com/g/g-MWvIJIJbt-3d-model)
+<br>
+Analyze 3D files for strength, errors, alongside optimization tips and custom modification ideas. 
+
+[Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
+<br>
+Account data image creator for Facebook, Instagram and X.
+
+[Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
+<br>
+Create and expand an image mosaic using DALL-E 3.
+
+</details>
 
 <details><summary>Related Links</summary>
 
