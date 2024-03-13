@@ -380,7 +380,7 @@ Simulate various aspects of NASA missions, including mission planning, problem-s
 <br>
 Identify insects from images.
 
-[Alien Life](https://chat.openai.com/g/g-nAKrR4eYW-alien-explorer)
+[Alien Explorer](https://chat.openai.com/g/g-nAKrR4eYW-alien-explorer)
 <br>
 Discover, create and simulate alien life on other planets using astrobiology.
 
