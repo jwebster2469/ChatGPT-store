@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `304` custom built GPTs sorted into `22` different categories:
+Listed below are `305` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -795,6 +795,10 @@ Intelligent note recording assistant.
 [Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
 <br>
 Plan, create and simulate comprehensive government models.
+
+[Law Standard](https://chat.openai.com/g/g-GAwgXgXN1-law-standard)
+<br>
+Analyze and improve national deviance to align with standard international laws.
 
 [Software Law](https://chat.openai.com/g/g-7w96DmC1S-software-law)
 <br>
