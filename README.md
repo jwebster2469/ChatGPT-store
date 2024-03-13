@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `294` custom built GPTs sorted into `22` different categories:
+Listed below are `295` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -110,6 +110,10 @@ Project material planning assistant for wood projects.
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Simply rename bulk uploaded files.
+
+[Error Planning](https://chat.openai.com/g/g-u5u6whfZm-error-planning)
+<br>
+Identify errors in plans or procedures and create repair responses.
 
 [Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
 <br>
