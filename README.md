@@ -380,9 +380,9 @@ Simulate various aspects of NASA missions, including mission planning, problem-s
 <br>
 Identify insects from images.
 
-[Starship](https://chat.openai.com/g/g-C2JrN7qBV-starship)
+[Alien Life](https://chat.openai.com/g/g-nAKrR4eYW-alien-explorer)
 <br>
-SpaceX's Starship rocket information.
+Discover, create and simulate alien life on other planets using astrobiology.
 
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
 <br>
