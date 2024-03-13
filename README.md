@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `296` custom built GPTs sorted into `22` different categories:
+Listed below are `297` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -787,6 +787,10 @@ Assistive intellectual property law guide.
 [Law Simple](https://chat.openai.com/g/g-nGrf808nn-law-simple)
 <br>
 Simplify legal documents for easy reading.
+
+[Legal Simulator](https://chat.openai.com/g/g-eXzFPOk9n-legal-simulator)
+<br>
+Create and simulate different legal scenarios.
 
 [Canadian Government](https://chat.openai.com/g/g-578CEKmsA-canadian-government)
 <br>
