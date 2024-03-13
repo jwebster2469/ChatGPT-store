@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `302` custom built GPTs sorted into `22` different categories:
+Listed below are `303` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -524,6 +524,10 @@ Forecast the price of futures, stocks and currencies using trends, historical da
 [Cash](https://chat.openai.com/g/g-RmcIsOs3w-cash)
 <br>
 Banknote sizes, storage and transportation.
+
+[Price Check](https://chat.openai.com/g/g-5veEaNvU8-price-check)
+<br>
+Analyze, compare and determine the price of any product.
 
 [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
 <br>
