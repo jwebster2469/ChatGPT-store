@@ -91,6 +91,10 @@ Build new browser extensions for Chrome, Firefox, Safari, and more.
 <br>
 Hardware, software and firmware modification specialist.
 
+[Hardware Diagnostics](https://chat.openai.com/g/g-k3HPxmIXg-hardware-diagnostics)
+<br>
+Create, simulate and analyze hypothetical computer hardware setup functionality and performance.
+
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
