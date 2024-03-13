@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `294` custom built GPTs sorted into `22` different categories:
+Listed below are `293` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -28,10 +28,6 @@ Create instructions for customizing ChatGPT's responses.
 [Custom GPT Collab](https://chat.openai.com/g/g-IluPscax8-custom-gpt-collab)
 <br>
 Combine custom GPTs for collaborations.
-
-[Custom GPT Actions Expert](https://chat.openai.com/g/g-xyr2NrOeq-custom-gpt-actions-expert)
-<br>
-Guidance for actions, schema and authentication. 
 
 [User Training Quiz](https://chat.openai.com/g/g-j0Orf127K-user-training-quiz)
 <br>
@@ -1358,6 +1354,8 @@ Generate a random list of web search links.
 [Artificial Superintelligence](https://harvardsciencereview.com/artificial-superintelligence-the-coming-revolution/#:~:text=The%20median%20of%20the%20years%20given%20for%2090%25%20confidence%20was,created%20within%20just%2065%20years.)
 
 [ChatGPT Business Model](https://chat.openai.com/share/ff2ea833-156e-4702-af3c-703b32c1b91b)
+
+[ActionsGPT](https://chat.openai.com/g/g-TYEliDU6A-actionsgpt)
 
 </details>
 
