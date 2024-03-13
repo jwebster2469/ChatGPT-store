@@ -382,7 +382,7 @@ Identify insects from images.
 
 [Alien Explorer](https://chat.openai.com/g/g-nAKrR4eYW-alien-explorer)
 <br>
-Discover, create and simulate alien life on other planets using astrobiology.
+Discover, create and simulate alien life on other planets using astrobiology and xenobiology.
 
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
 <br>
