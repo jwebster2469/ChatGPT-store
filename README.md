@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `299` custom built GPTs sorted into `22` different categories:
+Listed below are `301` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -66,6 +66,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 </details>
 <details><summary>Utilities & Programming</summary>
+
+[Pseudocode Architect](https://chat.openai.com/g/g-cl61v3kqg-pseudocode-architect)
+<br>
+Develop pseudocodes to structure and control programs and algorithms.
 
 [Deep Learning Simulator](https://chat.openai.com/g/g-PaJTxQKRT-deep-learning-simulator)
 <br>
@@ -1109,6 +1113,10 @@ Convert text into creative ASCII art.
 
 </details>
 <details><summary>Travel & Lifestyle</summary>
+
+[Lifestyle Analyzer](https://chat.openai.com/g/g-fsRoUDqA0-lifestyle-analyzer)
+<br>
+Analyze your lifestyle to find the optimal location to live your life.
 
 [Road Map](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
