@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `303` custom built GPTs sorted into `22` different categories:
+Listed below are `304` custom built GPTs sorted into `22` different categories:
 
 #
 
