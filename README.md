@@ -370,7 +370,7 @@ Solve science problems and questions.
 
 [Debunk Science](https://chat.openai.com/g/g-kpOa49BAb-debunk-science)
 <br>
-Debunks myths with scientific evidence.
+Debunk myths with scientific evidence.
 
 [Global Problem Solver](https://chat.openai.com/g/g-2sjHPTA5y-global-problem-solver)
 <br>
