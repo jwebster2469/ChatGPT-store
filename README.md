@@ -964,6 +964,10 @@ Assistive business development, guidance and growth.
 <br>
 Create conceptual business ideas and DALL-E 3 images.
 
+[Trending Business](https://chat.openai.com/g/g-sSjRytORd-trending-business)
+<br>
+Analyze and improve any business to align with trending industry standards.
+
 [Management Consulting](https://chat.openai.com/g/g-tLe5xRmMw-management-consulting)
 <br>
 Professional, insightful, and actionable advice to businesses and organizations seeking to improve their performance.
