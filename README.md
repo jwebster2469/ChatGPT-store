@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `293` custom built GPTs sorted into `22` different categories:
+Listed below are `294` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -700,6 +700,10 @@ Assistive movie idea creator, script writer and screenplay planner.
 [Onomatopoeia](https://chat.openai.com/g/g-JEHdIpJiN-onomatopoeia)
 <br>
 Create and explain sound words.
+
+[Story Context](https://chat.openai.com/g/g-kC8ziNKvq-story-context)
+<br>
+Create alternative story contexts.
 
 [Decorative Text](https://chat.openai.com/g/g-Q71P7xcOG-decorative-text)
 <br>
