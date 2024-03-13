@@ -525,10 +525,6 @@ Forecast the price of futures, stocks and currencies using trends, historical da
 <br>
 Banknote sizes, storage and transportation.
 
-[Price Check](https://chat.openai.com/g/g-5veEaNvU8-price-check)
-<br>
-Analyze, compare and determine the price of any product.
-
 [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
 <br>
 Automated teller machine (ATM) simulator.
@@ -555,6 +551,10 @@ Assistive currency trading with market insights and suggestions.
 
 </details>
 <details><summary>Shopping</summary>
+
+[Price Check](https://chat.openai.com/g/g-5veEaNvU8-price-check)
+<br>
+Analyze, compare and determine the price of any product.
 
 [NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)
 <br>
