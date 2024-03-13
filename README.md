@@ -1266,6 +1266,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > Suggest GPT expansion options.
 > Try again or redo.
 > Edit the instructions but don't change the title, description or conversation starters.
+> Print as a plain text code block in paragraphs without using numbers or point form notes.
+> Redo with perfect spelling.
 > ```
 > Favorite Instructions:
 > ```
