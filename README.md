@@ -948,6 +948,10 @@ Plan, create and simulate comprehensive corporate business models.
 <br>
 Assistive logistics and shipping operation manager.
 
+[Transport Simulator](https://chat.openai.com/g/g-TuP3NAsRB-transport-simulator)
+<br>
+Create and simulate different commercial transport scenarios.
+
 [B2B Partnership](https://chat.openai.com/g/g-YmjyjvVOx-b2b-partnership)
 <br>
 Evaluate potential partnerships tailored specifically for business-to-business (B2B) interactions.
