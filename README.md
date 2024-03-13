@@ -1393,6 +1393,8 @@ Generate a random list of web search links.
 
 [ActionsGPT](https://chat.openai.com/g/g-TYEliDU6A-actionsgpt)
 
+[Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
+
 </details>
 
 
