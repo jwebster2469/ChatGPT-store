@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `297` custom built GPTs sorted into `22` different categories:
+Listed below are `298` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -86,6 +86,10 @@ Calculate timeline statistics with different year amounts. Print a Timeline Stat
 [Browser Extension](https://chat.openai.com/g/g-QREsCa45r-browser-extension)
 <br>
 Build new browser extensions for Chrome, Firefox, Safari, and more.
+
+[Social Media Simulator](https://chat.openai.com/g/g-wsxhNgxOA-social-media-simulator)
+<br>
+Simulates diverse social media reactions.
 
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
 <br>
