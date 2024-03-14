@@ -958,7 +958,7 @@ Translate between Gen X, Y, Z slang and plain English.
 
 [Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator)
 <br>
-Plan, create and simulate different types industry models.
+Plan, create and simulate different types of industry models.
 
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
