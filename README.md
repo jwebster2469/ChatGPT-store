@@ -1436,6 +1436,8 @@ Alex: *"I'm really impressed by the versatility of GPT-4. The AI tools I've been
 
 In the fiercely competitive GPT store landscape, Sourceduty stands out as a thriving entity, showcasing its ability to develop GPTs and offer compelling value to ChatGPT users.
 
+![Sourceduty Meters](https://github.com/sourceduty/ChatGPT/assets/123030236/f26519ca-7633-433c-8211-dd2a0381d9ea)
+
 #
 
 🤖 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Your efforts are greatly appreciated!**
