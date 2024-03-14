@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `310` custom built GPTs sorted into `22` different categories:
+Listed below are `311` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -979,6 +979,10 @@ Create and simulate different commercial transport scenarios.
 [B2B Partnership](https://chat.openai.com/g/g-YmjyjvVOx-b2b-partnership)
 <br>
 Evaluate potential partnerships tailored specifically for business-to-business (B2B) interactions.
+
+[Performance Analyst](https://chat.openai.com/g/g-4VrS3rFxr-performance-analyst)
+<br>
+Create, explore and simulate different types of business organization to improve performance.
 
 [Famous](https://chat.openai.com/g/g-O9LfTkCN7-famous)
 <br>
