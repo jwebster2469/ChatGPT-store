@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `308` custom built GPTs sorted into `22` different categories:
+Listed below are `309` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -335,6 +335,10 @@ Repurpose old electronics for new projects, focusing on Arduino and Raspberry Pi
 [Semiconductor](https://chat.openai.com/g/g-Hm2ReXYRM-semiconductor)
 <br>
 Semiconductor engineering technology, processes, materials, and design.
+
+[Semiconductor Simulator](https://chat.openai.com/g/g-LNpy4y0uU-semiconductor-simulator)
+<br>
+Plan, create and simulate different types and combinations of semiconductors.
 
 [Cancer Simulation Research](https://chat.openai.com/g/g-rJ2Onux8b-cancer-simulation-research)
 <br>
