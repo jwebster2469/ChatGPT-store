@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `309` custom built GPTs sorted into `22` different categories:
+Listed below are `310` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -955,6 +955,10 @@ Translate between Gen X, Y, Z slang and plain English.
 
 </details>
 <details><summary>Business</summary>
+
+[Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator)
+<br>
+Plan, create and simulate different types industry models.
 
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
