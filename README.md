@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `306` custom built GPTs sorted into `22` different categories:
+Listed below are `307` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -66,6 +66,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 </details>
 <details><summary>Utilities & Programming</summary>
+
+[Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
+<br>
+Find photo locations from uploaded images. 
 
 [Pseudocode Architect](https://chat.openai.com/g/g-cl61v3kqg-pseudocode-architect)
 <br>
