@@ -1,4 +1,4 @@
-
+![image](https://github.com/sourceduty/ChatGPT/assets/123030236/49df6b7f-74b6-4b5c-a6ae-aeeefe6269e2)
 ![Sourceduty Newspaper](https://github.com/sourceduty/ChatGPT/assets/123030236/1b29c7fc-806c-4037-a0f9-da764b63c19e)
 
 
@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `305` custom built GPTs sorted into `22` different categories:
+Listed below are `306` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -342,7 +342,11 @@ Cancer research, challenges and characteristics.
 
 [Weather Simulator](https://chat.openai.com/g/g-c1JKGF0qm-weather-simulator)
 <br>
-Chart and visualize weather data using Python. 
+Chart and visualize weather data using Python.
+
+[Ocean Explorer](https://chat.openai.com/g/g-hyNbtFC9h-ocean-explorer)
+<br>
+Discover, create and simulate marine life on Earth using marine biology.
 
 [Physics Simulator](https://chat.openai.com/g/g-jdGow4iV3-physics-simulator)
 <br>
