@@ -1,4 +1,4 @@
-![image](https://github.com/sourceduty/ChatGPT/assets/123030236/49df6b7f-74b6-4b5c-a6ae-aeeefe6269e2)
+
 ![Sourceduty Newspaper](https://github.com/sourceduty/ChatGPT/assets/123030236/1b29c7fc-806c-4037-a0f9-da764b63c19e)
 
 
