@@ -7,7 +7,9 @@
 
 ### Sourceduty GPTs
 
-Listed below are `312` custom built GPTs sorted into `22` different categories:
+Sourceduty currently has `312` custom built GPTs sorted and listed below into `22` different categories.
+
+Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store.
 
 #
 
@@ -1320,7 +1322,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 #
 
-*The 84 most popular GPTs, according to OpenAI, are sorted into 7 categories and are listed in the [GPT Store](https://chat.openai.com/gpts).*
+*The 84 most popular GPTs, according to OpenAI, are sorted into 7 categories and are listed in the [ChatGPT Store](https://chat.openai.com/gpts).*
 
 ***
 ***
