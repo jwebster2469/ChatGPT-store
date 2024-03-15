@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Listed below are `311` custom built GPTs sorted into `22` different categories:
+Listed below are `312` custom built GPTs sorted into `22` different categories:
 
 #
 
@@ -66,6 +66,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 </details>
 <details><summary>Utilities & Programming</summary>
+
+[Android Application](https://chat.openai.com/g/g-Dg0HK37Q1-android-application)
+<br>
+Plan, create and simulate different types of Android apps for Android Studio.
 
 [Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
 <br>
