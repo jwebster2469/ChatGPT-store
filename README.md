@@ -69,7 +69,7 @@ Assistive game creator using Pygame, Tkinter and Python.
 
 [Android Application](https://chat.openai.com/g/g-Dg0HK37Q1-android-application)
 <br>
-Plan, create and simulate different types of Android apps for Android Studio.
+Plan, create and simulate models for different types of Android apps.
 
 [Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
 <br>
