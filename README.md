@@ -1353,7 +1353,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
   
 ***
 
-<details><summary>Concepts</summary>
+<details><summary>Concept GPTs</summary>
 
 [Construction Layout](https://chat.openai.com/g/g-cvlbhvZ0c-construction-layout)
 <br>
