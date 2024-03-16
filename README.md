@@ -1032,6 +1032,10 @@ Career guidance and simulation for professional growth.
 <br>
 Tailored criticism for professional advice.
 
+[Product Life](https://chat.openai.com/g/g-EP0GL7BfP-product-life)
+<br>
+Create, plan and simulate product lifecycles. Compare a sustainable product lifecycle to traditional product lifecycles.
+
 [Standard Industry](https://chat.openai.com/g/g-u8G59DH4i-standard-industry)
 <br>
 Compare a business to it's industry competitors and leaders.
