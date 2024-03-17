@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Sourceduty currently has `314` custom built GPTs sorted and listed below into `22` different categories. Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store. Five custom GPTs have been created in preparation for SORA videos. [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) is Sourcerduty's most popular GPT currently with 1K+ chats. Following closely behind is [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents).
+Sourceduty currently has `315` custom built GPTs sorted and listed below into `22` different categories. Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store. Five custom GPTs have been created in preparation for SORA videos. [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) is Sourcerduty's most popular GPT currently with 1K+ chats. Following closely behind is [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents).
 
 #
 
@@ -920,6 +920,10 @@ Synchronize your personal and professional traits with others.
 [Religion Chooser](https://chat.openai.com/g/g-86uXRyFVq-religion-chooser)
 <br>
 Assistive religious belief preference chooser.
+
+[Philosophy Simulator](https://chat.openai.com/g/g-DgaNOkP7Y-philosophy-simulator)
+<br>
+Study, modify and simulate different types of philosophy.
 
 [Speech Psychology](https://chat.openai.com/g/g-HgyyjcNJ2-speech-psychology)
 <br>
