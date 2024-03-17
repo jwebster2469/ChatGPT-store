@@ -1133,7 +1133,7 @@ Create a collage image using words.
 
 [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
 <br>
-Creative house designer using DALL-E 3.
+Create, plan and update house designs using DALL-E 3.
 
 [Generated Art](https://chat.openai.com/g/g-yM88gxV4t-generated-art)
 <br>
