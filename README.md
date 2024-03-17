@@ -1085,7 +1085,7 @@ Learn graphic design, web design, product design, and more.
 
 [Car Design](https://chat.openai.com/g/g-EPHgYBaHt-car-design)
 <br>
-Create custom vehicle images.
+Create custom vehicle images using DALL-E 3. 
 
 [Car Analyst](https://chat.openai.com/g/g-PFjbg13oy-car-analyst)
 <br>
