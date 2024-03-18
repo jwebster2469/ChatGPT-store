@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Sourceduty currently has `319` custom built GPTs sorted and listed below into `22` different categories. Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store. Five custom GPTs have been created in preparation for SORA videos. [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) is Sourcerduty's most popular GPT currently with 1K+ chats. Following closely behind is [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents).
+Sourceduty currently has `320` custom built GPTs sorted and listed below into `22` different categories. Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store. Five custom GPTs have been created in preparation for SORA videos. [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) is Sourcerduty's most popular GPT currently with 1K+ chats. Following closely behind is [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents).
 
 #
 
@@ -93,7 +93,11 @@ Develop pseudocodes to structure and control programs and algorithms.
 
 [Deep Learning Simulator](https://chat.openai.com/g/g-PaJTxQKRT-deep-learning-simulator)
 <br>
-Create and simulate deep learning methods. 
+Create and simulate deep learning methods.
+
+[C and C++](https://chat.openai.com/g/g-XoOUsuxDW-c-and-c)
+<br>
+Assistive C and C++ code creation, planning, and simulation.
 
 [Code Calculator](https://chat.openai.com/g/g-dKra1u0xF-code-calculator)
 <br>
