@@ -7,7 +7,7 @@
 
 ### Sourceduty GPTs
 
-Sourceduty currently has `318` custom built GPTs sorted and listed below into `22` different categories. Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store. Five custom GPTs have been created in preparation for SORA videos. [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) is Sourcerduty's most popular GPT currently with 1K+ chats. Following closely behind is [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents).
+Sourceduty currently has `319` custom built GPTs sorted and listed below into `22` different categories. Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store. Five custom GPTs have been created in preparation for SORA videos. [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) is Sourcerduty's most popular GPT currently with 1K+ chats. Following closely behind is [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents).
 
 #
 
@@ -67,6 +67,10 @@ Assistive game creator using Pygame, Tkinter and Python.
 [Python Architect](https://chat.openai.com/g/g-ltK2f7Fkk-python-architect)
 <br>
 Create, plan and simulate Python code architecture models. Assistive Python library development.
+
+[Cython](https://chat.openai.com/g/g-0VLHSkyM7-cython)
+<br>
+Create, plan and simulate Cython projects. 
 
 </details>
 <details><summary>Utilities & Programming</summary>
