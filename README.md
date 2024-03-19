@@ -937,6 +937,10 @@ Synchronize your personal and professional traits with others.
 <br>
 Assistive religious belief preference chooser.
 
+[Mood Gauge](https://chat.openai.com/g/g-NoT8ccEPg-mood-gauge)
+<br>
+Measure your mood and generate a Mood Gauge Report.
+
 [Philosophy Simulator](https://chat.openai.com/g/g-DgaNOkP7Y-philosophy-simulator)
 <br>
 Study, modify and simulate different types of philosophy.
@@ -1185,10 +1189,6 @@ Convert text into creative ASCII art.
 
 </details>
 <details><summary>Travel & Lifestyle</summary>
-
-[Mood Gauge](https://chat.openai.com/g/g-NoT8ccEPg-mood-gauge)
-<br>
-Measure your mood and generate a Mood Gauge Report.
 
 [Lifestyle Analyzer](https://chat.openai.com/g/g-fsRoUDqA0-lifestyle-analyzer)
 <br>
