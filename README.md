@@ -1399,35 +1399,35 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 <details><summary>Concept GPTs</summary>
 
-[Construction Layout](https://chat.openai.com/g/g-cvlbhvZ0c-construction-layout)
+[Construction Layout]
 <br>
 Python construction layout math, particularly focused on walls, stairs, roofs, and floors.
 
-[Painting Styles](https://chat.openai.com/g/g-3TPcGis2m-painting-styles)
+[Painting Styles]
 <br>
 Popular artistic painting style guessing game.
 
-[Bass Boost](https://chat.openai.com/g/g-SeVChjS0z-bass-boost)
+[Bass Boost]
 <br>
 Enhance the bass frequencies of uploaded audio files.
 
-[Audio Emulator](https://chat.openai.com/g/g-QN9Dd5rVx-audio-emulator)
+[Audio Emulator]
 <br>
 Transform and emulate audio and song files.
 
-[3D Model](https://chat.openai.com/g/g-MWvIJIJbt-3d-model)
+[3D Model]
 <br>
 Analyze 3D files for strength, errors, alongside optimization tips and custom modification ideas. 
 
-[Social Image](https://chat.openai.com/g/g-ihCQeZV0H-social-image)
+[Social Image]
 <br>
 Account data image creator for Facebook, Instagram and X.
 
-[Expanding Mosaic](https://github.com/sourceduty/Expanding_Mosaic)
+[Expanding Mosaic]
 <br>
 Create and expand an image mosaic using DALL-E 3.
 
-[Search Randomizer](https://chat.openai.com/g/g-NhTSDBW1d-search-randomizer)
+[Search Randomizer]
 <br>
 Generate a random list of web search links.
 
