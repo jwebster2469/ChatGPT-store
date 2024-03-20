@@ -1399,35 +1399,55 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 <details><summary>Concept GPTs</summary>
 
-[Construction Layout]
+Brand Strategy
+<br>
+Develop and implement effective branding strategies.
+
+Physical Doctor
+<br>
+Identify and treat minor injuries or physical issues.
+
+Search Randomizer
+<br>
+Generate a random list of web search links.
+
+Religion Architect
+<br>
+Create and simulate religions.
+
+Social Media Simulator
+<br>
+Simulates diverse social media reactions.
+
+Construction Layout
 <br>
 Python construction layout math, particularly focused on walls, stairs, roofs, and floors.
 
-[Painting Styles]
+Painting Styles
 <br>
 Popular artistic painting style guessing game.
 
-[Bass Boost]
+Bass Boost
 <br>
 Enhance the bass frequencies of uploaded audio files.
 
-[Audio Emulator]
+Audio Emulator
 <br>
 Transform and emulate audio and song files.
 
-[3D Model]
+3D Model
 <br>
 Analyze 3D files for strength, errors, alongside optimization tips and custom modification ideas. 
 
-[Social Image]
+Social Image
 <br>
 Account data image creator for Facebook, Instagram and X.
 
-[Expanding Mosaic]
+Expanding Mosaic
 <br>
 Create and expand an image mosaic using DALL-E 3.
 
-[Search Randomizer]
+Search Randomizer
 <br>
 Generate a random list of web search links.
 
