@@ -1501,4 +1501,4 @@ Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhx
 
 #
 
-🤖 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Your efforts are greatly appreciated!**
+👥 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Your efforts are greatly appreciated!**
