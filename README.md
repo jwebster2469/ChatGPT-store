@@ -12,7 +12,7 @@ Sourceduty won't use ChatGPT without also using GitHub. This repository will be 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) is Sourcerduty's most popular GPT currently with 1K+ chats. Following closely behind is [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents). Five custom GPTs have been created in preparation for SORA 
 videos. 
 
-Inquire by email to buy any of Sourceduty's custom GPTs. Ownership documentation and records for each custom GPT's instructions are sent to buyers. No post-sale bug fixes or improvements will be added to any custom GPTs sold by Sourceduty.
+Inquire by email to buy any of Sourceduty's custom GPTs. Ownership documentation and records for each custom GPT's instructions are sent to buyers. No post-sale bug fixes or improvements will be added to any custom GPTs sold by Sourceduty. Buying and popularizing a custom GPT could be very profitable for another person, business or brand.
 
 #
 
