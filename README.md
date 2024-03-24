@@ -1009,7 +1009,7 @@ Translate between Gen X, Y, Z slang and plain English.
 
 [Team, Group & Movie Cast Optimizer](https://chat.openai.com/g/g-BuHUYVEIK-team-group-movie-cast-optimizer)
 <br>
-Simulate individual team, group or movie cast member positions to optimize a collective utilization.
+Simulate individual team, group or movie cast member positions to optimize collective utilization.
 
 [Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator)
 <br>
