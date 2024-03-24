@@ -367,7 +367,7 @@ Manage, plan, and simulate Arduino and Raspberry Pi projects.
 
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
-Assistive PCB design and planning guide. 
+Assistive PCB design, simulation and planning guide.
 
 [Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
 <br>
