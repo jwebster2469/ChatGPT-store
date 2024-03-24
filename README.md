@@ -3,7 +3,7 @@
 ***
 ***
 
-Sourceduty currently has `326` custom built GPTs sorted and listed below into `22` different categories. 
+Sourceduty currently has `327` custom built GPTs sorted and listed below into `22` different categories. 
 
 Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store.
 
@@ -382,6 +382,10 @@ Plan, create and simulate different types and combinations of semiconductors.
 [Cancer Simulation Research](https://chat.openai.com/g/g-rJ2Onux8b-cancer-simulation-research)
 <br>
 Create and simulate different cancer characteristics, prevention and treatment.
+
+[Energy Experiment](https://chat.openai.com/g/g-UIyGyVbxD-energy-experiment)
+<br>
+Create electrical and mechanical power simulations using Python.
 
 [Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
 <br>
