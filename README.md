@@ -1,4 +1,4 @@
-![Sourceduty Newspaper](https://github.com/sourceduty/ChatGPT/assets/123030236/1b29c7fc-806c-4037-a0f9-da764b63c19e)
+![ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/18e069b4-d183-4bc2-ad36-c4a6899ff493)
 
 | Sourceduty currently has `327` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
@@ -1414,62 +1414,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
   
 ***
 
-<details><summary>Concept GPTs</summary>
-
-Brand Strategy
-<br>
-Develop and implement effective branding strategies.
-
-Physical Doctor
-<br>
-Identify and treat minor injuries or physical issues.
-
-Search Randomizer
-<br>
-Generate a random list of web search links.
-
-Religion Architect
-<br>
-Create and simulate religions.
-
-Social Media Simulator
-<br>
-Simulates diverse social media reactions.
-
-Construction Layout
-<br>
-Python construction layout math, particularly focused on walls, stairs, roofs, and floors.
-
-Painting Styles
-<br>
-Popular artistic painting style guessing game.
-
-Bass Boost
-<br>
-Enhance the bass frequencies of uploaded audio files.
-
-Audio Emulator
-<br>
-Transform and emulate audio and song files.
-
-3D Model
-<br>
-Analyze 3D files for strength, errors, alongside optimization tips and custom modification ideas. 
-
-Social Image
-<br>
-Account data image creator for Facebook, Instagram and X.
-
-Expanding Mosaic
-<br>
-Create and expand an image mosaic using DALL-E 3.
-
-Search Randomizer
-<br>
-Generate a random list of web search links.
-
-</details>
-
 <details><summary>Related Links</summary>
 
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
@@ -1517,7 +1461,6 @@ Generate a random list of web search links.
 [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
 
 </details>
-
 
 ***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
