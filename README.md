@@ -1523,11 +1523,11 @@ Generate a random list of web search links.
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 ***
 
-> [!CAUTION]
+> [!IMPORTANT]
 > Copyright (C) 2023, Sourceduty - All Rights Reserved.
 > <br>
 > THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
-> <br>
+
 > OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
 
 ***
