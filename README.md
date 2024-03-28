@@ -1,6 +1,6 @@
 ![ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/18e069b4-d183-4bc2-ad36-c4a6899ff493)
 
-| Sourceduty currently has `327` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `328` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store.
@@ -1020,6 +1020,10 @@ Plan, create and simulate different types of industry models.
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
 Plan, create and simulate comprehensive business models.
+
+[Idea Analyst](https://chat.openai.com/g/g-HkzcdWS1B-idea-analyst)
+<br>
+Business idea and pitch analyst with simulated approvals and rejections.
 
 [Corporation Planner](https://chat.openai.com/g/g-i960d9ZnH-corporation-planner)
 <br>
