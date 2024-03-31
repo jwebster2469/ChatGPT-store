@@ -1,4 +1,4 @@
-![ChatGPT](https://github.com/sourceduty/ChatGPT/assets/123030236/18e069b4-d183-4bc2-ad36-c4a6899ff493)
+![Lake Ontario Tornto Shark Sourceduty](https://github.com/sourceduty/ChatGPT/assets/123030236/e611776a-a4d5-4cae-8811-2f4c01bd25f1)
 
 | Sourceduty currently has `328` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
