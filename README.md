@@ -17,6 +17,7 @@ Inquire by email to buy any of Sourceduty's custom GPTs. Ownership documentation
 ***
 
 <details><summary>ChatGPT</summary>
+<br>
 
 [ChatGPT Cheats](https://chat.openai.com/g/g-Zvkwt2Zkr-chatgpt-cheats)
 <br>
@@ -46,8 +47,10 @@ Extensive guide for ChatGPT models.
 <br>
 Helpful and informative.
 
+<br>
 </details>
 <details><summary>Python</summary>
+<br>
 
 [Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
 <br>
@@ -81,8 +84,10 @@ Create, plan and simulate Python code architecture models. Assistive Python libr
 <br>
 Create, plan and simulate Cython projects. 
 
+<br>
 </details>
 <details><summary>Utilities & Programming</summary>
+<br>
 
 [Open Source](https://chat.openai.com/g/g-ee56AyCYj-open-source)
 <br>
@@ -284,8 +289,10 @@ Expand simple text searches with multiple related search options.
 <br>
 End-to-end software operation diagrams.
 
+<br>
 </details>
 <details><summary>Education</summary>
+<br>
 
 [School Selector](https://chat.openai.com/g/g-U1rNmqPa2-school-selector)
 <br>
@@ -335,8 +342,10 @@ Simulate probability in uncertain scenarios.
 <br>
 Learn accounting principles in simulated business transactions.
 
+<br>
 </details>
 <details><summary>Emergency & Security</summary>
+<br>
 
 [Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
 <br>
@@ -358,8 +367,10 @@ National electrical power outage planning and simulation.
 <br>
 National environmental disaster emergency planning and simulation.
 
+<br>
 </details>
 <details><summary>Science & Electronics</summary>
+<br>
 
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
@@ -477,8 +488,10 @@ Estimate the weight of snow on building roofs.
 <br>
 Identify tree leaves and estimate seasonal growth.
 
+<br>
 </details>
 <details><summary>Image & GIF</summary>
+<br>
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
@@ -540,8 +553,10 @@ Upload and compare two image files.
 <br>
 Narrate images and create short visual stories using DALL-E 3.
 
+<br>
 </details>
 <details><summary>Video</summary>
+<br>
 
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
@@ -567,8 +582,10 @@ Create visualization videos for audio files. Created in preparation for SORA.
 <br>
 Create new videos inspired by uploaded videos. Created in preparation for SORA.
 
+<br>
 </details>
 <details><summary>Money</summary>
+<br>
 
 [Investing Simulator](https://chat.openai.com/g/g-6R6ZAP8yh-investing-simulator)
 <br>
@@ -610,8 +627,10 @@ Financial crime investigator, focused money laundering.
 <br>
 Assistive currency trading with market insights and suggestions.
 
+<br>
 </details>
 <details><summary>Shopping</summary>
+<br>
 
 [Price Check](https://chat.openai.com/g/g-5veEaNvU8-price-check)
 <br>
@@ -665,8 +684,10 @@ Assistive personalized grocery list planner.
 <br>
 Video game price finder.
 
+<br>
 </details>
 <details><summary>Chatting</summary>
+<br>
 
 [Convo Planner](https://chat.openai.com/g/g-LTSeH89l1-convo-planner)
 <br>
@@ -708,8 +729,10 @@ Conversational chatbot using Canadian slang.
 <br>
 Three-way conversation between one person and two chatbots, Eric and Sasha.
 
+<br>
 </details>
 <details><summary>GitHub</summary>
+<br>
 
 [GitHub Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
 <br>
@@ -850,8 +873,10 @@ Collaborative sentence-by-sentence story creator.
 <br>
 Intelligent note recording assistant.
 
+<br>
 </details>
 <details><summary>Government & Law</summary>
+<br>
 
 [Court Simulator](https://chat.openai.com/g/g-e4ANQnhYr-court-simulator)
 <br>
@@ -885,8 +910,10 @@ Politics in Canada, with balanced and factual insights.
 <br>
 Government types, laws, and legislatures. 
 
+<br>
 </details>
 <details><summary>Food & Farming</summary>
+<br>
 
 [Crop Analyzer](https://chat.openai.com/g/g-tsl3ADsYf-crop-analyzer)
 <br>
@@ -912,8 +939,10 @@ Assistive international cuisine guide, offering insights into popular dishes wor
 <br>
 Create and test cook custom food recipes. 
 
+<br>
 </details>
 <details><summary>Audio & Music</summary>
+<br>
 
 [Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
@@ -951,8 +980,10 @@ Collaborative sentence-by-sentence song lyric compiler.
 <br>
 Assistive contrafact creation for songs and melodies.
 
+<br>
 </details>
 <details><summary>Social</summary>
+<br>
 
 [Social Sync](https://chat.openai.com/g/g-IYpqrCV1F-social-sync)
 <br>
@@ -1010,8 +1041,10 @@ Convert plain English to slang, including Canada, America, Britain, and Australi
 <br>
 Translate between Gen X, Y, Z slang and plain English.
 
+<br>
 </details>
 <details><summary>Business</summary>
+<br>
 
 [Team, Group & Movie Cast Optimizer](https://chat.openai.com/g/g-BuHUYVEIK-team-group-movie-cast-optimizer)
 <br>
@@ -1121,8 +1154,10 @@ Find and analyze branded website and social account data.
 <br>
 Facilitate seamless collaboration, coordination, and communication among team members across different organizations or departments.
 
+<br>
 </details>
 <details><summary>Art & Design</summary>
+<br>
 
 [Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
 <br>
@@ -1224,8 +1259,10 @@ Extensive design collaboration guide.
 <br>
 Convert text into creative ASCII art.
 
+<br>
 </details>
 <details><summary>Travel & Lifestyle</summary>
+<br>
 
 [Lifestyle Analyzer](https://chat.openai.com/g/g-fsRoUDqA0-lifestyle-analyzer)
 <br>
@@ -1283,8 +1320,10 @@ Find the optimal location for your meeting.
 <br>
 Organize essential travel guest info.
 
+<br>
 </details>
 <details><summary>YouTube</summary>
+<br>
 
 [Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
 <br>
@@ -1298,8 +1337,10 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 <br>
 Instructional video creation assistant.
 
+<br>
 </details>
 <details><summary>Fun & Games</summary>
+<br>
 
 [Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
 <br>
@@ -1389,6 +1430,7 @@ Single player charades game.
 <br>
 Initially, you're 25 steps away from the treasure, but the exact direction is a mystery. 
 
+<br>
 </details>
 
 #
@@ -1426,6 +1468,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 ***
 
 <details><summary>Related Links</summary>
+<br>
 
 [ChatGPT vs. Google Bard](https://chat.openai.com/share/632c7739-b255-40e5-8613-9e3c7adac1c0)
 
@@ -1471,6 +1514,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
 
+<br>
 </details>
 
 ***
