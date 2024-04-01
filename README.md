@@ -1059,7 +1059,7 @@ Develop and sell professional sales pitches.
 
 [Data Worker](https://chat.openai.com/g/g-Dc5tAAoW6-data-worker)
 <br>
-Experience working on various professional data jobs.
+Experience working on simulated professional data jobs.
 
 [Business Analyzer](https://chat.openai.com/g/g-dzRErEXi8-business-analyzer)
 <br>
