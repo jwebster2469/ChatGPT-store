@@ -1396,7 +1396,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > *The 84 most popular GPTs, according to OpenAI, are sorted into 7 categories and are listed in the [ChatGPT Store](https://chat.openai.com/gpts).*
 
 ***
-***
 
 > [!TIP]
 > Favorite Prompts:
