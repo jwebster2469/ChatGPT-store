@@ -748,6 +748,7 @@ Assistive GitHub readme file creator.
 
 </details>
 <details><summary>Writing & Reading</summary>
+<br>
 
 [Text Emulator](https://chat.openai.com/g/g-eeQM2XDch-text-emulator)
 <br>
