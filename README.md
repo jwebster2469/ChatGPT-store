@@ -1,7 +1,11 @@
 ![Lake Ontario Tornto Shark Sourceduty](https://github.com/sourceduty/ChatGPT/assets/123030236/e611776a-a4d5-4cae-8811-2f4c01bd25f1)
 
+<div align="center">
+
 | Sourceduty currently has `329` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
+
+</div>
 
 Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. Some of Sourceduty GPTs are free and open-source; anyone can redistribute them and/or modify them. Some custom GPTs have been reserved for publication planned after OpenAI monetizes the ChatGPT Store.
 
