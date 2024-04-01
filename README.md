@@ -14,7 +14,7 @@ videos.
 
 Inquire by email to buy any of Sourceduty's custom GPTs. Ownership documentation and records for each custom GPT's instructions are sent to buyers. No post-sale bug fixes or improvements will be added to any custom GPTs sold by Sourceduty. Buying and popularizing a custom GPT could be very profitable for another person, business or brand.
 
-#
+***
 
 <details><summary>ChatGPT</summary>
 
