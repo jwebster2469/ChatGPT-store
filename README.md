@@ -1447,7 +1447,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > 2. Chemist
 > 3. Concept Design
 > 4. House Design
-> 5. Document Statistics
+> 5. Python Simulator
 > 6. Electronic Simulator
 > 7. Image Emulator
 > 8. Industry Simulator
