@@ -408,6 +408,10 @@ Cancer research, challenges and characteristics.
 <br>
 Chart and visualize weather data using Python.
 
+[PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
+<br>
+Assistive step-by-step computer building planner.
+
 [Ocean Explorer](https://chat.openai.com/g/g-hyNbtFC9h-ocean-explorer)
 <br>
 Discover, create and simulate marine life on Earth using marine biology.
@@ -663,10 +667,6 @@ Find and compare the prices of old and current products from the same company or
 [Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
 <br>
 Simulate spending money on ultra-rich luxury items.
-
-[PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
-<br>
-Assistive step-by-step computer building planner.
 
 [Lowest Priced](https://chat.openai.com/g/g-R0zmXmfcw-lowest-priced)
 <br>
