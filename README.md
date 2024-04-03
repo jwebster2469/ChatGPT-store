@@ -1,4 +1,4 @@
-![Lake Ontario Tornto Shark Sourceduty](https://github.com/sourceduty/ChatGPT/assets/123030236/e611776a-a4d5-4cae-8811-2f4c01bd25f1)
+![Sourceduty Alien Meme](https://github.com/sourceduty/ChatGPT/assets/123030236/0ebbe0a5-a4b3-4576-bc33-b3b8d0248ec3)
 
 <div align="center">
 
