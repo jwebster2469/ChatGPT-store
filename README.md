@@ -1,8 +1,8 @@
-![Sourceduty Alien Meme](https://github.com/sourceduty/ChatGPT/assets/123030236/0ebbe0a5-a4b3-4576-bc33-b3b8d0248ec3)
+![GPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/46f7d074-9863-418c-94f8-a9af43ce97fa)
 
 <div align="center">
 
-| Sourceduty currently has `330` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -415,6 +415,10 @@ Chart and visualize weather data using Python.
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
 Assistive step-by-step computer building planner.
+
+[Public Library of Science](https://chat.openai.com/g/g-61QxqC9vW-public-library-of-science)
+<br>
+Search for scientific articles in the Public Library of Science.
 
 [Ocean Explorer](https://chat.openai.com/g/g-hyNbtFC9h-ocean-explorer)
 <br>
