@@ -1532,6 +1532,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [ChatGPT Business Model](https://chat.openai.com/share/ff2ea833-156e-4702-af3c-703b32c1b91b)
 
+[ChatGPT_Actions](https://github.com/sourceduty/ChatGPT_Actions)
+
 [ActionsGPT](https://chat.openai.com/g/g-TYEliDU6A-actionsgpt)
 
 [Custom GPT Service](https://github.com/sourceduty/Custom_GPT_Service)
