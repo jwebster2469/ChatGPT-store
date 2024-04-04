@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `330` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -467,10 +467,6 @@ Discover, create and simulate alien life on other planets using astrobiology and
 [Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
 <br>
 Create, predict and simulate successful or unsuccessful chemical reactions.
-
-[Physics](https://chat.openai.com/g/g-duSjyyG2o-physics)
-<br>
-Experimental physics assistant and problem solver.
 
 [Quantum Simulator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator)
 <br>
