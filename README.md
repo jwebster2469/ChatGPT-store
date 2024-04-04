@@ -241,10 +241,6 @@ Cannabis planting, growing, and harvesting guide, tailored to your location.
 <br>
 Detailed advice and information for AI-powered personal computers.
 
-[TAZ SideKick 747](https://chat.openai.com/g/g-BzXdiy3gx-taz-sidekick-747)
-<br>
-Assistive open-source LulzBot 3D printer guide.
-
 [Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
 <br>
 Assistive internet culture expert, explaining trends and memes.
@@ -475,6 +471,10 @@ Create, predict and simulate successful or unsuccessful chemical reactions.
 [Physics](https://chat.openai.com/g/g-duSjyyG2o-physics)
 <br>
 Experimental physics assistant and problem solver.
+
+[Quantum Simulator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator)
+<br>
+Assistive quantum computing simulator using Python.
 
 [Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
 <br>
