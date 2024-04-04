@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `330` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -371,6 +371,10 @@ National environmental disaster emergency planning and simulation.
 </details>
 <details><summary>Science & Electronics</summary>
 <br>
+
+[Chemical Diagnostics](https://chat.openai.com/g/g-Yn1ecDq4f-chemical-diagnostics)
+<br>
+Assistive tool for analyzing chemical functionality, efficiency and performance.
 
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
