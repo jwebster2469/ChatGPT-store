@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `330` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -829,10 +829,6 @@ Create alternative story contexts.
 [Text Feedback](https://chat.openai.com/g/g-RDhT1E3g9-text-feedback)
 <br>
 Analyze documents, lyrics, scripts and conversations with multiple opinions. 
-
-[Assisted Journal](https://chat.openai.com/g/g-Knuy8ETjw-assisted-journal)
-<br>
-Personal and professional journal assistant.
 
 [Sloppy Type](https://chat.openai.com/g/g-6FfBIBVtw-sloppy-type)
 <br>
