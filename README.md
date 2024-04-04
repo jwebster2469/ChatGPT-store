@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `330` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -447,6 +447,10 @@ Predictive global social future simulator.
 [Scientific Method](https://chat.openai.com/g/g-9P8NY6lCl-scientific-method)
 <br>
 Solve science problems and questions.
+
+[Researcher](https://chat.openai.com/g/g-YBfh2TXhd-researcher)
+<br>
+Find and contribute to scientific research projects.
 
 [Debunk Science](https://chat.openai.com/g/g-kpOa49BAb-debunk-science)
 <br>
