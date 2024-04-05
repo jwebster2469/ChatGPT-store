@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `332` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `333` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -297,6 +297,10 @@ End-to-end software operation diagrams.
 </details>
 <details><summary>Education</summary>
 <br>
+
+[Climate Reactor](https://chat.openai.com/g/g-KLsLhcI9B-climate-reactor)
+<br>
+Simulate climate reactions, meteorological processes, storms and climate change for education.
 
 [School Selector](https://chat.openai.com/g/g-U1rNmqPa2-school-selector)
 <br>
