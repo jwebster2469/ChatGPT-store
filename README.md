@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `332` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -939,10 +939,6 @@ Local farm crops, soil, and field optimization specialist.
 [Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
 <br>
 Make alcohol, specifically focusing on beer and wine. 
-
-[Mickey D's](https://chat.openai.com/g/g-mRgZFUvcD-mickey-d-s)
-<br>
-McDonald's locations and fast food expert.
 
 [International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
 <br>
