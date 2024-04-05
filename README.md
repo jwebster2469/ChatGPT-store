@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `332` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -140,6 +140,10 @@ Build new browser extensions for Chrome, Firefox, Safari, and more.
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
 <br>
 Hardware, software and firmware modification specialist.
+
+[Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
+<br>
+Identify roadway errors and improvement areas.
 
 [Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
 <br>
