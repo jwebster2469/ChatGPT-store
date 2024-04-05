@@ -1569,3 +1569,9 @@ Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhx
 #
 
 👥 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Your efforts are greatly appreciated!**
+
+#
+
+![Badges](https://github.com/sourceduty/ChatGPT/assets/123030236/cebb8418-f9c4-4cac-99e4-d809215f9b15)
+
+
