@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `333` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `334` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -411,6 +411,10 @@ Create and simulate different cancer characteristics, prevention and treatment.
 [Energy Experiment](https://chat.openai.com/g/g-UIyGyVbxD-energy-experiment)
 <br>
 Create electrical and mechanical power simulations using Python.
+
+[Nuclear Power Simulator](https://chat.openai.com/g/g-QYk4U8bhT-nuclear-power-simulator)
+<br>
+Assistive nuclear energy and reaction simulator.
 
 [Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
 <br>
