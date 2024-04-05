@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `331` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `332` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -923,6 +923,10 @@ Government types, laws, and legislatures.
 </details>
 <details><summary>Food & Farming</summary>
 <br>
+
+[Recipe Optimizer](https://chat.openai.com/g/g-RBkBOAyNN-recipe-optimizer)
+<br>
+Assistive food tool for analyzing recipe functionality, efficiency and performance. 
 
 [Crop Analyzer](https://chat.openai.com/g/g-tsl3ADsYf-crop-analyzer)
 <br>
