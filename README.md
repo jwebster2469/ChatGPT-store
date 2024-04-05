@@ -161,6 +161,14 @@ Desktop and laptop computer hardware upgrade assistant.
 <br>
 Assistive Flipper Zero guide and firmware simulator.
 
+[War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
+<br>
+Global conflict metrics.
+
+[Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
+<br>
+Locate and participate in current academic research efforts.
+
 [Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
 <br>
 Assistive work schedule and progress tracker.
@@ -322,17 +330,9 @@ Simulate the experience of managing both small and large businesses.
 <br>
 Find wildlife locations with weather and seasonal insights.
 
-[War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
-<br>
-Global conflict metrics.
-
 [Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
 <br>
 Assistive terminology expert in various fields such as medicine, law, technology, finance, and more.
-
-[Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
-<br>
-Locate and participate in current academic research efforts.
 
 [Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
 <br>
