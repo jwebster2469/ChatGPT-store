@@ -143,7 +143,7 @@ Hardware, software and firmware modification specialist.
 
 [Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
 <br>
-Identify roadway errors and improvement areas.
+Identify roadway errors and improvement areas from images.
 
 [Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
 <br>
