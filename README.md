@@ -1,4 +1,4 @@
-![GPT Store](https://github.com/sourceduty/ChatGPT/assets/123030236/46f7d074-9863-418c-94f8-a9af43ce97fa)
+![Sourceduty Rockets](https://github.com/sourceduty/ChatGPT/assets/123030236/656bc8db-4bc6-4f23-b812-ac76a9ee0420)
 
 <div align="center">
 
