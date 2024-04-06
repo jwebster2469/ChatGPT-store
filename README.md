@@ -169,14 +169,6 @@ Global conflict metrics.
 <br>
 Locate and participate in current academic research efforts.
 
-[Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
-<br>
-Assistive work schedule and progress tracker.
-
-[Document Statistics](https://chat.openai.com/g/g-QUpREeStD-document-statistics)
-<br>
-Analyze documents and text files by counting characters, blank spaces, lines, word frequency and more. Print the Text Statistics Report.
-
 [Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
 <br>
 Project material planning assistant for wood projects. 
@@ -268,10 +260,6 @@ Spatial building and property data comparisons.
 [News Prompt](https://chat.openai.com/g/g-8KpztE5dz-news-prompt)
 <br>
 Combined daily reporting for local, national and international news.
-
-[Subreddit Finder](https://chat.openai.com/g/g-dytZgmo1P-subreddit-finder)
-<br>
-Search and find the best subreddits for your content.
 
 [Predict Futures](https://chat.openai.com/g/g-L2gua0rf7-predict-futures)
 <br>
@@ -802,6 +790,10 @@ Modernize uploaded document files.
 <br>
 Analyze and identify fonts using image files.
 
+[Document Statistics](https://chat.openai.com/g/g-QUpREeStD-document-statistics)
+<br>
+Analyze documents and text files by counting characters, blank spaces, lines, word frequency and more. Print the Text Statistics Report.
+
 [History Simulator](https://chat.openai.com/g/g-PKc9JScH2-history-simulator)
 <br>
 Rewrite human history with predictive outcomes.
@@ -1010,6 +1002,18 @@ Assistive contrafact creation for songs and melodies.
 <br>
 Optimize social media content.
 
+[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
+<br>
+Promotional business shoutouts for x.com.
+
+[Subreddit Finder](https://chat.openai.com/g/g-dytZgmo1P-subreddit-finder)
+<br>
+Search and find the best subreddits for your content.
+
+[Commenter](https://chat.openai.com/g/g-I5DgUS675-commenter)
+<br>
+Create comments and comment replies for Facebook, Instagram, X and more.
+
 [Social Sync](https://chat.openai.com/g/g-IYpqrCV1F-social-sync)
 <br>
 Synchronize your personal and professional traits with others.
@@ -1042,10 +1046,6 @@ Predict, simulate and analyze voting trends for any country.
 <br>
 In-depth insights into illegal drug production and chemical investigations. 
 
-[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
-<br>
-Promotional business shoutouts for x.com.
-
 [Formal](https://chat.openai.com/g/g-cEoMR3lVm-formal)
 <br>
 Assistive formal etiquette guide.
@@ -1053,10 +1053,6 @@ Assistive formal etiquette guide.
 [Personality](https://chat.openai.com/g/g-SjVEuD3eZ-personality)
 <br>
 Determine and define your personal identity.
-
-[Commenter](https://chat.openai.com/g/g-I5DgUS675-commenter)
-<br>
-Create comments and comment replies for Facebook, Instagram, X and more.
 
 [Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
 <br>
@@ -1170,6 +1166,10 @@ Rank the most popular social media accounts across various platforms.
 [Sourceduty](https://chat.openai.com/g/g-MG4CqF034-sourceduty)
 <br>
 Creative digital business.
+
+[Workday](https://chat.openai.com/g/g-zoFvS2eSD-workday)
+<br>
+Assistive work schedule and progress tracker.
 
 [Business Footprint](https://chat.openai.com/g/g-iQbBVJzIf-business-footprint)
 <br>
