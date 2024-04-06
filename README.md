@@ -1003,7 +1003,7 @@ Assistive contrafact creation for songs and melodies.
 
 <br>
 </details>
-<details><summary>Social</summary>
+<details><summary>Social Media & Tools</summary>
 <br>
 
 [Content Optimizer](https://chat.openai.com/g/g-WntRVVC5n-content-optimizer)
