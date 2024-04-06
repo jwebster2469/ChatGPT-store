@@ -245,10 +245,6 @@ Cannabis planting, growing, and harvesting guide, tailored to your location.
 <br>
 Detailed advice and information for AI-powered personal computers.
 
-[Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
-<br>
-Assistive internet culture expert, explaining trends and memes.
-
 [Windows Registry Expert](https://chat.openai.com/g/g-vGNiWQSoA-windows-registry-expert)
 <br>
 Enhance Windows UX with creative registry modifications.
@@ -264,14 +260,6 @@ Combined daily reporting for local, national and international news.
 [Predict Futures](https://chat.openai.com/g/g-L2gua0rf7-predict-futures)
 <br>
 Predict future scenarios based on internet research. 
-
-[Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
-<br>
-Generate hashtags using images and text.
-
-[Discord Finder](https://chat.openai.com/g/g-enxhriqRt-discord-finder)
-<br>
-Search and find the best Discord channels for your content.
 
 [Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
 <br>
@@ -1013,6 +1001,18 @@ Search and find the best subreddits for your content.
 [Commenter](https://chat.openai.com/g/g-I5DgUS675-commenter)
 <br>
 Create comments and comment replies for Facebook, Instagram, X and more.
+
+[Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
+<br>
+Generate hashtags using images and text.
+
+[Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
+<br>
+Assistive internet culture expert, explaining trends and memes.
+
+[Discord Finder](https://chat.openai.com/g/g-enxhriqRt-discord-finder)
+<br>
+Search and find the best Discord channels for your content.
 
 [Social Sync](https://chat.openai.com/g/g-IYpqrCV1F-social-sync)
 <br>
