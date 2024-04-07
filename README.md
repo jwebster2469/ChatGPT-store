@@ -1,4 +1,4 @@
-![432358634_3557692534377223_2702713411044689302_n](https://github.com/sourceduty/ChatGPT/assets/123030236/da9d23f1-89af-4b78-8a01-fa7534801b47)
+![Sourceduty Alex](https://github.com/sourceduty/ChatGPT/assets/123030236/edc1ed1f-dd01-4b5b-aac3-21b820d257e2)
 
 <div align="center">
 
