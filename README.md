@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `336` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `337` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -305,6 +305,10 @@ Simulate the experience of managing both small and large businesses.
 [Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
 <br>
 Find wildlife locations with weather and seasonal insights.
+
+[Construction Simulator](https://chat.openai.com/g/g-HJGQpAmKa-construction-simulator)
+<br>
+Residential house construction education visualized with DALL-E 3.
 
 [Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
 <br>
