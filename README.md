@@ -1,4 +1,4 @@
-![Sourceduty Alex](https://github.com/sourceduty/ChatGPT/assets/123030236/edc1ed1f-dd01-4b5b-aac3-21b820d257e2)
+![High-Speed Chase Car Deployment](https://github.com/sourceduty/ChatGPT/assets/123030236/8d8e4188-5932-4506-b1c7-36ba53849292)
 
 <div align="center">
 
