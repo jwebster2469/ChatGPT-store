@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `335` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `336` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1288,6 +1288,10 @@ Convert text into creative ASCII art.
 </details>
 <details><summary>Travel & Lifestyle</summary>
 <br>
+
+[Activity Balancer](https://chat.openai.com/g/g-xV6ASEJpI-activity-balancer)
+<br>
+Balance your time spent on activities in any country, local areas, buildings and events. Export a custom activity schedule.
 
 [Lifestyle Analyzer](https://chat.openai.com/g/g-fsRoUDqA0-lifestyle-analyzer)
 <br>
