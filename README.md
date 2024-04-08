@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `337` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `338` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -395,6 +395,10 @@ Create electrical and mechanical power simulations using Python.
 [Nuclear Power Simulator](https://chat.openai.com/g/g-QYk4U8bhT-nuclear-power-simulator)
 <br>
 Assistive nuclear energy and reaction simulator.
+
+[Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
+<br>
+Work on the International Space Station (ISS).
 
 [Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
 <br>
