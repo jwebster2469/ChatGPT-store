@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `341` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `342` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -590,6 +590,10 @@ Create new videos inspired by uploaded videos. Created in preparation for SORA.
 </details>
 <details><summary>Money</summary>
 <br>
+
+[Budget Balancer](https://chat.openai.com/g/g-XdccpkhI1-budget-balancer)
+<br>
+Balance purchases for an optimal budget.
 
 [Investing Simulator](https://chat.openai.com/g/g-6R6ZAP8yh-investing-simulator)
 <br>
