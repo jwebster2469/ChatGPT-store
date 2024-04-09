@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `338` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `339` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -902,6 +902,10 @@ Analyze and improve national deviance to align with standard international laws.
 [Software Law](https://chat.openai.com/g/g-7w96DmC1S-software-law)
 <br>
 Assistive intellectual property law guide.
+
+[Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
+<br>
+Experimental urban modernization plan creator.
 
 [Law Simple](https://chat.openai.com/g/g-nGrf808nn-law-simple)
 <br>
