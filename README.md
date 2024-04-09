@@ -1,4 +1,4 @@
-![2024 Collage 2](https://github.com/sourceduty/ChatGPT/assets/123030236/9569b8c6-a618-47fb-9549-876862c60be9)
+![Lyubov Orlova Ship](https://github.com/sourceduty/ChatGPT/assets/123030236/ca80f5fe-762d-480c-ad3c-f6b2ea6fd681)
 
 <div align="center">
 
