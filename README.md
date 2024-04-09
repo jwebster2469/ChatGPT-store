@@ -932,6 +932,10 @@ Government types, laws, and legislatures.
 <details><summary>Food & Farming</summary>
 <br>
 
+[Food Balancer](https://chat.openai.com/g/g-eCDqmhGSI-food-balancer)
+<br>
+Balance food and meals for an optimal diet.
+
 [Recipe Optimizer](https://chat.openai.com/g/g-RBkBOAyNN-recipe-optimizer)
 <br>
 Assistive food tool for analyzing recipe functionality, efficiency and performance. 
