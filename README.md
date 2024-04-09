@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `339` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `340` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -176,10 +176,6 @@ Simply rename bulk uploaded files.
 [Error Planning](https://chat.openai.com/g/g-u5u6whfZm-error-planning)
 <br>
 Create and simulate errors in plans or procedures and create repair responses.
-
-[Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
-<br>
-Simulated urban modernization.
 
 [Data Simulator](https://chat.openai.com/g/g-mn28bwTPD-data-simulator)
 <br>
@@ -899,9 +895,17 @@ Analyze and improve national deviance to align with standard international laws.
 <br>
 Assistive intellectual property law guide.
 
+[Urban Simulator](https://chat.openai.com/g/g-XQ2wkdcXL-urban-simulator)
+<br>
+Simulated urban modernization.
+
 [Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
 <br>
 Experimental urban modernization plan creator.
+
+[National Update](https://chat.openai.com/g/g-IcqboO1QQ-national-update)
+<br>
+Experimental national modernization plan creator.
 
 [Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
 <br>
