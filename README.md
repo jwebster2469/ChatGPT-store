@@ -1,4 +1,4 @@
-![Lyubov Orlova Ship](https://github.com/sourceduty/ChatGPT/assets/123030236/ca80f5fe-762d-480c-ad3c-f6b2ea6fd681)
+![Modern Mansion Concept Cliff](https://github.com/sourceduty/ChatGPT/assets/123030236/63ece3fd-1651-4485-a558-0e7c6a33af36)
 
 <div align="center">
 
