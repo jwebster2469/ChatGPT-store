@@ -141,10 +141,6 @@ Build new browser extensions for Chrome, Firefox, Safari, and more.
 <br>
 Hardware, software and firmware modification specialist.
 
-[Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
-<br>
-Identify roadway errors and improvement areas from images.
-
 [Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
 <br>
 Assistive step-by-step architectural building planner.
@@ -906,6 +902,10 @@ Assistive intellectual property law guide.
 [Urban Update](https://chat.openai.com/g/g-87Dl1RabQ-urban-update)
 <br>
 Experimental urban modernization plan creator.
+
+[Road Optimizer](https://chat.openai.com/g/g-LjAxDdlH9-road-optimizer)
+<br>
+Identify roadway errors and improvement areas from images.
 
 [Law Simple](https://chat.openai.com/g/g-nGrf808nn-law-simple)
 <br>
