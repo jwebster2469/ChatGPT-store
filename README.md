@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `343` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `344` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1398,6 +1398,10 @@ Instructional video creation assistant.
 </details>
 <details><summary>Fun & Games</summary>
 <br>
+
+[Not Sure Meme](https://chat.openai.com/g/g-v5Fj4kvL2-not-sure-meme)
+<br>
+Assisted creation of NOT SURE IF memes using Python.
 
 [Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
 <br>
