@@ -1212,9 +1212,9 @@ Facilitate seamless collaboration, coordination, and communication among team me
 <br>
 Compare design images, descriptions and videos.
 
-[Robot Creator](https://chat.openai.com/g/g-FPwYmfQMx-robot-creator)
+[Creative Decay](https://chat.openai.com/g/g-EkPxpR9yy-creative-decay)
 <br>
-Design custom robots and visualize them with DALL-E 3.
+Learn how to create decayed art and designs. Generate examples using DALL-E 3.
 
 [Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
 <br>
