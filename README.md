@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `342` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `343` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -399,6 +399,10 @@ Cancer research, challenges and characteristics.
 [Weather Simulator](https://chat.openai.com/g/g-c1JKGF0qm-weather-simulator)
 <br>
 Chart and visualize weather data using Python.
+
+[Environmental Design](https://chat.openai.com/g/g-HU8iIxZfG-environmental-design)
+<br>
+Environmental material plan, design and construction specialist.
 
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
