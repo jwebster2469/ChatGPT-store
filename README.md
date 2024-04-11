@@ -1,4 +1,4 @@
-![Modern Mansion Concept Cliff](https://github.com/sourceduty/ChatGPT/assets/123030236/63ece3fd-1651-4485-a558-0e7c6a33af36)
+![Margot Robbie 2](https://github.com/sourceduty/ChatGPT/assets/123030236/60232f6e-6fd1-4c03-bfab-5fd01a60f9e2)
 
 <div align="center">
 
