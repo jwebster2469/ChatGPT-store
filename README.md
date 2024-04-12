@@ -1,4 +1,4 @@
-![Ocean Astronaut](https://github.com/sourceduty/ChatGPT/assets/123030236/ee44c0b4-9589-4690-b3ee-b44c7f062271)
+![Gold Diamond Sourceduty](https://github.com/sourceduty/ChatGPT/assets/123030236/93b89397-962a-4da3-b4aa-6398a29d06cc)
 
 <div align="center">
 
