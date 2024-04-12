@@ -1,4 +1,4 @@
-![Gold Diamond Sourceduty](https://github.com/sourceduty/ChatGPT/assets/123030236/93b89397-962a-4da3-b4aa-6398a29d06cc)
+https://github.com/sourceduty/ChatGPT/assets/123030236/bc7becfd-d074-46f7-ad50-15e7d120621d
 
 <div align="center">
 
