@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `344` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `342` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -152,14 +152,6 @@ Create, simulate and analyze hypothetical computer hardware setup functionality 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
-
-[Flipper Zero](https://chat.openai.com/g/g-ClVR48aHo-flipper-zero)
-<br>
-Assistive Flipper Zero guide and firmware simulator.
-
-[War World](https://chat.openai.com/g/g-UHBJztUGs-war-world)
-<br>
-Global conflict metrics.
 
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
