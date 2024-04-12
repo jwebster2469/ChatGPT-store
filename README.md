@@ -1568,7 +1568,9 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Elon Musk vs OpenAI](https://chat.openai.com/share/ba103560-67d1-4bfe-9fa2-e6c7123c4d9b)
 
-[Artificial Superintelligence](https://harvardsciencereview.com/artificial-superintelligence-the-coming-revolution/#:~:text=The%20median%20of%20the%20years%20given%20for%2090%25%20confidence%20was,created%20within%20just%2065%20years.)
+[Artificial Superintelligence](https://github.com/sourceduty/Artificial_Superintelligence)
+
+[Harvard Artificial Superintelligence](https://harvardsciencereview.com/artificial-superintelligence-the-coming-revolution/#:~:text=The%20median%20of%20the%20years%20given%20for%2090%25%20confidence%20was,created%20within%20just%2065%20years.)
 
 [ChatGPT Business Model](https://chat.openai.com/share/ff2ea833-156e-4702-af3c-703b32c1b91b)
 
