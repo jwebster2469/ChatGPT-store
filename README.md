@@ -1,4 +1,4 @@
-https://github.com/sourceduty/ChatGPT/assets/123030236/bc7becfd-d074-46f7-ad50-15e7d120621d
+![ChatGPT Repo](https://github.com/sourceduty/ChatGPT/assets/123030236/9ade38dc-b6e7-4316-a159-a051fcc93e30)
 
 <div align="center">
 
