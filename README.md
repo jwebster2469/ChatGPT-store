@@ -1582,6 +1582,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Public Work](https://github.com/sourceduty/Public_Work)
 
+[Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
+
 <br>
 </details>
 
