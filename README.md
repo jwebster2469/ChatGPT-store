@@ -615,7 +615,7 @@ Automated teller machine (ATM) simulator.
 <br>
 Net worth statistics for individuals and businesses.
 
-[Properties](https://chat.openai.com/g/g-VPxnvz7m1-properties)
+[Real Estate Advice](https://chat.openai.com/g/g-VPxnvz7m1-real-estate-advice)
 <br>
 Assistive real-estate advisor.
 
