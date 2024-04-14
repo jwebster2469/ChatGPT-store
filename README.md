@@ -1074,9 +1074,9 @@ In-depth insights into illegal drug production and chemical investigations.
 <br>
 Assistive formal etiquette guide.
 
-[Personality](https://chat.openai.com/g/g-SjVEuD3eZ-personality)
+[Personality Template](https://chat.openai.com/g/g-SjVEuD3eZ-personality-template)
 <br>
-Determine and define your personal identity.
+Determine and define your personal identity. Create an Identity Profile.
 
 [Slang Words](https://chat.openai.com/g/g-KBVnGtKUo-slang-words)
 <br>
