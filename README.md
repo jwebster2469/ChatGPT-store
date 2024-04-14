@@ -603,7 +603,7 @@ Create and control accurate and detailed statistical simulations for stocks.
 <br>
 Forecast the price of futures, stocks and currencies using trends, historical data, and current news.
 
-[Cash](https://chat.openai.com/g/g-RmcIsOs3w-cash)
+[Cash Advisor](https://chat.openai.com/g/g-RmcIsOs3w-cash-advisor)
 <br>
 Banknote sizes, storage and transportation.
 
