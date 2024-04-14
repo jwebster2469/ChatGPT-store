@@ -611,7 +611,7 @@ Banknote sizes, storage and transportation.
 <br>
 Automated teller machine (ATM) simulator.
 
-[Fortune](https://chat.openai.com/g/g-2NkyUDxCx-fortune)
+[Net Worth](https://chat.openai.com/g/g-2NkyUDxCx-net-worth)
 <br>
 Net worth statistics for individuals and businesses.
 
