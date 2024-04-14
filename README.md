@@ -2,7 +2,7 @@ https://github.com/sourceduty/ChatGPT/assets/123030236/e10496a8-ccf7-489f-8f13-2
 
 <div align="center">
 
-| Sourceduty currently has `342` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `343` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -773,6 +773,10 @@ Emulate and convert the style, format, and structure of documents.
 [Document Update](https://chat.openai.com/g/g-Gk3wDoqRU-document-update)
 <br>
 Modernize uploaded document files.
+
+[Book Structure](https://chat.openai.com/g/g-yNWlLa7n0-book-structure)
+<br>
+Create and plan any type of book structure.
 
 [Font Identity](https://chat.openai.com/g/g-H1YnqzAj0-font-identity)
 <br>
