@@ -456,7 +456,7 @@ Identify insects from images.
 <br>
 Discover, create and simulate alien life on other planets using astrobiology and xenobiology.
 
-[Chemist](https://chat.openai.com/g/g-pnIVeOtxZ-chemist)
+[Chemistry Simulator](https://chat.openai.com/g/g-pnIVeOtxZ-chemistry-simulator)
 <br>
 Create, predict and simulate successful or unsuccessful chemical reactions.
 
