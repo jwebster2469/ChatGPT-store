@@ -656,7 +656,7 @@ Estimate prices for used items in any currency.
 <br>
 Find current coupons for online shopping.
 
-[Luxury](https://chat.openai.com/g/g-kupWXAlb3-luxury)
+[Luxury Shopping](https://chat.openai.com/g/g-kupWXAlb3-luxury-shopping)
 <br>
 Locate ultra-rich luxury items and insights on top-tier products.
 
