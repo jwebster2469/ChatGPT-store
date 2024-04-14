@@ -1014,9 +1014,9 @@ Assistive contrafact creation for songs and melodies.
 <br>
 Optimize social media content.
 
-[Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-shoutouts)
+[Social Media Shoutouts](https://chat.openai.com/g/g-BRN5AXPbf-social-media-shoutouts)
 <br>
-Promotional business shoutouts for x.com.
+Generate promotional business shoutouts for social media.
 
 [Subreddit Finder](https://chat.openai.com/g/g-dytZgmo1P-subreddit-finder)
 <br>
