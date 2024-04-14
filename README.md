@@ -1216,7 +1216,7 @@ Compare design images, descriptions and videos.
 <br>
 Learn how to create decayed art and designs. Generate examples using DALL-E 3.
 
-[Fabric](https://chat.openai.com/g/g-29mQRQys4-fabric)
+[Fabric Identity](https://chat.openai.com/g/g-29mQRQys4-fabric-identity)
 <br>
 Identify fabrics from images and find optimal fabric for projects or products.
 
