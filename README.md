@@ -233,6 +233,10 @@ Detailed advice and information for AI-powered personal computers.
 <br>
 Enhance Windows UX with creative registry modifications.
 
+[Process Diagram](https://chat.openai.com/g/g-BKPxbMYJD-process-diagram)
+<br>
+End-to-end software process operation diagrams.
+
 [Spatial Footprint](https://chat.openai.com/g/g-lonVHkdtM-spatial-footprint)
 <br>
 Spatial building and property data comparisons.
@@ -256,10 +260,6 @@ Upload and generate metadata for image and text files.
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
 Expand simple text searches with multiple related search options. 
-
-[Symbol Diagram](https://chat.openai.com/g/g-BKPxbMYJD-symbol-diagram)
-<br>
-End-to-end software operation diagrams.
 
 <br>
 </details>
