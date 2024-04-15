@@ -1,4 +1,4 @@
-https://github.com/sourceduty/ChatGPT/assets/123030236/e10496a8-ccf7-489f-8f13-26b9f3de45f3
+![Ocean Pole House](https://github.com/sourceduty/ChatGPT/assets/123030236/873b9e63-1990-42a0-b4c6-68806d7752b4)
 
 <div align="center">
 
