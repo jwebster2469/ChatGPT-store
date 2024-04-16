@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `344` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `345` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -886,6 +886,10 @@ Intelligent note recording assistant.
 </details>
 <details><summary>Government & Law</summary>
 <br>
+
+[Law Document](https://chat.openai.com/g/g-uDaJ960Ar-law-document)
+<br>
+Convert simple documents and notes into supported legal terminology.
 
 [Court Simulator](https://chat.openai.com/g/g-e4ANQnhYr-court-simulator)
 <br>
