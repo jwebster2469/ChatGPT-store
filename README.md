@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `343` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `344` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -100,6 +100,10 @@ Plan, create and simulate models for different types of Android apps.
 [Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
 <br>
 Find photo locations from uploaded images. 
+
+[Data Project](https://chat.openai.com/g/g-Rwc3ikNU7-data-project)
+<br>
+Assistive data project planning and structure guide. 
 
 [Pseudocode Architect](https://chat.openai.com/g/g-cl61v3kqg-pseudocode-architect)
 <br>
