@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `345` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `346` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -301,6 +301,10 @@ Residential house construction education visualized with DALL-E 3.
 [Terminology](https://chat.openai.com/g/g-9CtYMvDJw-terminology)
 <br>
 Assistive terminology expert in various fields such as medicine, law, technology, finance, and more.
+
+[Astronaut Jargon](https://chat.openai.com/g/g-ZU9RDeWWx-astronaut-jargon)
+<br>
+Convert plain English to professional astronaut jargon. 
 
 [Software Simulator](https://chat.openai.com/g/g-WbqD34jeu-software-simulator)
 <br>
