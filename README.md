@@ -1,4 +1,4 @@
-![Ocean Pole House](https://github.com/sourceduty/ChatGPT/assets/123030236/873b9e63-1990-42a0-b4c6-68806d7752b4)
+![Repo Card](https://github.com/sourceduty/ChatGPT/assets/123030236/c0796366-9ef2-49d9-92a4-5300e42544e9)
 
 <div align="center">
 
