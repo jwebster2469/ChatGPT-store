@@ -1,4 +1,4 @@
-![Repo Card](https://github.com/sourceduty/ChatGPT/assets/123030236/c0796366-9ef2-49d9-92a4-5300e42544e9)
+![Octocat](https://github.com/sourceduty/ChatGPT/assets/123030236/9ba6b596-bae2-41be-a8d9-58e6098a2761)
 
 <div align="center">
 
