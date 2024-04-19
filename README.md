@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `347` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `346` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -188,10 +188,6 @@ Simulate the command-line interfaces (CLI) for Windows PowerShell, Linux termina
 [Robot Builder](https://chat.openai.com/g/g-04lZCZ8QG-robot-builder)
 <br>
 Assistive robotic design, sensor, and software expert.
-
-[Manufacturing](https://chat.openai.com/g/g-WlJvjChaq-manufacturing)
-<br>
-Manufacturing process machines, line design and systems.
 
 [Windows](https://chat.openai.com/g/g-tMe145ZqU-windows)
 <br>
