@@ -1,4 +1,4 @@
-![Octocat](https://github.com/sourceduty/ChatGPT/assets/123030236/9ba6b596-bae2-41be-a8d9-58e6098a2761)
+![GitHub Repo Sticker](https://github.com/sourceduty/ChatGPT/assets/123030236/82c59f41-6171-4c2e-bc8e-05d3e20b7fbc)
 
 <div align="center">
 
