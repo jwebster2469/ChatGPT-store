@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `346` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `347` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -168,6 +168,10 @@ Project material planning assistant for wood projects.
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Simply rename bulk uploaded files.
+
+[Research Helper](https://chat.openai.com/g/g-4S9pOnFTb-research-helper)
+<br>
+Assistive research repository and project specialist.
 
 [Error Planning](https://chat.openai.com/g/g-u5u6whfZm-error-planning)
 <br>
