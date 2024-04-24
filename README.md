@@ -141,21 +141,9 @@ Plan, create an simulate UI design models and identify UI elements with uploaded
 <br>
 Build new browser extensions for Chrome, Firefox, Safari, and more.
 
-[Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
-<br>
-Hardware, software and firmware modification specialist.
-
 [Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
 <br>
 Assistive step-by-step architectural building planner.
-
-[Hardware Diagnostics](https://chat.openai.com/g/g-k3HPxmIXg-hardware-diagnostics)
-<br>
-Create, simulate and analyze hypothetical computer hardware setup functionality and performance.
-
-[Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
-<br>
-Desktop and laptop computer hardware upgrade assistant.
 
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
@@ -351,6 +339,18 @@ National environmental disaster emergency planning and simulation.
 </details>
 <details><summary>Science & Electronics</summary>
 <br>
+
+[Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
+<br>
+Hardware, software and firmware modification specialist.
+
+[Hardware Diagnostics](https://chat.openai.com/g/g-k3HPxmIXg-hardware-diagnostics)
+<br>
+Create, simulate and analyze hypothetical computer hardware setup functionality and performance.
+
+[Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
+<br>
+Desktop and laptop computer hardware upgrade assistant.
 
 [Chemical Diagnostics](https://chat.openai.com/g/g-Yn1ecDq4f-chemical-diagnostics)
 <br>
