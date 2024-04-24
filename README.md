@@ -1526,7 +1526,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Create detailed ASCII text art.
 > - Sort and organize astronomy data.
 > - Search for contests and challenges.
-> - Expand research using AI.
+> - Expand research.
 > - Be creative.
 > ```
 > Alex's Favorite Prompts:
