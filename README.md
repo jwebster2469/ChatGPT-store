@@ -858,9 +858,9 @@ Create dictionaries in various order types, such as Alphabetical, Prioritized, H
 <br>
 Create quotes and take portions from text documents.
 
-[Truth Purifier](https://chat.openai.com/g/g-ra1lMjzN8-truth-purifier)
+[Fake Information Purifier](https://chat.openai.com/g/g-ra1lMjzN8-fake-information-purifier)
 <br>
-Unbiased disinformation analyzer.
+Unbiased disinformation analyzer. Measure the deviance of fake information from the truth.
 
 [Opinion Simulator](https://chat.openai.com/g/g-JKk9E0ePf-opinion-simulator)
 <br>
