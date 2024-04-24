@@ -97,10 +97,6 @@ Locate and develop public open-source code projects.
 <br>
 Plan, create and simulate models for different types of Android apps.
 
-[Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
-<br>
-Find photo locations from uploaded images. 
-
 [Data Project](https://chat.openai.com/g/g-Rwc3ikNU7-data-project)
 <br>
 Assistive data project planning and structure guide. 
@@ -524,6 +520,10 @@ Upload your images and create a collage.
 [Image Spin](https://chat.openai.com/g/g-nomWj9lwj-image-spin)
 <br>
 Rotating GIF image creator.
+
+[Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
+<br>
+Find photo locations from uploaded images. 
 
 [Image Shredder](https://chat.openai.com/g/g-Z7kOpqjss-image-shredder)
 <br>
