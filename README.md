@@ -1504,6 +1504,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 ***
 
+
 > [!TIP]
 > Alex's 10 Favorite GPTs:
 > ```
@@ -1517,6 +1518,16 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > 8. Law Document
 > 9. Physics Simulator
 > 10. Document Design
+> ```
+> Alex's Suggested To-Do List:
+> ```
+> - Expand the chemical universe.
+> - Create or collect and sort data.
+> - Create detailed ASCII text art.
+> - Sort and organize astronomy data.
+> - Search for contests and chellenges.
+> - Expand research using AI.
+> - Be creative.
 > ```
 > Alex's Favorite Prompts:
 > ```
