@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `347` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `346` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -741,10 +741,6 @@ Three-way conversation between one person and two chatbots, Eric and Sasha.
 </details>
 <details><summary>GitHub</summary>
 <br>
-
-[GitHub Repo Card](https://chat.openai.com/g/g-wEMovflCA-repo-card)
-<br>
-Create a GitHub repo card banner image.
 
 [GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
