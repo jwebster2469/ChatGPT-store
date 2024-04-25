@@ -254,6 +254,14 @@ Simulate the experience of managing both small and large businesses.
 <br>
 Find wildlife locations with weather and seasonal insights.
 
+[Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
+<br>
+Assistive step-by-step architectural building planner.
+
+[Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
+<br>
+Project material planning assistant for wood projects. 
+
 [Construction Simulator](https://chat.openai.com/g/g-HJGQpAmKa-construction-simulator)
 <br>
 Residential house construction education visualized with DALL-E 3.
@@ -1324,14 +1332,6 @@ Analyze your lifestyle to find the optimal location to live your life.
 [Road Map](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
 Roadway travel planning and route optimization.
-
-[Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
-<br>
-Assistive step-by-step architectural building planner.
-
-[Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
-<br>
-Project material planning assistant for wood projects. 
 
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
