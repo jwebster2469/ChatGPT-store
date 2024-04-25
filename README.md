@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `348` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `349` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -144,6 +144,10 @@ Build new browser extensions for Chrome, Firefox, Safari, and more.
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
 Locate and participate in current academic research efforts.
+
+[Hypothetical Scenario](https://chat.openai.com/g/g-Ucb7m6O3b-hypothetical-scenario)
+<br>
+Create, simulate and analyze hypothetical scenarios. 
 
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
