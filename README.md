@@ -141,17 +141,9 @@ Plan, create an simulate UI design models and identify UI elements with uploaded
 <br>
 Build new browser extensions for Chrome, Firefox, Safari, and more.
 
-[Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
-<br>
-Assistive step-by-step architectural building planner.
-
 [Open Research](https://chat.openai.com/g/g-MZSs6h8mk-open-research)
 <br>
 Locate and participate in current academic research efforts.
-
-[Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
-<br>
-Project material planning assistant for wood projects. 
 
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
@@ -185,21 +177,9 @@ Assistive robotic design, sensor, and software expert.
 <br>
 Master in Windows OS, providing support and information.
 
-[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
-<br>
-Identify everyday aches and find over-the-counter treatment products.
-
 [Computer Simulator](https://chat.openai.com/g/g-Rc1vOXWRb-computer-simulator)
 <br>
 Create and simulate high-level computer architecture models.
-
-[English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
-<br>
-English pronunciation help, phonetic advice and spoken examples.
-
-[Theory Solver](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
-<br>
-Solve any type of theory, including mathematical, social, and economic theories.
 
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
@@ -208,14 +188,6 @@ Narrate document or image files and search for related information.
 [Mechanical Machine](https://chat.openai.com/g/g-tDh9fIgp2-mechanical-machine)
 <br>
 Assistive mechanical, math, and design expert.
-
-[Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
-<br>
-Find platforms for artists and creators to share work.
-
-[Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
-<br>
-Cannabis planting, growing, and harvesting guide, tailored to your location.
 
 [AI-Powered](https://chat.openai.com/g/g-7cvn180Mm-ai-powered)
 <br>
@@ -359,6 +331,10 @@ Assistive tool for analyzing chemical functionality, efficiency and performance.
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
 Manage, plan, and simulate Arduino and Raspberry Pi projects.
+
+[Theory Solver](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
+<br>
+Solve any type of theory, including mathematical, social, and economic theories.
 
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
@@ -962,7 +938,11 @@ Analyze agricultural crop images, identify different stages of crop growth and d
 
 [Farm Field](https://chat.openai.com/g/g-0SdwLVQqg-farm-field)
 <br>
-Local farm crops, soil, and field optimization specialist. 
+Local farm crops, soil, and field optimization specialist.
+
+[Weed](https://chat.openai.com/g/g-RO1rJLxSm-weed)
+<br>
+Cannabis planting, growing, and harvesting guide, tailored to your location.
 
 [Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
 <br>
@@ -1228,6 +1208,10 @@ Facilitate seamless collaboration, coordination, and communication among team me
 <br>
 Compare design images, descriptions and videos.
 
+[Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
+<br>
+Find platforms for artists and creators to share work.
+
 [Creative Decay](https://chat.openai.com/g/g-EkPxpR9yy-creative-decay)
 <br>
 Learn how to create decayed art and designs. Generate examples using DALL-E 3.
@@ -1340,6 +1324,22 @@ Analyze your lifestyle to find the optimal location to live your life.
 [Road Map](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
 Roadway travel planning and route optimization.
+
+[Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
+<br>
+Assistive step-by-step architectural building planner.
+
+[Wood Builder](https://chat.openai.com/g/g-EFy1XUX9P-wood-builder)
+<br>
+Project material planning assistant for wood projects. 
+
+[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
+<br>
+Identify everyday aches and find over-the-counter treatment products.
+
+[English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
+<br>
+English pronunciation help, phonetic advice and spoken examples.
 
 [Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
 <br>
