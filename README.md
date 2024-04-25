@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `349` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `348` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -463,10 +463,6 @@ Assistive quantum computing simulator using Python.
 [Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
 <br>
 Learn and troubleshoot electricity, with clear explanations and examples.
-
-[Mechanical Simulator](https://chat.openai.com/g/g-jQ8ono7S9-mechanical-simulator)
-<br>
-Mechanical simulation assistant with technical explanations.
 
 [Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
 <br>
