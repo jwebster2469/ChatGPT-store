@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `349` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `350` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -112,6 +112,10 @@ Develop pseudocodes to structure and control programs and algorithms.
 [Deep Learning Simulator](https://chat.openai.com/g/g-PaJTxQKRT-deep-learning-simulator)
 <br>
 Create and simulate deep learning methods.
+
+[Optimal Combination](https://chat.openai.com/g/g-fiUGKO06I-optimal-combination)
+<br>
+Find the best combination of any options.
 
 [C and C++](https://chat.openai.com/g/g-XoOUsuxDW-c-and-c)
 <br>
