@@ -1,8 +1,8 @@
-![Ancient Anatomy Archeology](https://github.com/sourceduty/ChatGPT/assets/123030236/e2680e16-e665-44e8-b120-4069d856f775)
+![Island Water](https://github.com/sourceduty/ChatGPT/assets/123030236/9f078627-7ccd-4340-b2a5-ee68c59646b4)
 
 <div align="center">
 
-| Sourceduty currently has `350` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `351` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1122,6 +1122,10 @@ Industrial factory process structure diagram simulator.
 [Idea Analyst](https://chat.openai.com/g/g-HkzcdWS1B-idea-analyst)
 <br>
 Business idea and pitch analyst with simulated approvals and rejections.
+
+[Business Negotiation](https://chat.openai.com/g/g-UmMVTKc27-business-negotiation)
+<br>
+Plan and simulate business negotiations. 
 
 [Corporation Planner](https://chat.openai.com/g/g-i960d9ZnH-corporation-planner)
 <br>
