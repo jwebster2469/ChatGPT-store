@@ -1,4 +1,4 @@
-![GitHub Repo Sticker](https://github.com/sourceduty/ChatGPT/assets/123030236/82c59f41-6171-4c2e-bc8e-05d3e20b7fbc)
+![Ancient Anatomy Archeology](https://github.com/sourceduty/ChatGPT/assets/123030236/e2680e16-e665-44e8-b120-4069d856f775)
 
 <div align="center">
 
