@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `355` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `356` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1138,6 +1138,10 @@ Industrial factory process structure diagram simulator.
 [Idea Analyst](https://chat.openai.com/g/g-HkzcdWS1B-idea-analyst)
 <br>
 Business idea and pitch analyst with simulated approvals and rejections.
+
+[Business Marketizer](https://chat.openai.com/g/g-7fPzUZGGE-business-marketizer)
+<br>
+Product and service marketing specialist.
 
 [Business Negotiation](https://chat.openai.com/g/g-UmMVTKc27-business-negotiation)
 <br>
