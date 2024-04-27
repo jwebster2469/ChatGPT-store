@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `356` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `357` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -736,6 +736,10 @@ Conversational chatbot using Canadian slang.
 [Artificial Group Chat](https://chat.openai.com/g/g-r7eMW75w4-artificial-group-chat)
 <br>
 Three-way conversation between one person and two chatbots, Eric and Sasha.
+
+[Chat Simulator](https://chat.openai.com/g/g-pVviDoA7V-chat-simulator)
+<br>
+Create and control different types of social situations using virtual chatbots. 
 
 <br>
 </details>
