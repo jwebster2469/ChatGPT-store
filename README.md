@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `357` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `358` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -132,6 +132,10 @@ Calculate up-to-date statistics for each year and 365 days. Print the Calendar S
 [Timeline Math](https://chat.openai.com/g/g-o6TBa34am-timeline-math)
 <br>
 Calculate timeline statistics with different year amounts. Print a Timeline Statistics Report.
+
+[Trading Bot Simulator](https://chat.openai.com/g/g-OCgWKt0lF-trading-bot-simulator)
+<br>
+Simulate trades between virtual chatbots.
 
 [Software Guide](https://chat.openai.com/g/g-M2aObBJZt-software-guide)
 <br>
