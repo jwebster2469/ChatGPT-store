@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `354` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `355` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1029,6 +1029,10 @@ Assistive contrafact creation for songs and melodies.
 </details>
 <details><summary>Social Media & Social Tools</summary>
 <br>
+
+[Decision Template](https://chat.openai.com/g/g-ynTJkhacQ-decision-template)
+<br>
+Plan and create decision templates.
 
 [Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator)
 <br>
