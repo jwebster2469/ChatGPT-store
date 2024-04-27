@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `352` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `353` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -492,6 +492,10 @@ Identify tree leaves and estimate seasonal growth.
 </details>
 <details><summary>Image & GIF</summary>
 <br>
+
+[Image Caption](https://chat.openai.com/g/g-nBm9dyHDm-image-caption)
+<br>
+Add captions to images using Python.
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
