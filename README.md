@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `353` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `354` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -898,6 +898,10 @@ Convert simple documents and notes into supported legal terminology.
 [Court Simulator](https://chat.openai.com/g/g-e4ANQnhYr-court-simulator)
 <br>
 Examine and simulate any level of courtroom etiquette and procedures in any country.
+
+[Diplomatic Simulator](https://chat.openai.com/g/g-xhsONox3U-diplomatic-simulator)
+<br>
+Simulate diplomatic interactions for international relations.
 
 [Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
 <br>
