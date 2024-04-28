@@ -89,9 +89,9 @@ Create, plan and simulate Cython projects.
 <details><summary>Data & Programming</summary>
 <br>
 
-[Data Cleaner & Processor](https://chat.openai.com/g/g-z6S0qcei3-data-cleaner-processor)
+[Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 <br>
-Assistive data cleaning organization and analysis tool.
+Assistive data generating, organization and analysis tool.
 
 [Open Source](https://chat.openai.com/g/g-ee56AyCYj-open-source)
 <br>
