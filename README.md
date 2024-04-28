@@ -1669,6 +1669,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [GPT Store Monetization](https://help.openai.com/en/articles/9119255-monetizing-your-gpt-faq)
 
+[AI Simulation](https://github.com/sourceduty/AI_Simulation)
+
 <br>
 </details>
 
