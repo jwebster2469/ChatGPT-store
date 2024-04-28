@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `360` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `361` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1190,6 +1190,10 @@ Assistive custom GPT business communication guide.
 [Sales Pitch](https://chat.openai.com/g/g-JyOxAFTUE-sales-pitch)
 <br>
 Develop and sell professional sales pitches.
+
+[Professionalize](https://chat.openai.com/g/g-MCkfPP62P-professionalize)
+<br>
+Professionality training for workplaces.
 
 [Data Worker](https://chat.openai.com/g/g-Dc5tAAoW6-data-worker)
 <br>
