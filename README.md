@@ -1659,6 +1659,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Custom GPT Apps](https://github.com/sourceduty/Custom_GPT_Apps)
 
+[GPT Store Monetization](https://help.openai.com/en/articles/9119255-monetizing-your-gpt-faq)
+
 <br>
 </details>
 
