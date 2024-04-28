@@ -1,4 +1,4 @@
-![Island Water](https://github.com/sourceduty/ChatGPT/assets/123030236/9f078627-7ccd-4340-b2a5-ee68c59646b4)
+![GPT Builder](https://github.com/sourceduty/ChatGPT/assets/123030236/4b1aef08-43f9-4048-a18d-2f54805c628c)
 
 <div align="center">
 
