@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `361` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `362` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -331,6 +331,10 @@ National environmental disaster emergency planning and simulation.
 </details>
 <details><summary>Science & Electronics</summary>
 <br>
+
+[Experiment Generator](https://chat.openai.com/g/g-CyF0pXfLi-experiment-generator)
+<br>
+Generate new chemical and code science experiments.
 
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
 <br>
