@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `362` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `363` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -241,6 +241,10 @@ Expand simple text searches with multiple related search options.
 </details>
 <details><summary>Education</summary>
 <br>
+
+[Computer User](https://chat.openai.com/g/g-0RdZZy4l9-computer-user)
+<br>
+Improve the usage and management of personal or business computers using any OS.
 
 [Climate Reactor](https://chat.openai.com/g/g-KLsLhcI9B-climate-reactor)
 <br>
