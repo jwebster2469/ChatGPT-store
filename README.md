@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `359` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `360` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1037,6 +1037,10 @@ Assistive contrafact creation for songs and melodies.
 </details>
 <details><summary>Social Media & Social Tools</summary>
 <br>
+
+[Social Influence Simulator](https://chat.openai.com/g/g-J0k1yLqEH-social-influence-simulator)
+<br>
+Simulate social influence using virtual chatbots.
 
 [Decision Template](https://chat.openai.com/g/g-ynTJkhacQ-decision-template)
 <br>
