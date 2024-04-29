@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `363` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `364` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -161,10 +161,6 @@ Create, simulate and analyze hypothetical scenarios.
 <br>
 Simply rename bulk uploaded files.
 
-[Research Helper](https://chat.openai.com/g/g-4S9pOnFTb-research-helper)
-<br>
-Assistive research repository and project specialist.
-
 [Error Planning](https://chat.openai.com/g/g-u5u6whfZm-error-planning)
 <br>
 Create and simulate errors in plans or procedures and create repair responses.
@@ -193,10 +189,6 @@ Master in Windows OS, providing support and information.
 <br>
 Create and simulate high-level computer architecture models.
 
-[Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
-<br>
-Narrate document or image files and search for related information.
-
 [Mechanical Machine](https://chat.openai.com/g/g-tDh9fIgp2-mechanical-machine)
 <br>
 Assistive mechanical, math, and design expert.
@@ -217,30 +209,38 @@ End-to-end software process operation diagrams.
 <br>
 Spatial building and property data comparisons.
 
-[News Prompt](https://chat.openai.com/g/g-8KpztE5dz-news-prompt)
-<br>
-Combined daily reporting for local, national and international news.
-
 [Predict Futures](https://chat.openai.com/g/g-L2gua0rf7-predict-futures)
 <br>
 Predict future scenarios based on internet research. 
-
-[Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
-<br>
-Assistive plain text mind map creator.
 
 [File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
 <br>
 Upload and generate metadata for image and text files.
 
+<br>
+</details>
+<details><summary>Research & Education</summary>
+<br>
+
+[Related Information](https://chat.openai.com/g/g-GBDORF9nD-related-information)
+<br>
+Find related information in projects, repos, and research.
+
+[Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
+<br>
+Assistive plain text mind map creator.
+
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
 Expand simple text searches with multiple related search options. 
 
+[Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
-</details>
-<details><summary>Education</summary>
+Narrate document or image files and search for related information.
+
+[Research Helper](https://chat.openai.com/g/g-4S9pOnFTb-research-helper)
 <br>
+Assistive research repository and project specialist.
 
 [Computer User](https://chat.openai.com/g/g-0RdZZy4l9-computer-user)
 <br>
@@ -1045,6 +1045,10 @@ Assistive contrafact creation for songs and melodies.
 </details>
 <details><summary>Social Media & Social Tools</summary>
 <br>
+
+[News Prompt](https://chat.openai.com/g/g-8KpztE5dz-news-prompt)
+<br>
+Combined daily reporting for local, national and international news.
 
 [Social Influence Simulator](https://chat.openai.com/g/g-J0k1yLqEH-social-influence-simulator)
 <br>
