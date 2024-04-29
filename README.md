@@ -702,7 +702,7 @@ Find and track the lowest prices for products.
 
 [Gift Radar](https://chat.openai.com/g/g-DEy4xd8xr-gift-radar)
 <br>
-Search and find the perfect gifts. 
+Search and find perfect gifts.
 
 [Grocery List](https://chat.openai.com/g/g-PbSdbwbnd-grocery-list)
 <br>
