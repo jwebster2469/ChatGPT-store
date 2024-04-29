@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `368` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `369` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -92,6 +92,10 @@ Create, plan and simulate Cython projects.
 [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 <br>
 Assistive data generating, organization and analysis tool.
+
+[Code Challenge](https://chat.openai.com/g/g-d1Hhx21sN-code-challenge)
+<br>
+Develop, plan and create code challenges in any programming language. 
 
 [Open Source](https://chat.openai.com/g/g-ee56AyCYj-open-source)
 <br>
