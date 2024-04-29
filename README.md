@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `367` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `368` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -273,10 +273,6 @@ Learn and relearn any grade school subject.
 [Business Simulator](https://chat.openai.com/g/g-7cv0RgBVm-business-simulator)
 <br>
 Simulate the experience of managing both small and large businesses.
-
-[Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
-<br>
-Find wildlife locations with weather and seasonal insights.
 
 [Building Plan](https://chat.openai.com/g/g-csXtuEdzH-building-plan)
 <br>
@@ -1400,6 +1396,14 @@ Convert text into creative ASCII art.
 </details>
 <details><summary>Travel & Lifestyle</summary>
 <br>
+
+[Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
+<br>
+Find wildlife locations with weather and seasonal insights.
+
+[Fitness Challenge](https://chat.openai.com/g/g-px6ZBApzp-fitness-challenge)
+<br>
+Develop, plan and create physical exercise challenges.
 
 [Activity Balancer](https://chat.openai.com/g/g-xV6ASEJpI-activity-balancer)
 <br>
