@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `364` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `365` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -241,6 +241,10 @@ Narrate document or image files and search for related information.
 [Research Helper](https://chat.openai.com/g/g-4S9pOnFTb-research-helper)
 <br>
 Assistive research repository and project specialist.
+
+[Internet Simulator](https://chat.openai.com/g/g-0lDhHX6AP-internet-simulator)
+<br>
+Simulate internet connections, routers and related networking technologies. 
 
 [Computer User](https://chat.openai.com/g/g-0RdZZy4l9-computer-user)
 <br>
