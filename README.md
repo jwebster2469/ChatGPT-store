@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `365` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `366` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -108,6 +108,10 @@ Assistive data project planning and structure guide.
 [Pseudocode Architect](https://chat.openai.com/g/g-cl61v3kqg-pseudocode-architect)
 <br>
 Develop pseudocodes to structure and control programs and algorithms.
+
+[Software Intelligence](https://chat.openai.com/g/g-46TRn9JOj-software-intelligence)
+<br>
+Evaluate the intelligence required for any software.
 
 [Deep Learning Simulator](https://chat.openai.com/g/g-PaJTxQKRT-deep-learning-simulator)
 <br>
