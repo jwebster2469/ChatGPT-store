@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `374` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `375` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1048,6 +1048,10 @@ Visualize song lyrics in a collage image using DALL-E 3.
 [Song Collab](https://chat.openai.com/g/g-TO8wECTW5-collaboration)
 <br>
 Line-by-line music lyric collaborator.
+
+[Music Mixology](https://chat.openai.com/g/g-Dx8EfEK8O-music-mixology)
+<br>
+Assistive music mixing guide.
 
 [Song Parody](https://chat.openai.com/g/g-90VfXWnFJ-song-parody)
 <br>
