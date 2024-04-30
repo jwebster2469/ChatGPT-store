@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `371` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `372` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -261,6 +261,10 @@ Simulate internet connections, routers and related networking technologies.
 [Computer User](https://chat.openai.com/g/g-0RdZZy4l9-computer-user)
 <br>
 Improve the usage and management of personal or business computers using any OS.
+
+[Business Research](https://chat.openai.com/g/g-G2UxJHRgU-business-research)
+<br>
+Research any type and area of business.
 
 [Climate Reactor](https://chat.openai.com/g/g-KLsLhcI9B-climate-reactor)
 <br>
