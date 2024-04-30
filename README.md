@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `372` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `373` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1020,6 +1020,10 @@ Create and test cook custom food recipes.
 </details>
 <details><summary>Audio & Music</summary>
 <br>
+
+[Playlist Generator](https://chat.openai.com/g/g-LWZsOgU8X-playlist-generator)
+<br>
+Generate suggested playlists for any genre of music. 
 
 [Guitar Tab Writer](https://chat.openai.com/g/g-MQl815flm-guitar-tab-writer)
 <br>
