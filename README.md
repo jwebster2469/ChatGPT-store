@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `370` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `371` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -237,6 +237,10 @@ Find related information in projects, repos, and research.
 [Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
 <br>
 Assistive plain text mind map creator.
+
+[Unknown Research](https://chat.openai.com/g/g-fcU6hSD4g-unknown-research)
+<br>
+Assistive guide for unknown and new science research.
 
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
