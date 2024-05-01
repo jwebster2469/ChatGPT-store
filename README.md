@@ -537,6 +537,10 @@ Identify tree leaves and estimate seasonal growth.
 <br>
 Add captions to images using Python.
 
+[Not Sure Meme](https://chat.openai.com/g/g-v5Fj4kvL2-not-sure-meme)
+<br>
+Assisted creation of NOT SURE IF memes using Python.
+
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
 Replicate images in different styles using DALL-E 3.
@@ -1530,10 +1534,6 @@ Instructional video creation assistant.
 </details>
 <details><summary>Fun & Games</summary>
 <br>
-
-[Not Sure Meme](https://chat.openai.com/g/g-v5Fj4kvL2-not-sure-meme)
-<br>
-Assisted creation of NOT SURE IF memes using Python.
 
 [Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
 <br>
