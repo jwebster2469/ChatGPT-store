@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `375` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `376` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -248,7 +248,11 @@ Assistive guide for unknown and new science research.
 
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
-Expand simple text searches with multiple related search options. 
+Expand simple text searches with multiple related search options.
+
+[Smartness](https://chat.openai.com/g/g-9pkixnTVT-smartness)
+<br>
+Compare intelligence of public figures.
 
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
