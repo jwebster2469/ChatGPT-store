@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `380` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `381` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -942,6 +942,10 @@ Intelligent note recording assistant.
 </details>
 <details><summary>Government & Law</summary>
 <br>
+
+[Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
+<br>
+Simulate political campaigns for any country and political party.
 
 [Law Document](https://chat.openai.com/g/g-uDaJ960Ar-law-document)
 <br>
