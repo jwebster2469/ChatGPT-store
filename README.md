@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `377` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `378` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1323,6 +1323,10 @@ Facilitate seamless collaboration, coordination, and communication among team me
 </details>
 <details><summary>Art & Design</summary>
 <br>
+
+[3D Marketability](https://chat.openai.com/g/g-CBEjzqq1V-3d-marketability)
+<br>
+Analyze 3D models for marketability.
 
 [Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
 <br>
