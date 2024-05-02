@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `381` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `382` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -375,6 +375,10 @@ Generate new chemical and code science experiments.
 [Hack & Mod](https://chat.openai.com/g/g-iCi2ECQ54-hack-mod)
 <br>
 Hardware, software and firmware modification specialist.
+
+[Theoretical Science Simulator](https://chat.openai.com/g/g-5tJWfchOR-theoretical-science-simulator)
+<br>
+Simulate theoretical science concepts.
 
 [Hardware Diagnostics](https://chat.openai.com/g/g-k3HPxmIXg-hardware-diagnostics)
 <br>
