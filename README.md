@@ -1336,9 +1336,9 @@ Facilitate seamless collaboration, coordination, and communication among team me
 <details><summary>Art & Design</summary>
 <br>
 
-[3D Marketability](https://chat.openai.com/g/g-CBEjzqq1V-3d-marketability)
+[Design Marketability](https://chat.openai.com/g/g-CBEjzqq1V-design-marketability)
 <br>
-Analyze 3D models for marketability.
+Analyze designs for marketability.
 
 [Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
 <br>
