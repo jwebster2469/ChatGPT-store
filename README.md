@@ -1748,8 +1748,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 <details><summary>OpenAI, AGI and ASI</summary>
 <br>
 
-![Not_Sure_If_OPENAI_or_OPENAGI](https://github.com/sourceduty/ChatGPT/assets/123030236/47f77dc5-baf9-4b52-921f-3527e08804c2)
-
 OpenAI, the organization behind ChatGPT, focuses heavily on pushing the boundaries of what AI can achieve, with a long-term goal of steering towards AGI in a safe and beneficial manner. Achieving AGI involves overcoming several major challenges. One such challenge is the ability of AGI to generalize knowledge across different contexts without extensive retraining. This requires a shift from the pattern recognition capabilities of current AI systems to a more profound capability for abstract thinking and complex problem-solving.
 
 While OpenAI is at the forefront of this research, the transition from AI to AGI also poses substantial ethical and safety considerations. OpenAI emphasizes the importance of developing AGI in a way that aligns with human values and societal needs, aiming to mitigate risks associated with powerful AI technologies. The path towards AGI is fraught with both technical challenges and profound implications, making it a pivotal focus of AI research where organizations like OpenAI play a crucial role. The timeline for achieving AGI remains uncertain, dependent on breakthroughs across various domains of AI research.
