@@ -1775,7 +1775,7 @@ ChatGPT is an example of Artificial General Intelligence (AGI), which refers to 
 <details><summary>Custom GPT Market</summary>
 <br>
 
-As of early 2024, the GPT store has reported that over 3 million custom GPTs have been created. This number reflects the rapid expansion and diversification of the custom GPT market, showing a wide range of applications and user engagement across various sectors.
+As of early 2024, the GPT store, which launced in April, has reported that over 3 million custom GPTs have been created. This number reflects the rapid expansion and diversification of the custom GPT market, showing a wide range of applications and user engagement across various sectors. In comparison, the Google Play Store, which has been in operation since March 6, 2012, hosts about 3.95 million apps as of 2024.
 
 The custom GPT market is dynamic and expansive, driven by a diversity of specialized applications that cater to specific needs across various sectors. Innovations continue to emerge in areas such as content summarization, SEO optimization, and creative design​. Additionally, platforms like the GPT Store support the economic ecosystem for these AI models, allowing creators to monetize and share their custom GPTs, thus facilitating an environment of ongoing development and application-specific tailoring​.
 
