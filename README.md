@@ -95,7 +95,7 @@ Develop and refine automated process models.
 
 [Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
 <br>
-Develop automated decision models. 
+Develop automated personal and professional decision models.
 
 [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 <br>
