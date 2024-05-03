@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `383` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `384` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -515,6 +515,10 @@ Create, predict and simulate successful or unsuccessful chemical reactions.
 [Quantum Simulator](https://chat.openai.com/g/g-pfYdV864P-quantum-simulator)
 <br>
 Assistive quantum computing simulator using Python.
+
+[Quantum Chemical Simulator](https://chat.openai.com/g/g-VBsCXIwli-quantum-chemical-simulator)
+<br>
+Assistive quantum chemistry simulation expert.
 
 [Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
 <br>
