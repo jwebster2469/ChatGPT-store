@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `384` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `385` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -387,6 +387,10 @@ Create, simulate and analyze hypothetical computer hardware setup functionality 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
+
+[Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
+<br>
+Assistive multiphysics calculations and simulations.
 
 [Aerospace Simulator](https://chat.openai.com/g/g-s2W0IfFR6-aerospace-simulator)
 <br>
