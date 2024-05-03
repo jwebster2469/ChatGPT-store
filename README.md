@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `385` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `386` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1367,6 +1367,10 @@ Find platforms for artists and creators to share work.
 [Inspiration Simulator](https://chat.openai.com/g/g-DR4W6zJTh-inspiration-simulator)
 <br>
 Simulate creative inspiration using virtual chatbots.
+
+[Architecture Diagram](https://chat.openai.com/g/g-gqbA5hlb2-architecture-diagram)
+<br>
+Plan and create text-based system, architecture and property layout diagrams.
 
 [Creative Decay](https://chat.openai.com/g/g-EkPxpR9yy-creative-decay)
 <br>
