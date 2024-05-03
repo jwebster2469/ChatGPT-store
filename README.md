@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `382` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `383` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -825,6 +825,10 @@ Anonymize and redact uploaded text document files.
 [Alternate Reality](https://chat.openai.com/g/g-dZJvMHoUY-alternate-reality)
 <br>
 Create alternate reality stories and images.
+
+[Retrowriter](https://chat.openai.com/g/g-WRBOBHtSg-retrowriter)
+<br>
+Convert modern writing styles into writing styles from history in any language and location.
 
 [Handwriting](https://chat.openai.com/g/g-uidqnLYiI-handwriting)
 <br>
