@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `387` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `388` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1234,6 +1234,10 @@ Plan, create and simulate comprehensive business models.
 [Factory Simulator](https://chat.openai.com/g/g-tYRlt7b2g-factory-simulator)
 <br>
 Industrial factory process structure diagram simulator.
+
+[Business Automation](https://chat.openai.com/g/g-Y2GamnRIL-business-automation)
+<br>
+Develop custom automated business models.
 
 [Professional Value](https://chat.openai.com/g/g-Ev1iq2hTq-professional-value)
 <br>
