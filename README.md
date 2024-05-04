@@ -115,7 +115,7 @@ Plan, create and simulate models for different types of Android apps.
 
 [Coworking Automation](https://chat.openai.com/g/g-IsgXMZS6N-coworking-automaton)
 <br>
-Customize and control multiple correlating and coworking bot simulations.
+Customize and control multiple correlating and coworking bots in simulations.
 
 [Data Project](https://chat.openai.com/g/g-Rwc3ikNU7-data-project)
 <br>
