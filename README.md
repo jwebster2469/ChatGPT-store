@@ -1703,7 +1703,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > 5. Python Simulator
 > 6. Electronic Simulator
 > 7. Image Emulator
-> 8. Law Document
+> 8. Information & Data Quality
 > 9. Physics Simulator
 > 10. Document Design
 > ```
