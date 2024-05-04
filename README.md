@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `394` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `395` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -148,6 +148,10 @@ Create and simulate deep learning methods.
 [Optimal Combination](https://chat.openai.com/g/g-fiUGKO06I-optimal-combination)
 <br>
 Find the best combination of any options.
+
+[Programming Language Writer](https://chat.openai.com/g/g-sl0v3JhDZ-programming-language-writer)
+<br>
+Develop new programming languages.
 
 [C and C++](https://chat.openai.com/g/g-XoOUsuxDW-c-and-c)
 <br>
