@@ -151,7 +151,7 @@ Find the best combination of any options.
 
 [Programming Language Writer](https://chat.openai.com/g/g-sl0v3JhDZ-programming-language-writer)
 <br>
-Develop new programming languages.
+Develop new programming languages and improve old programming languages.
 
 [C and C++](https://chat.openai.com/g/g-XoOUsuxDW-c-and-c)
 <br>
