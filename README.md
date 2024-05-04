@@ -91,7 +91,7 @@ Create, plan and simulate Cython projects.
 
 [Information & Data Quality](https://chat.openai.com/g/g-LdgV8RLVs-information-data-quality)
 <br>
-Analyze and assess information and data quality in various formats.
+Assess information and data quality in various formats.
 
 [Process Automation](https://chat.openai.com/g/g-BCcGUvggx-process-automation)
 <br>
