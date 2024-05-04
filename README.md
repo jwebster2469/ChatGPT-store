@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `390` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `391` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -112,6 +112,10 @@ Locate and develop public open-source code projects.
 [Android Application](https://chat.openai.com/g/g-Dg0HK37Q1-android-application)
 <br>
 Plan, create and simulate models for different types of Android apps.
+
+[Coworking Automation](https://chat.openai.com/g/g-IsgXMZS6N-coworking-automaton)
+<br>
+Customize and control multiple correlating and coworking bot simulations.
 
 [Data Project](https://chat.openai.com/g/g-Rwc3ikNU7-data-project)
 <br>
