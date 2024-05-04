@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `393` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `394` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1047,6 +1047,10 @@ Government types, laws, and legislatures.
 </details>
 <details><summary>Food & Farming</summary>
 <br>
+
+[Plant Food Creator](https://chat.openai.com/g/g-zlXPcBNm1-plant-food-creator)
+<br>
+Assistive plant-based food development.
 
 [Food Balancer](https://chat.openai.com/g/g-eCDqmhGSI-food-balancer)
 <br>
