@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `391` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `392` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -112,6 +112,10 @@ Locate and develop public open-source code projects.
 [Android Application](https://chat.openai.com/g/g-Dg0HK37Q1-android-application)
 <br>
 Plan, create and simulate models for different types of Android apps.
+
+[Reverse Engineer](https://chat.openai.com/g/g-R0KIyF4OG-reverse-engineer)
+<br>
+Reverse engineer devices, processes, systems and software files.
 
 [Coworking Automation](https://chat.openai.com/g/g-IsgXMZS6N-coworking-automaton)
 <br>
