@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `400` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `401` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -849,6 +849,10 @@ Assistive GitHub readme file creator.
 </details>
 <details><summary>Writing & Reading</summary>
 <br>
+
+[Document Template](https://chat.openai.com/g/g-PnWt2WWvb-document-template)
+<br>
+Develop new document templates and templates from any uploaded document.
 
 [Text Emulator](https://chat.openai.com/g/g-eeQM2XDch-text-emulator)
 <br>
