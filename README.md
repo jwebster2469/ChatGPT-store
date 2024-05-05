@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `399` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `400` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -261,6 +261,10 @@ Upload and generate metadata for image and text files.
 </details>
 <details><summary>Research & Education</summary>
 <br>
+
+[Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz)
+<br>
+Create new fill-in-the-blank quiz challenges. Use uploaded text files.
 
 [Math Model Simulator](https://chat.openai.com/g/g-NRMiEHlzS-math-model-simulator)
 <br>
