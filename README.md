@@ -1551,7 +1551,7 @@ Roadway travel planning and route optimization.
 
 [Camping Compass](https://chat.openai.com/g/g-bAIziZAk8-camping-compass)
 <br>
-Find local camping spots for your tent, RV or cabin rental.
+Find local camping spots for your tent, RV and cabin or cottage rental.
 
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
