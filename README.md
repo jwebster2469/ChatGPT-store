@@ -1823,6 +1823,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [AI Simulation](https://github.com/sourceduty/AI_Simulation)
 
+[DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
+
 <br>
 </details>
 <details><summary>OpenAI, AGI and ASI</summary>
