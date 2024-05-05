@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `401` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `402` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1548,6 +1548,10 @@ Analyze your lifestyle to find the optimal location to live your life.
 [Road Map](https://chat.openai.com/g/g-iO18HeHn2-maps-guide)
 <br>
 Roadway travel planning and route optimization.
+
+[Camping Compass](https://chat.openai.com/g/g-bAIziZAk8-camping-compass)
+<br>
+Find local camping spots for your tent, RV or cabin rental.
 
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
