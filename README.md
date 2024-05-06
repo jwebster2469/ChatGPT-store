@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `402` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `403` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1074,7 +1074,11 @@ Balance food and meals for an optimal diet.
 
 [Recipe Optimizer](https://chat.openai.com/g/g-RBkBOAyNN-recipe-optimizer)
 <br>
-Assistive food tool for analyzing recipe functionality, efficiency and performance. 
+Assistive food tool for analyzing recipe functionality, efficiency and performance.
+
+[Ecogastronomy](https://chat.openai.com/g/g-gnLAEFczY-ecogastronomy)
+<br>
+Assistive ecogastronomy food expert.
 
 [Crop Analyzer](https://chat.openai.com/g/g-tsl3ADsYf-crop-analyzer)
 <br>
