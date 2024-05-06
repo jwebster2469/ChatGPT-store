@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `405` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `406` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -18,6 +18,10 @@ Inquire by email to buy any of Sourceduty's custom GPTs. Ownership documentation
 
 <details><summary>ChatGPT</summary>
 <br>
+
+[Custom GPT Analyzer](https://chatgpt.com/g/g-IJ95hRgWU-custom-gpt-analyzer)
+<br>
+Analyze and assess custom GPTs. Upload screenshot images and text files.
 
 [ChatGPT Cheats](https://chat.openai.com/g/g-Zvkwt2Zkr-chatgpt-cheats)
 <br>
