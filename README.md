@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `403` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `404` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1165,6 +1165,10 @@ Combined daily reporting for local, national and international news.
 [Social Influence Simulator](https://chat.openai.com/g/g-J0k1yLqEH-social-influence-simulator)
 <br>
 Simulate social influence using virtual chatbots.
+
+[Drama Simulator](https://chatgpt.com/g/g-dwGLkpKB8-drama-simulator)
+<br>
+Create and simulate drama in performances such as acting, plays, operas, miming, and ballets.
 
 [Decision Template](https://chat.openai.com/g/g-ynTJkhacQ-decision-template)
 <br>
