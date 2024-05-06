@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `404` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `405` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1572,6 +1572,10 @@ English pronunciation help, phonetic advice and spoken examples.
 [Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
 <br>
 Assistive outdoor survival navigation, food and planning guide.
+
+[Entertainment Engineer](https://chatgpt.com/g/g-yo5obiKqN-entertainment-engineer)
+<br>
+Plan and develop professional entertainment events and activities.
 
 [Fishing Expert](https://chat.openai.com/g/g-LghRwjwYY-fishing-expert)
 <br>
