@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `408` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `409` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1278,6 +1278,10 @@ Plan, create and simulate different types of industry models.
 [Job Generator](https://chat.openai.com/g/g-OEtdbwNK8-job-generator)
 <br>
 Generate new digital job positions and task ideas.
+
+[Marketing Distributor](https://chatgpt.com/g/g-6lQOr4lPU-marketing-distributor)
+<br>
+Plan marketing offer distribution by letter mail and email.
 
 [Work Distributor](https://chatgpt.com/g/g-DkRscdwIo-work-distributor)
 <br>
