@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `409` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `410` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1641,6 +1641,10 @@ Organize essential travel guest info.
 </details>
 <details><summary>YouTube</summary>
 <br>
+
+[Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)
+<br>
+Plan and develop MrBeast YouTube video challenges.
 
 [Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
 <br>
