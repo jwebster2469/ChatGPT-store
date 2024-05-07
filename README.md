@@ -1776,7 +1776,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > 6. Electronic Simulator
 > 7. Image Emulator
 > 8. Information & Data Quality
-> 9. Physics Simulator
+> 9. Research Generator
 > 10. Document Design
 > ```
 > Alex's Suggested To-Do List:
