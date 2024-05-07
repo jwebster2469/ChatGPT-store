@@ -1281,7 +1281,7 @@ Generate new digital job positions and task ideas.
 
 [Marketing Distributor](https://chatgpt.com/g/g-6lQOr4lPU-marketing-distributor)
 <br>
-Plan marketing offer distribution by letter mail and email.
+Plan optimal marketing offer distribution by letter mail and email.
 
 [Work Distributor](https://chatgpt.com/g/g-DkRscdwIo-work-distributor)
 <br>
