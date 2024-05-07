@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `411` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `412` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -108,6 +108,10 @@ Develop automated personal and professional decision models.
 [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 <br>
 Assistive data generating, organization and analysis tool.
+
+[Algorithm Generator](https://chatgpt.com/g/g-tGwcip6ig-algorithm-generator)
+<br>
+Assistive algorithm generation, organization and analysis tool.
 
 [Code Challenge](https://chat.openai.com/g/g-d1Hhx21sN-code-challenge)
 <br>
