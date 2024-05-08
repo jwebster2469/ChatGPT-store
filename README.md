@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `414` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `415` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1189,6 +1189,10 @@ Create and simulate drama in performances such as acting, plays, operas, miming,
 [Decision Template](https://chat.openai.com/g/g-ynTJkhacQ-decision-template)
 <br>
 Plan and create decision templates.
+
+[Event Generator](https://chatgpt.com/g/g-wUS6yHnKU-event-generator)
+<br>
+Generate new event ideas in any language and location.
 
 [Event Model Simulator](https://chat.openai.com/g/g-Zr15o3jSa-event-model-simulator)
 <br>
