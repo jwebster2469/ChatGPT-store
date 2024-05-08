@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `415` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `416` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1572,6 +1572,10 @@ Convert text into creative ASCII art.
 </details>
 <details><summary>Travel & Lifestyle</summary>
 <br>
+
+[Tourism Analyst](https://chatgpt.com/g/g-XPRqAmK9N-tourism-analyst)
+<br>
+Analyze travel or tourism in any language and location.
 
 [Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
 <br>
