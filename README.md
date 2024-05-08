@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `413` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `414` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1286,6 +1286,10 @@ Plan, create and simulate different types of industry models.
 [Job Generator](https://chat.openai.com/g/g-OEtdbwNK8-job-generator)
 <br>
 Generate new digital job positions and task ideas.
+
+[Economic Simulator](https://chatgpt.com/g/g-9Kp5WaG0R-economic-simulator)
+<br>
+Simulate economic agents in various types of economies.
 
 [Attribute Analyzer](https://chatgpt.com/g/g-Cq6jMibsJ-attribute-analyzer)
 <br>
