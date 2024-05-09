@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `417` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `418` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1278,6 +1278,10 @@ Translate between Gen X, Y, Z slang and plain English.
 </details>
 <details><summary>Business</summary>
 <br>
+
+[Brand Consistency](https://chatgpt.com/g/g-UoacuXroZ-brand-consistency)
+<br>
+Search across digital platforms for business and brand consistency.
 
 [Team, Group & Movie Cast Optimizer](https://chat.openai.com/g/g-BuHUYVEIK-team-group-movie-cast-optimizer)
 <br>
