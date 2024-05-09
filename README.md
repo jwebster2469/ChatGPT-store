@@ -1,4 +1,4 @@
-![GPT Builder](https://github.com/sourceduty/ChatGPT/assets/123030236/4b1aef08-43f9-4048-a18d-2f54805c628c)
+![House Cat Rider](https://github.com/sourceduty/ChatGPT/assets/123030236/a33f6b11-472c-4999-b0b7-06f117731f59)
 
 <div align="center">
 
