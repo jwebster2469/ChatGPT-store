@@ -265,9 +265,9 @@ Spatial building and property data comparisons.
 <br>
 Predict future scenarios based on internet research. 
 
-[File Metadata](https://chat.openai.com/g/g-9qNtgtKFT-file-metadata)
+[Metadata Generator](https://chatgpt.com/g/g-9qNtgtKFT-metadata-generator)
 <br>
-Upload and generate metadata for image and text files.
+Generate and analyze metadata using uploaded files. Create knowledge tags and metainformation reports.
 
 <br>
 </details>
