@@ -267,7 +267,7 @@ Predict future scenarios based on internet research.
 
 [Metadata Generator](https://chatgpt.com/g/g-9qNtgtKFT-metadata-generator)
 <br>
-Generate and analyze metadata using uploaded files. Create knowledge tags and metainformation reports.
+Generate and analyze metadata using uploaded files. Create knowledge tags and meta-information reports.
 
 <br>
 </details>
