@@ -1933,6 +1933,8 @@ The custom GPT market is dynamic and expansive, driven by a diversity of special
 
 Given the ongoing development and the broadening scope of applications, the market for custom GPTs does not appear to be oversaturated. Instead, it reflects a growing sector where demand continues to generate new technological advancements and business opportunities. This trend is underscored by the introduction of new GPTs designed for distinct functions, from graphic design with tools like DALL-E and Canva to educational and business optimizations, indicating a market that is far from reaching its peak and still ripe with opportunities for innovation and expansion.
 
+[Low intelligence](https://github.com/sourceduty/AI) GPT models have gained significant popularity, primarily due to their accessibility and cost-effectiveness.
+
 <br>
 </details>
 <details><summary>Alex's Notes</summary>
@@ -1943,8 +1945,6 @@ Given the ongoing development and the broadening scope of applications, the mark
 > *"Developing new GPTs to sell to other ChatGPT users is challenging within the overcrowded market and comes with a risk of failure when GPTs are unable to captivate users. The attraction of custom GPTs is undeniable, as they unlock a realm of possibilities tailored to individual preferences, industries, and curiosities. The attraction of custom GPTs for users lies in their capacity to provide a competitive advantage."*
 
 > *"In 2024, I'm the smartest that I've ever been with the lowest income possible. I have a lot of potential income opportunities because of what I've developed and designed in 2023 and 2024. I think 2024 is a unique time in my life because of my extremely high intelligence and very low income."*
-
-> [Low intelligence](https://github.com/sourceduty/AI) GPT models have gained significant popularity, primarily due to their accessibility and cost-effectiveness.
 
 <br>
 </details>
