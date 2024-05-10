@@ -326,7 +326,7 @@ Assistive research repository and project specialist.
 
 [Format Analyzer](https://chatgpt.com/g/g-ehM3x1ukS-format-analyzer)
 <br>
-Analyze file size changes across formats.
+Analyze file format changes across formats.
 
 [Internet Simulator](https://chat.openai.com/g/g-0lDhHX6AP-internet-simulator)
 <br>
