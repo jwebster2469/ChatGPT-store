@@ -7,8 +7,6 @@
 
 </div>
 
-Sourceduty won't use ChatGPT without also using GitHub. This repository will be used to prove and dispute the originality of Sourceduty GPTs. Sourceduty continues to competively exert a strong effort to build and expand original copyright-protected custom GPTs. 
-
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) and [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design) are Sourcerduty's most popular GPTs currently with 1K+ chats each. Following closely behind is [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map). Five custom GPTs have been created in preparation for SORA 
 videos. 
 
