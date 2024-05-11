@@ -1956,9 +1956,39 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"In 2024, I'm the smartest that I've ever been with the lowest income possible. I have a lot of potential income opportunities because of what I've developed and designed in 2023 and 2024. I think 2024 is a unique time in my life because of my extremely high intelligence and very low income."*
 
+<br>
+</details>
+<details><summary>Concept GPTs</summary>
+<br>
+  
 #
+### Concept GPTs
 
-![Concept GPTs](https://github.com/sourceduty/ChatGPT/assets/123030236/f343df9e-ab8d-47f5-8e5e-7132ef249500)
+[Video Commentary](https://chatgpt.com/g/g-uQRsIVIVN-video-commentary)
+<br>
+[Finance Organizer](https://chatgpt.com/g/g-VkZFBzv3K-finance-organizer)
+<br>
+[3D Model Imaging](https://chatgpt.com/g/g-UVfWgnoGR-3d-model-imaging)
+<br>
+[Audio Compare](https://chatgpt.com/g/g-KRB44G16q-audio-compare)
+<br>
+[Physical Doctor](https://chatgpt.com/g/g-GkRc4yulR-physical-doctor)
+<br>
+[Logo Mystery](https://chatgpt.com/g/g-bMbKj6OKh-logo-mystery)
+<br>
+[Bass Boost](https://chatgpt.com/g/g-SeVChjS0z-bass-boost)
+<br>
+[Broken English](https://chatgpt.com/g/g-meh1jLQos-broken-english)
+<br>
+[Pediatric](https://chatgpt.com/g/g-tToxYxaOu-pediatric)
+<br>
+[Dark Internet](https://chatgpt.com/g/g-OtVTWVUiS-dark-internet)
+<br>
+[Expanding Mosaic](https://chatgpt.com/g/g-t1KHcEJFB-expanding-mosaic)
+<br>
+[Painting Styles](https://chatgpt.com/g/g-3TPcGis2m-painting-styles)
+<br>
+[Easy APIs](https://chatgpt.com/g/g-DwGmTAUTB-easy-apis)
 
 <br>
 </details>
