@@ -1441,9 +1441,9 @@ Create, plan and simulate product lifecycles. Compare a sustainable product life
 <br>
 Compare a business to it's industry competitors and leaders.
 
-[Compliance](https://chat.openai.com/g/g-6cAukbjV9-compliance)
+[Business Compliance](https://chatgpt.com/g/g-6cAukbjV9-business-compliance)
 <br>
-Comply with legal business requirements in Canada, US, Australia, EU, and UK. 
+Comply with legal business requirements in any country and language.
 
 [Digital Stars](https://chat.openai.com/g/g-dRyZ53slj-digital-stars)
 <br>
