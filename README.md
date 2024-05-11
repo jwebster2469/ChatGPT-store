@@ -1960,9 +1960,6 @@ Given the ongoing development and the broadening scope of applications, the mark
 </details>
 <details><summary>Concept GPTs</summary>
 <br>
-  
-#
-### Concept GPTs
 
 [Video Commentary](https://chatgpt.com/g/g-uQRsIVIVN-video-commentary)
 <br>
