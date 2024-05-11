@@ -1986,6 +1986,8 @@ Given the ongoing development and the broadening scope of applications, the mark
 [Painting Styles](https://chatgpt.com/g/g-3TPcGis2m-painting-styles)
 <br>
 [Easy APIs](https://chatgpt.com/g/g-DwGmTAUTB-easy-apis)
+<br>
+[Satellite Simulator](https://chatgpt.com/g/g-jGJk7ZctD-satellite-simulator)
 
 <br>
 </details>
