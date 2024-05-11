@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `421` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `422` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1481,6 +1481,10 @@ Compare design images, descriptions and videos.
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 <br>
 Find platforms for artists and creators to share work.
+
+[Stone Mason](https://chatgpt.com/g/g-2r4wNtXjI-stone-mason)
+<br>
+Assistive masonry and stone carving guide. 
 
 [Inspiration Simulator](https://chat.openai.com/g/g-DR4W6zJTh-inspiration-simulator)
 <br>
