@@ -1961,6 +1961,10 @@ Given the ongoing development and the broadening scope of applications, the mark
 <details><summary>Concept GPTs</summary>
 <br>
 
+### Failed, conceptual and deleted GPTs.
+
+These concept GPTs won't be protected by copyright.
+
 [Video Commentary](https://chatgpt.com/g/g-uQRsIVIVN-video-commentary)
 <br>
 [Finance Organizer](https://chatgpt.com/g/g-VkZFBzv3K-finance-organizer)
