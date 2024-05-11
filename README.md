@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `422` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `423` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -218,6 +218,10 @@ Create, simulate and analyze hypothetical scenarios.
 [Rename](https://chat.openai.com/g/g-C7Wqfx4P0-rename)
 <br>
 Simply rename bulk uploaded files.
+
+[File Naming](https://chatgpt.com/g/g-P5XEPEO4G-file-naming)
+<br>
+File and folder naming convention guide.
 
 [Error Planning](https://chat.openai.com/g/g-u5u6whfZm-error-planning)
 <br>
