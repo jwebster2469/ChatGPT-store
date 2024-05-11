@@ -1,4 +1,4 @@
-![Top Secret Sourceduty Banner](https://github.com/sourceduty/ChatGPT/assets/123030236/991a0b71-d6ed-45b8-9b9e-c99cdd5c9153)
+![Waterfall Roof Concept](https://github.com/sourceduty/ChatGPT/assets/123030236/b5a39c13-d2c3-413f-ab3a-b55f201261f7)
 
 <div align="center">
 
