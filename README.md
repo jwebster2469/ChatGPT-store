@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `423` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `424` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1048,6 +1048,10 @@ Create near-realistic simulations of negotiation processes or discussions that t
 [Government Model Simulator](https://chat.openai.com/g/g-8JwnHHEgc-government-model-simulator)
 <br>
 Plan, create and simulate comprehensive government models.
+
+[Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
+<br>
+Simulate various public and private security scenarios.
 
 [Law Standard](https://chat.openai.com/g/g-GAwgXgXN1-law-standard)
 <br>
