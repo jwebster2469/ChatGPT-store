@@ -2006,6 +2006,8 @@ These concept GPTs won't be protected by copyright.
 [Easy APIs](https://chatgpt.com/g/g-DwGmTAUTB-easy-apis)
 <br>
 [Satellite Simulator](https://chatgpt.com/g/g-jGJk7ZctD-satellite-simulator)
+<br>
+[Limited Writer](https://chatgpt.com/g/g-5T2nJdnWc-limited-writer)
 
 <br>
 </details>
