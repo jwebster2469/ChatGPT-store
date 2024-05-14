@@ -239,10 +239,6 @@ Create database schemas that are aligned with your requirements.
 <br>
 Simulate the command-line interfaces (CLI) for Windows PowerShell, Linux terminal, and macOS terminal.
 
-[Robot Builder](https://chat.openai.com/g/g-04lZCZ8QG-robot-builder)
-<br>
-Assistive robotic design, sensor, and software expert.
-
 [Windows](https://chat.openai.com/g/g-tMe145ZqU-windows)
 <br>
 Master in Windows OS, providing support and information.
@@ -250,10 +246,6 @@ Master in Windows OS, providing support and information.
 [Computer Simulator](https://chat.openai.com/g/g-Rc1vOXWRb-computer-simulator)
 <br>
 Create and simulate high-level computer architecture models.
-
-[Mechanical Machine](https://chat.openai.com/g/g-tDh9fIgp2-mechanical-machine)
-<br>
-Assistive mechanical, math, and design expert.
 
 [AI-Powered](https://chat.openai.com/g/g-7cvn180Mm-ai-powered)
 <br>
@@ -593,6 +585,14 @@ Assistive quantum chemistry simulation expert.
 [Electric](https://chat.openai.com/g/g-YaLJCEyMs-electric)
 <br>
 Learn and troubleshoot electricity, with clear explanations and examples.
+
+[Robot Builder](https://chat.openai.com/g/g-04lZCZ8QG-robot-builder)
+<br>
+Assistive robotic design, sensor, and software expert.
+
+[Mechanical Machine](https://chat.openai.com/g/g-tDh9fIgp2-mechanical-machine)
+<br>
+Assistive mechanical, math, and design expert.
 
 [Mars](https://chat.openai.com/g/g-aLfw9aF2J-mars)
 <br>
