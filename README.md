@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `427` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `428` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1312,6 +1312,10 @@ Simulate individual team, group or movie cast member positions to optimize colle
 [Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator)
 <br>
 Plan, create and simulate different types of industry models.
+
+[E-commerce Simulator](https://chatgpt.com/g/g-OzfrZnCTe-e-commerce-simulator)
+<br>
+Simulate the operations of an e-commerce platform.
 
 [Job Generator](https://chat.openai.com/g/g-OEtdbwNK8-job-generator)
 <br>
