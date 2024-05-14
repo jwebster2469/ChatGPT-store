@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `428` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `429` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -146,6 +146,10 @@ Customize and control multiple correlating and coworking bots in simulations.
 [Data Project](https://chat.openai.com/g/g-Rwc3ikNU7-data-project)
 <br>
 Assistive data project planning and structure guide.
+
+[Blockchain Simulator](https://chatgpt.com/g/g-fViy4gq9B-blockchain-simulator)
+<br>
+Simulate blockchain structures and design.
 
 [Encryption Specialist](https://chatgpt.com/g/g-AClVroVDs-encryption-specialist)
 <br>
