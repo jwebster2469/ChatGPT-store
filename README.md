@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `429` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `430` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -126,6 +126,10 @@ Generate and improve system structures.
 [Development Organizer](https://chatgpt.com/g/g-pxOMOdDVa-development-organizer)
 <br>
 Manage and organize software development projects.
+
+[Data Architect](https://chatgpt.com/g/g-3gpIHu1BY-data-architect)
+<br>
+Develop, model and simulate data architecture framework.
 
 [Automation Diagnostics](https://chat.openai.com/g/g-gWvEGpNAa-automation-diagnostics)
 <br>
