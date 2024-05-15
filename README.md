@@ -1998,9 +1998,11 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"Developing new GPTs to sell to other ChatGPT users is challenging within the overcrowded market and comes with a risk of failure when GPTs are unable to captivate users. The attraction of custom GPTs is undeniable, as they unlock a realm of possibilities tailored to individual preferences, industries, and curiosities. The attraction of custom GPTs for users lies in their capacity to provide a competitive advantage."*
 
-> *"In 2024, I'm the smartest that I've ever been with the lowest income possible. I have a lot of potential income opportunities because of what I've developed and designed in 2023 and 2024. I think 2024 is a unique time in my life because of my extremely high intelligence and very low income."*
-
 > *"I really like that custom GPT links from ChatGPT are easily found by searching Google."*
+
+> *"I build additional custom GPTs to compensate for some of my custom GPTs that are lower quality and might also get deleted."*
+
+> *"Building over 500 custom GPTs is my current goal."*
 
 <br>
 </details>
