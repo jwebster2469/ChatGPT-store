@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `433` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `434` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1804,6 +1804,10 @@ Find similar PC games on Steam based on your preferences.
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 <br>
 Basic notepad emulator.
+
+[Software Trivia](https://chatgpt.com/g/g-uE60Qr5NL-software-trivia)
+<br>
+Educational software trivia guessing game. 
 
 [Apple II Simulator](https://chat.openai.com/g/g-ci1HVmwRL-apple-ii-simulator)
 <br>
