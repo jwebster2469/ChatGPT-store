@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `431` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `432` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -122,6 +122,10 @@ Locate and develop public open-source code projects.
 [System Structure](https://chatgpt.com/g/g-xn0SVNQj3-system-structure)
 <br>
 Generate and improve system structures.
+
+[Usability Analyzer](https://chatgpt.com/g/g-sEAB01P3Q-usability-analyzer)
+<br>
+Analyze software for usability and engagement opportunities.
 
 [Development Organizer](https://chatgpt.com/g/g-pxOMOdDVa-development-organizer)
 <br>
