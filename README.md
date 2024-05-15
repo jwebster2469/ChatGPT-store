@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `432` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `433` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -469,6 +469,10 @@ Aerospace engineering simulator with detailed analysis and calculations.
 [Chemical Diagnostics](https://chat.openai.com/g/g-Yn1ecDq4f-chemical-diagnostics)
 <br>
 Assistive tool for analyzing chemical functionality, efficiency and performance.
+
+[Power Grid Simulator](https://chatgpt.com/g/g-K7CExFenf-energy-grid-simulator)
+<br>
+Simulate interactions within a smart energy grid environment. 
 
 [Electronic Simulator](https://chat.openai.com/g/g-409Bg1hAQ-electronic-simulator)
 <br>
