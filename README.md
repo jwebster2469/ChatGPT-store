@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `440` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `441` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -151,6 +151,10 @@ Assess and improve the effectiveness, efficiency and productivity of automation 
 [Android Application](https://chat.openai.com/g/g-Dg0HK37Q1-android-application)
 <br>
 Plan, create and simulate models for different types of Android apps.
+
+[Programming Diagnostics](https://chatgpt.com/g/g-NjXzC3Dz1-programming-diagnostics)
+<br>
+Analyze software for programming metrics. Generate a Programming Diagnostics Report.
 
 [Reverse Engineer](https://chat.openai.com/g/g-R0KIyF4OG-reverse-engineer)
 <br>
