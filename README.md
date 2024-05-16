@@ -112,7 +112,7 @@ Assistive data generating, organization and analysis tool.
 <br>
 Assistive algorithm generation, organization and analysis tool.
 
-[Software Architect](https://chatgpt.com/g/g-h3OUZHAVc-software-architect)
+[Architectural Software Design](https://chatgpt.com/g/g-h3OUZHAVc-architectural-software-design)
 <br>
 Develop, model and simulate software architecture.
 
