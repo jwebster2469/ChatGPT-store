@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `434` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `435` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1279,6 +1279,10 @@ Assistive religious belief preference chooser.
 [Mood Gauge](https://chat.openai.com/g/g-NoT8ccEPg-mood-gauge)
 <br>
 Measure your mood and generate a Mood Gauge Report.
+
+[Immigrant Adapter](https://chatgpt.com/g/g-CVWPS4ORg-immigrant-adapter)
+<br>
+Adapt and change social life activities in any language and country.
 
 [Philosophy Simulator](https://chat.openai.com/g/g-DgaNOkP7Y-philosophy-simulator)
 <br>
