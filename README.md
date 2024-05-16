@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `435` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `436` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -663,6 +663,10 @@ Rotating GIF image creator.
 [Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
 <br>
 Find photo locations from uploaded images. 
+
+[Image Tagger](https://chatgpt.com/g/g-Slcp7uEaT-image-tagger)
+<br>
+Analyze image files and create a list of keyword tags. 
 
 [Image Shredder](https://chat.openai.com/g/g-Z7kOpqjss-image-shredder)
 <br>
