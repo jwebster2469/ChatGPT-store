@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `436` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `437` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -99,6 +99,10 @@ Develop and refine automated process models.
 [Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
 <br>
 Develop automated personal and professional decision models.
+
+[OS Developer](https://chatgpt.com/g/g-2Ucol4HeB-os-developer)
+<br>
+Assistive operating system development.
 
 [Data Generator](https://chat.openai.com/g/g-z6S0qcei3-data-generator)
 <br>
