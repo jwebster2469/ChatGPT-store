@@ -1967,6 +1967,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [DALL-E Analyzer](https://github.com/sourceduty/DALL-E_Analyzer)
 
+[DALL-E 3](https://github.com/sourceduty/DALL-E_3)
+
 <br>
 </details>
 <details><summary>OpenAI, AGI and ASI</summary>
