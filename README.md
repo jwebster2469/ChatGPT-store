@@ -7,10 +7,7 @@
 
 </div>
 
-[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator) and [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design) are Sourcerduty's most popular GPTs currently with 1K+ chats each. Following closely behind is [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) and [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map). Five custom GPTs have been created in preparation for SORA 
-videos. 
-
-Inquire by email to buy any of Sourceduty's custom GPTs. Ownership documentation and records for each custom GPT's instructions are sent to buyers. No post-sale bug fixes or improvements will be added to any custom GPTs sold by Sourceduty. Buying and popularizing a custom GPT could be very profitable for another person, business or brand.
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents) and [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) are Sourcerduty's most popular GPTs currently with 1K+ chats each. Following closely behind is [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design) and [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage). Five custom GPTs have been created in preparation for SORA videos. 
 
 ***
 
