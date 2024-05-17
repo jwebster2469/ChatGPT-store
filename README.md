@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `442` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `443` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -122,7 +122,11 @@ Assess software for programming and architectural complexity. Generate a Program
 
 [Code Challenge](https://chat.openai.com/g/g-d1Hhx21sN-code-challenge)
 <br>
-Develop, plan and create code challenges in any programming language. 
+Develop, plan and create code challenges in any programming language.
+
+[Game Architect](https://chatgpt.com/g/g-IecW3LdSL-game-architect)
+<br>
+Plan, develop and simulate game architecture models.
 
 [Open Source](https://chat.openai.com/g/g-ee56AyCYj-open-source)
 <br>
