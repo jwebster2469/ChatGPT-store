@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `443` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `444` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -127,6 +127,10 @@ Develop, plan and create code challenges in any programming language.
 [Game Architect](https://chatgpt.com/g/g-IecW3LdSL-game-architect)
 <br>
 Plan, develop and simulate game architecture models.
+
+[Digital Infrastructure](https://chatgpt.com/g/g-nJUCAdLc4-digital-infrastructure)
+<br>
+Plan, develop and simulate digital infrastructure.
 
 [Open Source](https://chat.openai.com/g/g-ee56AyCYj-open-source)
 <br>
