@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `445` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `446` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -320,6 +320,10 @@ Assistive research generation, organization and analysis tool.
 [Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz)
 <br>
 Create new fill-in-the-blank quiz challenges. Use uploaded text files.
+
+[Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
+<br>
+Simulate diverse team structures and scenarios.
 
 [Math Model Simulator](https://chat.openai.com/g/g-NRMiEHlzS-math-model-simulator)
 <br>
