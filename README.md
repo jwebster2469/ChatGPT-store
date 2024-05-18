@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `446` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `447` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -1377,6 +1377,10 @@ Simulate various business market dynamics.
 [E-commerce Simulator](https://chatgpt.com/g/g-OzfrZnCTe-e-commerce-simulator)
 <br>
 Simulate the operations of an e-commerce platform.
+
+[Product Demand](https://chatgpt.com/g/g-d5kkMZSIk-product-demand)
+<br>
+Measure the demand for a product using consumer necessitation attributes. Generate a Product Demand Analysis Report.
 
 [Job Generator](https://chat.openai.com/g/g-OEtdbwNK8-job-generator)
 <br>
