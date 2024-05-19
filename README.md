@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `447` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `448` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -875,6 +875,10 @@ Video game price finder.
 [Convo Planner](https://chat.openai.com/g/g-LTSeH89l1-convo-planner)
 <br>
 Plan and strategize conversations.
+
+[Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
+<br>
+Conversational Sam Altman impersonation chatbot.
 
 [English Language Accents](https://chat.openai.com/g/g-P82MtaVgv-english-language-accents)
 <br>
