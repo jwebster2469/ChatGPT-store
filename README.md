@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `448` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `449` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -879,6 +879,10 @@ Plan and strategize conversations.
 [Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
 <br>
 Conversational Sam Altman impersonation chatbot.
+
+[Alex Aldridge](https://chatgpt.com/g/g-mdnYSJr20-alex-aldridge)
+<br>
+Alex Aldridge, Sourceduty founder.
 
 [English Language Accents](https://chat.openai.com/g/g-P82MtaVgv-english-language-accents)
 <br>
