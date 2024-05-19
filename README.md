@@ -16,7 +16,7 @@
 
 [GPT Simulator](https://chatgpt.com/g/g-0INqE5Pxk-gpt-simulator)
 <br>
-Simulate various generative pre-trained transformer models in different applications.
+Simulate various Generative Pre-trained Transformer models in different applications.
 
 [Custom GPT Analyzer](https://chatgpt.com/g/g-IJ95hRgWU-custom-gpt-analyzer)
 <br>
