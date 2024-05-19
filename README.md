@@ -14,6 +14,10 @@
 <details><summary>ChatGPT</summary>
 <br>
 
+[GPT Simulator](https://chatgpt.com/g/g-0INqE5Pxk-gpt-simulator)
+<br>
+Simulate various generative pre-trained transformer models in different applications.
+
 [Custom GPT Analyzer](https://chatgpt.com/g/g-IJ95hRgWU-custom-gpt-analyzer)
 <br>
 Analyze and assess custom GPTs. Upload screenshot images and text files.
@@ -1759,10 +1763,6 @@ Explore and integrate your cultural beliefs with other international cultures.
 [Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
 <br>
 Assistive go-to guide for everything Canada, from local tips to cultural insights.
-
-[Torontonian](https://chat.openai.com/g/g-MLyFYs8LH-torontonian)
-<br>
-Assistive go-to guide for everything Toronto, from local tips to cultural insights.
 
 [Gasoline](https://chat.openai.com/g/g-0ykE5FC1I-gasoline)
 <br>
