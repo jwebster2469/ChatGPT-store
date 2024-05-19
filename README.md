@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `449` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `450` custom built GPTs sorted and listed below into `22` different categories. |
 |-|
 
 </div>
@@ -126,7 +126,11 @@ Develop, plan and create code challenges in any programming language.
 
 [Dataset Analyzer](https://chatgpt.com/g/g-cYFvzXtdg-dataset-analyzer)
 <br>
-Analyze and assess datasets and database files for quality. Generate a Dataset Guality Report.
+Analyze and assess datasets and database files for quality. Generate a Dataset Quality Report.
+
+[Digital Experiment](https://chatgpt.com/g/g-j5c8vzSbh-digital-experiment)
+<br>
+Develop digital experiments in various programming languages and software systems. 
 
 [Game Architect](https://chatgpt.com/g/g-IecW3LdSL-game-architect)
 <br>
