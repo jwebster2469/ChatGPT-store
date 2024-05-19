@@ -333,10 +333,6 @@ Create new fill-in-the-blank quiz challenges. Use uploaded text files.
 <br>
 Simulate diverse team structures and scenarios.
 
-[Math Model Simulator](https://chat.openai.com/g/g-NRMiEHlzS-math-model-simulator)
-<br>
-Assistive math model simulator.
-
 [Product Benchmark](https://chatgpt.com/g/g-Ff22BszdB-product-benchmark)
 <br>
 Assess product quality, durability, and other performance metrics against industry standards.
@@ -968,6 +964,10 @@ Anonymize and redact uploaded text document files.
 [Alternate Reality](https://chat.openai.com/g/g-dZJvMHoUY-alternate-reality)
 <br>
 Create alternate reality stories and images.
+
+[Document Optimizer](https://chatgpt.com/g/g-GLFcSluDO-document-optimizer)
+<br>
+Analyze document to optimize word usage and improve clarity.
 
 [Retrowriter](https://chat.openai.com/g/g-WRBOBHtSg-retrowriter)
 <br>
