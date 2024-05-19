@@ -7,7 +7,7 @@
 
 </div>
 
-[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents) and [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) are Sourcerduty's most popular GPTs currently with 1K+ chats each. Following closely behind is [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design) and [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage). Up to May of 2024, Sourceduty has accumulated around 19580 total chats.
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents) and [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) are Sourcerduty's most popular GPTs currently with 1K+ chats each. Following closely behind is [Road Map](https://chat.openai.com/g/g-iO18HeHn2-road-map), [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design) and [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage). As of May of 2024, Sourceduty has accumulated around 19580 total chats.
 
 ***
 
