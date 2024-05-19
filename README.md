@@ -2066,10 +2066,6 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"I really like that custom GPT links from ChatGPT are easily found by searching Google."*
 
-> *"I build additional custom GPTs to compensate for some of my lower-quality GPTs that might also get deleted."*
-
-> *"Building over 500 custom GPTs is my current goal."*
-
 <br>
 </details>
 <details><summary>Concept GPTs</summary>
