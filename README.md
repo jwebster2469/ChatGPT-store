@@ -369,6 +369,10 @@ Narrate document or image files and search for related information.
 <br>
 Assistive research repository and project specialist.
 
+[Theorem Proof](https://chatgpt.com/g/g-WuFNdZgXe-theorem-proof)
+<br>
+Mathematical theorem proving assistant.
+
 [Format Analyzer](https://chatgpt.com/g/g-ehM3x1ukS-format-analyzer)
 <br>
 Analyze file format changes across formats.
@@ -1841,10 +1845,6 @@ Create funny food recipes using consumer products.
 [Image Puzzle](https://chat.openai.com/g/g-SAtwMdcWa-image-puzzle)
 <br>
 Square image puzzle game using DALL-E 3.
-
-[Radio Simulator](https://chat.openai.com/g/g-C6JfFmHnG-radio-simulator)
-<br>
-Simulate tuning into a radio frequency on AM/FM bands.
 
 [U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
 <br>
