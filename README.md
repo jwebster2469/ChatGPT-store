@@ -1029,6 +1029,10 @@ Assistive movie idea creator, script writer and screenplay planner.
 <br>
 Create and explain sound words.
 
+[Document Complexity](https://chatgpt.com/g/g-72syR45Tk-document-complexity)
+<br>
+Assess documents for textual and architectural complexity. Generate a Document Complexity Report.
+
 [Story Context](https://chat.openai.com/g/g-kC8ziNKvq-story-context)
 <br>
 Create alternative story contexts.
@@ -1755,10 +1759,6 @@ Assistive fishing location finder with weather and bait advice.
 [Vacation](https://chat.openai.com/g/g-8h9OXTiMr-vacation)
 <br>
 Assistive vacation travel and destination planner, providing travel tips and suggestions.
-
-[Multicultural](https://chat.openai.com/g/g-PVfNlm9y5-multicultural)
-<br>
-Explore and integrate your cultural beliefs with other international cultures.
 
 [Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
 <br>
