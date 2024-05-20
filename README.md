@@ -523,6 +523,10 @@ Prove any type of theory, including mathematical, social, and economic theories.
 <br>
 Assistive PCB design, simulation and planning guide.
 
+[Geology Simulator](https://chatgpt.com/g/g-2r4wNtXjI-geology-simulator)
+<br>
+Simulate various geological science fields.
+
 [Electronic Upcycle](https://chat.openai.com/g/g-VKuPoQPOf-electronic-upcycle)
 <br>
 Repurpose old electronics for new projects, focusing on Arduino and Raspberry Pi.
@@ -1598,10 +1602,6 @@ Compare design images, descriptions and videos.
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 <br>
 Find platforms for artists and creators to share work.
-
-[Stone Mason](https://chatgpt.com/g/g-2r4wNtXjI-stone-mason)
-<br>
-Assistive masonry and stone carving guide. 
 
 [Inspiration Simulator](https://chat.openai.com/g/g-DR4W6zJTh-inspiration-simulator)
 <br>
