@@ -515,9 +515,9 @@ Simulate interactions within a smart energy grid environment.
 <br>
 Manage, plan, and simulate Arduino and Raspberry Pi projects.
 
-[Theory Solver](https://chat.openai.com/g/g-7Xrh3rjDS-theory-solver)
+[Theory Proof](https://chatgpt.com/g/g-7Xrh3rjDS-theory-proof)
 <br>
-Solve any type of theory, including mathematical, social, and economic theories.
+Prove any type of theory, including mathematical, social, and economic theories.
 
 [PCB Architect](https://chat.openai.com/g/g-3K2liKOdj-pcb-architect)
 <br>
