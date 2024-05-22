@@ -2070,7 +2070,7 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"I've never before recorded so many errors across multiple platforms while using chatbot software like I have while using ChatGPT."*
 
-> *"ChatGPT sets the benchmark for errorrs in my experience as a developer for it's excessive amount of errors."*
+> *"ChatGPT sets the benchmark for errors in my experience as a developer for it's excessive amount of errors."*
 
 <br>
 </details>
