@@ -2068,7 +2068,7 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"I exhausted myself building custom GPTs and stopped once I had built a total of 450."*
 
-> *"I've never recorded so many errors across multiple platforms while using chatbot software."*
+> *"I've never before recorded so many errors across multiple platforms while using chatbot software like I have while using ChatGPT."*
 
 <br>
 </details>
