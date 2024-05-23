@@ -1,4 +1,4 @@
-![Modern Waterfall Roof House](https://github.com/sourceduty/ChatGPT/assets/123030236/1cc511ec-527d-4653-8135-97ac2f1f670b)
+![450 Custom GPTs](https://github.com/sourceduty/ChatGPT/assets/123030236/6f9109fb-9839-4002-8fa8-03d35276b8e1)
 
 <div align="center">
 
