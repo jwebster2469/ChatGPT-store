@@ -2114,6 +2114,8 @@ These concept GPTs won't be protected by copyright.
 [Limited Writer](https://chatgpt.com/g/g-5T2nJdnWc-limited-writer)
 <br>
 [Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
+<br>
+[Articulation Etiquette](https://chatgpt.com/g/g-r0OIAQXx2-articulation-etiquette)
 
 <br>
 </details>
