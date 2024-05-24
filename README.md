@@ -341,6 +341,10 @@ Assess product quality, durability, and other performance metrics against indust
 <br>
 Find related information in projects, repos, and research.
 
+[Road Director](https://chatgpt.com/g/g-edHM2V603-road-director)
+<br>
+Simulate road changes and new road construction to optimize roadway routes.
+
 [Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
 <br>
 Assistive plain text mind map creator.
@@ -1288,10 +1292,6 @@ Create and simulate drama in performances such as acting, plays, operas, miming,
 [Decision Template](https://chat.openai.com/g/g-ynTJkhacQ-decision-template)
 <br>
 Plan and create decision templates.
-
-[Articulation Etiquette](https://chatgpt.com/g/g-r0OIAQXx2-articulation-etiquette)
-<br>
-Learn effective communication skills by studying articulation etiquette.
 
 [Event Generator](https://chatgpt.com/g/g-wUS6yHnKU-event-generator)
 <br>
