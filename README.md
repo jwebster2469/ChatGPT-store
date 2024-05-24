@@ -361,10 +361,6 @@ Expand simple text searches with multiple related search options.
 <br>
 Compare intelligence of public figures.
 
-[Cyberscience](https://chat.openai.com/g/g-L1d6Dngpe-cyberscience)
-<br>
-Explore the integration of digital tech in science.
-
 [Narrative Search](https://chat.openai.com/g/g-dkdwRLi8v-narrative-search)
 <br>
 Narrate document or image files and search for related information.
@@ -1125,6 +1121,10 @@ Examine and simulate any level of courtroom etiquette and procedures in any coun
 [Diplomatic Simulator](https://chat.openai.com/g/g-xhsONox3U-diplomatic-simulator)
 <br>
 Simulate diplomatic interactions for international relations.
+
+[Citizen Simulator](https://chatgpt.com/g/g-BhgpoIUJO-citizen-simulator)
+<br>
+Simulate citizen's national and international opinion in any language and location.
 
 [Public Simulator](https://chat.openai.com/g/g-HJp62OrcF-public-simulator)
 <br>
@@ -2116,6 +2116,8 @@ These concept GPTs won't be protected by copyright.
 [Sourceduty Strategist](https://chatgpt.com/g/g-AwjKECo12-sourceduty-strategist)
 <br>
 [Articulation Etiquette](https://chatgpt.com/g/g-r0OIAQXx2-articulation-etiquette)
+<br>
+[Cyberscience](https://chatgpt.com/g/g-L1d6Dngpe-cyberscience)
 
 <br>
 </details>
