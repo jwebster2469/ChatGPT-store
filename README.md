@@ -2141,6 +2141,13 @@ While these are some of the possible reasons, it's also worth noting that platfo
 
 <br>
 </details>
+<details><summary>Why were the custom GPT upload dates removed?</summary>
+<br>
+
+The feature to display upload dates for custom GPTs was removed due to user feedback and the decision to simplify the interface. Many users found the upload dates less relevant to their selection process, prioritizing functionality and reviews over chronological order. This change aimed to enhance user experience by focusing on more pertinent information for choosing and utilizing custom GPTs.
+
+<br>
+</details>
 
 ***
 Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
