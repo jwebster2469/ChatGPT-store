@@ -2029,6 +2029,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [DALL-E 3](https://github.com/sourceduty/DALL-E_3)
 
+[ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)
+
 <br>
 </details>
 <details><summary>OpenAI, AGI and ASI</summary>
