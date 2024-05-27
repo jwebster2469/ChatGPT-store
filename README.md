@@ -2122,6 +2122,8 @@ These concept GPTs won't be protected by copyright.
 [Articulation Etiquette](https://chatgpt.com/g/g-r0OIAQXx2-articulation-etiquette)
 <br>
 [Cyberscience](https://chatgpt.com/g/g-L1d6Dngpe-cyberscience)
+<br>
+[Science Reporter](https://chatgpt.com/g/g-DC4zgcQIN-science-reporter)
 
 <br>
 </details>
