@@ -2037,6 +2037,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [AI](https://github.com/sourceduty/AI)
 
+[AGI](https://github.com/sourceduty/AGI)
+
 
 <br>
 </details>
