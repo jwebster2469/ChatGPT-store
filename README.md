@@ -2033,6 +2033,11 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
 
+[xAI](https://github.com/sourceduty/xAI)
+
+[AI](https://github.com/sourceduty/AI)
+
+
 <br>
 </details>
 <details><summary>OpenAI, AGI and ASI</summary>
