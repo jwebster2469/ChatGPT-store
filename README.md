@@ -2031,6 +2031,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [ChatGPT Preview Panel Assistant](https://github.com/sourceduty/ChatGPT_Preview_Panel_Assistant)
 
+[Combination Custom GPT](https://github.com/sourceduty/Combination_Custom_GPT)
+
 <br>
 </details>
 <details><summary>OpenAI, AGI and ASI</summary>
