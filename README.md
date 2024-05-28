@@ -92,6 +92,10 @@ Create, plan and simulate Cython projects.
 <details><summary>Data & Programming</summary>
 <br>
 
+[Bulk File Classification](https://chatgpt.com/g/g-z13Z9a5LP-bulk-file-classification)
+<br>
+Identify and classify bulk image, document, audio, or video files.
+
 [Information & Data Quality](https://chat.openai.com/g/g-LdgV8RLVs-information-data-quality)
 <br>
 Assess information and data quality in various formats.
@@ -883,10 +887,6 @@ Video game price finder.
 </details>
 <details><summary>Chatting</summary>
 <br>
-
-[Convo Planner](https://chat.openai.com/g/g-LTSeH89l1-convo-planner)
-<br>
-Plan and strategize conversations.
 
 [Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
 <br>
