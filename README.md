@@ -2131,6 +2131,8 @@ These concept GPTs won't be protected by copyright.
 [Cyberscience](https://chatgpt.com/g/g-L1d6Dngpe-cyberscience)
 <br>
 [Science Reporter](https://chatgpt.com/g/g-DC4zgcQIN-science-reporter)
+<br>
+[Convo Planner](https://chatgpt.com/g/g-LTSeH89l1-convo-planner)
 
 <br>
 </details>
