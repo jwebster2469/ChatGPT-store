@@ -835,6 +835,10 @@ Assistive currency trading with market insights and suggestions.
 <details><summary>Shopping</summary>
 <br>
 
+[Mystery Gift Box](https://chatgpt.com/g/g-N5aLjXu5L-mystery-gift-box)
+<br>
+Generate mystery product box plans for personal and professional gifts.
+
 [Price Check](https://chat.openai.com/g/g-5veEaNvU8-price-check)
 <br>
 Analyze, compare and determine the price of any product.
@@ -1194,10 +1198,6 @@ Balance food and meals for an optimal diet.
 [Recipe Optimizer](https://chat.openai.com/g/g-RBkBOAyNN-recipe-optimizer)
 <br>
 Assistive food tool for analyzing recipe functionality, efficiency and performance.
-
-[Ecogastronomy](https://chat.openai.com/g/g-gnLAEFczY-ecogastronomy)
-<br>
-Assistive ecogastronomy food expert.
 
 [Crop Analyzer](https://chat.openai.com/g/g-tsl3ADsYf-crop-analyzer)
 <br>
@@ -2133,6 +2133,8 @@ These concept GPTs won't be protected by copyright.
 [Science Reporter](https://chatgpt.com/g/g-DC4zgcQIN-science-reporter)
 <br>
 [Convo Planner](https://chatgpt.com/g/g-LTSeH89l1-convo-planner)
+<br>
+[Ecogastronomy](https://chatgpt.com/g/g-gnLAEFczY-ecogastronomy)
 
 <br>
 </details>
