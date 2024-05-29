@@ -2039,6 +2039,8 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 
 [AGI](https://github.com/sourceduty/AGI)
 
+[ChatGPT Books](https://github.com/sourceduty/ChatGPT_Books)
+
 
 <br>
 </details>
