@@ -2137,6 +2137,8 @@ These concept GPTs won't be protected by copyright.
 [Convo Planner](https://chatgpt.com/g/g-LTSeH89l1-convo-planner)
 <br>
 [Ecogastronomy](https://chatgpt.com/g/g-gnLAEFczY-ecogastronomy)
+<br>
+[ASCII Artist](https://chatgpt.com/g/g-C0jdX0nz8-ascii-artist)
 
 <br>
 </details>
