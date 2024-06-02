@@ -100,6 +100,10 @@ Identify and classify bulk image, document, audio, or video files.
 <br>
 Assess information and data quality in various formats.
 
+[Data Proof](https://chatgpt.com/g/g-c9jpX14lm-data-proof)
+<br>
+Validate data using public sources.
+
 [Process Automation](https://chat.openai.com/g/g-BCcGUvggx-process-automation)
 <br>
 Develop and refine automated process models.
@@ -1744,10 +1748,6 @@ Roadway travel planning and route optimization.
 <br>
 Find local camping spots for your tent, RV and cabin or cottage rental.
 
-[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
-<br>
-Identify everyday aches and find over-the-counter treatment products.
-
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 <br>
 English pronunciation help, phonetic advice and spoken examples.
@@ -2141,6 +2141,8 @@ These concept GPTs won't be protected by copyright.
 [ASCII Artist](https://chatgpt.com/g/g-C0jdX0nz8-ascii-artist)
 <br>
 [Entertainment Engineer](https://chatgpt.com/g/g-yo5obiKqN-entertainment-engineer)
+<br>
+[Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 
 <br>
 </details>
