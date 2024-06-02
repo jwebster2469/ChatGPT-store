@@ -120,6 +120,10 @@ Assistive data generating, organization and analysis tool.
 <br>
 Assistive algorithm generation, organization and analysis tool.
 
+[Batch File Simulator](https://chatgpt.com/g/g-blvvJBL25-batch-file-simulator)
+<br>
+Plan, create, and simulate batch file (.bat) logic.
+
 [Architectural Software Design](https://chatgpt.com/g/g-h3OUZHAVc-architectural-software-design)
 <br>
 Develop, model and simulate software architecture.
@@ -1752,10 +1756,6 @@ English pronunciation help, phonetic advice and spoken examples.
 <br>
 Assistive outdoor survival navigation, food and planning guide.
 
-[Entertainment Engineer](https://chatgpt.com/g/g-yo5obiKqN-entertainment-engineer)
-<br>
-Plan and develop professional entertainment events and activities.
-
 [Fishing Expert](https://chat.openai.com/g/g-LghRwjwYY-fishing-expert)
 <br>
 Assistive fishing location finder with weather and bait advice.
@@ -2139,6 +2139,8 @@ These concept GPTs won't be protected by copyright.
 [Ecogastronomy](https://chatgpt.com/g/g-gnLAEFczY-ecogastronomy)
 <br>
 [ASCII Artist](https://chatgpt.com/g/g-C0jdX0nz8-ascii-artist)
+<br>
+[Entertainment Engineer](https://chatgpt.com/g/g-yo5obiKqN-entertainment-engineer)
 
 <br>
 </details>
