@@ -1720,10 +1720,6 @@ Convert text into creative ASCII art.
 <details><summary>Travel & Lifestyle</summary>
 <br>
 
-[Tourism Analyst](https://chatgpt.com/g/g-XPRqAmK9N-tourism-analyst)
-<br>
-Analyze travel or tourism in any language and location.
-
 [Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
 <br>
 Find wildlife locations with weather and seasonal insights.
@@ -1817,6 +1813,10 @@ Instructional video creation assistant.
 </details>
 <details><summary>Fun & Games</summary>
 <br>
+
+[Emoji Combo](https://chatgpt.com/g/g-MXlAJFK5I-emoji-combo)
+<br>
+Create combinations of emojis.
 
 [Spelling Solver](https://chat.openai.com/g/g-KbWgYE0kW-spelling-solver)
 <br>
@@ -2143,6 +2143,8 @@ These concept GPTs won't be protected by copyright.
 [Entertainment Engineer](https://chatgpt.com/g/g-yo5obiKqN-entertainment-engineer)
 <br>
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
+<br>
+[Tourism Analyst](https://chatgpt.com/g/g-XPRqAmK9N-tourism-analyst)
 
 <br>
 </details>
