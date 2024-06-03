@@ -108,6 +108,10 @@ Validate data using public sources.
 <br>
 Develop and refine automated process models.
 
+[Sketch GUI](https://chatgpt.com/g/g-O1SknINWp-sketch-gui)
+<br>
+Convert drawings into GUI design codes for Python, Java, C#, C++, JavaScript and more.
+
 [Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
 <br>
 Develop automated personal and professional decision models.
@@ -1186,10 +1190,6 @@ Create and simulate different legal scenarios.
 <br>
 Politics in Canada, with balanced and factual insights.
 
-[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
-<br>
-Government types, laws, and legislatures. 
-
 <br>
 </details>
 <details><summary>Food & Farming</summary>
@@ -2145,6 +2145,8 @@ These concept GPTs won't be protected by copyright.
 [Self-Care](https://chat.openai.com/g/g-wHjpE258h-self-care)
 <br>
 [Tourism Analyst](https://chatgpt.com/g/g-XPRqAmK9N-tourism-analyst)
+<br>
+[Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
 
 <br>
 </details>
