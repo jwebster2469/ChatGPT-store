@@ -357,6 +357,10 @@ Assess product quality, durability, and other performance metrics against indust
 <br>
 Find related information in projects, repos, and research.
 
+[Biological Simulator](https://chatgpt.com/g/g-kO0vMMo1M-biological-simulator)
+<br>
+Simulate virtually replicated biological systems.
+
 [Road Director](https://chatgpt.com/g/g-edHM2V603-road-director)
 <br>
 Simulate road changes and new road construction to optimize roadway routes.
@@ -866,10 +870,6 @@ Estimate the current price of custom desktop computers and hardware.
 [Marketplace Value](https://chat.openai.com/g/g-QSn6POMKH-marketplace-value)
 <br>
 Estimate prices for used items in any currency.
-
-[Couponer](https://chat.openai.com/g/g-UiFsed8n5-couponer)
-<br>
-Find current coupons for online shopping.
 
 [Luxury Shopping](https://chat.openai.com/g/g-kupWXAlb3-luxury-shopping)
 <br>
@@ -2147,6 +2147,8 @@ These concept GPTs won't be protected by copyright.
 [Tourism Analyst](https://chatgpt.com/g/g-XPRqAmK9N-tourism-analyst)
 <br>
 [Govern](https://chat.openai.com/g/g-KwFofUds3-govern)
+<br>
+[Couponer](https://chat.openai.com/g/g-UiFsed8n5-couponer)
 
 <br>
 </details>
