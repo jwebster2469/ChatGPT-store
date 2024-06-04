@@ -2085,7 +2085,7 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"ChatGPT sets the benchmark for errors in my experience as a developer for it's excessive amount of errors."*
 
-> *"I will continue recording the intentional errors that ChatGPT creates."*
+> *"More custom GPTs will slowly be added to replace failed and deleted custom GPTs."*
 
 <br>
 </details>
