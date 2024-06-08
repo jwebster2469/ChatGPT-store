@@ -773,7 +773,7 @@ Narrate images and create short visual stories using DALL-E 3.
 <details><summary>Video</summary>
 <br>
 
-[Compare Videos](https://chatgpt.com/g/g-31A9HtRkS-compare-video)
+[Compare Videos](https://chatgpt.com/g/g-31A9HtRkS-compare-videos)
 <br>
 Compare videos to find the differences.
 
