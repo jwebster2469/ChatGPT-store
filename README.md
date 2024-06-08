@@ -773,6 +773,10 @@ Narrate images and create short visual stories using DALL-E 3.
 <details><summary>Video</summary>
 <br>
 
+[Compare Videos](https://chatgpt.com/g/g-31A9HtRkS-compare-video)
+<br>
+Compare videos to find the differences.
+
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
 Collaborative clip-by-clip video compiler. Created in preparation for SORA.
@@ -1222,10 +1226,6 @@ Cannabis planting, growing, and harvesting guide, tailored to your location.
 [Alcohol](https://chat.openai.com/g/g-6MZEIdPKC-alcohol)
 <br>
 Make alcohol, specifically focusing on beer and wine. 
-
-[International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
-<br>
-Assistive international cuisine guide, offering insights into popular dishes worldwide.
 
 [Recipe Kitchen](https://chat.openai.com/g/g-YzeT6O6jD-recipe-kitchen)
 <br>
@@ -2155,6 +2155,8 @@ These concept GPTs won't be protected by copyright.
 [SEO Report](https://chatgpt.com/g/g-kWpYQWaxe-seo-report)
 <br>
 [Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
+<br>
+[International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
 
 <br>
 </details>
