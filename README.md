@@ -1430,6 +1430,10 @@ Create business tax optimization strategies and exploit tax law loopholes.
 <br>
 Plan, model and optimize service and product exchanges between multiple businesses.
 
+[Local Business Startup](https://chatgpt.com/g/g-MSZuztjOg-local-business-startup)
+<br>
+Generate local business startup ideas in any language and location.
+
 [Business Transparency](https://chatgpt.com/g/g-AV16c8UXZ-business-transparency)
 <br>
 Create and assess business transparency reports.
@@ -1759,10 +1763,6 @@ Assistive fishing location finder with weather and bait advice.
 [Vacation](https://chat.openai.com/g/g-8h9OXTiMr-vacation)
 <br>
 Assistive vacation travel and destination planner, providing travel tips and suggestions.
-
-[Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
-<br>
-Assistive go-to guide for everything Canada, from local tips to cultural insights.
 
 [Gasoline](https://chat.openai.com/g/g-0ykE5FC1I-gasoline)
 <br>
@@ -2153,6 +2153,8 @@ These concept GPTs won't be protected by copyright.
 [Web Image Collage](https://chatgpt.com/g/g-YWpyuLTBO-web-image-collage)
 <br>
 [SEO Report](https://chatgpt.com/g/g-kWpYQWaxe-seo-report)
+<br>
+[Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
 
 <br>
 </details>
