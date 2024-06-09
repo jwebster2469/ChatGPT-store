@@ -1962,7 +1962,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > ```
 > Convo starters can be left blank to create mystery and inquiry.
 > ```
-> Advice:
+> Alex's Advice:
 > ```
 > - Be persistent.
 > - Research every part of ChatGPT's GUI.
