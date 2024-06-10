@@ -997,6 +997,10 @@ Anonymize and redact uploaded text document files.
 <br>
 Create alternate reality stories and images.
 
+[Word Map](https://chatgpt.com/g/g-fUiD2XBka-word-map)
+<br>
+Create a word map diagram.
+
 [Document Optimizer](https://chatgpt.com/g/g-GLFcSluDO-document-optimizer)
 <br>
 Analyze document to optimize word usage and improve clarity.
@@ -1776,10 +1780,6 @@ Assistive vacation travel and destination planner, providing travel tips and sug
 <br>
 Find gas stations and compare fuel prices.
 
-[Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
-<br>
-Locate electric vehicle charging stations.
-
 [English Traveller](https://chat.openai.com/g/g-Zpi4RMfze-english-traveller)
 <br>
 English-friendly travel guide for non-English speaking countries.
@@ -2168,6 +2168,8 @@ These concept GPTs won't be protected by copyright.
 [Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
 <br>
 [Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
+<br>
+[Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
 
 <br>
 </details>
