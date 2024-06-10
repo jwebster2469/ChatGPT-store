@@ -2166,6 +2166,8 @@ These concept GPTs won't be protected by copyright.
 [Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
 <br>
 [Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
+<br>
+[Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
 
 <br>
 </details>
