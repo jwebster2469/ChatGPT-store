@@ -1130,6 +1130,10 @@ Intelligent note recording assistant.
 <details><summary>Government & Law</summary>
 <br>
 
+[Standard Government](https://chatgpt.com/g/g-DvKNjRFg1-standard-government)
+<br>
+Compare a country to it's international competitors and leaders.
+
 [Political Simulator](https://chat.openai.com/g/g-4GT3x5ITg-political-simulator)
 <br>
 Simulate political campaigns for any country and political party.
@@ -1830,10 +1834,6 @@ Solve word spelling problems. Improve your spelling skills.
 <br>
 Assistive road-by-road travel planning game.
 
-[Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
-<br>
-Landmark image guessing game using DALL-E 3. 
-
 [Personal Quest](https://chat.openai.com/g/g-aahk4IOIC-personal-quest)
 <br>
 Personalized trivia game focused on player's interests.
@@ -2164,6 +2164,8 @@ These concept GPTs won't be protected by copyright.
 [International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
 <br>
 [Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
+<br>
+[Landmarks](https://chat.openai.com/g/g-dPEn89zIW-landmarks)
 
 <br>
 </details>
