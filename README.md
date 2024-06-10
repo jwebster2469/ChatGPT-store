@@ -700,6 +700,10 @@ Add captions to images using Python.
 <br>
 Assisted creation of NOT SURE IF memes using Python.
 
+[Image Metadata](https://chatgpt.com/g/g-jxMVMIhnr-image-metadata)
+<br>
+Create image metadata legends using uploaded images.
+
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
 Replicate images in different styles using DALL-E 3.
@@ -1822,10 +1826,6 @@ Create combinations of emojis.
 <br>
 Solve word spelling problems. Improve your spelling skills.
 
-[Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
-<br>
-Walk the Plank word-guessing game, similar to Hangman. 
-
 [Chain Travel](https://chat.openai.com/g/g-WYpJgy5kp-chain-travel)
 <br>
 Assistive road-by-road travel planning game.
@@ -2162,6 +2162,8 @@ These concept GPTs won't be protected by copyright.
 [Canadian](https://chat.openai.com/g/g-gLPMVBUZ3-canadian)
 <br>
 [International Food](https://chat.openai.com/g/g-7UnfdyuGo-international-food)
+<br>
+[Walk the Plank](https://chat.openai.com/g/g-a2T0z5vN2-walk-the-plank)
 
 <br>
 </details>
