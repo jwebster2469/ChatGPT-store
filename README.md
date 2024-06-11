@@ -108,6 +108,10 @@ Validate data using public sources.
 <br>
 Develop and refine automated process models.
 
+[PDF Image Extractor](https://chatgpt.com/g/g-kyGAte37x-pdf-image-extractor)
+<br>
+Extract images from PDF files.
+
 [Sketch GUI](https://chatgpt.com/g/g-O1SknINWp-sketch-gui)
 <br>
 Convert drawings into GUI design codes for Python, Java, C#, C++, JavaScript and more.
@@ -566,10 +570,6 @@ Create and simulate different cancer characteristics, prevention and treatment.
 [Energy Experiment](https://chat.openai.com/g/g-UIyGyVbxD-energy-experiment)
 <br>
 Create electrical and mechanical power simulations using Python.
-
-[Nuclear Power Simulator](https://chat.openai.com/g/g-QYk4U8bhT-nuclear-power-simulator)
-<br>
-Assistive nuclear energy and reaction simulator.
 
 [Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
 <br>
@@ -2172,6 +2172,8 @@ These concept GPTs won't be protected by copyright.
 [Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
 <br>
 [Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)
+<br>
+[Nuclear Power Simulator](https://chat.openai.com/g/g-QYk4U8bhT-nuclear-power-simulator)
 
 <br>
 </details>
