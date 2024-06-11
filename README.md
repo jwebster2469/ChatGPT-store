@@ -830,6 +830,10 @@ Forecast the price of futures, stocks and currencies using trends, historical da
 <br>
 Banknote sizes, storage and transportation.
 
+[Future Resale Value](https://chatgpt.com/g/g-t1LayiFEX-future-resale-value)
+<br>
+Estimate the future resale value of products. 
+
 [ATM Simulator](https://chat.openai.com/g/g-BsTkzXk3T-atm-simulator)
 <br>
 Automated teller machine (ATM) simulator.
@@ -1801,10 +1805,6 @@ Organize essential travel guest info.
 <details><summary>YouTube</summary>
 <br>
 
-[Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)
-<br>
-Plan and develop MrBeast YouTube video challenges.
-
 [Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
 <br>
 Creative YouTube video planner and idea generator, adhering to policies and terms of service.
@@ -2170,6 +2170,8 @@ These concept GPTs won't be protected by copyright.
 [Radio Simulator](https://chatgpt.com/g/g-C6JfFmHnG-radio-simulator)
 <br>
 [Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
+<br>
+[Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)
 
 <br>
 </details>
