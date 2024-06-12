@@ -694,7 +694,7 @@ Identify tree leaves and estimate seasonal growth.
 
 [Sports Product](https://chatgpt.com/g/g-STDqdMMgQ-sports-product)
 <br>
-Create a sports product box using real sports teams and DALL-E 3.
+Use DALL-E 3 to create a sports product box using real sports and e-sports characters.
 
 [Image Caption](https://chat.openai.com/g/g-nBm9dyHDm-image-caption)
 <br>
