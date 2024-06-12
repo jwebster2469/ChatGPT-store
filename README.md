@@ -692,6 +692,10 @@ Identify tree leaves and estimate seasonal growth.
 <details><summary>Image & GIF</summary>
 <br>
 
+[Sports Product](https://chatgpt.com/g/g-STDqdMMgQ-sports-product)
+<br>
+Create a sports product box using real sports teams and DALL-E 3.
+
 [Image Caption](https://chat.openai.com/g/g-nBm9dyHDm-image-caption)
 <br>
 Add captions to images using Python.
@@ -1862,10 +1866,6 @@ Assistive PC game guides and walkthroughs.
 <br>
 Find similar PC games on Steam based on your preferences.
 
-[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
-<br>
-Basic notepad emulator.
-
 [Software Trivia](https://chatgpt.com/g/g-uE60Qr5NL-software-trivia)
 <br>
 Educational software trivia guessing game. 
@@ -2174,6 +2174,8 @@ These concept GPTs won't be protected by copyright.
 [Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)
 <br>
 [Nuclear Power Simulator](https://chat.openai.com/g/g-QYk4U8bhT-nuclear-power-simulator)
+<br>
+[Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 
 <br>
 </details>
