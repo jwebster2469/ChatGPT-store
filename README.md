@@ -1925,7 +1925,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > 5. Python Simulator
 > 6. Electronic Simulator
 > 7. Image Emulator
-> 8. Information & Data Quality
+> 8. Sports Product
 > 9. Research Generator
 > 10. Document Design
 > ```
