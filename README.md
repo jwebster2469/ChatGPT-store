@@ -583,10 +583,6 @@ Cancer research, challenges and characteristics.
 <br>
 Chart and visualize weather data using Python.
 
-[Environmental Design](https://chat.openai.com/g/g-HU8iIxZfG-environmental-design)
-<br>
-Environmental material plan, design and construction specialist.
-
 [PC Build Plan](https://chat.openai.com/g/g-W9wTtIyiJ-pc-build-plan)
 <br>
 Assistive step-by-step computer building planner.
@@ -784,6 +780,10 @@ Narrate images and create short visual stories using DALL-E 3.
 [Compare Videos](https://chatgpt.com/g/g-31A9HtRkS-compare-videos)
 <br>
 Compare videos to find the differences.
+
+[Video Meme Compiler](https://chatgpt.com/g/g-NuNFDGDZc-video-meme-compiler)
+<br>
+Find and compile a list of video meme clips from YouTube. 
 
 [Video Mashup](https://chat.openai.com/g/g-pDRP1ZeHx-video-mashup)
 <br>
@@ -2176,6 +2176,8 @@ These concept GPTs won't be protected by copyright.
 [Nuclear Power Simulator](https://chat.openai.com/g/g-QYk4U8bhT-nuclear-power-simulator)
 <br>
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
+<br>
+[Environmental Design](https://chat.openai.com/g/g-HU8iIxZfG-environmental-design)
 
 <br>
 </details>
