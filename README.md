@@ -2227,7 +2227,7 @@ Overall, the emails convey a general frustration with the lack of effective and 
 </details>
 
 ***
-Sourceduty also shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
+Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) shares files using [OneDrive](https://1drv.ms/u/s!AumZxqj6wFkfhxSi1JbL7tJmhDCR?e=Rp0Jnr).
 ***
 
 > [!IMPORTANT]
