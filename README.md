@@ -369,6 +369,10 @@ Simulate virtually replicated biological systems.
 <br>
 Simulate road changes and new road construction to optimize roadway routes.
 
+[Storage Organization](https://chatgpt.com/g/g-hK7OpxwP9-storage-organization)
+<br>
+Create, plan and simulate physical storage space organization.
+
 [Mind Map Guru](https://chat.openai.com/g/g-ypzToE5t3-mind-map-guru)
 <br>
 Assistive plain text mind map creator.
@@ -874,10 +878,6 @@ Generate mystery product box plans for personal and professional gifts.
 [Price Check](https://chat.openai.com/g/g-5veEaNvU8-price-check)
 <br>
 Analyze, compare and determine the price of any product.
-
-[NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)
-<br>
-Make decisions between purchasing new or used products by comparing them.
 
 [Desktop Value](https://chat.openai.com/g/g-oNBIuFtkv-desktop-value)
 <br>
@@ -2178,6 +2178,8 @@ These concept GPTs won't be protected by copyright.
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 <br>
 [Environmental Design](https://chat.openai.com/g/g-HU8iIxZfG-environmental-design)
+<br>
+[NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)
 
 <br>
 </details>
