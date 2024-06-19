@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `450` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `450` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -388,6 +388,10 @@ Assistive plain text mind map creator.
 <br>
 Assistive guide for unknown and new science research.
 
+[Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
+<br>
+Plan, evaluate, and optimize security systems for various settings.
+
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
 Expand simple text searches with multiple related search options.
@@ -482,20 +486,8 @@ Learn accounting principles in simulated business transactions.
 
 <br>
 </details>
-<details><summary>Emergency & Security</summary>
+<details><summary>Science & Electronics</summary>
 <br>
-
-[Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
-<br>
-Plan, evaluate, and optimize security systems for various settings.
-
-[Friend Crisis](https://chat.openai.com/g/g-4YeyehUlH-friend-crisis)
-<br>
-Personal friendship crisis planning and simulation.
-
-[Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-financial-crisis)
-<br>
-International financial crisis planning and simulation.
 
 [Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
 <br>
@@ -504,11 +496,6 @@ National electrical power outage planning and simulation.
 [Disaster Crisis](https://chat.openai.com/g/g-QQUg3dzIf-disaster-crisis)
 <br>
 National environmental disaster emergency planning and simulation.
-
-<br>
-</details>
-<details><summary>Science & Electronics</summary>
-<br>
 
 [Experiment Generator](https://chat.openai.com/g/g-CyF0pXfLi-experiment-generator)
 <br>
@@ -844,6 +831,10 @@ Balance purchases for an optimal budget.
 [Investing Simulator](https://chat.openai.com/g/g-6R6ZAP8yh-investing-simulator)
 <br>
 Create, plan, and simulate various types of investments.
+
+[Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-financial-crisis)
+<br>
+International financial crisis planning and simulation.
 
 [Stock Market Simulator](https://chat.openai.com/g/g-YOR2U66rf-stock-market-simulator)
 <br>
@@ -1319,6 +1310,10 @@ Combined daily reporting for local, national and international news.
 [Social Influence Simulator](https://chat.openai.com/g/g-J0k1yLqEH-social-influence-simulator)
 <br>
 Simulate social influence using virtual chatbots.
+
+[Friend Crisis](https://chat.openai.com/g/g-4YeyehUlH-friend-crisis)
+<br>
+Personal friendship crisis planning and simulation.
 
 [Drama Simulator](https://chatgpt.com/g/g-dwGLkpKB8-drama-simulator)
 <br>
