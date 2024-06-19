@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `450` custom built GPTs sorted and listed below into `22` different categories. |
+| Sourceduty currently has `450` custom built GPTs sorted and listed below into `21` different categories. |
 |-|
 
 </div>
@@ -779,6 +779,18 @@ Narrate images and create short visual stories using DALL-E 3.
 </details>
 <details><summary>Video</summary>
 <br>
+
+[Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
+<br>
+Creative YouTube video planner and idea generator, adhering to policies and terms of service.
+
+[Tube Assistant](https://chat.openai.com/g/g-xKPZsnnWZ-tube-assistant)
+<br>
+Expert in navigating YouTube, creating playlists, and categorizing videos.
+
+[Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
+<br>
+Instructional video creation assistant.
 
 [Compare Videos](https://chatgpt.com/g/g-31A9HtRkS-compare-videos)
 <br>
@@ -1802,23 +1814,6 @@ Find the optimal location for your meeting.
 [Travel Organizer](https://chat.openai.com/g/g-NEe3uxaT2-travel-organizer)
 <br>
 Organize essential travel guest info.
-
-<br>
-</details>
-<details><summary>YouTube</summary>
-<br>
-
-[Tube Director](https://chat.openai.com/g/g-epAQ2XbfM-tube-director)
-<br>
-Creative YouTube video planner and idea generator, adhering to policies and terms of service.
-
-[Tube Assistant](https://chat.openai.com/g/g-xKPZsnnWZ-tube-assistant)
-<br>
-Expert in navigating YouTube, creating playlists, and categorizing videos.
-
-[Video Instructor](https://chat.openai.com/g/g-8uZmUQjZN-video-instructor)
-<br>
-Instructional video creation assistant.
 
 <br>
 </details>
