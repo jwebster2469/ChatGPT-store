@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `450` custom built GPTs sorted and listed below into `21` different categories. |
+| Sourceduty currently has `450` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -106,6 +106,14 @@ Validate data using public sources.
 [Process Automation](https://chat.openai.com/g/g-BCcGUvggx-process-automation)
 <br>
 Develop and refine automated process models.
+
+[GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
+<br>
+Summarize GitHub repository README files.
+
+[GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
+<br>
+Assistive GitHub readme file creator.
 
 [PDF Image Extractor](https://chatgpt.com/g/g-kyGAte37x-pdf-image-extractor)
 <br>
@@ -980,18 +988,6 @@ Three-way conversation between one person and two chatbots, Eric and Sasha.
 Create and control different types of social situations using virtual chatbots. 
 
 <br>
-</details>
-<details><summary>GitHub</summary>
-<br>
-
-[GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
-<br>
-Summarize GitHub repository README files.
-
-[GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
-<br>
-Assistive GitHub readme file creator.
-
 </details>
 <details><summary>Writing & Reading</summary>
 <br>
