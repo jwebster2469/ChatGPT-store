@@ -7,8 +7,7 @@
 
 </div>
 
-[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents), [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design), [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage) and [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) are Sourcerduty's most popular GPTs currently with 1K+ chats each. As of May in 2024, Sourceduty has accumulated around 19580 total chats.
-
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents), [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design), [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage) and [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) are Sourcerduty's most popular GPTs currently with 1K+ chats each. 
 ***
 
 <details><summary>ChatGPT</summary>
