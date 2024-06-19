@@ -1345,9 +1345,9 @@ Search and find the best subreddits for your content.
 <br>
 Create comments and comment replies for Facebook, Instagram, X and more.
 
-[Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
+[Wedding Design](https://chatgpt.com/g/g-fXhJAisdE-wedding-design)
 <br>
-Generate hashtags using images and text.
+Wedding design specialist using DALL-E 3.
 
 [Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
 <br>
@@ -2180,6 +2180,8 @@ These concept GPTs won't be protected by copyright.
 [Environmental Design](https://chat.openai.com/g/g-HU8iIxZfG-environmental-design)
 <br>
 [NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)
+<br>
+[Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
 
 <br>
 </details>
