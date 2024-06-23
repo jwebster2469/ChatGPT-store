@@ -1428,6 +1428,10 @@ Simulate individual team, group or movie cast member positions to optimize colle
 <br>
 Plan, create and simulate different types of industry models.
 
+[Material Price](https://chatgpt.com/g/g-C9qz5Ygzb-material-price)
+<br>
+Search and source prices of common materials. Estimate the cost of project materials. 
+
 [Market Simulator](https://chatgpt.com/g/g-uX5Aupr1a-market-simulator)
 <br>
 Simulate various business market dynamics.
@@ -1835,10 +1839,6 @@ Create funny food recipes using consumer products.
 <br>
 Square image puzzle game using DALL-E 3.
 
-[U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
-<br>
-Military submarine terminal simulator.
-
 [Vintage Prompt](https://chat.openai.com/g/g-mg39xadeq-vintage-prompt)
 <br>
 Old computer terminal simulator.
@@ -2167,6 +2167,8 @@ These concept GPTs won't be protected by copyright.
 [NEW or USED](https://chat.openai.com/g/g-3D0BJS4dR-new-or-used)
 <br>
 [Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
+<br>
+[U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
 
 <br>
 </details>
