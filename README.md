@@ -901,10 +901,6 @@ Estimate prices for used items in any currency.
 <br>
 Locate ultra-rich luxury items and insights on top-tier products.
 
-[Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
-<br>
-Find and compare the prices of old and current products from the same company or brand. 
-
 [Luxury Simulator](https://chat.openai.com/g/g-HPWQSNXna-luxury-simulator)
 <br>
 Simulate spending money on ultra-rich luxury items.
@@ -1415,6 +1411,10 @@ Translate between Gen X, Y, Z slang and plain English.
 </details>
 <details><summary>Business</summary>
 <br>
+
+[Manufacturing Source](https://chatgpt.com/g/g-uq71ilnHV-manufacturing-source)
+<br>
+Source manufacturers for production of finished goods. Upload a design image.
 
 [Brand Consistency](https://chatgpt.com/g/g-UoacuXroZ-brand-consistency)
 <br>
@@ -2169,6 +2169,8 @@ These concept GPTs won't be protected by copyright.
 [Hashtag Genius](https://chat.openai.com/g/g-W7Cj0ZQhc-hashtag-genius)
 <br>
 [U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
+<br>
+[Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
 
 <br>
 </details>
