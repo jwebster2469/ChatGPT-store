@@ -360,6 +360,10 @@ Create new fill-in-the-blank quiz challenges. Use uploaded text files.
 <br>
 Simulate diverse team structures and scenarios.
 
+[Product Authenticator](https://chatgpt.com/g/g-ALm9uIBFL-product-authenticator)
+<br>
+Identify, authenticate and valuate products using uploaded images.
+
 [Product Benchmark](https://chatgpt.com/g/g-Ff22BszdB-product-benchmark)
 <br>
 Assess product quality, durability, and other performance metrics against industry standards.
@@ -1379,10 +1383,6 @@ Study, modify and simulate different types of philosophy.
 <br>
 Expert in lisps, rhotacism, and speech patterns.
 
-[Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
-<br>
-Assistive activist, coalition, and grassroot movement guide.
-
 [Vote Simulator](https://chat.openai.com/g/g-qx59p7uKR-vote-simulator)
 <br>
 Predict, simulate and analyze voting trends for any country. 
@@ -2171,6 +2171,8 @@ These concept GPTs won't be protected by copyright.
 [U-boat Command](https://chat.openai.com/g/g-1U8paCAn4-u-boat-command)
 <br>
 [Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
+<br>
+[Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
 
 <br>
 </details>
