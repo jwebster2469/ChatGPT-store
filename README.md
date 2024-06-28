@@ -1,4 +1,4 @@
-![450 Custom GPTs](https://github.com/sourceduty/ChatGPT/assets/123030236/6f9109fb-9839-4002-8fa8-03d35276b8e1)
+![Banner](https://github.com/sourceduty/ChatGPT/assets/123030236/c7e6c861-8595-4795-8927-12e7d756f5b3)
 
 <div align="center">
 
