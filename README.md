@@ -107,6 +107,10 @@ Validate data using public sources.
 <br>
 Develop and refine automated process models.
 
+[Software Stress](https://chatgpt.com/g/g-6mfsZONaU-software-stress)
+<br>
+Simulate and assess software and systems to find, fix and prevent stress.
+
 [GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
 Summarize GitHub repository README files.
@@ -701,10 +705,6 @@ Add captions to images using Python.
 [Not Sure Meme](https://chat.openai.com/g/g-v5Fj4kvL2-not-sure-meme)
 <br>
 Assisted creation of NOT SURE IF memes using Python.
-
-[Image Authenticator](https://chatgpt.com/g/g-wDaJQuigA-image-authenticator)
-<br>
-Determine if an image is real, fake, AI-generated or photoshopped.
 
 [Image Metadata](https://chatgpt.com/g/g-jxMVMIhnr-image-metadata)
 <br>
@@ -2175,6 +2175,8 @@ These concept GPTs won't be protected by copyright.
 [Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
 <br>
 [Fitness Challenge](https://chat.openai.com/g/g-px6ZBApzp-fitness-challenge)
+<br>
+[Image Authenticator](https://chatgpt.com/g/g-wDaJQuigA-image-authenticator)
 
 <br>
 </details>
