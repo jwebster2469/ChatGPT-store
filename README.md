@@ -107,10 +107,6 @@ Validate data using public sources.
 <br>
 Develop and refine automated process models.
 
-[Software Stress](https://chatgpt.com/g/g-6mfsZONaU-software-stress)
-<br>
-Simulate and assess software and systems to find, fix and prevent stress.
-
 [GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
 Summarize GitHub repository README files.
@@ -888,6 +884,10 @@ Assistive currency trading with market insights and suggestions.
 </details>
 <details><summary>Shopping</summary>
 <br>
+
+[Product Analyst](https://chatgpt.com/g/g-bfPSJKNrx-product-analyst)
+<br>
+Assess the latest products on Amazon in any country. Create a Product Report.
 
 [Mystery Gift Box](https://chatgpt.com/g/g-N5aLjXu5L-mystery-gift-box)
 <br>
@@ -2177,6 +2177,8 @@ These concept GPTs won't be protected by copyright.
 [Fitness Challenge](https://chat.openai.com/g/g-px6ZBApzp-fitness-challenge)
 <br>
 [Image Authenticator](https://chatgpt.com/g/g-wDaJQuigA-image-authenticator)
+<br>
+[Software Stress](https://chatgpt.com/g/g-6mfsZONaU-software-stress)
 
 <br>
 </details>
