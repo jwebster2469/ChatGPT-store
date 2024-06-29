@@ -2173,6 +2173,8 @@ These concept GPTs won't be protected by copyright.
 [Price History](https://chat.openai.com/g/g-IjFNfbjjH-price-history)
 <br>
 [Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
+<br>
+[Image Authenticator](https://github.com/sourceduty/Image_Authenticator)
 
 <br>
 </details>
