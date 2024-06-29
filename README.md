@@ -702,6 +702,10 @@ Add captions to images using Python.
 <br>
 Assisted creation of NOT SURE IF memes using Python.
 
+[Image Authenticator](https://chatgpt.com/g/g-wDaJQuigA-image-authenticator)
+<br>
+Determine if an image is real, fake, AI-generated or photoshopped.
+
 [Image Metadata](https://chatgpt.com/g/g-jxMVMIhnr-image-metadata)
 <br>
 Create image metadata legends using uploaded images.
@@ -1754,10 +1758,6 @@ Convert text into creative ASCII art.
 <br>
 Find wildlife locations with weather and seasonal insights.
 
-[Fitness Challenge](https://chat.openai.com/g/g-px6ZBApzp-fitness-challenge)
-<br>
-Develop, plan and create physical exercise challenges.
-
 [Activity Balancer](https://chat.openai.com/g/g-xV6ASEJpI-activity-balancer)
 <br>
 Balance your time spent on activities in any country, local areas, buildings and events. Export a custom activity schedule.
@@ -2174,7 +2174,7 @@ These concept GPTs won't be protected by copyright.
 <br>
 [Activist](https://chat.openai.com/g/g-qCk9bjP6a-activist)
 <br>
-[Image Authenticator](https://github.com/sourceduty/Image_Authenticator)
+[Fitness Challenge](https://chat.openai.com/g/g-px6ZBApzp-fitness-challenge)
 
 <br>
 </details>
