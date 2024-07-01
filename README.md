@@ -7,7 +7,34 @@
 
 </div>
 
-[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents), [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design), [Python Game Builder](https://chatgpt.com/g/g-4hbrahdr4-python-game-builder), [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage) and [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) are Sourcerduty's most popular GPTs currently with 1K+ chats each. 
+<details><summary>Most Popular Custom GPTs</summary>
+<br>
+
+Listed below are Sourcerduty's most popular GPTs that currently have 1K+ chats each:
+
+[Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
+<br>
+[House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design)
+<br>
+[Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design)
+<br>
+[Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents)
+<br>
+[Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design)
+<br>
+[GitHub README](https://chatgpt.com/g/g-rA63DaENC-github-readme)
+<br>
+[Image Comparison](https://chatgpt.com/g/g-4eQMR7Npu-image-comparison)
+<br>
+[Python Game Builder](https://chatgpt.com/g/g-4hbrahdr4-python-game-builder)
+<br>
+[Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage)
+<br>
+[ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) 
+
+<br>
+</details>
+
 ***
 
 <details><summary>ChatGPT</summary>
