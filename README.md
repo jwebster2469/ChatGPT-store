@@ -904,10 +904,6 @@ Assistive currency trading with market insights and suggestions.
 <details><summary>Shopping</summary>
 <br>
 
-[Product Analyst](https://chatgpt.com/g/g-bfPSJKNrx-product-analyst)
-<br>
-Assess the latest products on Amazon in any country. Create a Product Report.
-
 [Mystery Gift Box](https://chatgpt.com/g/g-N5aLjXu5L-mystery-gift-box)
 <br>
 Generate mystery product box plans for personal and professional gifts.
@@ -1640,6 +1636,10 @@ Facilitate seamless collaboration, coordination, and communication among team me
 <details><summary>Art & Design</summary>
 <br>
 
+[Animal Product](https://chatgpt.com/g/g-SskXtogt9-animal-product)
+<br>
+Use DALLE-3 to create product packaging for animals.
+
 [Sports Product](https://chatgpt.com/g/g-STDqdMMgQ-sports-product)
 <br>
 Use DALL-E 3 to create a product packaging image using real sports, motorsports and e-sports characters or objects.
@@ -2206,6 +2206,8 @@ These concept GPTs won't be protected by copyright.
 [Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
 <br>
 [Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
+<br>
+[Product Analyst](https://chatgpt.com/g/g-bfPSJKNrx-product-analyst)
 
 <br>
 </details>
