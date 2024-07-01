@@ -1646,7 +1646,7 @@ Use DALL-E 3 to create a product packaging image using real sports, motorsports 
 
 [History Product](https://chatgpt.com/g/g-Y8gSet3UD-history-product)
 <br>
-Use DALL-E 3 to create product packaging images using historical people and objects.
+Use DALL-E 3 to create product packaging images using historical people, events and objects.
 
 [Movie Product](https://chatgpt.com/g/g-G6XGhh4Ph-movie-product)
 <br>
