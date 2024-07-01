@@ -713,10 +713,6 @@ Identify tree leaves and estimate seasonal growth.
 <details><summary>Image & GIF</summary>
 <br>
 
-[Sports Product](https://chatgpt.com/g/g-STDqdMMgQ-sports-product)
-<br>
-Use DALL-E 3 to create a product packaging image using real sports, motorsports and e-sports characters or objects.
-
 [Image Caption](https://chat.openai.com/g/g-nBm9dyHDm-image-caption)
 <br>
 Add captions to images using Python.
@@ -1378,10 +1374,6 @@ Create comments and comment replies for Facebook, Instagram, X and more.
 <br>
 Wedding design specialist using DALL-E 3.
 
-[Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
-<br>
-Assistive internet culture expert, explaining trends and memes.
-
 [Discord Finder](https://chat.openai.com/g/g-enxhriqRt-discord-finder)
 <br>
 Search and find the best Discord channels for your content.
@@ -1651,6 +1643,14 @@ Facilitate seamless collaboration, coordination, and communication among team me
 </details>
 <details><summary>Art & Design</summary>
 <br>
+
+[Sports Product](https://chatgpt.com/g/g-STDqdMMgQ-sports-product)
+<br>
+Use DALL-E 3 to create a product packaging image using real sports, motorsports and e-sports characters or objects.
+
+[History Product](https://chatgpt.com/g/g-Y8gSet3UD-history-product)
+<br>
+Use DALL-E 3 to create product packaging images using historical people and objects.
 
 [Product Design Analysis](https://chat.openai.com/g/g-GSmpn2Q6h-product-design-analysis)
 <br>
@@ -1934,7 +1934,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > 6. Electronic Simulator
 > 7. Image Emulator
 > 8. Sports Product
-> 9. Research Generator
+> 9. History Product
 > 10. Document Design
 > ```
 > Alex's Suggested To-Do List:
@@ -2202,6 +2202,8 @@ These concept GPTs won't be protected by copyright.
 [Image Authenticator](https://chatgpt.com/g/g-wDaJQuigA-image-authenticator)
 <br>
 [Software Stress](https://chatgpt.com/g/g-6mfsZONaU-software-stress)
+<br>
+[Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
 
 <br>
 </details>
