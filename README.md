@@ -1644,6 +1644,10 @@ Use DALLE-3 to create product packaging for animals.
 <br>
 Use DALL-E 3 to create a product packaging image using real sports, motorsports and e-sports characters or objects.
 
+[Drug Product](https://chatgpt.com/g/g-Z3Ia8jKmo-drug-product)
+<br>
+Use DALLE-3 to create product packaging for drugs and vitamins.
+
 [History Product](https://chatgpt.com/g/g-Y8gSet3UD-history-product)
 <br>
 Use DALL-E 3 to create product packaging images using historical people, events and objects.
@@ -1796,10 +1800,6 @@ Roadway travel planning and route optimization.
 [Camping Compass](https://chat.openai.com/g/g-bAIziZAk8-camping-compass)
 <br>
 Find local camping spots for your tent, RV and cabin or cottage rental.
-
-[English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
-<br>
-English pronunciation help, phonetic advice and spoken examples.
 
 [Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
 <br>
@@ -2208,6 +2208,8 @@ These concept GPTs won't be protected by copyright.
 [Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
 <br>
 [Product Analyst](https://chatgpt.com/g/g-bfPSJKNrx-product-analyst)
+<br>
+[English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 
 <br>
 </details>
