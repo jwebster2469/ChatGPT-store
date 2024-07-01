@@ -953,10 +953,6 @@ Video game price finder.
 <details><summary>Chatting</summary>
 <br>
 
-[Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
-<br>
-Conversational Sam Altman impersonation chatbot.
-
 [Alex Aldridge](https://chatgpt.com/g/g-mdnYSJr20-alex-aldridge)
 <br>
 Alex Aldridge, Sourceduty founder.
@@ -1652,6 +1648,10 @@ Use DALL-E 3 to create a product packaging image using real sports, motorsports 
 <br>
 Use DALL-E 3 to create product packaging images using historical people and objects.
 
+[Movie Product](https://chatgpt.com/g/g-G6XGhh4Ph-movie-product)
+<br>
+Use DALLE-3 to create a product box image inspired by videos and movies. 
+
 [Product Design Analysis](https://chat.openai.com/g/g-GSmpn2Q6h-product-design-analysis)
 <br>
 Analyze popular product designs and uploaded images. Create product design analysis reports.
@@ -2204,6 +2204,8 @@ These concept GPTs won't be protected by copyright.
 [Software Stress](https://chatgpt.com/g/g-6mfsZONaU-software-stress)
 <br>
 [Internet Culture](https://chat.openai.com/g/g-TSLt7lQs2-internet-culture)
+<br>
+[Sam Altman](https://chatgpt.com/g/g-ljkiZfWFb-sam-altman)
 
 <br>
 </details>
