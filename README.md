@@ -7,12 +7,9 @@
 
 </div>
 
-#
+***
 
-<details><summary>Most Popular Custom GPTs</summary>
-<br>
-
-Listed below are Sourcerduty's most popular GPTs that currently have 1K+ chats each:
+Sourcerduty's most popular GPTs that currently have 1K+ chats each:
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
@@ -33,9 +30,6 @@ Listed below are Sourcerduty's most popular GPTs that currently have 1K+ chats e
 [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage)
 <br>
 [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) 
-
-<br>
-</details>
 
 ***
 
