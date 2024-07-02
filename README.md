@@ -1654,7 +1654,11 @@ Use DALL-E 3 to create product packaging images using historical people, events 
 
 [Movie Product](https://chatgpt.com/g/g-G6XGhh4Ph-movie-product)
 <br>
-Use DALLE-3 to create a product box image inspired by videos and movies. 
+Use DALLE-3 to create a product box image inspired by videos and movies.
+
+[Military Product](https://chatgpt.com/g/g-lbdapKZ2f-military-product)
+<br>
+Create military product packaging and equipment using DALL-E 3.
 
 [Product Design Analysis](https://chat.openai.com/g/g-GSmpn2Q6h-product-design-analysis)
 <br>
@@ -1667,10 +1671,6 @@ Analyze designs for marketability.
 [Design Compare](https://chat.openai.com/g/g-eS15CWBHN-design-compare)
 <br>
 Compare design images, descriptions and videos.
-
-[Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
-<br>
-Find platforms for artists and creators to share work.
 
 [Inspiration Simulator](https://chat.openai.com/g/g-DR4W6zJTh-inspiration-simulator)
 <br>
@@ -2210,6 +2210,8 @@ These concept GPTs won't be protected by copyright.
 [Product Analyst](https://chatgpt.com/g/g-bfPSJKNrx-product-analyst)
 <br>
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
+<br>
+[Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 
 <br>
 </details>
