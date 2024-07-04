@@ -810,6 +810,10 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 <br>
 Instructional video creation assistant.
 
+[Movie Developer](https://chat.openai.com/g/g-GKuoUegIF-movie-developer)
+<br>
+Assistive movie idea creator, script writer and screenplay planner.
+
 [Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
 <br>
 Learn about Hollywood movies, lore, and culture.
@@ -1081,10 +1085,6 @@ Editable premade .txt templates.
 [Report](https://chat.openai.com/g/g-esTGrrxjA-report)
 <br>
 Create any type of report.
-
-[Movie Developer](https://chat.openai.com/g/g-GKuoUegIF-movie-developer)
-<br>
-Assistive movie idea creator, script writer and screenplay planner.
 
 [Onomatopoeia](https://chat.openai.com/g/g-JEHdIpJiN-onomatopoeia)
 <br>
