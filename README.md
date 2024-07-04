@@ -810,6 +810,10 @@ Expert in navigating YouTube, creating playlists, and categorizing videos.
 <br>
 Instructional video creation assistant.
 
+[Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
+<br>
+Learn about Hollywood movies, lore, and culture.
+
 [Compare Videos](https://chatgpt.com/g/g-31A9HtRkS-compare-videos)
 <br>
 Compare videos to find the differences.
@@ -1707,10 +1711,6 @@ Compare in-depth analysis and insights on car and truck designs, specifications,
 [Sci-Fi Artist](https://chat.openai.com/g/g-BdLFk0LxS-sci-fi-artist)
 <br>
 Create imaginative and futuristic sci-fi images using DALL-E 3.
-
-[Video Insider](https://chat.openai.com/g/g-ZBiedT6Sq-video-insider)
-<br>
-Learn about Hollywood movies, lore, and culture.
 
 [Game Design](https://chat.openai.com/g/g-97Cxc8yL6-game-design)
 <br>
