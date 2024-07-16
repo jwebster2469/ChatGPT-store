@@ -1,3 +1,0 @@
-Painting Styles
-
-Painting Styles (https://chat.openai.com/g/g-3TPcGis2m-painting-styles) stopped working correctly, stopped displaying the knowledge image, and is currently unplayable.

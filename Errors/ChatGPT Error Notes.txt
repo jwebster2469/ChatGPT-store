@@ -1,3 +1,0 @@
-- Some of the text that is used to initiate the chats is deleted or disappears after it's entered.
-- ChatGPT limits my usage dynamically with different amounts of time.
-- The publication date of each GPT which was once displayed in the GPT Store search bar and was removed in February 2024.
