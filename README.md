@@ -1,4 +1,4 @@
-![500 Custom GPTs](https://github.com/user-attachments/assets/9d441bea-b8de-4038-b274-f6c434174631)
+![Banner](https://github.com/user-attachments/assets/4087220c-38bc-40a0-94b2-95bdcf8417b8)
 
 <div align="center">
 
