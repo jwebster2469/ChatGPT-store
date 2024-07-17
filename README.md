@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `455` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `456` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1464,6 +1464,10 @@ Simulate individual team, group or movie cast member positions to optimize colle
 [Industry Simulator](https://chat.openai.com/g/g-hCoAwBYlv-industry-simulator)
 <br>
 Plan, create and simulate different types of industry models.
+
+[Motorsport Manager](https://chatgpt.com/g/g-Nzf0ODyfB-motorsport-manager)
+<br>
+Motorsport management advisor.
 
 [Material Price](https://chatgpt.com/g/g-C9qz5Ygzb-material-price)
 <br>
