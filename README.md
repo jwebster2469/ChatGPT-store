@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `451` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `452` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -911,6 +911,10 @@ Assistive currency trading with market insights and suggestions.
 </details>
 <details><summary>Shopping</summary>
 <br>
+
+[Product Rating](https://chatgpt.com/g/g-teaPWLoI2-product-rating)
+<br>
+Rate products with detailed reviews and 5-star ratings.
 
 [Mystery Gift Box](https://chatgpt.com/g/g-N5aLjXu5L-mystery-gift-box)
 <br>
