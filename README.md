@@ -2094,10 +2094,6 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"I've never before recorded so many errors across multiple platforms while using chatbot software like I have while using ChatGPT."*
 
-> *"ChatGPT sets the benchmark for errors in my experience as a developer for it's excessive amount of errors."*
-
-> *"I exhausted myself with over 450 custom GPTs which I stopped building on July 1, 2024."*
-
 > *"ChatGPT provides a creative AI platform for developers to utilize, customize and sell to users."*
 
 <br>
