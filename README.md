@@ -29,7 +29,9 @@ Sourcerduty's most popular GPTs that currently have 1K+ chats each:
 <br>
 [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage)
 <br>
-[ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art) 
+[ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art)
+<br>
+[Desktop Value](https://chatgpt.com/g/g-oNBIuFtkv-desktop-value)
 
 ***
 
