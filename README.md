@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `458` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `459` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -525,6 +525,10 @@ National electrical power outage planning and simulation.
 [Disaster Crisis](https://chat.openai.com/g/g-QQUg3dzIf-disaster-crisis)
 <br>
 National environmental disaster emergency planning and simulation.
+
+[Quantum Biology](https://chatgpt.com/g/g-xK8fPmlSu-quantum-biology)
+<br>
+Assistive quantum biology expert. 
 
 [Experiment Generator](https://chat.openai.com/g/g-CyF0pXfLi-experiment-generator)
 <br>
