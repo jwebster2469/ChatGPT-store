@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `457` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `458` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1456,6 +1456,10 @@ Source manufacturers for production of finished goods. Upload a design image.
 [Brand Consistency](https://chatgpt.com/g/g-UoacuXroZ-brand-consistency)
 <br>
 Search across digital platforms for business and brand consistency.
+
+[Product Demo](https://chatgpt.com/g/g-Hfnvn7f89-product-demo)
+<br>
+Plan demonstrations for products and services.
 
 [Team, Group & Movie Cast Optimizer](https://chat.openai.com/g/g-BuHUYVEIK-team-group-movie-cast-optimizer)
 <br>
