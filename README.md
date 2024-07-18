@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `459` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `460` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1103,6 +1103,10 @@ Editable premade .txt templates.
 [Report](https://chat.openai.com/g/g-esTGrrxjA-report)
 <br>
 Create any type of report.
+
+[My News Report](https://chatgpt.com/g/g-DsxHRv40P-my-news-report)
+<br>
+Develop custom news reports from reputable sources.
 
 [Onomatopoeia](https://chat.openai.com/g/g-JEHdIpJiN-onomatopoeia)
 <br>
