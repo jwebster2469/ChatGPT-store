@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `460` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `461` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1480,6 +1480,10 @@ Plan, create and simulate different types of industry models.
 [Motorsport Manager](https://chatgpt.com/g/g-Nzf0ODyfB-motorsport-manager)
 <br>
 Motorsport management advisor.
+
+[Promotion Planner](https://chatgpt.com/g/g-uCBlwudc9-promotion-planner)
+<br>
+Develop professional promotional strategies and materials.
 
 [Material Price](https://chatgpt.com/g/g-C9qz5Ygzb-material-price)
 <br>
