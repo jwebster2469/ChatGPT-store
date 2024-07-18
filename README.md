@@ -2142,7 +2142,7 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > *"ChatGPT provides a creative AI platform for developers to utilize, customize and sell to users."*
 
-> "*Feedback: Instead of prompting for a code block response, every response from ChatGPT in a custom GPT should have the option to be a code block. Copy and paste.*"
+> "*Feedback: Instead of prompting for a code block response, every response from ChatGPT in a custom GPT should have the option to be a code block. Copy and paste. This would eliminate a lot of unnecessary prompts asking for code blocks.*"
 
 <br>
 </details>
