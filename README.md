@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `466` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `467` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -392,6 +392,10 @@ Simulate diverse team structures and scenarios.
 [Product Authenticator](https://chatgpt.com/g/g-ALm9uIBFL-product-authenticator)
 <br>
 Identify, authenticate and valuate products using uploaded images.
+
+[Bias Analyzer](https://chatgpt.com/g/g-bkwJNzNDU-bias-analyzer)
+<br>
+Examine prejudice and unfairness in information, individuals and groups against other people, places and objects.
 
 [Product Benchmark](https://chatgpt.com/g/g-Ff22BszdB-product-benchmark)
 <br>
