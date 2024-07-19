@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `464` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `465` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1192,6 +1192,10 @@ Simulate political campaigns for any country and political party.
 [Political Critic](https://chatgpt.com/g/g-TTm1fsq1v-political-critic)
 <br>
 Develop political critiques for any country and government.
+
+[Patent Advisor](https://chatgpt.com/g/g-sWMVl5soX-patent-advisor)
+<br>
+Assistive patent filing advisor.
 
 [Law Document](https://chat.openai.com/g/g-uDaJ960Ar-law-document)
 <br>
