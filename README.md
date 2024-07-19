@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `465` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `466` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -82,6 +82,10 @@ Helpful and informative.
 [Python Simulator](https://chat.openai.com/g/g-NLUSBfccY-python-simulator)
 <br>
 Plan, create, and simulate Python code logic.
+
+[Animated Plots](https://chatgpt.com/g/g-EHBg5kDkd-animated-plots)
+<br>
+Create animated chart and graph GIF images using the Python environment.
 
 [Python Diagnostics](https://chat.openai.com/g/g-NnT93PRw6-python-diagnostics)
 <br>
