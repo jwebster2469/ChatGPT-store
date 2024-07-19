@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `463` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `464` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1496,6 +1496,10 @@ Search and source prices of common materials. Estimate the cost of project mater
 [Market Simulator](https://chatgpt.com/g/g-uX5Aupr1a-market-simulator)
 <br>
 Simulate various business market dynamics.
+
+[What the FAQ](https://chatgpt.com/g/g-I6HUVzhJX-what-the-faq)
+<br>
+Assistive frequently asked questions (FAQ) development expert.
 
 [Product Tester](https://chatgpt.com/g/g-EidSynTKP-product-tester)
 <br>
