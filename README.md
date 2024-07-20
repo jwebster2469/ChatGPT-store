@@ -1481,9 +1481,9 @@ Search across digital platforms for business and brand consistency.
 <br>
 Plan demonstrations for products and services.
 
-[Contract Pro](https://chatgpt.com/g/g-yuOR3dJcF-contract-pro)
+[Contract Program](https://chatgpt.com/g/g-4R7U89xNb-contract-program)
 <br>
-Assistive business contract writer.
+Assistive business contract program developer. 
 
 [Team, Group & Movie Cast Optimizer](https://chat.openai.com/g/g-BuHUYVEIK-team-group-movie-cast-optimizer)
 <br>
