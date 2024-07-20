@@ -2289,6 +2289,8 @@ These concept GPTs won't be protected by copyright.
 [English Talker](https://chat.openai.com/g/g-izJfAUVlU-english-talker)
 <br>
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
+<br>
+[Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
 
 <br>
 </details>
