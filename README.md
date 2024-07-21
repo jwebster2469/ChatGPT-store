@@ -2193,6 +2193,8 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > "*Feedback: Instead of prompting for a code block response, every response from ChatGPT in a custom GPT should have the option to be a code block. Copy and paste. This would eliminate a lot of unnecessary prompts asking for code blocks.*"
 
+> "*I could almost develop another custom GPT or custom software to optimize searching throughout the hundreds of custom GPTs built by Sourceduty.*"
+
 <br>
 </details>
 <details><summary>Concept GPTs</summary>
