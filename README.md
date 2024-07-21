@@ -2195,7 +2195,7 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > "*I could almost develop another custom GPT or custom software to optimize searching throughout the hundreds of custom GPTs built by Sourceduty.*"
 
-> "*I don't think that users are optimially selecting multiple custom GPTs, which leaves some missed and unused.*"
+> "*I don't think that users are optimally selecting multiple custom GPTs, which leaves some missed and unused.*"
 
 <br>
 </details>
