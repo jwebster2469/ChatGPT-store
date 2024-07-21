@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `471` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `472` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1216,6 +1216,10 @@ Examine and simulate any level of courtroom etiquette and procedures in any coun
 [Diplomatic Simulator](https://chat.openai.com/g/g-xhsONox3U-diplomatic-simulator)
 <br>
 Simulate diplomatic interactions for international relations.
+
+[Vote Advisor](https://chatgpt.com/g/g-tQfTm9k9R-vote-advisor)
+<br>
+Assistive political voting advisor for any country.
 
 [Citizen Simulator](https://chatgpt.com/g/g-BhgpoIUJO-citizen-simulator)
 <br>
