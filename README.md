@@ -9,7 +9,7 @@
 
 ***
 
-Sourcerduty's most popular GPTs that currently have 1K+ chats each:
+Sourcerduty's selection of it's most popular GPTs that currently have 1K+ chats each:
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
