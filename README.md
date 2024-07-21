@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `474` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `475` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1568,6 +1568,10 @@ Generate local business startup ideas in any language and location.
 [Business Transparency](https://chatgpt.com/g/g-AV16c8UXZ-business-transparency)
 <br>
 Create and assess business transparency reports.
+
+[Startup Business Agent](https://chatgpt.com/g/g-HUqKBjgQb-startup-business-agent)
+<br>
+Find and research new startup brands, products, services or businesses across the web.
 
 [Business Restructure](https://chatgpt.com/g/g-mYkrhTmJd-business-restructure)
 <br>
