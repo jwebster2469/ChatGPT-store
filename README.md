@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `477` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `478` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1524,6 +1524,10 @@ Predict the future of businesses and industries.
 [Promotion Planner](https://chatgpt.com/g/g-uCBlwudc9-promotion-planner)
 <br>
 Develop professional promotional strategies and materials.
+
+[Endorsement Advispr](https://chatgpt.com/g/g-R8R4i6wDt-endorsement-advisor)
+<br>
+Assistive business endorsement advisor.
 
 [Material Price](https://chatgpt.com/g/g-C9qz5Ygzb-material-price)
 <br>
