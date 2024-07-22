@@ -2221,6 +2221,8 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > "*I don't think that users are optimally selecting multiple custom GPTs, which leaves some missed and unused.*"
 
+> "*I'm very happy as a significant contributer of intelligence in the AI revolution*"
+
 <br>
 </details>
 <details><summary>Concept GPTs</summary>
