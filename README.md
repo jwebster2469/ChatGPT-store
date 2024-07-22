@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `478` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `479` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -376,6 +376,10 @@ Generate and analyze metadata using uploaded files. Create knowledge tags and me
 </details>
 <details><summary>Research & Education</summary>
 <br>
+
+[History Simulator](https://chatgpt.com/g/g-McuiABaZf-history-simulator)
+<br>
+Historic and educational event simulator.
 
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
 <br>
