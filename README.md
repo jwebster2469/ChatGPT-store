@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `475` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `476` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1604,6 +1604,10 @@ Analyze and improve business productivity.
 [Business Model Simulator](https://chat.openai.com/g/g-C8QfN0boj-business-model-simulator)
 <br>
 Plan, create and simulate comprehensive business models.
+
+[Industry Antimodel](https://chatgpt.com/g/g-Zqm2r4XKn-industry-antimodel)
+<br>
+Assistive business antimodel developer for unethical industrial practices such as tobacco, gambling and whale hunting.
 
 [Factory Simulator](https://chat.openai.com/g/g-tYRlt7b2g-factory-simulator)
 <br>
