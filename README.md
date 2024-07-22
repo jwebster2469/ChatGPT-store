@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `476` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `477` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1644,6 +1644,10 @@ Plan, create and simulate comprehensive corporate business models.
 [B2B Logistics](https://chat.openai.com/g/g-sVceJYX4s-b2b-logistics)
 <br>
 Assistive logistics and shipping operation manager.
+
+[Expandability Agent](https://chatgpt.com/g/g-tSkhHxvXd-expandability-agent)
+<br>
+Assistive business expansion advisor.
 
 [Transport Simulator](https://chat.openai.com/g/g-TuP3NAsRB-transport-simulator)
 <br>
