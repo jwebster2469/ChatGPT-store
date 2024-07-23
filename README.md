@@ -429,7 +429,7 @@ Assistive plain text mind map creator.
 <br>
 Assistive guide for unknown and new science research.
 
-[Museum Simulator](https://chatgpt.com/g/g-gSYLPG9uA-museum-explorer)
+[Museum Simulator](https://chatgpt.com/g/g-gSYLPG9uA-museum-simulator)
 <br>
 Simulate the experience of any history museum.
 
