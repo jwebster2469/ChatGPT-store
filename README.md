@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `481` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `482` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -888,6 +888,10 @@ Create, plan, and simulate various types of investments.
 [Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-financial-crisis)
 <br>
 International financial crisis planning and simulation.
+
+[Economy Simulator](https://chatgpt.com/g/g-S3MAXtBUv-economy-simulator)
+<br>
+Simulate the experience of any national or international economy.
 
 [Stock Market Simulator](https://chat.openai.com/g/g-YOR2U66rf-stock-market-simulator)
 <br>
