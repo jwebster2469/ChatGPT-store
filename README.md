@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `480` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `481` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -428,6 +428,10 @@ Assistive plain text mind map creator.
 [Unknown Research](https://chat.openai.com/g/g-fcU6hSD4g-unknown-research)
 <br>
 Assistive guide for unknown and new science research.
+
+[Museum Simulator](https://chatgpt.com/g/g-gSYLPG9uA-museum-explorer)
+<br>
+Simulate the experience of any history museum.
 
 [Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
 <br>
