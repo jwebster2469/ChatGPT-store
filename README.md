@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `482` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `483` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1930,6 +1930,10 @@ Roadway travel planning and route optimization.
 [Camping Compass](https://chat.openai.com/g/g-bAIziZAk8-camping-compass)
 <br>
 Find local camping spots for your tent, RV and cabin or cottage rental.
+
+[Burj Khalifa Simulator](https://chatgpt.com/g/g-DiTsWfJah-burj-khalifa-simulator)
+<br>
+Simulate the experience of accommodation at the Burj Khalifa.
 
 [Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
 <br>
