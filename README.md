@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `488` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `489` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1513,6 +1513,10 @@ Search across digital platforms for business and brand consistency.
 <br>
 Assistive business conglomerate developer.
 
+[Outsourcing Agent](https://chatgpt.com/g/g-0EebwegX4-outsourcing-agent)
+<br>
+Assistive work outsource agent.
+
 [Business Maturity](https://chatgpt.com/g/g-Udf5w2Ed7-business-maturity)
 <br>
 Analyze business and corporation maturity.
@@ -1557,7 +1561,7 @@ Predict the future of businesses and industries.
 <br>
 Develop professional promotional strategies and materials.
 
-[Endorsement Advispr](https://chatgpt.com/g/g-R8R4i6wDt-endorsement-advisor)
+[Endorsement Advisor](https://chatgpt.com/g/g-R8R4i6wDt-endorsement-advisor)
 <br>
 Assistive business endorsement advisor.
 
