@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `489` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `490` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1524,6 +1524,10 @@ Analyze business and corporation maturity.
 [Brand Loyalty](https://chatgpt.com/g/g-GkHn7Xy5r-brand-loyalty)
 <br>
 Assistive brand loyalty evaluator.
+
+[Failsafe Planner](https://chatgpt.com/g/g-QVyo2XUpR-failsafe-planner)
+<br>
+Assistive professional and personal failsafe plan developer using error prevention.
 
 [Product Demo](https://chatgpt.com/g/g-Hfnvn7f89-product-demo)
 <br>
