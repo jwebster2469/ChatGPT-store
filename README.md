@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `485` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `486` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1504,6 +1504,10 @@ Search across digital platforms for business and brand consistency.
 [Business Conglomerate](https://chatgpt.com/g/g-JcXE8jczK-business-conglomerate)
 <br>
 Assistive business conglomerate developer.
+
+[Business Maturity](https://chatgpt.com/g/g-Udf5w2Ed7-business-maturity)
+<br>
+Analyze business and corporation maturity.
 
 [Brand Loyalty](https://chatgpt.com/g/g-GkHn7Xy5r-brand-loyalty)
 <br>
