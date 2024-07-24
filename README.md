@@ -150,7 +150,7 @@ Extract images from PDF files.
 
 [Data Marketer](https://chatgpt.com/g/g-kicZYQNOP-data-marketer)
 <br>
-Analyze uploaded data and prepare a marketing plan.
+Analyze uploaded data and prepare a data marketing plan.
 
 [Sketch GUI](https://chatgpt.com/g/g-O1SknINWp-sketch-gui)
 <br>
