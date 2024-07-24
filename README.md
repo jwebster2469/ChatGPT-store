@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `487` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `488` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1399,6 +1399,10 @@ Simulate social influence using virtual chatbots.
 [Friend Crisis](https://chat.openai.com/g/g-4YeyehUlH-friend-crisis)
 <br>
 Personal friendship crisis planning and simulation.
+
+[Transvalue Developer](https://chatgpt.com/g/g-XQBg84CWQ-transvalue-developer)
+<br>
+Develop alternative values to change people's judgment of or reaction to people, places and objects.
 
 [Drama Simulator](https://chatgpt.com/g/g-dwGLkpKB8-drama-simulator)
 <br>
