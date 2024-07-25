@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `492` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `493` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -581,6 +581,10 @@ Create, simulate and analyze hypothetical computer hardware setup functionality 
 [Computer Upgrade](https://chat.openai.com/g/g-bSr9Rxt51-computer-upgrade)
 <br>
 Desktop and laptop computer hardware upgrade assistant.
+
+[Isotope Engineer](https://chatgpt.com/g/g-RRyTFbzOP-isotope-engineer)
+<br>
+Assistive macro, micro and nano scale isotopic engineering physicist.
 
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
