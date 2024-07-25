@@ -469,6 +469,10 @@ Assistive research repository and project specialist.
 <br>
 Mathematical theorem proving assistant.
 
+[Atomic Simulator](https://chatgpt.com/g/g-QYk4U8bhT-atomic-simulator)
+<br>
+Assistive atomic and subatomic science simulator.
+
 [Format Analyzer](https://chatgpt.com/g/g-ehM3x1ukS-format-analyzer)
 <br>
 Analyze file format changes across formats.
@@ -2353,8 +2357,6 @@ These concept GPTs won't be protected by copyright.
 [Vehicle Power](https://chat.openai.com/g/g-i3PZZkZe4-vehicle-power)
 <br>
 [Mister Beast](https://chatgpt.com/g/g-Y18tV5NgP-mister-beast)
-<br>
-[Nuclear Power Simulator](https://chat.openai.com/g/g-QYk4U8bhT-nuclear-power-simulator)
 <br>
 [Notepad Emulator](https://chat.openai.com/g/g-FaIJ25ir1-notepad-emulator)
 <br>
