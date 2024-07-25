@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `493` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `494` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -790,6 +790,10 @@ Upload your images and create a collage.
 [Image Spin](https://chat.openai.com/g/g-nomWj9lwj-image-spin)
 <br>
 Rotating GIF image creator.
+
+[Image Contest](https://chatgpt.com/g/g-8gTIVkhaf-image-contest)
+<br>
+Compete against AI in an automated image contest using DALL-E 3.
 
 [Photo Location](https://chat.openai.com/g/g-Dzvm638jq-photo-location)
 <br>
