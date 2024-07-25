@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `491` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `492` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
