@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `494` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `495` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1805,6 +1805,10 @@ Facilitate seamless collaboration, coordination, and communication among team me
 </details>
 <details><summary>Art & Design</summary>
 <br>
+
+[Character Product](https://chatgpt.com/g/g-kDvaBuuuM-character-product)
+<br>
+Use DALL-E 3 to create a product packaging image using popular entertainment industry characters or objects.
 
 [Animal Product](https://chatgpt.com/g/g-SskXtogt9-animal-product)
 <br>
