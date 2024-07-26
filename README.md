@@ -2289,6 +2289,8 @@ Given the ongoing development and the broadening scope of applications, the mark
 
 > "*I'm very happy as a significant contributer of intelligence in the AI revolution*"
 
+> "*"For me, AI expanded my general high intelligence like a librarian, I don't concentrate like a doctor does."*"
+
 <br>
 </details>
 <details><summary>Concept GPTs</summary>
