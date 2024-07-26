@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `495` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `496` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1556,6 +1556,10 @@ Assistive business contract program developer.
 [Company News](https://chatgpt.com/g/g-9gp6hsElu-company-news)
 <br>
 Create private and public business newsletters.
+
+[Business Problem-Word Tool](https://chatgpt.com/g/g-FRrDYi0sr-business-problem-word-tool)
+<br>
+Leveraging linguistics to prepare plans for solving business errors or problems using prefixes: de-, mis-, un-, under, over-, and dis-.
 
 [Team, Group & Movie Cast Optimizer](https://chat.openai.com/g/g-BuHUYVEIK-team-group-movie-cast-optimizer)
 <br>
