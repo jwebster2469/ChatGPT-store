@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `499` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `500` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1901,6 +1901,10 @@ Compare in-depth analysis and insights on car and truck designs, specifications,
 [Concept Design](https://chat.openai.com/g/g-JAsawu1Lv-concept-design)
 <br>
 3D model concept image creator using DALL-E 3.
+
+[Movie Prop Design](https://chatgpt.com/g/g-4BZZou22b-movie-prop-design)
+<br>
+Create movie props and prop product packaging images using DALL-E 3.
 
 [Sci-Fi Artist](https://chat.openai.com/g/g-BdLFk0LxS-sci-fi-artist)
 <br>
