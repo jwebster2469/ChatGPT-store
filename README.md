@@ -407,7 +407,7 @@ Simulate diverse team structures and scenarios.
 
 [Prediction Proof](https://chatgpt.com/g/g-yxL30JfkV-prediction-proof)
 <br>
-Make predictions and prove or disprove predictions.
+Prove or disprove and make future predictions.
 
 [Product Authenticator](https://chatgpt.com/g/g-ALm9uIBFL-product-authenticator)
 <br>
