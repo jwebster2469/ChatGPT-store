@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `498` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `499` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1095,6 +1095,10 @@ Create alternate reality stories and images.
 [Word Map](https://chatgpt.com/g/g-fUiD2XBka-word-map)
 <br>
 Create a word map diagram.
+
+[Copyright Free](https://chatgpt.com/g/g-8H85EsW0r-copyright-free)
+<br>
+Search the public domain for copyright free work releases. Get inspired. 
 
 [Document Enhancer](https://chatgpt.com/g/g-O1VsdtA1x-document-enhancer)
 <br>
