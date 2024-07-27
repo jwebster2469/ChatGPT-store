@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `496` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `497` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -673,6 +673,10 @@ Measure computer performance metrics using Python.
 [Thermal Science](https://chat.openai.com/g/g-JhRbCZ4k0-thermal-science)
 <br>
 Assistive thermodynamic science expert.
+
+[Experiment Proof](https://chatgpt.com/g/g-CxD9SXwL9-experiment-proof)
+<br>
+Prove and disprove digital or physical scientific experiments. 
 
 [Oscilloscope Lab](https://chat.openai.com/g/g-nzY4ZwhO3-oscilloscope-lab)
 <br>
