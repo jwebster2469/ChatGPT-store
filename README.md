@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `502` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `503` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -420,6 +420,10 @@ Increase the level of text diagram architecture abstraction.
 [Product Authenticator](https://chatgpt.com/g/g-ALm9uIBFL-product-authenticator)
 <br>
 Identify, authenticate and valuate products using uploaded images.
+
+[Plan Generator](https://chatgpt.com/g/g-jgcFfSxHQ-plan-generator)
+<br>
+Assistive planning generation, organization and analysis tool.
 
 [Bias Analyzer](https://chatgpt.com/g/g-bkwJNzNDU-bias-analyzer)
 <br>
