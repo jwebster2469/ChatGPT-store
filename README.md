@@ -2199,6 +2199,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Be persistent.
 > - Research every part of ChatGPT's GUI.
 > - Don't waste time correcting your mistyped prompts.
+> - Explore the environments.
 > ```
   
 ***
