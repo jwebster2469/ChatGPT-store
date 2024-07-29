@@ -2148,18 +2148,12 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 ***
 
 > [!TIP]
-> Alex's 10 Favorite GPTs:
+> Alex's Advice:
 > ```
-> 1. Car Design
-> 2. Chemical Simulator
-> 3. Concept Design
-> 4. House Design
-> 5. Python Simulator
-> 6. Electronic Simulator
-> 7. Image Emulator
-> 8. Sports Product
-> 9. History Product
-> 10. Document Design
+> - Be persistent.
+> - Research every part of ChatGPT's GUI.
+> - Don't waste time correcting your mistyped prompts.
+> - Explore the environments.
 > ```
 > Alex's Suggested To-Do List:
 > ```
@@ -2179,7 +2173,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Fake identities.
 > - Abstract processes.
 
-
 > [!NOTE]
 > Alex's Favorite Prompts:
 > ```
@@ -2195,13 +2188,6 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > Edit the instructions but don't change the title, description or conversation starters.
 > Print as a plain text code block in paragraphs without using numbers or point form notes.
 > Redo with perfect spelling
-> ```
-> Alex's Advice:
-> ```
-> - Be persistent.
-> - Research every part of ChatGPT's GUI.
-> - Don't waste time correcting your mistyped prompts.
-> - Explore the environments.
 > ```
 > Convo Starters:
 > ```
