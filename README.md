@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `506` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `507` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1657,6 +1657,10 @@ Restructure any business with simulated plans and models.
 [Economic Simulator](https://chatgpt.com/g/g-9Kp5WaG0R-economic-simulator)
 <br>
 Simulate economic agents in various types of economies.
+
+[Industry Dictionary](https://chatgpt.com/g/g-ZM2AGPQod-industry-dictionary)
+<br>
+Word terminology and definitions for any business industry. Create a business dictionary.
 
 [Attribute Analyzer](https://chatgpt.com/g/g-Cq6jMibsJ-attribute-analyzer)
 <br>
