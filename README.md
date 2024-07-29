@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `504` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `505` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -123,6 +123,10 @@ Create, plan and simulate Cython projects.
 </details>
 <details><summary>Data & Programming</summary>
 <br>
+
+[Visualization Analyzer](https://chatgpt.com/g/g-7s4VKuak4-visualization-analyzer)
+<br>
+Analyze uploaded visualizations, like graphs and charts, using Python.
 
 [Bulk File Classification](https://chatgpt.com/g/g-z13Z9a5LP-bulk-file-classification)
 <br>
