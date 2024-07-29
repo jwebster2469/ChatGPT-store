@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `503` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `504` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1648,6 +1648,10 @@ Create business tax optimization strategies and exploit tax law loopholes.
 [Business Exchange](https://chatgpt.com/g/g-EzmLIAO9n-business-exchange)
 <br>
 Plan, model and optimize service and product exchanges between multiple businesses.
+
+[Product Lifecycle](https://chatgpt.com/g/g-OProkUusP-product-lifecycle)
+<br>
+Track the lifecycle of historic products. Determine the climax of product popularity and unpopularity.
 
 [Local Business Startup](https://chatgpt.com/g/g-MSZuztjOg-local-business-startup)
 <br>
