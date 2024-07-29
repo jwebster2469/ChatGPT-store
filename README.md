@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `505` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `506` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -2059,6 +2059,10 @@ Organize essential travel guest info.
 </details>
 <details><summary>Fun & Games</summary>
 <br>
+
+[Viral Trends](https://chatgpt.com/g/g-ELCJg7w1W-viral-trends)
+<br>
+Internet culture and social media challenge assistant.
 
 [Emoji Combo](https://chatgpt.com/g/g-MXlAJFK5I-emoji-combo)
 <br>
