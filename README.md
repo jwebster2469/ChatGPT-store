@@ -2148,7 +2148,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 </details>
 
 ***
-✨ Thanks for using Sourceduty's exclusive collection of custom GPTs!
+✨ Thanks for using Sourceduty's exclusive custom GPTs!
 ***
 
 > [!TIP]
@@ -2483,8 +2483,6 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 > Copyright (C) 2023, Sourceduty - All Rights Reserved.
 > <br>
 > THE CONTENTS OF THIS PROJECT ARE PROPRIETARY.
-
-> OpenAI updated it's [Terms of use](https://openai.com/policies/terms-of-use) which included adding a Copyright Complaints section.
 
 #
 
