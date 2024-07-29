@@ -2178,7 +2178,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 > - Computer hardware simulations.
 > - Fake identities.
 > - Abstract processes.
-> ```
+
 
 > [!NOTE]
 > Alex's Favorite Prompts:
