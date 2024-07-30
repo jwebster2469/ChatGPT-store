@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `508` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `509` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -913,6 +913,10 @@ Balance purchases for an optimal budget.
 [Investing Simulator](https://chat.openai.com/g/g-6R6ZAP8yh-investing-simulator)
 <br>
 Create, plan, and simulate various types of investments.
+
+[Finance Model](https://chatgpt.com/g/g-rHRqXEjbp-finance-model)
+<br>
+Financial model architecture development.
 
 [Financial Crisis](https://chat.openai.com/g/g-7kSDiIofA-financial-crisis)
 <br>
