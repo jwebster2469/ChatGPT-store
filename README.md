@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `509` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `510` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -116,6 +116,10 @@ Identify and classify bulk image, document, audio, or video files.
 [Information & Data Quality](https://chat.openai.com/g/g-LdgV8RLVs-information-data-quality)
 <br>
 Assess information and data quality in various formats.
+
+[Topology Optimize](https://chatgpt.com/g/g-bixMcoo4H-topology-optimize)
+<br>
+Analyze, optimize and convert architectural structured abstraction and topology. Improve models, networks, diagrams, maps and more.
 
 [Data Proof](https://chatgpt.com/g/g-c9jpX14lm-data-proof)
 <br>
