@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `507` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `508` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1983,6 +1983,10 @@ Convert text into creative ASCII art.
 </details>
 <details><summary>Travel & Lifestyle</summary>
 <br>
+
+[Sports Insider](https://chatgpt.com/g/g-P8hiAgtaA-sports-insider)
+<br>
+Sports information for NASCAR, PGA, NBA, NHL and more.
 
 [Wildlife Compass](https://chat.openai.com/g/g-0B7OHFAH5-wildlife-compass)
 <br>
