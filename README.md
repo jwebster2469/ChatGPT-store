@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `510` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `511` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1649,6 +1649,10 @@ Track the lifecycle of historic products. Determine the climax of product popula
 [Local Business Startup](https://chatgpt.com/g/g-MSZuztjOg-local-business-startup)
 <br>
 Generate local business startup ideas in any language and location.
+
+[Serial Format](https://chatgpt.com/g/g-danbPfgbj-serial-format)
+<br>
+Develop unique alphanumerical serialized label codes for inventory management. Export a Serial Format Array file.
 
 [Business Transparency](https://chatgpt.com/g/g-AV16c8UXZ-business-transparency)
 <br>
