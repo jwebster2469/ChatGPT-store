@@ -1258,7 +1258,7 @@ Develop political critiques for any country and government.
 <br>
 Assistive patent filing advisor.
 
-[Community Models](https://chatgpt.com/g/g-fwJup0PQU-community-models)
+[Community Model](https://chatgpt.com/g/g-fwJup0PQU-community-models)
 <br>
 Analyze existing and create new community models.
 
