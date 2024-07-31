@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `512` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `513` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -1995,6 +1995,10 @@ Convert text into creative ASCII art.
 </details>
 <details><summary>Travel & Lifestyle</summary>
 <br>
+
+[Travel Spots](https://chatgpt.com/g/g-4p0flZFw6-travel-spots)
+<br>
+Search for the world's top rated travel destinations.
 
 [Sports Insider](https://chatgpt.com/g/g-P8hiAgtaA-sports-insider)
 <br>
