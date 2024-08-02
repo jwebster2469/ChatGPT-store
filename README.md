@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `514` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `515` custom built GPTs sorted and listed below into `19` different categories. |
 |-|
 
 </div>
@@ -779,6 +779,10 @@ Create image metadata legends using uploaded images.
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator)
 <br>
 Replicate images in different styles using DALL-E 3.
+
+[PDF to Image](https://chatgpt.com/g/g-kLkXDqd6c-pdf-to-image)
+<br>
+Convert PDF files to images.
 
 [Image Psychology](https://chat.openai.com/g/g-iTZm6rqFR-image-psychology)
 <br>
