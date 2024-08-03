@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `519` custom built GPTs sorted and listed below into `19` different categories. |
+| Sourceduty currently has `520` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -560,16 +560,37 @@ Learn accounting principles in simulated business transactions.
 
 <br>
 </details>
-<details><summary>Science & Electronics</summary>
+<details><summary>Security & Military</summary>
 <br>
+
+[Tactical Vehicle Strategy](https://chatgpt.com/g/g-TSfu7BQRA-tactical-vehicle-strategy)
+<br>
+Research and plan tactical air, water and road driving vehicle maneuver strategies.
 
 [Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
 <br>
 National electrical power outage planning and simulation.
 
+[Joint Project](https://chat.openai.com/g/g-EEvHlNpFC-joint-project)
+<br>
+Facilitate seamless collaboration, coordination, and communication among team members across different organizations or departments.
+
+[Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
+<br>
+Assistive outdoor survival navigation, food and planning guide.
+
+[Military Product](https://chatgpt.com/g/g-lbdapKZ2f-military-product)
+<br>
+Create military product packaging and equipment using DALL-E 3.
+
 [Disaster Crisis](https://chat.openai.com/g/g-QQUg3dzIf-disaster-crisis)
 <br>
 National environmental disaster emergency planning and simulation.
+
+<br>
+</details>  
+<details><summary>Science & Electronics</summary>
+<br>
 
 [Quantum Biology](https://chatgpt.com/g/g-xK8fPmlSu-quantum-biology)
 <br>
@@ -1854,10 +1875,6 @@ Assistive work schedule and progress tracker.
 <br>
 Find and analyze branded website and social account data.
 
-[Joint Project](https://chat.openai.com/g/g-EEvHlNpFC-joint-project)
-<br>
-Facilitate seamless collaboration, coordination, and communication among team members across different organizations or departments.
-
 <br>
 </details>
 <details><summary>Art & Design</summary>
@@ -1890,10 +1907,6 @@ Use DALL-E 3 to create product packaging images using historical people, events 
 [Movie Product](https://chatgpt.com/g/g-G6XGhh4Ph-movie-product)
 <br>
 Use DALLE-3 to create a product box image inspired by videos and movies.
-
-[Military Product](https://chatgpt.com/g/g-lbdapKZ2f-military-product)
-<br>
-Create military product packaging and equipment using DALL-E 3.
 
 [Product Design Analysis](https://chat.openai.com/g/g-GSmpn2Q6h-product-design-analysis)
 <br>
@@ -2055,10 +2068,6 @@ Assistive scuba diving location finder with weather and travel advice.
 [Burj Khalifa Simulator](https://chatgpt.com/g/g-DiTsWfJah-burj-khalifa-simulator)
 <br>
 Simulate the experience of accommodation at the Burj Khalifa.
-
-[Survival Expert](https://chat.openai.com/g/g-J4RLVmtT5-survival-expert)
-<br>
-Assistive outdoor survival navigation, food and planning guide.
 
 [Fishing Expert](https://chat.openai.com/g/g-LghRwjwYY-fishing-expert)
 <br>
