@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `521` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `522` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -256,6 +256,10 @@ Assistive encryption and decryption.
 [Thinkability](https://chat.openai.com/g/g-kabr1c9j2-thinkability)
 <br>
 Evaluate human-like thought in software.
+
+[Math Programmer](https://chatgpt.com/g/g-UdB8JMAMy-math-programmer)
+<br>
+Plan and develop mathematical automation programs.
 
 [Pseudocode Architect](https://chat.openai.com/g/g-cl61v3kqg-pseudocode-architect)
 <br>
