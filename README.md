@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `520` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `521` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1470,6 +1470,10 @@ Simulate social influence using virtual chatbots.
 <br>
 Personal friendship crisis planning and simulation.
 
+[Viral Trends](https://chatgpt.com/g/g-ELCJg7w1W-viral-trends)
+<br>
+Internet culture and social media challenge assistant.
+
 [Transvalue Developer](https://chatgpt.com/g/g-XQBg84CWQ-transvalue-developer)
 <br>
 Develop alternative values to change people's judgment of or reaction to people, places and objects.
@@ -2102,9 +2106,9 @@ Organize essential travel guest info.
 <details><summary>Fun & Games</summary>
 <br>
 
-[Viral Trends](https://chatgpt.com/g/g-ELCJg7w1W-viral-trends)
+[Space Maintenance](https://chatgpt.com/g/g-iY5m9L2EX-space-maintenance)
 <br>
-Internet culture and social media challenge assistant.
+Maintain the space station as an astronaut.
 
 [Emoji Combo](https://chatgpt.com/g/g-MXlAJFK5I-emoji-combo)
 <br>
