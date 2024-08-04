@@ -365,10 +365,6 @@ Enhance Windows UX with creative registry modifications.
 <br>
 End-to-end software process operation diagrams.
 
-[Spatial Footprint](https://chat.openai.com/g/g-lonVHkdtM-spatial-footprint)
-<br>
-Spatial building and property data comparisons.
-
 [Predict Futures](https://chat.openai.com/g/g-L2gua0rf7-predict-futures)
 <br>
 Predict future scenarios based on internet research. 
@@ -397,6 +393,10 @@ Historic and educational event simulator.
 [Research Generator](https://chatgpt.com/g/g-uxHzF0xR5-research-generator)
 <br>
 Assistive research generation, organization and analysis tool. 
+
+[Spatial Footprint](https://chat.openai.com/g/g-lonVHkdtM-spatial-footprint)
+<br>
+Spatial building and property data comparisons.
 
 [Fillable Quiz](https://chat.openai.com/g/g-LCVcJoVTY-fillable-quiz)
 <br>
