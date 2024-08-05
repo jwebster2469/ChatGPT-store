@@ -257,10 +257,6 @@ Assistive data project planning and structure guide.
 <br>
 Simulate blockchain structures and design.
 
-[Encryption Specialist](https://chatgpt.com/g/g-AClVroVDs-encryption-specialist)
-<br>
-Assistive encryption and decryption.
-
 [Thinkability](https://chat.openai.com/g/g-kabr1c9j2-thinkability)
 <br>
 Evaluate human-like thought in software.
@@ -591,6 +587,14 @@ Facilitate seamless collaboration, coordination, and communication among team me
 <br>
 Assistive outdoor survival navigation, food and planning guide.
 
+[Global Problem Solver](https://chat.openai.com/g/g-2sjHPTA5y-global-problem-solver)
+<br>
+Generate innovative and practical solutions for addressing complex global issues.
+
+[Encryption Specialist](https://chatgpt.com/g/g-AClVroVDs-encryption-specialist)
+<br>
+Assistive encryption and decryption.
+
 [Military Product](https://chatgpt.com/g/g-lbdapKZ2f-military-product)
 <br>
 Create military product packaging and equipment using DALL-E 3.
@@ -751,10 +755,6 @@ Find and contribute to scientific research projects.
 [Debunk Science](https://chat.openai.com/g/g-kpOa49BAb-debunk-science)
 <br>
 Debunk myths with scientific evidence.
-
-[Global Problem Solver](https://chat.openai.com/g/g-2sjHPTA5y-global-problem-solver)
-<br>
-Generate innovative and practical solutions for addressing complex global issues.
 
 [Space Simulator](https://chat.openai.com/g/g-HiBjZs8sv-space-simulator)
 <br>
