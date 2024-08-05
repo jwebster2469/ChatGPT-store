@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `526` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `527` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -466,10 +466,6 @@ Assistive guide for unknown and new science research.
 <br>
 Simulate the experience of any history museum.
 
-[Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
-<br>
-Plan, evaluate, and optimize security systems for various settings.
-
 [Search Multiplier](https://chat.openai.com/g/g-ZaCPvqejM-search-multiplier)
 <br>
 Expand simple text searches with multiple related search options.
@@ -578,6 +574,14 @@ Research and plan tactical air, water and road driving vehicle maneuver strategi
 [Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
 <br>
 National electrical power outage planning and simulation.
+
+[Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
+<br>
+Plan, evaluate, and optimize security systems for various settings.
+
+[Format Developer](https://chatgpt.com/g/g-Joa1YMscU-format-developer)
+<br>
+Develops custom code and data formats.
 
 [Joint Project](https://chat.openai.com/g/g-EEvHlNpFC-joint-project)
 <br>
