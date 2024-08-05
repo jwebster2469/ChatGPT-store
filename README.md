@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `522` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `523` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -683,6 +683,10 @@ Work on the International Space Station (ISS).
 [Cancer Science](https://chat.openai.com/g/g-ALM4A85O7-cancer-science)
 <br>
 Cancer research, challenges and characteristics.
+
+[Biological Reactor](https://chatgpt.com/g/g-CUVC7pS9G-biological-reactor)
+<br>
+Specialized biological simulation and research assistant.
 
 [Weather Simulator](https://chat.openai.com/g/g-c1JKGF0qm-weather-simulator)
 <br>
