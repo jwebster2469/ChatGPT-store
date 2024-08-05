@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `523` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `524` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -675,6 +675,10 @@ Create and simulate different cancer characteristics, prevention and treatment.
 [Energy Experiment](https://chat.openai.com/g/g-UIyGyVbxD-energy-experiment)
 <br>
 Create electrical and mechanical power simulations using Python.
+
+[Quantum Reactor](https://chatgpt.com/g/g-sM1IjQQju-quantum-reactor)
+<br>
+Quantum algorithm solver, simulator, and reactor development.
 
 [Station in Space](https://chat.openai.com/g/g-RhQ7LG2GQ-station-in-space)
 <br>
