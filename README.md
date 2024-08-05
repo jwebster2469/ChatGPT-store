@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `527` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `528` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -409,6 +409,10 @@ Create new fill-in-the-blank quiz challenges. Use uploaded text files.
 [Team Simulator](https://chatgpt.com/g/g-EJZqQ0uGE-team-simulator)
 <br>
 Simulate diverse team structures and scenarios.
+
+[World Systems](https://chatgpt.com/g/g-NsBUokgit-world-system)
+<br>
+Simulate and analyze global network or communication systems.
 
 [Location Historian](https://chatgpt.com/g/g-TI8K9OboV-location-historian)
 <br>
