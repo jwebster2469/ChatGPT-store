@@ -583,6 +583,10 @@ Research and plan tactical air, water and road driving vehicle maneuver strategi
 <br>
 National electrical power outage planning and simulation.
 
+[Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
+<br>
+Simulate various public and private security scenarios.
+
 [Security System](https://chat.openai.com/g/g-NNeLfeyDY-security-system)
 <br>
 Plan, evaluate, and optimize security systems for various settings.
@@ -1358,10 +1362,6 @@ Plan, create and simulate comprehensive government models.
 [UN Simulator](https://chatgpt.com/g/g-QgVN6ccW6-un-simulator)
 <br>
 Simulate international meetings, assemblies and events hosted by the United Nations.
-
-[Security Simulator](https://chatgpt.com/g/g-Q7tunVbct-security-simulator)
-<br>
-Simulate various public and private security scenarios.
 
 [Law Standard](https://chat.openai.com/g/g-GAwgXgXN1-law-standard)
 <br>
