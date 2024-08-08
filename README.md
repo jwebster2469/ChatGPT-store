@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `531` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `532` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -509,10 +509,6 @@ Simulate internet connections, routers and related networking technologies.
 [Computer User](https://chat.openai.com/g/g-0RdZZy4l9-computer-user)
 <br>
 Improve the usage and management of personal or business computers using any OS.
-
-[Business Research](https://chat.openai.com/g/g-G2UxJHRgU-business-research)
-<br>
-Research any type and area of business.
 
 [Climate Reactor](https://chat.openai.com/g/g-KLsLhcI9B-climate-reactor)
 <br>
@@ -1619,9 +1615,17 @@ Rate businesses with detailed reviews and 5-star ratings.
 <br>
 Source manufacturers for production of finished goods. Upload a design image.
 
+[Business Research](https://chat.openai.com/g/g-G2UxJHRgU-business-research)
+<br>
+Research any type and area of business.
+
 [Brand Consistency](https://chatgpt.com/g/g-UoacuXroZ-brand-consistency)
 <br>
 Search across digital platforms for business and brand consistency.
+
+[Boss Simulator](https://chatgpt.com/g/g-GWRYPlrMg-simulated-boss)
+<br>
+Simulate working as a public business boss.
 
 [Business Conglomerate](https://chatgpt.com/g/g-JcXE8jczK-business-conglomerate)
 <br>
