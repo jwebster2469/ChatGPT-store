@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `530` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `531` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -659,6 +659,10 @@ Assistive macro, micro and nano scale isotopic engineering physicist.
 [Multiphysics Simulator](https://chat.openai.com/g/g-9PVqGto6g-multiphysics-simulator)
 <br>
 Assistive multiphysics calculations and simulations.
+
+[Cheminformatics](https://chatgpt.com/g/g-I642hlqFh-cheminformatics)
+<br>
+Cheminformatics software development and molecular modeling.
 
 [Aerospace Simulator](https://chat.openai.com/g/g-s2W0IfFR6-aerospace-simulator)
 <br>
