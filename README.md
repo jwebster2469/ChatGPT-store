@@ -2574,8 +2574,3 @@ Sourceduty offers [services](https://github.com/sourceduty/Sourceduty_Services) 
 #
 
 👥 **Thanks to all the folks behind OpenAI, ChatGPT, and more. Your efforts are greatly appreciated!**
-
-#
-![Badges](https://github.com/sourceduty/ChatGPT/assets/123030236/639554a2-ca32-4aba-b2e8-af73164a0aa8)
-#
-![Verified Info Source](https://github.com/user-attachments/assets/8f4663e9-0ed4-4798-9fd8-9a940a0355bf)
