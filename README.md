@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `532` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `533` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -180,6 +180,10 @@ Assistive data generating, organization and analysis tool.
 [Algorithm Generator](https://chatgpt.com/g/g-tGwcip6ig-algorithm-generator)
 <br>
 Assistive algorithm generation, organization and analysis tool.
+
+[Program Performance](https://chatgpt.com/g/g-1ZLOw9DrT-program-performance)
+<br>
+Evaluate and optimize program performance.
 
 [Batch File Simulator](https://chatgpt.com/g/g-blvvJBL25-batch-file-simulator)
 <br>
