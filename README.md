@@ -9,7 +9,7 @@
 
 ***
 
-Sourcerduty's most popular GPTs with 1K+ chats each:
+Sourcerduty popular GPTs with 1K+ chats each:
 
 [Image Emulator](https://chat.openai.com/g/g-RF3VlAjnL-image-emulator), [House Design](https://chat.openai.com/g/g-WgXvQZZ5a-house-design), [Concept Design](https://chatgpt.com/g/g-JAsawu1Lv-concept-design), [Compare Documents](https://chat.openai.com/g/g-zUfIyG8eY-compare-documents), [Car Design](https://chatgpt.com/g/g-EPHgYBaHt-car-design), [GitHub README](https://chatgpt.com/g/g-rA63DaENC-github-readme), [Image Comparison](https://chatgpt.com/g/g-4eQMR7Npu-image-comparison), [Python Game Builder](https://chatgpt.com/g/g-4hbrahdr4-python-game-builder), [Image Collage](https://chatgpt.com/g/g-UaXXt6DdU-image-collage), [ASCII Text Art](https://chat.openai.com/g/g-G7eF51owY-ascii-text-art), [Desktop Value](https://chatgpt.com/g/g-oNBIuFtkv-desktop-value)
 
@@ -2254,7 +2254,7 @@ Initially, you're 25 steps away from the treasure, but the exact direction is a 
 </details>
 
 ***
-✨ Thanks for using Sourceduty's exclusive custom GPTs!
+✨ Thanks for using exclusive Sourceduty custom GPTs!
 ***
 
 > [!TIP]
