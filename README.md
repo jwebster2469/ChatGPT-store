@@ -2552,6 +2552,8 @@ These concept GPTs won't be protected by copyright.
 [Digital Creator](https://chat.openai.com/g/g-pjvh2REks-digital-creator)
 <br>
 [Sourceduty News](https://chatgpt.com/g/g-l6HwfWCdR-sourceduty-news)
+<br>
+[Sourceduty Repo](https://chatgpt.com/g/g-xaFmzD6F3-sourceduty-repo)
 
 <br>
 </details>
