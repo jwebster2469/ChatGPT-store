@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `537` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `538` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -168,6 +168,10 @@ Convert drawings into GUI design codes for Python, Java, C#, C++, JavaScript and
 [Decision Automation](https://chat.openai.com/g/g-yu3DyIRMI-decision-automation)
 <br>
 Develop automated personal and professional decision models.
+
+[Arch Linux Simulator](https://chatgpt.com/g/g-SYkRXlw3j-arch-linux-simulator)
+<br>
+Arch Linux OS terminal simulator.
 
 [OS Developer](https://chatgpt.com/g/g-2Ucol4HeB-os-developer)
 <br>
