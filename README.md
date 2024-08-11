@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `540` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `541` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -152,6 +152,10 @@ Plan and develop automated internet community models.
 [Hardware Twin](https://chatgpt.com/g/g-dUq9F7UtF-hardware-twin)
 <br>
 Create a digital twin program of computer hardware using Python.
+
+[IDE Developer](https://chatgpt.com/g/g-hWqAlUAix-ide-developer)
+<br>
+Integrated development environment (IDE) development assistant. Utilize custom file formats and programming languages.
 
 [Search Programmer](https://chatgpt.com/g/g-oUIukAHTi-search-programmer)
 <br>
