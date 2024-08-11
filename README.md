@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `539` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `540` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -156,6 +156,10 @@ Create a digital twin program of computer hardware using Python.
 [Search Programmer](https://chatgpt.com/g/g-oUIukAHTi-search-programmer)
 <br>
 Plan and develop web search programs.
+
+[OBD2 Simulator](https://chatgpt.com/g/g-hm9vqprZa-obd2-simulator)
+<br>
+On-Board Diagnostic II (OBD2) terminal simulator.
 
 [Data Marketer](https://chatgpt.com/g/g-kicZYQNOP-data-marketer)
 <br>
