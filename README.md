@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `536` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `537` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -140,6 +140,10 @@ Summarize GitHub repository README files.
 [GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
 <br>
 Assistive GitHub readme file creator.
+
+[IoT Hacker](https://chatgpt.com/g/g-ZeaWspw0A-iot-hacker)
+<br>
+Assistive Internet of Things (IoT) device hacking.
 
 [PDF Image Extractor](https://chatgpt.com/g/g-kyGAte37x-pdf-image-extractor)
 <br>
