@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `542` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `543` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -892,6 +892,10 @@ Convert PDF files to images.
 [Image Psychology](https://chat.openai.com/g/g-iTZm6rqFR-image-psychology)
 <br>
 Analyze any image using visual psychology.
+
+[Image Topology](https://chatgpt.com/g/g-EmylGqvMl-image-topology)
+<br>
+Analyze topological properties of images.
 
 [Image Palette](https://chat.openai.com/g/g-ifho2QQB0-image-palette)
 <br>
