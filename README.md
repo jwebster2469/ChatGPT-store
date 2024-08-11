@@ -141,10 +141,6 @@ Summarize GitHub repository README files.
 <br>
 Assistive GitHub readme file creator.
 
-[IoT Hacker](https://chatgpt.com/g/g-ZeaWspw0A-iot-hacker)
-<br>
-Assistive Internet of Things (IoT) device hacking.
-
 [PDF Image Extractor](https://chatgpt.com/g/g-kyGAte37x-pdf-image-extractor)
 <br>
 Extract images from PDF files.
@@ -586,6 +582,10 @@ Military and public security investigation specialist. The god of shitstorms.
 [Tactical Vehicle Strategy](https://chatgpt.com/g/g-TSfu7BQRA-tactical-vehicle-strategy)
 <br>
 Research and plan tactical air, water and road driving vehicle maneuver strategies.
+
+[IoT Hacker](https://chatgpt.com/g/g-ZeaWspw0A-iot-hacker)
+<br>
+Assistive Internet of Things (IoT) device hacking.
 
 [Power Crisis](https://chat.openai.com/g/g-xFhradg42-power-crisis)
 <br>
