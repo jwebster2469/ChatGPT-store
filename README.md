@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `543` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `544` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -164,6 +164,10 @@ Plan and develop web search programs.
 [OBD2 Simulator](https://chatgpt.com/g/g-hm9vqprZa-obd2-simulator)
 <br>
 On-Board Diagnostic II (OBD2) terminal simulator.
+
+[Input Automation](https://chatgpt.com/g/g-GRUAljJ9c-input-automation)
+<br>
+Automate mouse and keyboard hardware input for any OS.
 
 [Data Marketer](https://chatgpt.com/g/g-kicZYQNOP-data-marketer)
 <br>
