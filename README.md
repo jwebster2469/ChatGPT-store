@@ -151,7 +151,7 @@ Extract images from PDF files.
 
 [Tractor Interface](https://chatgpt.com/g/g-g7HGANyCX-tractor-interface)
 <br>
-Simulate the terminal for any brand of farm tractor.
+Simulate the terminal for any farm tractor brand.
 
 [Community Automation](https://chatgpt.com/g/g-B5MozWg1N-community-automation)
 <br>
