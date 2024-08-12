@@ -458,6 +458,10 @@ Examine and research the history of any popular location.
 <br>
 Prove or disprove and make future predictions.
 
+[Space Terminal](https://chatgpt.com/g/g-yzdtWTqi4-space-terminal)
+<br>
+Simulate any of the NASA software tools for engineering, analysis, and mission planning.
+
 [Diagram Expand](https://chatgpt.com/g/g-BBP3UprFf-diagram-expand)
 <br>
 Increase the level of text diagram architecture abstraction. 
