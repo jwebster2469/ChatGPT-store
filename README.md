@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `545` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `546` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1674,6 +1674,10 @@ Search across digital platforms for business and brand consistency.
 [Boss Simulator](https://chatgpt.com/g/g-GWRYPlrMg-simulated-boss)
 <br>
 Simulate working as a public business boss.
+
+[Ship Fleet and Asset Simulator](https://chatgpt.com/g/g-8d5fMy4Uh-ship-fleet-and-asset-simulator)
+<br>
+Simulate the tasks, scripts and terminal interface of Maximo, ShipNet or MarineCFO.
 
 [Business Conglomerate](https://chatgpt.com/g/g-JcXE8jczK-business-conglomerate)
 <br>
