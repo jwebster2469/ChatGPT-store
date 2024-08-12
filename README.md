@@ -149,10 +149,6 @@ Assistive GitHub readme file creator.
 <br>
 Extract images from PDF files.
 
-[Tractor Interface](https://chatgpt.com/g/g-g7HGANyCX-tractor-interface)
-<br>
-Simulate the terminal for any farm tractor brand.
-
 [Community Automation](https://chatgpt.com/g/g-B5MozWg1N-community-automation)
 <br>
 Plan and develop automated internet community models.
@@ -1463,6 +1459,10 @@ Politics in Canada, with balanced and factual insights.
 [Plant Food Creator](https://chat.openai.com/g/g-zlXPcBNm1-plant-food-creator)
 <br>
 Assistive plant-based food development.
+
+[Tractor Interface](https://chatgpt.com/g/g-g7HGANyCX-tractor-interface)
+<br>
+Simulate the terminal for any farm tractor brand.
 
 [Food Balancer](https://chat.openai.com/g/g-eCDqmhGSI-food-balancer)
 <br>
