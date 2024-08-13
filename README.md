@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `549` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `550` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -144,6 +144,10 @@ Develop and refine automated process models.
 [GitHub Repo Summary](https://chat.openai.com/g/g-yiPyXX9jI-repo-summary)
 <br>
 Summarize GitHub repository README files.
+
+[EV Toolbox](https://chatgpt.com/g/g-Xuf4ziPpB-ev-toolbox)
+<br>
+Tesla vehicle system programming.
 
 [GitHub README](https://chat.openai.com/g/g-rA63DaENC-readme)
 <br>
