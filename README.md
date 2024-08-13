@@ -2,7 +2,7 @@
 
 <div align="center">
 
-| Sourceduty currently has `553` custom built GPTs sorted and listed below into `20` different categories. |
+| Sourceduty currently has `554` custom built GPTs sorted and listed below into `20` different categories. |
 |-|
 
 </div>
@@ -1694,6 +1694,10 @@ Source manufacturers for production of finished goods. Upload a design image.
 [Business Research](https://chat.openai.com/g/g-G2UxJHRgU-business-research)
 <br>
 Research any type and area of business.
+
+[Dragon's Den](https://chatgpt.com/g/g-HvT7R4enX-dragon-s-den)
+<br>
+Simulate pitching and negotiating a business deal in the Dragon's Den.
 
 [Brand Consistency](https://chatgpt.com/g/g-UoacuXroZ-brand-consistency)
 <br>
